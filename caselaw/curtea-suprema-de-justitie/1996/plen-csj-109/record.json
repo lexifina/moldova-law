@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 947-XIII, din 19.07.1996",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 109,
+  "number": "947-XIII",
+  "decision_date": "1996-07-19",
+  "decision_date_source_quote": "19 iulie 1996",
+  "record_date": "1996-07-19",
+  "in_force": "1996-07-19",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=109",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=109",
+  "source_sha256": "07af8f439195f02b8694d12b1627d3411f7e0d549a20be6efab547f81fbca267",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1963,
+    "pdftotext_words": 1949,
+    "common_ratio": [
+      0.9918,
+      0.999
+    ]
+  },
+  "first_law": null
+}
