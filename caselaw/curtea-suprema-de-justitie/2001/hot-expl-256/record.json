@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 25, din 29.10.2001",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 256,
+  "number": "25",
+  "decision_date": "2001-10-29",
+  "decision_date_source_quote": "29 octombrie 2001",
+  "record_date": "2001-10-29",
+  "in_force": "2001-10-29",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=256",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=256",
+  "source_sha256": "b1bbe0a542048d3fb270e17a2fa6f3dd6de11d5c1bd61570dd4abe163d96a67d",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 825,
+    "pdftotext_words": 825,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
