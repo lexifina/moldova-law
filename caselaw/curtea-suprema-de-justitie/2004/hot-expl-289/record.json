@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 38, din 22.11.2004",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 289,
+  "number": "38",
+  "decision_date": "2004-11-22",
+  "decision_date_source_quote": "22 noiembrie 2004",
+  "record_date": "2004-11-22",
+  "in_force": "2004-11-22",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=289",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=289",
+  "source_sha256": "3a3da4683b61b69d4fe2c53de9ac14cf9b152db44551c5d0c9f0dbf85be0f894",
+  "pdf_pages": 12,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 7093,
+    "pdftotext_words": 7092,
+    "common_ratio": [
+      0.9997,
+      0.9999
+    ]
+  },
+  "first_law": null
+}
