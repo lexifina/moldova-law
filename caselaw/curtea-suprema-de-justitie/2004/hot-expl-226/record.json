@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 25, din 28.06.2004",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 226,
+  "number": "25",
+  "decision_date": "2004-06-28",
+  "decision_date_source_quote": "28 iunie 2004",
+  "record_date": "2004-06-28",
+  "in_force": "2004-06-28",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=226",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=226",
+  "source_sha256": "26adb15420da98986aab5037e1f718f155852a204cd3bb4e5e1571fa6bb98358",
+  "pdf_pages": 15,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 6833,
+    "pdftotext_words": 6833,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
