@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 38, din 20.12.1999",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 254,
+  "number": "38",
+  "decision_date": "1999-12-20",
+  "decision_date_source_quote": "20 decembrie 1999",
+  "record_date": "1999-12-20",
+  "in_force": "1999-12-20",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=254",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=254",
+  "source_sha256": "e3084ed0f2f98e64f595a0cfb0bf0b01f3d47c54364ca9a42d45e4788b33ef15",
+  "pdf_pages": 10,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4949,
+    "pdftotext_words": 4947,
+    "common_ratio": [
+      0.9992,
+      0.9996
+    ]
+  },
+  "first_law": null
+}
