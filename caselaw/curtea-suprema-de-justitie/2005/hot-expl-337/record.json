@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 6, din 04.07.2005",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 337,
+  "number": "6",
+  "decision_date": "2005-07-04",
+  "decision_date_source_quote": "4 iulie 2005",
+  "record_date": "2005-07-04",
+  "in_force": "2005-07-04",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=337",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=337",
+  "source_sha256": "22599d5eaa7aeef97baa2fa94fdb370714022660d1ce27a4aee427b0dfa1a998",
+  "pdf_pages": 22,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 10024,
+    "pdftotext_words": 10019,
+    "common_ratio": [
+      0.999,
+      0.9995
+    ]
+  },
+  "first_law": null
+}
