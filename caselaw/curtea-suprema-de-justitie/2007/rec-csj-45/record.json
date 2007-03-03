@@ -1,0 +1,30 @@
+{
+  "title": "Recomandarea CSJ (Opiniile consultative (recomandări)), nr. 27, din 03.03.2007",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "rec_csj",
+  "database_label": "Opiniile consultative (recomandări)",
+  "source_id": 45,
+  "number": "27",
+  "decision_date": "2007-03-03",
+  "decision_date_source_quote": "03.03.2007",
+  "record_date": "2007-03-03",
+  "in_force": "2007-03-03",
+  "source": "http://jurisprudenta.csj.md/search_rec_csj.php?id=45",
+  "listing": "http://jurisprudenta.csj.md/db_rec_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_rec_csj.php?id=45",
+  "source_sha256": "6917c9b211f2dd20dd51cbc9d9940de4ba88280f58cd43fe4ad0d57a4c951c97",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1015,
+    "pdftotext_words": 1015,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
