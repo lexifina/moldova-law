@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 1, din 07.07.2008",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 229,
+  "number": "1",
+  "decision_date": "2008-07-07",
+  "decision_date_source_quote": "07 iulie 2008",
+  "record_date": "2008-07-07",
+  "in_force": "2008-07-07",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=229",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=229",
+  "source_sha256": "4bde20509de954be21750aea02023b69036593869cd105e07bda43facd6c76cc",
+  "pdf_pages": 11,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 5821,
+    "pdftotext_words": 5818,
+    "common_ratio": [
+      0.999,
+      0.9995
+    ]
+  },
+  "first_law": null
+}
