@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 6, din 14.11.2008",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 6,
+  "number": "6",
+  "decision_date": "2008-11-14",
+  "decision_date_source_quote": "14 noiembrie 2008",
+  "record_date": "2008-11-14",
+  "in_force": "2008-11-14",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=6",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=6",
+  "source_sha256": "11523115e878fd90e4065173c12546f84eafadbe35b16bc84658a8fe75137eb3",
+  "pdf_pages": 14,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 6039,
+    "pdftotext_words": 6029,
+    "common_ratio": [
+      0.9977,
+      0.9993
+    ]
+  },
+  "first_law": null
+}
