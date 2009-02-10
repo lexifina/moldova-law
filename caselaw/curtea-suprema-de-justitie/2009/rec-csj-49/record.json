@@ -1,0 +1,30 @@
+{
+  "title": "Recomandarea CSJ (Opiniile consultative (recomandări)), nr. 136, din 10.02.2009",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "rec_csj",
+  "database_label": "Opiniile consultative (recomandări)",
+  "source_id": 49,
+  "number": "136",
+  "decision_date": "2009-02-10",
+  "decision_date_source_quote": "10.02.2009",
+  "record_date": "2009-02-10",
+  "in_force": "2009-02-10",
+  "source": "http://jurisprudenta.csj.md/search_rec_csj.php?id=49",
+  "listing": "http://jurisprudenta.csj.md/db_rec_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_rec_csj.php?id=49",
+  "source_sha256": "5d378e36f7068ef01581b286e02dd01d77f5e1ec8603e724c410d7c943597da1",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 927,
+    "pdftotext_words": 925,
+    "common_ratio": [
+      0.9957,
+      0.9978
+    ]
+  },
+  "first_law": null
+}
