@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 4, din 30.03.2009",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 123,
+  "number": "4",
+  "decision_date": "2009-03-30",
+  "decision_date_source_quote": "30 martie 2009",
+  "record_date": "2009-03-30",
+  "in_force": "2009-03-30",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=123",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=123",
+  "source_sha256": "849bc9172b87ccc72a37fc2eb36417f9a69f69a1260495374fc9a02ccca6b18c",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 486,
+    "pdftotext_words": 486,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
