@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3r-406/10, din 03.02.2010",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2309,
+  "number": "3r-406/10",
+  "decision_date": "2010-02-03",
+  "decision_date_source_quote": "03 februarie 2010",
+  "record_date": "2010-02-03",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2309",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2309",
+  "source_sha256": "04e7082de5e7a28fd05f02885a5392975e0a32ab1373f5374f98c5254d241405",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1781,
+    "pdftotext_words": 1779,
+    "common_ratio": [
+      0.9978,
+      0.9989
+    ]
+  },
+  "first_law": null
+}
