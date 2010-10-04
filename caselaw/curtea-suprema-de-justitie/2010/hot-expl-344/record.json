@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 1, din 04.10.2010",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 344,
+  "number": "1",
+  "decision_date": "2010-10-04",
+  "decision_date_source_quote": "4 octombrie 2010",
+  "record_date": "2010-10-04",
+  "in_force": "2010-10-04",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=344",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=344",
+  "source_sha256": "ac0b0f2d5090fce37341145df01aac5ed46f53d926b66c1adad7cd1d8ca4443e",
+  "pdf_pages": 15,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 6616,
+    "pdftotext_words": 6614,
+    "common_ratio": [
+      0.9994,
+      0.9997
+    ]
+  },
+  "first_law": null
+}
