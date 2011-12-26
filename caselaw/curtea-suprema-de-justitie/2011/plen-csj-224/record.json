@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 1, din 26.12.2011",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 224,
+  "number": "1",
+  "decision_date": "2011-12-26",
+  "decision_date_source_quote": "26 decembrie 2011",
+  "record_date": "2011-12-26",
+  "in_force": "2011-12-26",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=224",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=224",
+  "source_sha256": "24a8e3e6c715ccbd5ce7edfb9a1d90ec2bd391d9ac0857f4fb5eb31bdec91003",
+  "pdf_pages": 11,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 6699,
+    "pdftotext_words": 6699,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
