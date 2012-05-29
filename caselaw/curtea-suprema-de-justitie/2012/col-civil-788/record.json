@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-1377/12, din 29.05.2012",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 788,
+  "number": "2ra-1377/12",
+  "decision_date": "2012-05-29",
+  "decision_date_source_quote": "29 mai 2012",
+  "record_date": "2012-05-29",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=788",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=788",
+  "source_sha256": "634e9c5e3ec2aff1daba0ba2f4ea8113af9da12c83188ecf147d7012d314b2b4",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2955,
+    "pdftotext_words": 2944,
+    "common_ratio": [
+      0.9956,
+      0.9993
+    ]
+  },
+  "first_law": null
+}
