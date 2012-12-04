@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor penale), nr. 188-XVI, din 04.12.2012",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawp",
+  "database_label": "Jurisprudența relevantă cauzelor penale",
+  "source_id": 26,
+  "number": "188-XVI",
+  "decision_date": "2012-12-04",
+  "decision_date_source_quote": "04 decembrie 2012",
+  "record_date": "2012-12-04",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawp.php?id=26",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawp.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawp.php?id=26",
+  "source_sha256": "009b13c158d0c92bc6cf55886499f5e02e9fde42fb42479b9e39ff2efc455ae5",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1156,
+    "pdftotext_words": 1156,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
