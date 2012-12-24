@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 10, din 24.12.2012",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 58,
+  "number": "10",
+  "decision_date": "2012-12-24",
+  "decision_date_source_quote": "24 decembrie 2012",
+  "record_date": "2012-12-24",
+  "in_force": "2012-12-24",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=58",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=58",
+  "source_sha256": "e787f1e215526248c3a5698f184c985de98014d3f5b671ec29808a929cc5afb2",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1410,
+    "pdftotext_words": 1410,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
