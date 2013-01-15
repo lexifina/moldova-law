@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2r-47/14, din 15.01.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 6391,
+  "number": "2r-47/14",
+  "decision_date": "2013-01-15",
+  "decision_date_source_quote": "15 ianuarie 2013",
+  "record_date": "2013-01-15",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=6391",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=6391",
+  "source_sha256": "e9eae111f116b0dcde2bd792918ddcba199d9131e6b68dfc191af394d2dfb727",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1050,
+    "pdftotext_words": 1032,
+    "common_ratio": [
+      0.98,
+      0.9971
+    ]
+  },
+  "first_law": null
+}
