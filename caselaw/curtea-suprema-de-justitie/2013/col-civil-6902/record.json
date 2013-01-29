@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2r-138/14, din 29.01.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 6902,
+  "number": "2r-138/14",
+  "decision_date": "2013-01-29",
+  "decision_date_source_quote": "29 ianuarie 2013",
+  "record_date": "2013-01-29",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=6902",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=6902",
+  "source_sha256": "dc7c2e918fec10d26b9b9a75e0de80906e20f322d31207e24013708e2db2f5f1",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "text contains an unmasked personal identifier, birth date or address",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2336,
+    "pdftotext_words": 2318,
+    "common_ratio": [
+      0.991,
+      0.9987
+    ]
+  },
+  "first_law": null
+}
