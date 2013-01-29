@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor penale), nr. 1ra-52/13, din 29.01.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawp",
+  "database_label": "Jurisprudența relevantă cauzelor penale",
+  "source_id": 14,
+  "number": "1ra-52/13",
+  "decision_date": "2013-01-29",
+  "decision_date_source_quote": "29 ianuarie 2013",
+  "record_date": "2013-01-29",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawp.php?id=14",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawp.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawp.php?id=14",
+  "source_sha256": "d56eebf3ddbb787f6089db9a1359ea49a3d196d267c48a6ccea2bff72e3245cd",
+  "pdf_pages": 9,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3264,
+    "pdftotext_words": 3264,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
