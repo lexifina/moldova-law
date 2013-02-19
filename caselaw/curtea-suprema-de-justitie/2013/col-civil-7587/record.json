@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rc-110/14, din 19.02.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 7587,
+  "number": "2rc-110/14",
+  "decision_date": "2013-02-19",
+  "decision_date_source_quote": "19 februarie 2013",
+  "record_date": "2013-02-19",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=7587",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=7587",
+  "source_sha256": "b9b4d41b6b94a452947d3821c0c0812c95cbaa7b11e56bf73a1dab2a534bb86d",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1542,
+    "pdftotext_words": 1524,
+    "common_ratio": [
+      0.9864,
+      0.998
+    ]
+  },
+  "first_law": null
+}
