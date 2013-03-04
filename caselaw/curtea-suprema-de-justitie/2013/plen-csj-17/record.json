@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 4-2rh-2/13, din 04.03.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 17,
+  "number": "4-2rh-2/13",
+  "decision_date": "2013-03-04",
+  "decision_date_source_quote": "04 martie 2013",
+  "record_date": "2013-03-04",
+  "in_force": "2013-03-04",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=17",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=17",
+  "source_sha256": "a4fa3dc1b207fdcf6e081c33bd2250ca1d3b57dc2a0ed2ed0292ac06af31a399",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1704,
+    "pdftotext_words": 1703,
+    "common_ratio": [
+      0.9988,
+      0.9994
+    ]
+  },
+  "first_law": null
+}
