@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor penale), nr. 1ra-282/2013, din 06.03.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawp",
+  "database_label": "Jurisprudența relevantă cauzelor penale",
+  "source_id": 15,
+  "number": "1ra-282/2013",
+  "decision_date": "2013-03-06",
+  "decision_date_source_quote": "06 martie 2013",
+  "record_date": "2013-03-06",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawp.php?id=15",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawp.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawp.php?id=15",
+  "source_sha256": "0de5b93c33aefb917ba2adf8b182801d24a96d2336172b3f4d73e2c3b0c6381c",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2350,
+    "pdftotext_words": 2350,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
