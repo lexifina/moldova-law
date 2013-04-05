@@ -14,6 +14,7 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP31 din 07.03.13, MO69-74/05.04.13 art.223
 LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12
 LP33 din 06.05.12, MO99-102/25.05.12 art.330
 LP23 din 01.03.12, MO54-59/23.03.12 art.172; în vigoare 23.06.12
@@ -258,7 +259,7 @@ curatelei
 (1) Tutela şi curatela sînt sarcini personale.
 (2) Obligaţiile de tutelă şi curatelă se îndeplinesc gratuit. Tutorele şi curatorul au dreptul să ceară compensarea tuturor cheltuielilor aferente îndeplinirii obligaţiilor de tutelă şi curatelă.
 (3) Autoritatea tutelară poate, ţinînd seama de cuantumul şi componenţa patrimoniului celui pus sub tutelă sau curatelă, să decidă ca administrarea patrimoniului sau doar a unei părţi din el să fie încredinţată unei persoane fizice sau unei persoane juridice competente.
-Obligaţiile tutorelui şi ale curatorului
+Articolul 40. Obligaţiile tutorelui şi ale curatorului
 (1) Tutorele şi curatorul sînt obligaţi:
 a) să locuiască împreună cu cel pus sub tutelă şi să comunice autorităţii tutelare schimbarea domiciliului. Curatorul şi persoana aflată sub curatelă care a atins vîrsta de 14 ani pot locui separat doar cu acordul autorităţii tutelare;
 b) să aibă grijă de întreţinerea persoanei puse sub tutelă sau curatelă;
@@ -2863,6 +2864,8 @@ LA EXECUTAREA OBLIGAŢIILOR
 Articolul 572. Condiţiile generale de executare a obligaţiilor
 (1) Temeiul executării rezidă în existenţa unei obligaţii.
 (2) Obligaţia trebuie executată în modul corespunzător, cu bună-credinţă, la locul şi în momentul stabilit.
+(3) Valorile mobiliare nu pot fi transmise direct în contul achitării datoriei dintre două părţi.
+[Art.572 al.(3) introdus prin LP31 din 07.03.13, MO69-74/05.04.13 art.223]
 Articolul 573. Locul executării obligaţiei
 Dacă locul executării nu este determinat sau nu rezultă din natura obligaţiei, executarea urmează a fi efectuată:
 a) la domiciliul sau sediul creditorului la momentul naşterii obligaţiei – în cazul obligaţiei pecuniare;
@@ -3232,7 +3235,8 @@ Articolul 664. Decesul persoanei fizice sau lichidarea persoanei juridice
 (2) Obligaţia se stinge prin decesul creditorului dacă executarea îi este destinată personal sau dacă este legată în alt mod de persoana creditorului.
 (3) Obligaţia se stinge prin lichidarea persoanei juridice (debitor sau creditor), cu excepţia cazurilor în care obligaţia sau creanţa persoanei juridice lichidate se transmite prin lege unor alte persoane.
 Articolul 665. Novaţia
-(1) Obligaţia se stinge în baza înţelegerii dintre părţi de a o înlocui cu o altă obligaţie (novaţie).
+(1) Obligaţia se stinge în baza înţelegerii dintre părţi de a o înlocui cu o altă obligaţie (novaţie), cu excepţia valorilor mobiliare.
+[Art.665 al.(1) modificat prin LP31 din 07.03.13, MO69-74/05.04.13 art.223]
 (2) Voinţa de a înlocui o obligaţie cu alta trebuie să fie stipulată expres.
 (3) Stingerea obligaţiei principale prin novaţie stinge şi obligaţiile accesorii dacă părţile nu au stipulat expres altfel.
 T i t l u l II
@@ -3479,13 +3483,11 @@ normelor prezentului capitol
 (1) Prevederile art. 712 alin.(3) şi (5), precum şi prevederile art.718 şi 719, nu se aplică în cazul clauzelor contractuale standard care se folosesc faţă de un întreprinzător, o persoană juridică de drept public sau faţă de un patrimoniu cu regim special de drept public.
 [Art.720 al.(1) modificat prin LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
 (2) Prevederile art.716 alin.(1) şi (2) se aplică în cazurile stipulate în prezentul articol la alin.(1), în măsura în care aceasta are ca urmare nulitatea prevederilor contractuale menţionate la art.718 şi 719. În acest caz, se vor lua în considerare în modul corespunzător uzanţele din circuitul comercial.
-(3) Prevederile art.718 şi 719 nu se aplică contractelor a căror parte o constituie întreprinderile de livrare a energiei electrice, a gazului, energiei termice la distanţă şi apei cu privire la aprovizionarea unor utilizatori aparte cu energie electrică, gaz, energie termică şi apă din sistemul de distribuire, dacă condiţiile de livrare nu derogă în defavoarea utilizatorilor de la condiţiile stipulate de organul de stat pentru reglementare în domeniul energiei electrice, gazului, energiei termice şi apei. Această dispoziţie se aplică şi contractelor de preluare a apelor reziduale.
 [Art.720 al.(3) abrogat prin LP23 din 01.03.12, MO54-59/23.03.12 art.172; în vigoare 23.06.12]
 (4) În contractul dintre întreprinzător şi consumator, prevederile prezentului capitol se aplică ţinîndu-se cont de următoarele condiţii:
 a) clauzele contractuale standard se consideră ca fiind stabilite de întreprinzător dacă nu au fost introduse în contract de către consumator;
 b) art.715-719 se aplică la condiţiile contractuale reformulate şi atunci cînd acestea sînt determinate pentru folosinţă de o singură dată, precum şi în măsura în care consumatorul nu a putut influenţa conţinutul prevederilor din cauza reformulării lor;
 c) la aprecierea defavorizării necorespunzătoare conform art.716 alin.(1) şi (2), se iau în considerare şi împrejurările existente la încheierea contractului.
-(5) Dispoziţiile prezentului capitol nu se aplică în cazul contractelor din domeniul dreptului muncii, moştenirii, familiei şi societăţilor comerciale.
 (5) Dispoziţiile prezentului capitol se aplică contractelor încheiate cu consumatorii în măsura în care nu contravin prevederilor legii speciale şi nu se aplică în cazul contractelor ce ţin de domeniul dreptului muncii, moştenirii, familiei şi societăţilor comerciale.
 [Art.720 al.(5) în redacţia LP23 din 01.03.12, MO54-59/23.03.12 art.172; în vigoare 23.06.12]
 Capitolul V
@@ -5162,7 +5164,8 @@ Articolul 1163. Regresul contra debitorului
 (2) Fidejusorul nu are drept de regres faţă de debitorul care, de asemenea, a plătit datoria din cauza faptului că fidejusorul nu l-a anunţat despre plata efectuată.
 (3) Fidejusorul poate acţiona contra debitorului chiar înainte de a fi plătit în cazul în care fidejusorul este urmărit în justiţie pentru plată sau dacă debitorul s-a obligat să-l elibereze de fidejusiune într-un termen determinat şi acesta a expirat.
 (4) În cazul în care există mai mulţi debitori solidari, fidejusorul care a prestat fidejusiunea pentru toţi aceşti debitori are drept de regres contra fiecăruia din ei pentru a recupera integral ceea ce a plătit.
-Articolul 1164. Cererea fidejusorului de a fi eliberat de fidejusiune
+Articolul 1164. Cererea fidejusorului de a fi eliberat de
+fidejusiune
 (1) Dacă s-a obligat la indicaţia debitorului principal sau dacă, în urma prestării fidejusiunii, are drepturi de mandatar, în baza dispoziţiilor referitoare la gestiunea de afaceri, faţă de debitorul principal, fidejusorul poate cere acestuia să-l elibereze de fidejusiune dacă:
 a) situaţia patrimonială a debitorului principal s-a înrăutăţit considerabil;
 b) urmărirea în justiţie a debitorului principal este îngreuiată considerabil după preluarea fidejusiunii din cauza schimbării domiciliului, reşedinţei, sediului acestuia;
@@ -6204,9 +6207,8 @@ cu funcţie de răspundere
 (5) Autoritatea publică nu răspunde pentru prejudiciul cauzat prin adoptarea unui act normativ sau omisiunea de a-l adopta, sau prin omisiunea de a pune în aplicare o lege.
 Articolul 1405. Răspunderea statului pentru prejudiciul cauzat
 prin acţiunile organelor de urmărire penală,
-ale procuraturii sau ale
-instanţelor de judecată
-(1) Prejudiciul cauzat persoanei fizice prin condamnare ilegală, atragere ilegală la răspundere penală, aplicare ilegală a măsurii preventive sub forma arestului preventiv sau sub forma declaraţiei scrise de a nu părăsi localitatea, prin aplicarea ilegală în calitate de sancţiune administrativă a arestului , muncii neremunerate în folosul comunităţii se repară de către stat integral, indiferent de vinovăţia persoanelor de răspundere ale organelor de urmărire penală, ale procuraturii sau ale instanţelor de judecată.
+ale procuraturii sau ale instanţelor de judecată
+(1) Prejudiciul cauzat persoanei fizice prin condamnare ilegală, atragere ilegală la răspundere penală, aplicare ilegală a măsurii preventive sub forma arestului preventiv sau sub forma declaraţiei scrise de a nu părăsi localitatea, prin aplicarea ilegală în calitate de sancţiune administrativă a arestului, muncii neremunerate în folosul comunităţii se repară de către stat integral, indiferent de vinovăţia persoanelor de răspundere ale organelor de urmărire penală, ale procuraturii sau ale instanţelor de judecată.
 (2) Statul se exonerează de răspundere în cazul cînd persoana vătămată a contribuit intenţionat şi benevol la producerea prejudiciului prin autodenunţ.
 Articolul 1406. Răspunderea pentru prejudiciul cauzat de
 un minor care nu a împlinit 14 ani
@@ -6316,12 +6318,8 @@ Articolul 1424. Termenul de prescripţie
 (3) În cazul în care persoana obligată să repare prejudiciul a dobîndit ceva, în urma faptei ilicite, din contul persoanei prejudiciate, prima este obligată, chiar şi după expirarea termenului de prescripţie, să restituie, în conformitate cu normele privind îmbogăţirea fără justă cauză, ceea ce a dobîndit.
 S e c ţ i u n e a a 2-a
 RĂSPUNDEREA PENTRU PREJUDICIUL
-CAUZAT DE PRODUSE DEFECTUOASE
-RĂSPUNDEREA PENTRU PREJUDICIUL
 CAUZAT DE PRODUSE CU VICIU
 [Secţiunea 2 titlu modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
-Articolul 1425. Temeiurile reparării prejudiciului cauzat de
-produse defectuoase
 Articolul 1425. Temeiurile reparării prejudiciului cauzat de
 produse cu viciu
 [Art.1425 titlu modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
@@ -6334,15 +6332,12 @@ e) viciul nu putea fi identificat din cauza nivelului ştiinţei şi tehnicii de
 (2) Obligaţia de reparare a prejudiciului de către producătorul unei părţi componente a produsului este exclusă în cazul în care viciile se datorează modului de asamblare (construcţie) a produsului în care este încorporată partea componentă ori adăugirilor şi conexiunilor făcute de realizatorul produsului final. Această prevedere se aplică în modul corespunzător şi producătorului de materie primă.
 (3) Obligaţia producătorului de a repara prejudiciul este diminuată sau înlăturată dacă la producerea prejudiciului a concurat vina celui prejudiciat ori a persoanei pentru care răspunde cel prejudiciat.
 (4) Răspunderea producătorului nu este diminuată în cazul în care prejudiciul este produs concomitent de un viciu al produsului şi de acţiunea unui terţ.
-Articolul 1426. Produsul şi producătorul
 Articolul 1426. Produsul, producătorul şi prejudiciul
 cauzat
 [Art.1426 titlu în redacţia LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
-(1) În sensul prezentei secţiuni, produs este orice bun mobil, chiar şi atunci cînd constituie o parte a unui alt bun mobil ori a unui bun imobil. Produs este şi electricitatea. Nu sînt considerate astfel produsele agricole ale solului, ale zootehniei, ale apiculturii sau ale pescuitului (produse agricole naturale) care nu sînt supuse unei prelucrări primare şi nici vînatul.
 (1) În sensul prezentei secţiuni, produs este orice bun mobil, chiar şi în cazul în care acesta este încorporat în alte bunuri mobile sau într-un bun imobil. De asemenea, sînt considerate produse energia electrică, gazele naturale şi apa livrate pentru consum individual.
 [Art.1426 al.(1) în redacţia LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
 (2) În sensul prezentei secţiuni, producător este cel care a realizat un produs finit, o materie primă ori o parte componentă a unui produs. Producător este considerat şi cel care se prezintă ca producător prin adăugarea numelui său, a semnelor sale de comerţ sau a altor semne distinctive.
-(3) Producător este de asemenea cel care, în cadrul activităţii sale comerciale şi în limitele domeniului de reglementare al prezentei secţiuni, importă sau cumpără un produs în scop de vînzare, închiriere sau de distribuire în o altă formă.
 (3) Producător este de asemenea cel care, în cadrul activităţii sale comerciale şi în limitele domeniului de reglementare al prezentei secţiuni, importă sau cumpără un produs în scop de vînzare, de locaţiune, de leasing sau de distribuire în o altă formă.
 [Art.1426 al.(3) modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
 (4) Dacă producătorul nu poate fi stabilit, orice persoană care a livrat produsul poate fi considerată producător dacă, în termen de o lună din momentul în care a luat cunoştinţă de pretenţiile ce decurg din viciile produsului, nu indică producătorul ori persoana care i-a livrat produsul. Această dispoziţie se aplică şi în cazul unui produs importat în raport cu care nu pot fi identificate persoanele menţionate la alin.(3), chiar dacă numele producătorului este cunoscut.
@@ -6353,10 +6348,8 @@ b) prejudiciul cauzat sau distrugerea oricărui bun, altul decît produsul cu vi
 – să fie utilizat de persoana prejudiciată în special pentru uz propriu sau pentru consum privat.
 Prezentul alineat nu aduce atingere dispoziţiilor de drept privind repararea prejudiciului moral.
 [Art.1426 al.(5) introdus prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
-Articolul 1427. Produsul defectuos
 Articolul 1427. Produsul cu viciu
 [Art.1427 titlu în redacţia LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
-(1) Un produs este defectuos dacă nu garantează siguranţa scontată, luîndu-se în considerare toate împrejurările, cum ar fi de exemplu:
 (1) Un produs este cu viciu dacă nu garantează siguranţa scontată, luîndu-se în considerare toate împrejurările, cum ar fi de exemplu:
 [Art.1427 al.(1) modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
 a) prezentarea produsului;
@@ -6368,15 +6361,10 @@ Cel prejudiciat trebuie să aducă proba viciului, prejudiciului şi a legături
 Articolul 1429. Răspunderea solidară
 Dacă pentru acelaşi prejudiciu sînt răspunzătoare mai multe persoane, ele răspund solidar.
 Articolul 1430. Termenele de reparare a prejudiciului
-(1) În cazul în care pentru repararea prejudiciului nu este stabilit nici un termen, prejudiciul se repară dacă a apărut pe parcursul a 10 ani din momentul fabricării produsului.
 (1) În cazul în care pentru repararea prejudiciului nu este stabilit niciun termen, prejudiciul se repară dacă a apărut pe parcursul a 10 ani de la data la care producătorul a pus în circulaţie produsul ce a provocat prejudicii, cu excepţia cazurilor cînd persoana prejudiciată a iniţiat, în această perioadă, o procedură judiciară împotriva producătorului.
 [Art.1430 al.(1) în redacţia LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
-(2) Pretenţiile conform art.1425 se prescriu în 3 ani din momentul în care cel prejudiciat a luat cunoştinţă sau trebuia să ia cunoştinţă de prejudiciu şi de identitatea producătorului.
 (2) Pretenţiile conform art.1425 se prescriu în 3 ani din momentul în care cel prejudiciat a luat cunoştinţă sau trebuia să ia cunoştinţă de prejudiciu, de viciul produsului şi de identitatea producătorului.
 [Art.1430 al.(2) modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
-Articolul 1431. Interdicţia de a exclude sau a limita cu
-anticipaţie răspunderea
-Răspunderea producătorului pentru produsele cu vicii nu poate fi exclusă ori limitată cu anticipaţie. Convenţiile contrare nu produc efect.
 Articolul 1431. Interdicţia de a exclude sau de a
 limita cu anticipaţie răspunderea
 (1) Răspunderea producătorului pentru produsele cu viciu nu poate fi exclusă ori limitată printr-o clauză contractuală. Convenţiile contrare nu produc efect.
@@ -6593,8 +6581,8 @@ Articolul 1494. Legatul la primirea rezervei succesorale
 În cazul în care moştenitorul testamentar însărcinat cu executarea legatului are dreptul la o cotă din rezerva succesorală, el execută legatul în limitele acelei părţi a averii moştenite care depăşeşte cota din rezerva succesorală ce i se cuvine.
 Articolul 1495. Răspunderea legatarului
 Legatarul nu răspunde pentru datoriile testatorului.
-Articolul 1496. Renunţarea la legat şi degrevarea de executarea
-legatului
+Articolul 1496. Renunţarea la legat şi degrevarea de
+executarea legatului
 (1) Persoana căreia i se cuvine legatul este în drept să renunţe la el. În acest caz, cota succesorală respectivă revine moştenitorului care va avea sarcina executării legatului.
 (2) Dacă persoana căreia i se cuvine legatul renunţă la el, moştenitorul însărcinat cu executarea legatului este degrevat de ea.
 Articolul 1497. Transmiterea legatului către moştenitori
@@ -6782,7 +6770,8 @@ moştenirea
 La satisfacerea pretenţiilor, creditorii celui ce a lăsat moştenirea au prioritate faţă de creditorii moştenitorului.
 Articolul 1548. Răspunderea statului
 La trecerea către stat a patrimoniului succesoral, statul devine, ca şi ceilalţi moştenitori, responsabil de datoriile celui ce a lăsat moştenirea.
-Articolul 1549. Consecinţele primirii moştenirii de către creditor
+Articolul 1549. Consecinţele primirii moştenirii de către
+creditor
 Dacă testatorul a testat averea sa creditorului, acest fapt nu poate fi considerat compensare a creanţei creditorului.
 Articolul 1550. Modalitatea de satisfacere a creanţei creditorilor
 Moştenitorii satisfac creanţele creditorilor printr-o plată unică, dacă acordul dintre moştenitori şi creditori nu prevede altfel.
@@ -6807,7 +6796,8 @@ Persoanele recunoscute ca moştenitori pot cere notarului de la locul deschideri
 Articolul 1557. Termenul de eliberare a certificatului de moştenitor
 (1) Certificatul de moştenitor se eliberează după 6 luni din ziua deschiderii succesiunii, în orice timp.
 (2) Certificatul de moştenitor se eliberează pînă la expirarea termenului de 6 luni dacă notarul dispune de suficiente dovezi că, în afară de persoanele care solicită eliberarea certificatului, nu există alţi moştenitori.
-Articolul 1558. Eliberarea certificatului de calitate de moştenitor
+Articolul 1558. Eliberarea certificatului de calitate de
+moştenitor
 (1) Dacă nu s-a făcut dovada existenţei unor bunuri în patrimoniul defunctului ori determinarea acestora necesită operaţiuni de durată şi moştenitorii solicită să li se stabilească numai calitatea, se poate emite certificat de calitate de moştenitor.
 (2) În certificatul de calitate de moştenitor se menţionează că acesta nu are valoarea unui certificat de moştenitor şi că poate fi utilizat numai pentru dobîndirea actelor necesare pentru a dovedi existenţa bunurilor ce compun patrimoniul succesoral, urmînd ca certificatul de moştenitor să fie eliberat ulterior. Această calitate poate fi dovedită numai în cazul acceptării în termen a moştenirii, în caz contrar moştenitorul fiind străin de moştenire prin neacceptare.
 Articolul 1559. Eliberarea certificatului de succesiune vacantă
