@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul penal), nr. 648, din 09.04.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_penal",
+  "database_label": "Colegiul penal",
+  "source_id": 26,
+  "number": "648",
+  "decision_date": "2013-04-09",
+  "decision_date_source_quote": "09 aprilie 2013",
+  "record_date": "2013-04-09",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_penal.php?id=26",
+  "listing": "http://jurisprudenta.csj.md/db_col_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_penal.php?id=26",
+  "source_sha256": "f463dc994a82efd63ba7d8438d76980cee5f4a1159a6e74f8f661506cce300b7",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1943,
+    "pdftotext_words": 1943,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
