@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul penal), nr. 1re-151/2013, din 10.04.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_penal",
+  "database_label": "Colegiul penal",
+  "source_id": 13,
+  "number": "1re-151/2013",
+  "decision_date": "2013-04-10",
+  "decision_date_source_quote": "10 aprilie 2013",
+  "record_date": "2013-04-10",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_penal.php?id=13",
+  "listing": "http://jurisprudenta.csj.md/db_col_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_penal.php?id=13",
+  "source_sha256": "10549a792854e8f8c7d93ff0dc537505b05dd32d2e5ca3b55a82ca5c0732a136",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1185,
+    "pdftotext_words": 1185,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
