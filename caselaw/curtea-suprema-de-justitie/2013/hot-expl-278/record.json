@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 4, din 15.04.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 278,
+  "number": "4",
+  "decision_date": "2013-04-15",
+  "decision_date_source_quote": "15 aprilie 2013",
+  "record_date": "2013-04-15",
+  "in_force": "2013-04-15",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=278",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=278",
+  "source_sha256": "2b12786695507cc2ee0888135d174eecf4a1c670623d81e54bf142a05eeada41",
+  "pdf_pages": 9,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4936,
+    "pdftotext_words": 4936,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
