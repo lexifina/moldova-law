@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul penal), nr. 4-1re-68/13, din 17.04.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_penal",
+  "database_label": "Colegiul penal",
+  "source_id": 6,
+  "number": "4-1re-68/13",
+  "decision_date": "2013-04-17",
+  "decision_date_source_quote": "17 aprilie 2013",
+  "record_date": "2013-04-17",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_penal.php?id=6",
+  "listing": "http://jurisprudenta.csj.md/db_col_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_penal.php?id=6",
+  "source_sha256": "0550189f07ac8772a42b772c1813daca11c80a0f0081d87b1d36850689884eb0",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2205,
+    "pdftotext_words": 2205,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
