@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rc-172/13, din 08.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 114,
+  "number": "2rc-172/13",
+  "decision_date": "2013-05-08",
+  "decision_date_source_quote": "08 mai 2013",
+  "record_date": "2013-05-08",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=114",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=114",
+  "source_sha256": "367071d057f4613e32acc3c33ea4b7e9a5e03b0d8c6bef6b60b71941c9ac07b7",
+  "pdf_pages": 6,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2363,
+    "pdftotext_words": 2343,
+    "common_ratio": [
+      0.9894,
+      0.9979
+    ]
+  },
+  "first_law": null
+}
