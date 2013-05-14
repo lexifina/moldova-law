@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rac-171/14, din 14.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 9982,
+  "number": "2rac-171/14",
+  "decision_date": "2013-05-14",
+  "decision_date_source_quote": "14 mai 2013",
+  "record_date": "2013-05-14",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=9982",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=9982",
+  "source_sha256": "69ea39a036c74f43f91855da0728d580627341575893b6bb5a44e06342f3457d",
+  "pdf_pages": 15,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 7099,
+    "pdftotext_words": 7087,
+    "common_ratio": [
+      0.9973,
+      0.999
+    ]
+  },
+  "first_law": null
+}
