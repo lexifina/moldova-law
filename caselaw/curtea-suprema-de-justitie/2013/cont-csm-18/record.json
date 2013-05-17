@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Contestațiile hotărîrilor CSM), nr. 3-9/13, din 17.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "cont_csm",
+  "database_label": "Contestațiile hotărîrilor CSM",
+  "source_id": 18,
+  "number": "3-9/13",
+  "decision_date": "2013-05-17",
+  "decision_date_source_quote": "17 mai 2013",
+  "record_date": "2013-05-17",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_cont_csm.php?id=18",
+  "listing": "http://jurisprudenta.csj.md/db_cont_csm.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_cont_csm.php?id=18",
+  "source_sha256": "52ecfcf51bdd2953ba27443e7635bdc3686eb8bcea5e7072f8daa814e60de69d",
+  "pdf_pages": 1,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 231,
+    "pdftotext_words": 231,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
