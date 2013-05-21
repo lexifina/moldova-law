@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul penal), nr. 1ra-446/13, din 21.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_penal",
+  "database_label": "Colegiul penal",
+  "source_id": 150,
+  "number": "1ra-446/13",
+  "decision_date": "2013-05-21",
+  "decision_date_source_quote": "21 mai 2013",
+  "record_date": "2013-05-21",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_penal.php?id=150",
+  "listing": "http://jurisprudenta.csj.md/db_col_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_penal.php?id=150",
+  "source_sha256": "560a9a0bbc190153936a59b221a92a50d14e03c0c6368022a70a0d66c3f675e3",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2228,
+    "pdftotext_words": 2228,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
