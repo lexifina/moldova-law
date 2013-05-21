@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul penal), id 230, din 21.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_penal",
+  "database_label": "Colegiul penal",
+  "source_id": 230,
+  "number": null,
+  "decision_date": "2013-05-21",
+  "decision_date_source_quote": "21 mai 2013",
+  "record_date": "2013-05-21",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_penal.php?id=230",
+  "listing": "http://jurisprudenta.csj.md/db_col_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_penal.php?id=230",
+  "source_sha256": "da8f658290241b11538341922069542892b4ae04aaf8aa898341d73114eeaa71",
+  "pdf_pages": 9,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4282,
+    "pdftotext_words": 4282,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
