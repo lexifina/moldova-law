@@ -1,0 +1,30 @@
+{
+  "title": "Avizul consultativ al CSJ (Avizele consultative), nr. 155, din 27.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "avize_csj",
+  "database_label": "Avizele consultative",
+  "source_id": 7,
+  "number": "155",
+  "decision_date": "2013-05-27",
+  "decision_date_source_quote": "27 mai 2013",
+  "record_date": "2013-05-27",
+  "in_force": "2013-05-27",
+  "source": "http://jurisprudenta.csj.md/search_avize_csj.php?id=7",
+  "listing": "http://jurisprudenta.csj.md/db_avize_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_avize_csj.php?id=7",
+  "source_sha256": "1c1aef4beb227ec497eb446cc9f4c601c002334b541ef728350d27173b7b8bce",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 931,
+    "pdftotext_words": 931,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
