@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rh-168/2014, din 28.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 10219,
+  "number": "2rh-168/2014",
+  "decision_date": "2013-05-28",
+  "decision_date_source_quote": "28 mai 2013",
+  "record_date": "2013-05-28",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=10219",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=10219",
+  "source_sha256": "c5f793271a015669040427465dd9dc8d94fda18d62dea3f11a9b3916a9a814ec",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1804,
+    "pdftotext_words": 1795,
+    "common_ratio": [
+      0.9933,
+      0.9983
+    ]
+  },
+  "first_law": null
+}
