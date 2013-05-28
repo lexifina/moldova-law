@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul penal), nr. 1ra-375/13, din 28.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_penal",
+  "database_label": "Colegiul penal",
+  "source_id": 232,
+  "number": "1ra-375/13",
+  "decision_date": "2013-05-28",
+  "decision_date_source_quote": "28 mai 2013",
+  "record_date": "2013-05-28",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_penal.php?id=232",
+  "listing": "http://jurisprudenta.csj.md/db_col_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_penal.php?id=232",
+  "source_sha256": "c4b02111ee3f832d42707dc4cc2cb8cb93c17d2f1f96529e4c07f51d8a6c38a6",
+  "pdf_pages": 11,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3519,
+    "pdftotext_words": 3519,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
