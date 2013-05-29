@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rh-157/13, din 29.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 783,
+  "number": "2rh-157/13",
+  "decision_date": "2013-05-29",
+  "decision_date_source_quote": "29 mai 2013",
+  "record_date": "2013-05-29",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=783",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=783",
+  "source_sha256": "0c0d190c3023ff9f47694118133cae79d47f7198efc8821b8403bcd74d0ab4e0",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1475,
+    "pdftotext_words": 1455,
+    "common_ratio": [
+      0.9831,
+      0.9966
+    ]
+  },
+  "first_law": null
+}
