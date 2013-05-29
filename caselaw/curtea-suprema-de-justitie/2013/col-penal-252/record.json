@@ -1,0 +1,22 @@
+{
+  "title": "Decizia CSJ (Colegiul penal), nr. 1ra-549/13, din 29.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_penal",
+  "database_label": "Colegiul penal",
+  "source_id": 252,
+  "number": "1ra-549/13",
+  "decision_date": "2013-05-29",
+  "decision_date_source_quote": "29 mai 2013",
+  "record_date": "2013-05-29",
+  "in_force": null,
+  "source": "https://jurisprudenta.csj.md/search_col_penal.php?id=252",
+  "listing": "https://jurisprudenta.csj.md/db_col_penal.php",
+  "official_pdf": "https://jurisprudenta.csj.md/search_col_penal.php?id=252",
+  "source_sha256": "61cbd2d666122e8ebb785848e6a2fd32793dcad1824e29f65c58b2b49da2f665",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "first_law": null
+}
