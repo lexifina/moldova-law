@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-1818/13, din 30.05.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 849,
+  "number": "2ra-1818/13",
+  "decision_date": "2013-05-30",
+  "decision_date_source_quote": "30 mai 2013",
+  "record_date": "2013-05-30",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=849",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=849",
+  "source_sha256": "19c4c24dcf9199351bae670835c97e79ea85ae917b361b4db1d293ffd993bf13",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "text contains an unmasked personal identifier, birth date or address",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2194,
+    "pdftotext_words": 2177,
+    "common_ratio": [
+      0.9904,
+      0.9982
+    ]
+  },
+  "first_law": null
+}
