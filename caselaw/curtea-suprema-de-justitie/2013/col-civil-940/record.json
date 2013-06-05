@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3r-216/13, din 05.06.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 940,
+  "number": "3r-216/13",
+  "decision_date": "2013-06-05",
+  "decision_date_source_quote": "05 iunie 2013",
+  "record_date": "2013-06-05",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=940",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=940",
+  "source_sha256": "98c53008de17f0a641bb7692a8223e6fe15cec75fa95dcf3a754e8b5c3905e81",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1911,
+    "pdftotext_words": 1897,
+    "common_ratio": [
+      0.9911,
+      0.9984
+    ]
+  },
+  "first_law": null
+}
