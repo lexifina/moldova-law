@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), id 1000, din 05.06.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 1000,
+  "number": null,
+  "decision_date": "2013-06-05",
+  "decision_date_source_quote": "05 iunie 2013",
+  "record_date": "2013-06-05",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=1000",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=1000",
+  "source_sha256": "7d2df2daf32b5119245356727fad8e7629d74949e33985085547b9c3d03cad41",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1446,
+    "pdftotext_words": 1432,
+    "common_ratio": [
+      0.9889,
+      0.9986
+    ]
+  },
+  "first_law": null
+}
