@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 274, din 14.06.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 1300,
+  "number": "274",
+  "decision_date": "2013-06-14",
+  "decision_date_source_quote": "14 iunie 2013",
+  "record_date": "2013-06-14",
+  "in_force": "2013-06-14",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=1300",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=1300",
+  "source_sha256": "a655383d3a91484045fb3fd1d80a0cba42b982329f5e97f4722c74757c84f287",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1900,
+    "pdftotext_words": 1890,
+    "common_ratio": [
+      0.9932,
+      0.9984
+    ]
+  },
+  "first_law": null
+}
