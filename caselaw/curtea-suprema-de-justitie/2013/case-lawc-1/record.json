@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-618/13, din 19.06.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 1,
+  "number": "3ra-618/13",
+  "decision_date": "2013-06-19",
+  "decision_date_source_quote": "19 iunie 2013",
+  "record_date": "2013-06-19",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=1",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=1",
+  "source_sha256": "132378f3ade98e9ea458ff9df57857d1c78b94002adaa0be1c9af5bc3e0f8c1f",
+  "pdf_pages": 18,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 7983,
+    "pdftotext_words": 7960,
+    "common_ratio": [
+      0.9961,
+      0.999
+    ]
+  },
+  "first_law": null
+}
