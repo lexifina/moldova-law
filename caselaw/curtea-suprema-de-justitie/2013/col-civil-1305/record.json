@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3ra-860/13, din 19.06.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 1305,
+  "number": "3ra-860/13",
+  "decision_date": "2013-06-19",
+  "decision_date_source_quote": "19.06.2013",
+  "record_date": "2013-06-19",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=1305",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=1305",
+  "source_sha256": "d16b1dc8cfb94cce528ccb828bfd6aa86c178a850720253be288e336936952ab",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1222,
+    "pdftotext_words": 1216,
+    "common_ratio": [
+      0.9943,
+      0.9992
+    ]
+  },
+  "first_law": null
+}
