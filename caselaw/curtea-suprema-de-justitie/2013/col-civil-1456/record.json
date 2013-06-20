@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-2044/13, din 20.06.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 1456,
+  "number": "2ra-2044/13",
+  "decision_date": "2013-06-20",
+  "decision_date_source_quote": "20 iunie 2013",
+  "record_date": "2013-06-20",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=1456",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=1456",
+  "source_sha256": "0c15306a704fc0dd249a01a8c55860e7e546708fccb9eeb2468aac0b51dacda3",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1724,
+    "pdftotext_words": 1709,
+    "common_ratio": [
+      0.9901,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
