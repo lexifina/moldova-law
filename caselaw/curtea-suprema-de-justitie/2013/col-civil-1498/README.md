@@ -1,0 +1,8 @@
+# Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3ra-1158/13, din 26.06.2013
+
+- Date: 2013-06-26
+- Court: Curtea Supremă de Justiție a Republicii Moldova
+- Database: Colegiul civil, comercial și de contencios administrativ (http://jurisprudenta.csj.md/db_col_civil.php)
+- Official PDF: http://jurisprudenta.csj.md/search_col_civil.php?id=1498
+- PDF SHA-256: `f31c6188d2da22525cc77a7476e4054074d50211c140a9f76716aafbf9b9035f`
+- Text: the official PDF's text layer as published (anonymised as published).
