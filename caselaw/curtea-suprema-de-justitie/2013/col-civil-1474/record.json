@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-1689/13, din 26.06.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 1474,
+  "number": "2ra-1689/13",
+  "decision_date": "2013-06-26",
+  "decision_date_source_quote": "26 iunie 2013",
+  "record_date": "2013-06-26",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=1474",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=1474",
+  "source_sha256": "391e85be0bd44e40df5602646767bea5a3bf19bcd8b836606c713dbe1ca2c7b6",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1075,
+    "pdftotext_words": 1061,
+    "common_ratio": [
+      0.9851,
+      0.9981
+    ]
+  },
+  "first_law": null
+}
