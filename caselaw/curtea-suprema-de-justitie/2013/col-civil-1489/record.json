@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rc-265/13, din 26.06.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 1489,
+  "number": "2rc-265/13",
+  "decision_date": "2013-06-26",
+  "decision_date_source_quote": "26 iunie 2013",
+  "record_date": "2013-06-26",
+  "in_force": "2013-06-26",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=1489",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=1489",
+  "source_sha256": "34f97663e4baa9e4bb97a5eea24bcae6b341b3d1d8546269e05f8d54e0cb405c",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1062,
+    "pdftotext_words": 1044,
+    "common_ratio": [
+      0.9802,
+      0.9971
+    ]
+  },
+  "first_law": null
+}
