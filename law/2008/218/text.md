@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13
 LP41 din 21.03.13, MO75-81/12.04.13 art.235
 LP39 din 21.03.13, MO82/12.04.13 art.254
 LP304 din 26.12.12, MO48/05.03.13 art.150; în vigoare 05.03.13
@@ -2047,8 +2048,7 @@ se sancţionează cu amendă de la 10 la 35 de unităţi convenţionale.
 (2) Desfăşurarea activităţii în baza licenţei de avocat, de notar, de executor judecătoresc, de mediator sau în baza patentei de întreprinzător fără a fi înregistrat ca plătitor de contribuţii de asigurări sociale de stat în termen de 10 zile lucrătoare din momentul obţinerii dreptului de a desfăşura activitatea
 se sancţionează cu amendă de la 25 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.263 al.(2) în redacţia LP148 din 15.07.11, MO131/133/12.08.11 art.401]
-(3) Desfăşurarea activităţii de întreprinzător fără înregistrare ca plătitor de prime de asigurare obligatorie de asistenţă medicală în modul stabilit de lege
-se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale.
+[Art.263 al.(3) abrogat prin LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
 (4) Desfăşurarea unei activităţi de întreprinzător fără autorizaţie, licenţă sau certificat, eliberate de autoritatea competentă în temeiul legii,
 se sancţionează cu amendă de la 25 la 100 de unităţi convenţionale.
 (5) Desfăşurarea activităţii de întreprinzător fără înregistrarea în termen a modificărilor operate în actele de constituire, precum şi a datelor privind schimbarea conducătorului (managerului) ori a sediului,
@@ -2077,21 +2077,25 @@ din domeniul asigurării obligatorii
 de asistenţă medicală
 [Art.266 titlul în redacţia LP186 din 15.07.10, MO138-140/06.08.10 art.492]
 (1) Nerespectarea ordinii şi a modului de calculare a primelor de asigurare obligatorie de asistenţă medicală
-se sancţionează cu amendă de la 15 la 50 de unităţi convenţionale.
-(2) Neplata primelor de asigurare obligatorie de asistenţă medicală în termenul stabilit de legislaţie
+se sancţionează cu amendă de la 15 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.266 al.(1), sancţiunea modificată prin LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
+(2) Neplata primelor de asigurare obligatorie de asistenţă medicală în sumă fixă în termenul stabilit de legislaţie
 se sancţionează cu amendă de la 25 la 55 de unităţi convenţionale.
-(3) Netransferarea, transferarea tardivă sau transferarea incompletă a primelor de asigurare obligatorie de asistenţă medicală în cazul retribuirii muncii în expresie bănească sau în natură, pentru toate temeiurile şi felurile de plăţi, la care, conform legislaţiei, se calculează primele menţionate
+[Art.266 al.(2), dispoziţia modificată prin LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
+(3) Neachitarea, achitarea tardivă sau achitarea incompletă a primelor de asigurare obligatorie de asistenţă medicală în formă de contribuţie procentuală la salariu şi la alte recompense la care, conform legislaţiei, se calculează primele menţionate
 se sancţionează cu amendă de la 20 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.266 al.(3) sancţiunea modificată prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
+[Art.266 al.(3) în redacţia LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
+[Art.266 al.(3), sancţiunea modificată prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
 (4) Neprezentarea în termenul stabilit de legislaţie a dării de seamă privind calcularea şi plata primelor de asigurare obligatorie de asistenţă medicală, a listelor de evidenţă nominală a persoanelor asigurate angajate, precum şi a modificărilor survenite în liste,
-[Art.266 al.(4) dispoziţia modificată prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
+[Art.266 al.(4), dispoziţia modificată prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.266 al.(4) sancţiunea modificată prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
+[Art.266 al.(4), sancţiunea modificată prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
 (5) Neprezentarea în termenul stabilit de legislaţie a listelor de evidenţă nominală a persoanelor neangajate asigurate din contul bugetului de stat, precum şi a modificărilor survenite în liste,
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.266 al.(5) introdus prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
-(6) Neînregistrarea în termenul stabilit de legislaţie a persoanelor juridice şi fizice, altele decît cele înregistrate de către organul înregistrării de stat, a notarilor publici şi a avocaţilor ca plătitori de prime de asigurare obligatorie de asistenţă medicală
-se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale.
+6) Neînregistrarea în termenul stabilit de legislaţie a persoanelor juridice şi fizice, altele decît cele înregistrate de către organul înregistrării de stat, a notarilor publici şi a avocaţilor ca plătitori de prime de asigurare obligatorie de asistenţă medicală
+se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei fizice şi persoanei cu funcţie de răspundere.
+[Art.266 al.(6) modificat prin LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
 [Art.266 al.(6) introdus prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
 (7) Nerespectarea de către asigurat a termenului stabilit de actele normative în privinţa distribuirii către persoanele asigurate a poliţelor de asigurare obligatorie de asistenţă medicală primite de la agenţiile teritoriale ale Companiei Naţionale de Asigurări în Medicină
 se sancţionează cu amendă de la 5 la 15 unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
@@ -3516,9 +3520,11 @@ Articolul 413. Compania Naţională de Asigurări în
 Medicină
 (1) Contravenţiile prevăzute la art. 266 alin. (2), (4)–(7), art. 349 alin. (3) se examinează de Compania Naţională de Asigurări în Medicină şi agenţiile ei teritoriale.
 (2) Sînt în drept să examineze cauzele contravenţionale prevăzute la alin. (1) şi să aplice sancţiuni directorul general al Companiei Naţionale de Asigurări în Medicină şi adjuncţii săi, directorii agenţiilor teritoriale şi adjuncţii lor.
-(3) Contravenţiile prevăzute la art. 2661 se constată de Compania Naţională de Asigurări în Medicină.
-(4) Sînt în drept să constate contravenţiile prevăzute la alin. (3) şi să încheie procese-verbale directorul general al Companiei Naţionale de Asigurări în Medicină şi adjuncţii săi.
-(5) Procesele-verbale cu privire la contravenţii încheiate în temeiul alin. (3) şi (4) se remit spre examinare în fond instanţei de judecată competente.
+(3) Contravenţiile prevăzute la art. 2661 se examinează de Compania Naţională de Asigurări în Medicină.
+[Art.413 al.(3) modificat prin LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
+(4) Sînt în drept să examineze contravenţiile prevăzute la alin. (3) şi să aplice sancţiuni directorul general al Companiei Naţionale de Asigurări în Medicină şi adjuncţii săi.
+[Art.413 al.(4) modificat prin LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
+[Art.413 al.(5) abrogat prin LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
 [Art.413 în redacţia LP186 din 15.07.10, MO138-140/06.08.10 art.492]
 Articolul 414. Organele supravegherii de stat în
 domeniul agricol şi sanitar-veterinar
