@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3ra-1106/13, din 10.07.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 1877,
+  "number": "3ra-1106/13",
+  "decision_date": "2013-07-10",
+  "decision_date_source_quote": "10 iulie 2013",
+  "record_date": "2013-07-10",
+  "in_force": "2013-07-10",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=1877",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=1877",
+  "source_sha256": "224666bfe022504019e5af3ddcd1e243c15f0da5fce9214581d283513c52e91e",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2030,
+    "pdftotext_words": 2018,
+    "common_ratio": [
+      0.9926,
+      0.9985
+    ]
+  },
+  "first_law": null
+}
