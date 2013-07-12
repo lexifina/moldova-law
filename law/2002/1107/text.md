@@ -14,6 +14,7 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP116 din 23.05.13, MO146-151/12.07.13 art.456
 LP31 din 07.03.13, MO69-74/05.04.13 art.223
 LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12
 LP33 din 06.05.12, MO99-102/25.05.12 art.330
@@ -951,9 +952,11 @@ Articolul 162. Dobîndirea de acţiuni proprii
 (2) Societatea pe acţiuni nu poate dobîndi acţiuni proprii, nici direct, nici prin persoane care acţionează în nume propriu, dar pe seama acestei societăţi, cu excepţia cazurilor prevăzute de lege şi, cu respectarea dispoziţiilor prezentului articol.
 [Art.162 al.(2) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (3) Valoarea acţiunilor proprii dobîndite de societatea pe acţiuni nu poate depăşi 10% din capitalul social subscris.
+[Art.162 al.(3) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (4) Se pot dobîndi numai acţiuni achitate integral şi numai în cazul în care capitalul social subscris este vărsat integral.
+[Art.162 al.(4) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (5) Acţiunea proprie poate fi dobîndită de societatea pe acţiuni doar din contul activelor nete care depăşesc mărimea capitalului social şi a altor fonduri pe care societatea este obligată să le constituie şi din care nu se permite să se plătească drepturile acţionarilor.
-[Art.162 al.(3)-(5) modificate prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
+[Art.162 al.(5) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (6) Acţiunile proprii dobîndite cu încălcarea dispoziţiilor alin.(2)–(5) vor fi înstrăinate în cel mult un an de la data subscrierii lor. Acţiunile care nu au fost înstrăinate în acest termen vor fi anulate, societatea fiind obligată să reducă corespunzător capitalul social.
 [Art.162 al.(6) exclus prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (7) Restricţiile prevăzute la alin.(2) - (5) nu se aplică atunci cînd dobîndirea de către societate a unui număr determinat de acţiuni proprii, eliberate integral, se face în una din următoarele situaţii:
@@ -1004,8 +1007,9 @@ d) reorganizării societăţii dacă răscumpărarea acţiunilor se impune.
 e) altor situaţii prevăzute de lege.
 [Art.166 al.(2), lit.e) introdusă prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (3) Acţionarul are dreptul să ceară răscumpărarea acţiunilor în cazurile stabilite de lege.
+[Art.166 al.(3) în redacţia LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (4) Acţionarul nu are dreptul să ceară răscumpărarea acţiunilor în cazul cînd s-a adoptat o hotărîre de dizolvare a societăţii.
-[Art.166 al.(3)-(4) în redacţia LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
+[Art.166 al.(4) în redacţia LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (5) Hotărîrea de răscumpărare a acţiunilor se adoptă de către adunarea generală a acţionarilor dacă actul de constituire nu atribuie această funcţie consiliului societăţii.
 (6) Acţiunile se răscumpără la preţul de piaţă dacă legea nu prevede altfel.
 [Art.166 al.(6) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
@@ -1269,9 +1273,11 @@ actului juridic
 (1) Nerespectarea formei scrise a actului juridic face să decadă părţile din dreptul de a cere, în caz de litigiu, proba cu martori pentru dovedirea actului juridic.
 (2) Nerespectarea formei scrise a actului juridic atrage nulitatea lui numai în cazul în care acest efect este expres prevăzut de lege sau prin acordul părţilor.
 Articolul 212. Forma autentică a actului juridic
-Forma autentică a actului juridic este obligatorie în cazurile:
-a) stabilite de lege;
-b) prevăzute prin acordul părţilor, chiar dacă legea nu cere formă autentică.
+Forma autentică a actului juridic este obligatorie:
+a) dacă actul juridic are ca obiect înstrăinarea bunurilor imobile, cu excepţia cazurilor prevăzute expres de lege;
+b) în cazurile prevăzute prin acordul părţilor, chiar dacă legea nu cere formă autentică;
+c) în alte cazuri stabilite de lege.
+[Art.212 în redacţia LP116 din 23.05.13, MO146-151/12.07.13 art.456]
 Articolul 213. Efectele nerespectării formei autentice
 (1) Nerespectarea formei autentice atrage nulitatea actului juridic.
 (2) Dacă una dintre părţi a executat total sau parţial actul juridic pentru care se cere formă autentică, iar cealaltă parte se eschivează de la autentificarea lui notarială, instanţa de judecată are dreptul, la cererea părţii care a executat total sau parţial actul juridic, să îl declare valabil dacă el nu conţine elemente care contravin legii. În cazul acesta, nu se cere autentificarea notarială ulterioară a actului juridic.
@@ -6084,8 +6090,7 @@ JOCURI ŞI PARIURI
 Articolul 1375. Valabilitatea contractului privind jocul şi pariul
 (1) Contractul privind jocul şi pariul este valabil doar în cazurile expres prevăzute de lege.
 (2) Contractul este valabil dacă se referă la exerciţiile şi jocurile licite care cer îndemînări sau exerciţii fizice numai din partea participanţilor, cu excepţia cazurilor cînd sumele în joc sînt excesive în raport cu circumstanţele, precum şi cu starea şi facultăţile părţilor.
-Articolul 1376. Contractul de loterie şi alte contracte
-similare
+Articolul 1376. Contractul de loterie şi alte contracte similare
 (1) Contractul de loterie şi alte contracte de joc similare produc efecte juridice numai dacă loteria sau jocul sînt autorizate de stat.
 (2) Relaţiile dintre organizatorii de loterii totalizatoare (pariuri mutuale) şi alte jocuri de risc ce au obţinut licenţă în modul stabilit de legislaţie şi participanţii la jocuri se stabilesc în contractul respectiv.
 (3) În cazurile prevăzute în regulile de organizare a jocurilor, contractul dintre organizatorul jocului şi participantul la joc se încheie prin transmiterea de către organizator către participant a biletului de loterie, a chitanţei sau a unui alt document.
@@ -6365,8 +6370,8 @@ Articolul 1430. Termenele de reparare a prejudiciului
 [Art.1430 al.(1) în redacţia LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
 (2) Pretenţiile conform art.1425 se prescriu în 3 ani din momentul în care cel prejudiciat a luat cunoştinţă sau trebuia să ia cunoştinţă de prejudiciu, de viciul produsului şi de identitatea producătorului.
 [Art.1430 al.(2) modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
-Articolul 1431. Interdicţia de a exclude sau de a
-limita cu anticipaţie răspunderea
+Articolul 1431. Interdicţia de a exclude sau de a limita
+cu anticipaţie răspunderea
 (1) Răspunderea producătorului pentru produsele cu viciu nu poate fi exclusă ori limitată printr-o clauză contractuală. Convenţiile contrare nu produc efect.
 (2) Aplicarea dispoziţiilor prezentei secţiuni nu exclude posibilitatea persoanei prejudiciate de a pretinde despăgubiri în temeiul răspunderii contractuale sau delictuale ori în conformitate cu actele legislative şi normative speciale din domeniu.
 [Art.1431 în redacţia LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
