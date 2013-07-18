@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2cc-36/13, din 18.07.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2110,
+  "number": "2cc-36/13",
+  "decision_date": "2013-07-18",
+  "decision_date_source_quote": "18 iulie 2013",
+  "record_date": "2013-07-18",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2110",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2110",
+  "source_sha256": "4d3d73b2331d8af2d721fb4cdbca34e4354bdc66bfac6fb745d57b71f7237d8e",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 910,
+    "pdftotext_words": 902,
+    "common_ratio": [
+      0.9901,
+      0.9989
+    ]
+  },
+  "first_law": null
+}
