@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rh-208/13, din 24.07.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2200,
+  "number": "2rh-208/13",
+  "decision_date": "2013-07-24",
+  "decision_date_source_quote": "24 iulie 2013",
+  "record_date": "2013-07-24",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2200",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2200",
+  "source_sha256": "46bd1d548296e15ebf442c8f3069526b51fbb2e3d47e6c418daff63fbcaf5fe6",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1622,
+    "pdftotext_words": 1608,
+    "common_ratio": [
+      0.9901,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
