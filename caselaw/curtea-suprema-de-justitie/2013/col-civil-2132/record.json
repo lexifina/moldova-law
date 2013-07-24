@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rhc-48/13, din 24.07.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2132,
+  "number": "2rhc-48/13",
+  "decision_date": "2013-07-24",
+  "decision_date_source_quote": "24 iulie 2013",
+  "record_date": "2013-07-24",
+  "in_force": "2013-07-24",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2132",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2132",
+  "source_sha256": "05a7c0873be56e468812a6426673aa0b7b32dca9814cc6ae26738457821e2ab9",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1335,
+    "pdftotext_words": 1327,
+    "common_ratio": [
+      0.9933,
+      0.9992
+    ]
+  },
+  "first_law": null
+}
