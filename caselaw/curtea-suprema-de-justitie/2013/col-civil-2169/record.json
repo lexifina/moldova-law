@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 6951, din 24.07.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2169,
+  "number": "6951",
+  "decision_date": "2013-07-24",
+  "decision_date_source_quote": "24 iulie 2013",
+  "record_date": "2013-07-24",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2169",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2169",
+  "source_sha256": "b780da116370b6dc9838efeb58e9506584f4b43e491a45bdb1f4e7ddcaca0206",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1732,
+    "pdftotext_words": 1718,
+    "common_ratio": [
+      0.9908,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
