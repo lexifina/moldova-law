@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rac-389/13, din 31.07.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2295,
+  "number": "2rac-389/13",
+  "decision_date": "2013-07-31",
+  "decision_date_source_quote": "31 iulie 2013",
+  "record_date": "2013-07-31",
+  "in_force": "2013-07-31",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2295",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2295",
+  "source_sha256": "00a89c7172d5ef5e619737fa76dc1e0e41d6df430dca75e3ac5b7b285558cdde",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3489,
+    "pdftotext_words": 3481,
+    "common_ratio": [
+      0.9968,
+      0.9991
+    ]
+  },
+  "first_law": null
+}
