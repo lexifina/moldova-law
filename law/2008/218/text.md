@@ -15,6 +15,13 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+HCC12 din 04.06.13, MO167-172/02.08.13 art.22; în vigoare 04.06.13
+LP175 din 12.07.13, MO167-172/02.08.13 art.538
+LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13
+LP142 din 14.06.13, MO161-166/26.07.13 art.512
+LP139 din 14.06.13, MO152-158/19.07.13 art.477
+LP147 din 14.06.13, MO146-151/12.07.13 art.464; în vigoare 12.08.13
+LP117 din 23.05.13, MO146-151/12.07.13 art.458
 LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13
 LP41 din 21.03.13, MO75-81/12.04.13 art.235
 LP39 din 21.03.13, MO82/12.04.13 art.254
@@ -68,6 +75,8 @@ LP25 din 04.03.10, MO41-43/26.03.10 art.114
 LP14 din 26.02.10, MO39-40/23.03.10 art.95
 LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10
 LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132
+NOTĂ:
+În cuprinsul codului, sintagmele „colaboratorul organului afacerilor interne” şi „lucrătorul organului afacerilor interne” se înlocuiesc cu sintagma „angajatul cu statut special al Ministerului Afacerilor Interne” prin LP175 din 12.07.13, MO167-172/02.08.13 art.538
 Parlamentul adoptă prezentul cod.
 Cartea întîi
 DREPTUL MATERIAL
@@ -88,8 +97,8 @@ Articolul 3. Acţiunea legii contravenţionale în timp
 (4) Dacă legea nouă prevede o sancţiune contravenţională mai blîndă, se aplică această sancţiune. În cazul aplicării sancţiunii din legea veche, această sancţiune se execută în limita maximului sancţiunii din legea nouă. Dacă legea nouă nu mai prevede o anumită categorie a sancţiunii, sancţiunea de o astfel de categorie, stabilită şi neexecutată anterior intrării în vigoare a noii legi, nu se mai execută.
 (5) Dacă legea nouă prevede o sancţiune mai aspră, contravenţia continuă a cărei săvîrşire a început anterior intrării în vigoare a noii legi se sancţionează în conformitate cu legea în vigoare la momentul consumării ei.
 (6) Timpul săvîrşirii contravenţiei este considerat timpul săvîrşirii acţiunii ilicite, iar în cazul inacţiunii, timpul în care trebuia să se desfăşoare acţiunea pe care contravenientul a omis să o efectueze, independent de timpul survenirii urmărilor.
-Articolul 4. Acţiunea legii contravenţionale
-asupra persoanei şi în spaţiu
+Articolul 4. Acţiunea legii contravenţionale asupra
+persoanei şi în spaţiu
 (1) Contravenţia săvîrşită pe teritoriul Republicii Moldova se sancţionează în conformitate cu prezentul cod.
 (2) Contravenţia săvîrşită în afara teritoriului Republicii Moldova de un cetăţean al ei sau de un apatrid care domiciliază pe teritoriul Republicii Moldova se sancţionează în conformitate cu prezentul cod dacă fapta este prevăzută şi de legea ţării în care a fost săvîrşită, iar persoana nu a fost trasă la răspundere în acea ţară.
 (3) Nu pot fi supuşi răspunderii contravenţionale reprezentanţii diplomatici ai statelor străine sau alte persoane care, în conformitate cu tratatele internaţionale la care Republica Moldova este parte sau în conformitate cu legile Republicii Moldova, nu cad sub incidenţa jurisdicţiei contravenţionale a Republicii Moldova sau în cazul cărora este înlăturată răspunderea contravenţională.
@@ -246,13 +255,13 @@ Articolul 33. Avertismentul
 Articolul 34. Amenda
 (1) Amenda este o sancţiune pecuniară, care se aplică în cazurile şi în limitele prevăzute de prezentul cod. Amenda se stabileşte în unităţi convenţionale. O unitate convenţională este egală cu 20 de lei.
 (2) Amenda se aplică persoanelor fizice de la una la 150 de unităţi convenţionale, iar persoanelor cu funcţie de răspundere – de la 10 la 500 de unităţi convenţionale.
-[Art.30 al.(2) modificat prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
+[Art.34 al.(2) modificat prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 (21) Amenda se aplică persoanelor juridice în limitele stabilite de articolul din partea specială a cărţii întîi a prezentului cod, după caz:
 a) amendă de la 10 la 500 de unităţi convenţionale;
 b) amendă în mărimea valorii produsului, serviciului respectiv care constituie obiectul contravenţiei, dar nu mai puţin de valoarea limitei maxime în unităţi convenţionale, în cazul în care acest fapt este prevăzut expres de norma materială din partea specială a cărţii întîi.
-[Art.30 al.(21) introdus prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
+[Art.34 al.(21) introdus prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 (22) Comiterea repetată de către persoana juridică, în decursul unui an calendaristic, a încălcărilor specificate în partea specială a cărţii întîi a prezentului cod se sancţionează cu amendă în mărime dublă din suma amenzii în valoarea limitei maxime, indicată în partea specială a cărţii întîi.
-[Art.30 al.(22) introdus prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
+[Art.34 al.(22) introdus prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 (23) Comiterea de către persoana juridică a treia oară şi mai mult, în decursul unui an calendaristic, a încălcărilor specificate în partea specială a cărţii întîi a prezentului cod se sancţionează cu amendă în mărime triplă din suma amenzii în valoarea limitei maxime, indicată în partea specială a cărţii întîi.
 [Art.30 al.(23) introdus prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 (3) Contravenientul este în drept să achite jumătate din amenda stabilită dacă o plăteşte în cel mult 72 de ore din momentul stabilirii ei. În acest caz, se consideră că sancţiunea amenzii este executată integral.
@@ -287,7 +296,8 @@ Articolul 37. Munca neremunerată în folosul comunităţii
 (4) După pronunţarea hotărîrii judecătoreşti, preşedintele şedinţei de judecată explică esenţa sancţiunii muncii neremunerate în folosul comunităţii, fapt care se consemnează în procesul-verbal al şedinţei de judecată.
 (5) Contravenientului sancţionat cu muncă neremunerată în folosul comunităţii i se ia în scris un angajament prin care se obligă să se prezinte în termen de 10 zile la oficiul de executare în a cărui rază teritorială îşi are domiciliul.
 (6) În caz de eschivare de la munca neremunerată în folosul comunităţii, această sancţiune se înlocuieşte cu arest contravenţional, calculîndu-se o zi de arest pentru 2 ore de muncă neremunerată în folosul comunităţii.
-(7) Munca neremunerată în folosul comunităţii nu poate fi aplicată persoanelor declarate invalizi de gradul I şi de gradul II, militarilor în termen, militarilor şi efectivului atestat al organelor afacerilor interne, angajaţi în bază de contract, femeilor gravide, persoanelor care sînt unicul întreţinător al copilului cu vîrsta de pînă la 8 ani şi nici persoanelor care au împlinit vîrsta generală de pensionare.
+(7) Munca neremunerată în folosul comunităţii nu poate fi aplicată persoanelor declarate invalizi de gradul I şi de gradul II, militarilor în termen, militarilor şi angajaţilor cu statut special ai Ministerului Afacerilor Interne, angajaţi în bază de contract, femeilor gravide, persoanelor care sînt unicul întreţinător al copilului cu vîrsta de pînă la 8 ani şi nici persoanelor care au împlinit vîrsta generală de pensionare.
+[Art.37 al.(7) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (8) Munca neremunerată în folosul comunităţii se prestează în cel mult 6 luni, timp care curge de la data rămînerii definitive a hotărîrii judecătoreşti.
 Articolul 38. Arestul contravenţional
 (1) Arestul contravenţional este o sancţiune contravenţională excepţională care constă în privarea de libertate pe un termen stabilit prin hotărîre judecătorească şi care se execută în condiţiile prevăzute de Codul de executare.
@@ -295,7 +305,8 @@ Articolul 38. Arestul contravenţional
 (3) Arestul contravenţional poate fi aplicat şi în cazul neexecutării intenţionate a unei alte sancţiuni contravenţionale.
 (4) Durata arestului contravenţional este de la 3 la 15 zile. În cazul concursului de contravenţii sau al cumulului de hotărîri de sancţionare, pentru care, conform legii, se prevede în calitate de sancţiune arestul contravenţional, instanţa de judecată poate aplica această sancţiune pe un termen de pînă la 30 de zile.
 (5) Durata reţinerii contravenţionale se include în durata arestului contravenţional.
-(6) Arestul contravenţional nu poate fi aplicat persoanelor declarate invalizi de gradul I şi de gradul II, militarilor în termen, militarilor şi efectivului atestat al organelor afacerilor interne, angajaţi în bază de contract, femeilor gravide, femeilor care au copii cu vîrsta de pînă la 8 ani, persoanei care este unicul întreţinător al copilului cu vîrsta de pînă la 16 ani şi nici persoanelor care au împlinit vîrsta generală de pensionare.
+(6) Arestul contravenţional nu poate fi aplicat persoanelor declarate invalizi de gradul I şi de gradul II, militarilor în termen, militarilor şi angajaţilor cu statut special ai Ministerului Afacerilor Interne, angajaţi în bază de contract, femeilor gravide, femeilor care au copii cu vîrsta de pînă la 8 ani, persoanei care este unicul întreţinător al copilului cu vîrsta de pînă la 16 ani şi nici persoanelor care au împlinit vîrsta generală de pensionare.
+[Art.38 al.(6) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 Articolul 39. Privarea persoanei juridice de dreptul
 de a desfăşura o anumită activitate
 (1) Privarea persoanei juridice de dreptul de a desfăşura o anumită activitate constă în stabilirea interdicţiei de a încheia anumite tranzacţii, de a emite acţiuni sau alte titluri de valoare, de a primi subvenţii, înlesniri şi alte avantaje de la stat sau de a desfăşura alte activităţi.
@@ -307,8 +318,7 @@ Articolul 40. Expulzarea
 (4) Instanţa de judecată poate dispune luarea în custodie publică a cetăţenilor străini şi apatrizilor în a căror privinţă a fost dispusă măsura returnării sau care au fost declaraţi indezirabili.
 (5) În cazul în care expulzarea însoţeşte arestul contravenţional, aducerea la îndeplinire a expulzării are loc după executarea pedepsei arestului.
 Capitolul V
-APLICAREA SANCŢIUNII
-CONTRAVENŢIONALE
+APLICAREA SANCŢIUNII CONTRAVENŢIONALE
 Articolul 41. Criteriile generale de individualizare
 a sancţiunii
 (1) Sancţiunea contravenţională se aplică în funcţie de caracterul şi de gradul prejudiciabil al contravenţiei, de caracteristica persoanei şi de circumstanţele atenuante şi agravante.
@@ -422,7 +432,7 @@ se sancţionează cu amendă de la 130 la 150 de unităţi convenţionale aplica
 Articolul 55. Încălcarea legislaţiei muncii, a legislaţiei
 cu privire la securitatea şi la sănătatea în
 muncă
-[Art.55 denumireaîn redacţia LP169 din 11.07.12, MO160-164/03.08.12 art.545]
+[Art.55 denumirea în redacţia LP169 din 11.07.12, MO160-164/03.08.12 art.545]
 (1) Încălcarea legislaţiei muncii, a legislaţiei cu privire la securitatea şi la sănătatea în muncă
 [Art.55 al.(1) modificat prin LP169 din 11.07.12, MO160-164/03.08.12 art.545]
 se sancţionează cu amendă de la 100 la 140 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 350 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 350 la 450 de unităţi convenţionale aplicată persoanei juridice.
@@ -522,6 +532,7 @@ totalitar şi promovarea ideologiilor
 totalitare
 Propagarea şi/sau utilizarea pe teritoriul Republicii Moldova în scopuri politice şi de propagandă a simbolurilor regimului comunist totalitar (secera şi ciocanul şi orice suport cu aceste simboluri), precum şi promovarea ideologiilor totalitare
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere şi persoanei juridice.
+[Art.671 declarat neconstituţional prin HCC12 din 04.06.13, MO167-172/02.08.13 art.22; în vigoare 04.06.13]
 [Art.671 introdus prin LP192 din 12.07.12, MO190-192/14.09.12 art.646; în vigoare 01.10.12]
 Articolul 68. Constrîngerea sau împiedicarea de
 a participa la grevă
@@ -629,6 +640,12 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale.
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu privarea de dreptul de a practica activitate farmaceutică pe un termen de la 3 luni la un an.
 (8) Îndeletnicirea cu medicina populară fără autorizaţie specială, eliberată în modul stabilit de lege,
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale cu sau fără privarea de dreptul de a desfăşura o anumită activitate de la 3 luni la un an.
+Articolul 771. Nerespectarea angajamentelor
+privind asigurarea instituţiei
+medico-sanitare cu medicamente
+Nerespectarea angajamentelor asumate de părţi privind asigurarea instituţiei medico-sanitare publice ori private cu medicamente conform contractului de achiziţii publice sau altui contract de vînzare-cumpărare
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 120 la 175 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 500 de unităţi convenţionale aplicată persoanei juridice.
+[Art.771 introdus prin LP142 din 14.06.13, MO161-166/26.07.13 art.512]
 Articolul 78. Vătămarea intenţionată uşoară a
 integrităţiicorporale
 (1) Vătămarea intenţionată uşoară a integrităţii corporale
@@ -727,6 +744,13 @@ Articolul 90. Producerea, comercializarea, difuzarea
 sau păstrarea produselor pornografice
 Producerea, comercializarea, difuzarea sau păstrarea produselor pornografice pentru a fi comercializate ori difuzate
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
+Articolul 901. Activităţi publice cu impact negativ
+asupra minorilor
+(1) Difuzarea informaţiei publice cu impact negativ asupra minorilor şi/sau încălcarea legislaţiei privind protecţia minorilor de impactul negativ al informaţiei publice, altele decît cele prevăzute la alin. (2),
+se sancţionează cu amendă de la 80 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în toate cazurile, de dreptul de a exercita o anumită activitate pe un termen de la 3 luni la un an.
+(2) Difuzarea informaţiei publice şi/sau săvîrşirea unor fapte îndreptate spre propagarea prostituţiei, pedofiliei, pornografiei sau a unor alte relaţii decît cele legate de căsnicie şi familie în conformitate cu Constituţia şi Codul familiei
+se sancţionează cu amendă de la 100 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în toate cazurile, de dreptul de a exercita o anumită activitate pe un termen de la 3 luni la un an.
+[Art.901 introdus prin LP117 din 23.05.13, MO146-151/12.07.13 art.458]
 Articolul 91. Fumatul şi consumul de băuturi alcoolice
 în locuri interzise, comercializarea către
 minori a produselor din tutun şi a
@@ -1251,8 +1275,9 @@ se sancţionează cu amendă de pînă la 20 de unităţi convenţionale.
 se sancţionează cu amendă de pînă la 50 de unităţi convenţionale.
 (8) Vînzarea, participarea la expoziţii, transportarea animalului de companie în alte localităţi fără carnetul de sănătate al animalului
 se sancţionează cu amendă de pînă la 5 unităţi convenţionale.
-(9) Încălcarea termenelor de depunere la organele de poliţie a informaţiei privind deţinerea cîinilor din categoria celor periculoşi
+(9) Încălcarea termenelor de depunere la poliţie a informaţiei privind deţinerea cîinilor din categoria celor periculoşi
 se sancţionează cu amendă de pînă la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de pînă la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.157 al.(9) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (10) Refuzul de a elimina animalul mort sau îngroparea animalului în loc neautorizat
 se sancţionează cu amendă de pînă la 10 unităţi convenţionale aplicată persoanei fizice, cu amendă de pînă la 20 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 Articolul 158. Încălcarea regulilor de întreţinere
@@ -1623,10 +1648,9 @@ se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale aplicat�
 se sancţionează cu amendă de la 30 la 40 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (3) Deteriorarea utilajelor de aeroport (aerodrom), a indicatoarelor de aeroport (aerodrom), a aeronavelor şi a utilajelor lor
 se sancţionează cu amendă de pînă la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-Articolul 209. Încălcarea regimului de acces
-limitat pe teritoriul aeroportului
-(aerodromului)şi la obiectele
-amplasate pe acest teritoriu
+Articolul 209. Încălcarea regimului de acces limitat
+pe teritoriul aeroportului (aerodromului)
+şi la obiectele amplasate pe acest teritoriu
 Încălcarea regimului de acces limitat pe teritoriul aeroportului (aerodromului) şi la obiectele amplasate pe acest teritoriu, cu excepţia aerogării,
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale.
 Articolul 210. Încălcarea regulilor de conduită
@@ -1659,8 +1683,8 @@ se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale cu priva
 se sancţionează cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (4) Sub incidenţa prezentului articol cade şi îndeplinirea atribuţiilor în cazul calificărilor speciale cu termen expirat sau al lipsei acestora, precum şi în cazul certificatului medical cu termen expirat sau al lipsei acestuia.
 Articolul 215. Încălcarea normelor de evidenţă a
-timpului de zbor şi a timpului
-de odihnă al personalului aeronautic
+timpului de zbor şi a timpului de odihnă
+al personalului aeronautic
 Încălcarea, în cadrul întreprinderilor care exploatează aeronave, a normelor de evidenţă a timpului de zbor şi a timpului de odihnă al personalului aeronautic, neefectuarea evidenţei timpului de zbor şi a timpului de odihnă al membrilor echipajelor de zbor
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice.
 Articolul 216. Încălcarea regulilor de transport
@@ -1705,12 +1729,15 @@ de nivel, mijloacelor tehnice de dirijare
 a circulaţiei rutiere, altor instalaţii rutiere
 Deteriorarea drumurilor, pasajelor de nivel, mijloacelor tehnice de dirijare a circulaţiei rutiere, altor instalaţii rutiere, precum şi crearea intenţionată de obstacole în circulaţia rutieră
 se sancţionează cu amendă de pînă la 50 de unităţi convenţionale.
-Articolul 224. Încălcarea regulilor de folosire a
-drumurilor de către vehicule
-(1) Circulaţia pe drumurile naţionale a vehiculelor cu şenile, cu tracţiune animală, precum şi a celor neechipate corespunzător, care duc încărcături a căror scurgere provoacă murdărirea îmbrăcămintei rutiere, acoperirea ei cu gheaţă sau diminuarea siguranţei circulaţiei rutiere
-se sancţionează cu amendă de la 10 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei juridice.
-(2) Nerespectarea de către conducătorii de autovehicule a restricţiilor de tonaj sau de gabarit
-se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei juridice.
+Articolul 224. Încălcarea regulilor de folosire
+a drumurilor de către vehicule
+(1) Circulaţia pe drumurile naţionale a vehiculelor cu şenile, a vehiculelor echipate cu pneuri utilate cu crampoane (în afara perioadei 1 decembrie – 1 martie), cu tracţiune animală, precum şi a celor neechipate corespunzător, care transportă încărcături neacoperite cu prelată a căror scurgere provoacă poluarea învelişului rutier, a terenurilor adiacente drumurilor sau încetinirea circulaţiei rutiere,
+se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice.
+(2) Nerespectarea de către conducătorii de vehicule sau de către furnizorii de mărfuri în vrac/vraf a restricţiilor de tonaj (greutate) sau de gabarit
+se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice.
+(3) Nesupunerea la dispoziţiile sau la cerinţele legale ale angajatul cu statut special al Ministerului Afacerilor Interne sau ale persoanei cu funcţie de răspundere din organul de specialitate în domeniul transportului privind verificarea masei totale, a sarcinii masice pe osie sau a gabaritelor vehiculelor, refuzul de a prezenta actele sau împiedicarea în orice mod a activităţii acestora
+se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+[Art.224 în redacţia LP147 din 14.06.13, MO146-151/12.07.13 art.464; în vigoare 12.08.13]
 Articolul 225. Blocarea intenţionată a arterelor
 de transport
 (1) Blocarea intenţionată a arterelor de transport care a provocat sau care ar putea provoca perturbarea funcţionării normale a transportului auto, feroviar, fluvial
@@ -1777,6 +1804,7 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale cu apli
 (5) Conducerea vehiculului de către o persoană care nu are permis de conducere şi care, totodată, este în stare de ebrietate produsă de alcool, dacă fapta nu constituie infracţiune,
 [Art.231 al.(5) dispoziţia modificată prin LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132]
 se sancţionează cu arest contravenţional pe un termen de 15 zile.
+[Art.231 al.(5) abrogat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 Articolul 232. Conducerea vehiculului de către o
 persoană care nu are asupra sa permis
 de conducere sau vinieta
@@ -1804,13 +1832,29 @@ ebrietate produsă de alcool sau de alte
 substanţe
 [Art.233 titlul modificat prin LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132]
 (1) Conducerea vehiculului de către o persoană care se află în stare de ebrietate produsă de alcool ce depăşeşte gradul maxim admisibil stabilit de Guvern, dacă fapta nu constituie infracţiune,
+(1) Conducerea vehiculului de către o persoană care se află în stare de ebrietate produsă de alcool ce depăşeşte gradul maxim admisibil stabilit de lege, dacă fapta nu constituie infracţiune,
+[Art.233 al.(1), dispoziţia modificată prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.233 al.(1), dispoziţia modificată prin LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132]
-se sancţionează cu privarea de dreptul de a conduce vehicule pe un termen de 3 ani.
+se sancţionează cu privarea de dreptul de a conduce vehicule pe un termen de 3 aniю
+se sancţionează cu amendă de 150 de unităţi convenţionale cu privarea de dreptul de a conduce vehicule pe un termen de la 2 la 3 ani.
+[Art.233 al.(1), sancţiunea în redacţia LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
+(2) Predarea cu bună ştiinţă a conducerii vehiculului către o persoană care se află în stare de ebrietate produsă de alcool ce depăşeşte gradul maxim admisibil stabilit de Guvern sau în stare de ebrietate produsă de substanţe narcotice, psihotrope şi/sau de alte substanţe cu efecte similare, dacă fapta nu constituie infracţiune,
 (2) Predarea cu bună ştiinţă a conducerii vehiculului către o persoană care se află în stare de ebrietate produsă de alcool ce depăşeşte gradul maxim admisibil stabilit de Guvern sau în stare de ebrietate produsă de substanţe narcotice, psihotrope şi/sau de alte substanţe cu efecte similare, dacă fapta nu constituie infracţiune,
 [Art.233 al.(2), dispoziţia modificată prin LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132]
-se sancţionează cu amendă de 150 de unităţi convenţionale sau cu privarea de dreptul de a conduce vehicule pe un termen de 3 ani.
+se sancţionează cu amendă de 150 de unităţi convenţionale sau cu privarea de dreptul de a conduce vehicule pe un termen de 3 ani
+se sancţionează cu amendă de 150 de unităţi convenţionale sau cu privarea de dreptul de a conduce vehicule pe un termen de la 1 la 3 ani.
+[Art.233 al.(2), sancţiunea în redacţia LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
+(21) Consumul de alcool, de substanţe narcotice, psihotrope şi/sau de alte substanţe cu efecte similare de către conducătorul de vehicul implicat în accident rutier, pînă la testarea alcoolscopică sau pînă la recoltarea probelor biologice în cadrul examenului medical în vederea stabilirii stării de ebrietate şi a naturii ei, cu excepţia consumului de medicamente cu efecte similare substanţelor psihotrope, după producerea accidentului de circulaţie şi pînă la sosirea poliţiei la faţa locului, dacă acestea au fost administrate de personal medical autorizat şi au fost impuse de starea de sănătate,
+se sancţionează cu amendă de 150 de unităţi convenţionale cu privarea de dreptul de a conduce vehicule pe un termen de la 2 la 3 ani.
+[Art.233 al.(21) introdus prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 (3) Acţiunile specificate la alin.(1) şi (2), în cazul în care admiterea la trafic a conducătorului de vehicul nu prevede obligaţia de a deţine permis de conducere,
 se sancţionează cu amendă de la 75 la 150 de unităţi convenţionale sau cu arest contravenţional pe un termen de pînă la 15 zile.
+(3) Acţiunile specificate la alineatele (1)–(21), în cazul în care admiterea la trafic a conducătorului de vehicul nu prevede obligaţia de a deţine permis de conducere,
+se sancţionează cu amendă de 100 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii pe o durată de la 20 la 40 de ore sau cu arest contravenţional pe un termen de 15 zile.
+[Art.233 al.(3) în redacţia LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
+(4) Acţiunile prevăzute la alineatele (1)–(21), săvîrşite de către o persoană care nu deţine permis de conducere sau care este privată de dreptul de a conduce vehicule, dacă fapta nu constituie infracţiune,
+se sancţionează cu amendă de 150 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii pe o durată de la 40 la 60 de ore, sau cu arest contravenţional pe un termen de 15 zile.
+[Art.233 al.(4) introdus prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 Articolul 234. Necomunicarea identităţii persoanei
 căreia i s-a încredinţat conducerea
 vehiculului
@@ -1878,6 +1922,8 @@ Articolul 243. Părăsirea locului în care
 s-a produs accidentul rutier
 Părăsirea de către vinovat a locului în care s-a produs accidentul rutier
 se sancţionează cu privarea de dreptul de a conduce vehicule pe un termen de un an sau cu arest contravenţional pe un termen de 15 zile.
+se sancţionează cu privarea de dreptul de a conduce vehicule pe un termen de la 2 la 3 ani sau cu arest contravenţional pe un termen de 15 zile.
+[Art.243 sancţiunea modificată prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 Articolul 244. Încălcarea dispoziţiilor din Regulamentul
 circulaţiei rutiere, care a generat pericolul
 unui accident de circulaţie
@@ -1909,8 +1955,8 @@ se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale aplica
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice.
 (6) Furnizarea serviciilor de tehnologie a informaţiei într-o perioadă în care dreptul de furnizare a acestor servicii a fost suspendat sau retras
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei juridice.
-Articolul 247. Nerespectarea condiţiilor de
-autorizare generală
+Articolul 247. Nerespectarea condiţiilor de autorizare
+generală
 (1) Nerespectarea condiţiilor de autorizare generală de către furnizorii de reţele sau de servicii de comunicaţii electronice, poştale sau de tehnologie a informaţiei
 se sancţionează cu avertisment sau cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice.
 (2) Nerespectarea prescripţiei privind remedierea încălcării obligaţiilor stabilite în condiţiile de autorizare generală
@@ -1969,8 +2015,8 @@ se sancţionează cu avertisment sau cu amendă de la 10 la 100 de unităţi con
 (5) Încălcarea normelor de emisie electromagnetică şi de perturbaţii industriale admisibile pentru radiorecepţie, împiedicarea recepţionării programelor audiovizuale sau funcţionării echipamentelor şi liniilor de telecomunicaţii
 se sancţionează cu avertisment sau cu amendă de la 10 la 500 de unităţi convenţionale.
 Articolul 252. Conectarea neautorizată sau admiterea
-conectării neautorizate la reţelele
-de comunicaţii electronice
+conectării neautorizate la reţelele de
+comunicaţii electronice
 Conectarea neautorizată sau admiterea conectării neautorizate a echipamentelor terminale sau a altor mijloace de comunicaţii electronice la reţelele de comunicaţii electronice, inclusiv la liniile de abonat,
 se sancţionează cu amendă de la 10 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
 Articolul 253. Refuzul neîntemeiat al furnizorului
@@ -2684,8 +2730,8 @@ se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
 (2) Neexecutarea intenţionată sau eschivarea de la executare de către o persoană cu funcţie de răspundere a hotărîrii instanţei de judecată, precum şi împiedicarea executării ei
 se sancţionează cu amendă de la 200 la 300 de unităţi convenţionale.
 [Art.318 în redacţia LP173 din 09.07.10, MO155-158/03.09.10 art.553]
-Articolul 319. Neexecutarea obligaţiilor
-prevăzute de Codul de executare
+Articolul 319. Neexecutarea obligaţiilor prevăzute
+de Codul de executare
 (1) Acţiunile (inacţiunile) persoanelor care, fără motive întemeiate, nu îndeplinesc cerinţele executorului judecătoresc în cadrul procedurii de executare sau împiedică executarea documentului executoriu
 se sancţionează cu amendă de pînă la 50 de unităţi convenţionale.
 (2) Neîndeplinirea obligaţiei de către părţile procedurii de executare de a comunica executorului judecătoresc schimbarea domiciliului sau a sediului, precum şi necomunicarea în termenele prevăzute de Codul de executare a informaţiilor solicitate de executorul judecătoresc în virtutea atribuţiilor sale
@@ -2699,8 +2745,8 @@ Naţionale de Integritate
 (2) Neaplicarea sancţiunii disciplinare sau neemiterea actului privind încetarea mandatului, a raporturilor de muncă ori de serviciu, dacă actul de constatare al Comisiei Naţionale de Integritate a rămas definitiv,
 se sancţionează cu amendă de la 100 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.3191 introdus prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
-Articolul 320. Imixtiunea în activitatea
-avocatului parlamentar
+Articolul 320. Imixtiunea în activitatea avocatului
+parlamentar
 Imixtiunea în activitatea avocatului parlamentar pentru a influenţa deciziile acestuia asupra unor sesizări, ignorarea intenţionată de către persoana cu funcţie de răspundere a sesizării şi neîndeplinirea recomandărilor date de avocatul parlamentar, împiedicarea sub orice altă formă a activităţii acestuia
 se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 75 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 Articolul 321. Încălcarea regulilor de folosire
@@ -2776,8 +2822,8 @@ care constituie ajutoare umanitare
 Comercializarea ilegală a bunurilor care constituie ajutoare umanitare se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 75 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.3272 introdus prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 Articolul 328. Încălcarea regulilor de păstrare,
-de completare, de evidenţă şi
-de folosire a documentelor de arhivă
+de completare, de evidenţă şi de
+folosire a documentelor de arhivă
 Încălcarea regulilor de păstrare, de completare, de evidenţă şi de folosire a documentelor de arhivă
 se sancţionează cu amendă de la 3 la 5 unităţi convenţionale.
 Articolul 329. Distrugerea şi deteriorarea
@@ -2859,7 +2905,7 @@ Articolul 336. Nesubordonarea cu reavoinţă
 dispoziţiei sau cererii legitime a
 colaboratorului organelor de
 ocrotire a normelor de drept
-Nesubordonarea cu rea-voinţă dispoziţiei sau cererii legitime a procurorului, a ofiţerului de urmărire penală, a ofiţerului de informaţii şi securitate, a colaboratorului organelor afacerilor interne, a altei persoane, aflate în exerciţiul funcţiunii sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii,
+Nesubordonarea cu rea-voinţă dispoziţiei sau cererii legitime a procurorului, a ofiţerului de urmărire penală, a ofiţerului de informaţii şi securitate, a angajatului cu statut special al Ministerului Afacerilor Interne, a altei persoane, aflate în exerciţiul funcţiunii sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii,
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 30 la 60 de ore.
 Articolul 337. Neluarea de măsuri pentru
 înlăturarea încălcării legislaţiei
@@ -2877,9 +2923,9 @@ Articolul 340. Comunicarea de date false pentru
 a fi înscrise în actele de identitate
 Comunicarea de date false pentru a fi înscrise în actele de identitate
 se sancţionează cu amendă de la 40 la 70 de unităţi convenţionale.
-Articolul 341. Ridicarea ilegală de către
-o persoană cu funcţie de
-răspundere a buletinului de identitate
+Articolul 341. Ridicarea ilegală de către o persoană
+cu funcţie de răspundere a buletinului
+de identitate
 Ridicarea ilegală de către o persoană cu funcţie de răspundere a buletinului de identitate, luarea sau predarea acestuia drept garanţie
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale.
 Articolul 342. Chemarea intenţionat falsă a
@@ -3004,9 +3050,9 @@ se sancţionează cu amendă de pînă la 10 unităţi convenţionale sau cu are
 Articolul 353. Ultragierea colaboratorului
 organelor de ocrotire a normelor
 de drept, opunerea de rezistenţă
-(1) Ultragierea colaboratorului organelor de ocrotire a normelor de drept, adică jignirea premeditată a onoarei şi demnităţii procurorului, ofiţerului de urmărire penală, ofiţerului de informaţii şi securitate, colaboratorului organelor afacerilor interne, altei persoane, aflată în exerciţiul funcţiunii sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii, exprimată prin acţiune, verbal sau în scris,
+(1) Ultragierea colaboratorului organelor de ocrotire a normelor de drept, adică jignirea premeditată a onoarei şi demnităţii procurorului, ofiţerului de urmărire penală, ofiţerului de informaţii şi securitate, angajatului cu statut special al Ministerului Afacerilor Interne, altei persoane, aflată în exerciţiul funcţiunii sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii, exprimată prin acţiune, verbal sau în scris,
 se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale sau cu arest contravenţional de la 10 la 15 zile.
-(2) Opunerea de rezistenţă procurorului, ofiţerului de urmărire penală, ofiţerului de informaţii şi securitate, colaboratorului organelor afacerilor interne, unei alte persoane, aflată în exerciţiul funcţiunii sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii,
+(2) Opunerea de rezistenţă procurorului, ofiţerului de urmărire penală, ofiţerului de informaţii şi securitate, angajatului cu statut special al Ministerului Afacerilor Interne, unei alte persoane, aflată în exerciţiul funcţiunii sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii,
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale sau cu arest contravenţional de pînă la 15 zile.
 Capitolul XIX
 CONTRAVENŢII CE ATENTEAZĂ LA ORDINEA
@@ -3068,8 +3114,9 @@ Articolul 362. Încălcarea termenului de înregistrare,
 reînregistrare a armei individuale sau
 prelungire a permisului de deţinere
 a armei şi de portarmă
-(1) Încălcarea termenului de înregistrare sau de reînregistrare a armei individuale la organul de poliţie
+(1) Încălcarea termenului de înregistrare sau de reînregistrare a armei individuale la poliţie
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei juridice.
+[Art.362 al.(1) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (2) Încălcarea termenului de prelungire a permisului de deţinere a armei şi de portarmă
 se sancţionează cu amendă de la 10 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei juridice.
 Articolul 363. Tragerea din armă de foc în locuri publice,
@@ -3383,8 +3430,13 @@ Articolul 398. Competenţa comisiei administrative
 Articolul 399. Competenţa agentului constatator
 (1) Cauza contravenţională se soluţionează de agentul constatator în a cărui rază teritorială a fost săvîrşită contravenţia. Acesta poate aplica sancţiunile prevăzute în partea specială a cărţii a doua în limitele competenţei şi numai în exerciţiul funcţiunii.
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
-Articolul 400. Organele afacerilor interne
-(1) Contravenţiile prevăzute la art.47–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277, art. 282–286, 2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 334, 338–343, art. 349 alin. (1), 350, 354–363, art. 364 alin. (1)–(51), art. 365 se examinează de organele afacerilor interne.
+Articolul 400. Ministerul Afacerilor Interne
+[Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
+(1) Contravenţiile prevăzute la art.47–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277, art. 282–286, 2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 334, 338–343, art. 349 alin. (1), 350, 354–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
+(1) Contravenţiile prevăzute la art.47–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277, art. 282–286, 2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 334, 338–343, art. 349 alin. (1), 350, 354–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
+[Art.400 al.(1) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(1) modificat prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 [Art.400 al.(1) modificat prin LP198 din 12.07.12, MO190-192/14.09.12 art.648]
 [Art.400 al.(1) modificat prin LP93 din 26.04.12, MO149-154/20.07.12 art.482; în vigoare 20.09.12]
@@ -3395,14 +3447,23 @@ Articolul 400. Organele afacerilor interne
 [Art.400 al.(1) modificat prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 [Art.400 al.(1) modificat prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
 [Art.400 al.(1) modificat prin LP66 din 07.04.11, MO110-112/08.07.11 art.299]
-(2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni în limitele competenţei şeful de direcţie şi adjuncţii lui, comisarul de poliţie şi adjuncţii lui, şefii secţiilor de poliţie, şefii sectoarelor de poliţie, şefii posturilor de poliţie, ofiţerii operativi superiori de sector şi ofiţerii de sector ai poliţiei, precum şi şefii posturilor liniare de poliţie, iar pe cauzele privind încălcarea regimului din transporturi şi a regulilor de circulaţie rutieră – şi funcţionarii poliţiei rutiere.
+(2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni în limitele competenţei şefii de direcţii şi adjuncţii lor, şefii inspectoratelor de poliţie şi adjuncţii lor, şefii secţiilor de poliţie, şefii sectoarelor de poliţie, şefii posturilor de poliţie, ofiţerii principali de sector, ofiţerii superiori de sector, ofiţerii de sector, angajaţii secţiilor securitate publică, angajaţii serviciilor patrulare, angajaţii secţiilor supraveghere transport şi circulaţie rutieră, angajaţii serviciilor supraveghere tehnică şi accidente rutiere ale inspectoratelor de poliţie, angajaţii Inspectoratului naţional de patrulare şi ai Inspectoratului naţional de investigaţii din cadrul Inspectoratului General al Poliţiei.
+[Art.400 al.(2) în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (3) Sînt în drept să examineze cauzele privind încălcarea regulilor de apărare împotriva incendiilor şi să aplice sancţiuni şeful Direcţiei salvatori şi pompieri şi adjuncţii lui, şefii detaşamentelor, unităţilor, posturilor paramilitare şi militare de salvatori şi pompieri din subordinea direcţiei, şefii subunităţilor specializate.
-(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 227, 322 se constată de organele afacerilor interne.
+(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 227, 322 se constată de poliţie.
+[Art.400 al.(4) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
+(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 1971, 227, 233, 243, 322 se constată de poliţie.
+[Art.400 al.(4) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
+[Art.400 al.(4) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(4) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
 [Art.400 al.(4) modificat prin LP225 din 25.11.11, MO227-232/23.12.11 art.641]
 (5) Procesele-verbale cu privire la contravenţiile prevăzute la alin.(4) se remit spre examinare comisiei administrative, cu excepţia proceselor-verbale cu privire la contravenţiile prevăzute la art. 322, care se remit spre examinare în fond instanţei de judecată competente.
+(5) Procesele-verbale cu privire la contravenţiile prevăzute la alin.(4) se remit spre examinare comisiei administrative, cu excepţia proceselor-verbale cu privire la contravenţiile, a căror examinare este atribuită la competenţa instanţei de judecată.
+[Art.400 al.(5) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(5) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
 (6) Procesele-verbale cu privire la contravenţiile prevăzute la art. 1971 se remit spre examinare în fond instanţei de judecată competente.
+(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art. 1971, 233, 243, 322 se remit spre examinare în fond instanţei de judecată competente.
+[Art.400 al.(6) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(6) introdus prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
 Articolul 401. Centrul pentru CombatereaCrimelor
 Economice şi Corupţiei
@@ -3492,9 +3553,12 @@ Articolul 408. Agenţia pentru Protecţia Consumatorilor
 (3) Sînt în drept să examineze contravenţii şi să aplice sancţiuni directorul Agenţiei pentru Protecţia Consumatorilor şi adjuncţii lui.
 [Art.408 în redacţia LP140 din 28.07.11, MO146/28.08.11 art.446; în vigoare 01.01.12]
 [Art.408 modificat prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
-Articolul 409. Inspecţia Muncii
-(1) Contravenţiile prevăzute la art.55–61 se constată de Inspecţia Muncii.
-(2) Sînt în drept să constate contravenţii şi să încheie procese-verbale inspectorul general de stat al muncii şi adjuncţii lui, şefii inspectoratelor teritoriale de muncă şi adjuncţii lor, inspectorii de muncă.
+Articolul 409. Inspectoratul de Stat al Muncii
+[Art.409 denumire modificată prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
+(1) Contravenţiile prevăzute la art.55–61 se constată de Inspectoratul de Stat al Muncii.
+[Art.409 al.(1) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
+(2) Sînt în drept să constate contravenţii şi să încheie procese-verbale directorul Inspectoratului de Stat al Muncii şi adjuncţii lui, şefii inspecţiilor teritoriale de muncă şi adjuncţii lor, inspectorii de muncă.
+[Art.409 al.(2) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
 [Art.409 al.(2) modificat prin LP14 din 26.02.10, MO39-40/23.03.10 art.95]
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 Articolul 410. Agenţia Naţională pentru Reglementare
@@ -3584,7 +3648,10 @@ Articolul 421. Executorul judecătoresc
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 [Art.421 în redacţia LP37 din 07.03.12, MO60-62/30.03.12 art.195]
 Articolul 422. Agenţia Medicamentului
-(1) Contravenţiile prevăzute la art.77 alin.(1)–(7) se constată de Agenţia Medicamentului.
+şi Dispozitivelor Medicale
+[Art.422 denumirea în redacţia LP142 din 14.06.13, MO161-166/26.07.13 art.512]
+(1) Contravenţiile prevăzute la art. 77 alin. (1)–(7) şi la art. 771 se constată de Agenţia Medicamentului şi Dispozitivelor Medicale şi de Agenţia Achiziţii Publice.
+[Art.422 al.(1) în redacţia LP142 din 14.06.13, MO161-166/26.07.13 art.512]
 (2) Sînt în drept să constate contravenţii şi să încheie procese-verbale şeful Inspectoratului de Stat Farmaceutic, adjuncţii lui şi farmaciştii inspectori.
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 Articolul 423. Poliţia de Frontieră
@@ -3643,11 +3710,12 @@ Articolul 426. Cercetarea la faţa locului
 (1) În scopul descoperirii urmelor contravenţiei, corpurilor delicte şi pentru a stabili circumstanţele contravenţiei ori alte circumstanţe care au importanţă pentru justa soluţionare a cauzei, agentul constatator efectuează cercetarea la faţa locului (a terenului, încăperilor, obiectelor, documentelor, animalelor, cadavrelor umane sau de animale).
 (2) Cercetarea domiciliului fără permisul persoanei căreia i se lezează dreptul la inviolabilitatea domiciliului se efectuează cu autorizaţia instanţei de judecată.
 (3) În caz de contravenţie flagrantă, cercetarea la domiciliu se poate efectua în baza unei ordonanţe motivate a agentului constatator fără autorizaţia instanţei de judecată, urmînd ca acesteia să i se prezinte imediat sau nu mai tîrziu de 24 de ore de la terminarea cercetării la domiciliu, materialele obţinute în urma cercetării, indicîndu-se motivele efectuării ei. Instanţa de judecată verifică legalitatea acestei acţiuni procesuale.
-(4) Agentul constatator cercetează obiectele vizibile, permite, după caz, accesul la ele în măsura în care nu se încalcă drepturile omului. Persoana care efectuează acţiunea procesuală face, după caz, măsurări, fotografieri, filmări, desene, schiţe, mulaje şi tipare de pe urme de sine stătător sau cu ajutorul specialistului în materie. Locul cercetării poate fi delimitat de lucrătorii organelor de menţinere a ordinii publice.
+(4) Agentul constatator cercetează obiectele vizibile, permite, după caz, accesul la ele în măsura în care nu se încalcă drepturile omului. Persoana care efectuează acţiunea procesuală face, după caz, măsurări, fotografieri, filmări, desene, schiţe, mulaje şi tipare de pe urme de sine stătător sau cu ajutorul specialistului în materie. Locul cercetării poate fi delimitat de angajaţii subdiviziunilor specializate de menţinere a ordinii şi securităţii publice din cadrul Inspectoratului General al Poliţiei.
+[Art.426 al.(4) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (5) Obiectele şi documentele descoperite la faţa locului se examinează în acel loc, iar rezultatele examinării se consemnează în procesul-verbal al acestei acţiuni. În cazul în care se cere un timp mai îndelungat pentru a fi examinate, precum şi în alte cazuri, obiectele, documentele se examinează la sediul autorităţii competentă să soluţioneze cauza contravenţională, în care scop se împachetează, pachetul se sigilează şi se semnează, faptul fiind menţionat în procesul-verbal.
 Articolul 427. Temeiurile pentru ridicarea
 obiectelor şi documentelor
-(1) Dacă este necesar să se ridice anumite obiecte sau documente care ar avea importanţă pentru cauză şi dacă se cunoaşte exact locul şi persoana la care se află, lucrătorul organului afacerilor interne efectuează, în temeiul unei ordonanţe întemeiate, ridicarea lor.
+(1) Dacă este necesar să se ridice anumite obiecte sau documente care ar avea importanţă pentru cauză şi dacă se cunoaşte exact locul şi persoana la care se află, angajatul cu statut special al Ministerului Afacerilor Interne efectuează, în temeiul unei ordonanţe întemeiate, ridicarea lor.
 (2) Ridicarea documentelor conţinînd informaţii care constituie secret de stat, comercial, bancar, ridicarea informaţiei privind convorbirile telefonice se efectuează cu autorizaţia instanţei de judecată.
 (3) Este interzisă ridicarea obiectelor şi documentelor în timpul nopţii, cu excepţia cazurilor de contravenţie flagrantă.
 Articolul 428. Temeiurile pentru efectuarea
@@ -3687,7 +3755,8 @@ Articolul 431. Corpurile delicte
 [Art.431 al.(21) introdus prin LP206 din 16.07.10, MO141-144/10.08.10 art.517]
 (3) Pînă la soluţionarea cauzei contravenţionale, agentul constatator asigură păstrarea corpurilor delicte potrivit prevederilor art.159–161 din Codul de procedură penală, care se aplică în mod corespunzător în procesul contravenţional.
 (4) La judecarea cauzei contravenţionale, instanţa hotărăşte asupra corpurilor delicte potrivit prevederilor art.106 din Codul penal şi ale art.162 din Codul de procedură penală, care se aplică în mod corespunzător în procesul contravenţional.
-(41) La examinarea cauzelor contravenţionale prevăzute la art.50 alin.(2), agentul constatator al organelor afacerilor interne, iar la examinarea celor de la art. 287 alin. (8), (10) şi (11), agentul constatator al Serviciului Vamal hotărăsc asupra corpurilor delicte potrivit prevederilor art. 106 din Codul penal şi ale art. 162 din Codul de procedură penală, care se aplică în modul corespunzător în procesul contravenţional.
+(41) La examinarea cauzelor contravenţionale prevăzute la art.50 alin.(2), agentul constatator al poliţie, iar la examinarea celor de la art. 287 alin. (8), (10) şi (11), agentul constatator al Serviciului Vamal hotărăsc asupra corpurilor delicte potrivit prevederilor art. 106 din Codul penal şi ale art. 162 din Codul de procedură penală, care se aplică în modul corespunzător în procesul contravenţional.
+[Art.431 al.(41) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 [Art.431 al.(41) modificat prin LP216 din 17.09.10, MO191-193/01.10.10 art.634]
 [Art.431 al.(41) introdus prin LP206 din 16.07.10, MO141-144/10.08.10 art.517]
 Capitolul V
@@ -3706,8 +3775,10 @@ a) contravenţiilor flagrante pentru care prezentul cod prevede sancţiunea ares
 b) imposibilităţii identificării persoanei în a cărei privinţă este pornit proces contravenţional dacă au fost epuizate toate măsurile de identificare;
 c) contravenţiilor pasibile, conform prezentului cod, de aplicarea măsurii de siguranţă a expulzării.
 (2) Reţinerea se aplică de către:
-a) Ministerul Afacerilor Interne;
-b) Serviciul de grăniceri, în cauzele de încălcare a regimului de frontieră sau a regimului punctelor de trecere a frontierei de stat;
+a) poliţie;
+[Art.433 al.(2), lit.a) în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
+b) Poliţia de frontieră, în cauzele de încălcare a regimului de frontieră sau a regimului punctelor de trecere a frontierei de stat;
+[Art.433 al.(2), lit.b) modificată prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 c) Serviciul vamal, în cazul contravenţiilor ce ţin de competenţa lui.
 (3) Persoana reţinută va fi informată neîntîrziat, într-o limbă pe care o înţelege, despre motivele reţinerii, faptul informării consemnîndu-se în procesul-verbal cu privire la reţinere.
 (4) Persoanei reţinute i se comunică neîntîrziat, contra semnătură, drepturile prevăzute la art.384, faptul comunicării consemnîndu-se în procesul-verbal cu privire la reţinere.
@@ -3720,7 +3791,7 @@ libertate
 (1) Reţinerea nu poate depăşi 3 ore, cu excepţia cazurilor prevăzute de prezentul articol.
 (2) Persoana suspectată de săvîrşirea unei contravenţii pentru care sancţiunea prevede arestul contravenţional poate fi reţinută pînă la examinarea cauzei contravenţionale, dar nu mai mult decît pe 24 de ore. Faptul reţinerii se comunică neîntîrziat procurorului.
 (3) Persoanele care au încălcat regulile de şedere a cetăţenilor străini şi apatrizilor în Republica Moldova, regimul de frontieră sau regimul punctelor de trecere a frontierei de stat pot fi reţinute pe un termen de pînă la 3 ore pentru încheierea procesului-verbal sau, prin decizia instanţei de judecată, pe un termen de pînă la 72 de ore pentru a identifica persoana şi a clarifica circumstanţele contravenţiei.
-(4) Persoanele care au comis un act huliganic nu prea grav, care au încălcat premeditat modul de folosire a simbolurilor de stat, care au atentat la ordinea publică în condiţiile regimului de stare excepţională, care nu execută cu rea-voinţă dispoziţiile sau cererile legitime ale procurorului, ofiţerului de urmărire penală, ofiţerului de informaţii şi securitate, colaboratorului organului afacerilor interne sau ale unei alte persoane aflate în exerciţiul funcţiei de serviciu sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii, care le-au opus rezistenţă, i-au ultragiat pe aceştia ori pe un militar, care au adresat un apel fals poliţiei, care vînd mărfuri (produse) în locuri interzise sau mărfuri (produse) cu termenele de vînzare expirate, necalitative, fără certificat ori fără semnul conformităţii, sau care au încălcat regulile operaţiunilor valutare pot fi reţinute de autoritatea competentă să examineze cauze contravenţionale.
+(4) Persoanele care au comis un act huliganic nu prea grav, care au încălcat premeditat modul de folosire a simbolurilor de stat, care au atentat la ordinea publică în condiţiile regimului de stare excepţională, care nu execută cu rea-voinţă dispoziţiile sau cererile legitime ale procurorului, ofiţerului de urmărire penală, ofiţerului de informaţii şi securitate, angajatului cu statut special al Ministerului Afacerilor Interne sau ale unei alte persoane aflate în exerciţiul funcţiei de serviciu sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii, care le-au opus rezistenţă, i-au ultragiat pe aceştia ori pe un militar, care au adresat un apel fals poliţiei, care vînd mărfuri (produse) în locuri interzise sau mărfuri (produse) cu termenele de vînzare expirate, necalitative, fără certificat ori fără semnul conformităţii, sau care au încălcat regulile operaţiunilor valutare pot fi reţinute de autoritatea competentă să examineze cauze contravenţionale.
 (5) Termenul reţinerii contravenţionale curge din momentul reţinerii.
 (6) Persoanei reţinute i se asigură cel puţin condiţiile prevăzute în Codul de executare pentru persoanele supuse măsurii arestului preventiv.
 Articolul 436. Liberarea persoanei reţinute
@@ -3732,7 +3803,8 @@ c) lipsesc temeiurile de a fi privată în continuare de libertate.
 (3) La liberare, persoanei reţinute i se înmînează copia de pe procesul-verbal în care se menţionează de cine şi în ce temei a fost reţinută, locul şi timpul reţinerii, temeiul şi timpul liberării.
 Articolul 437. Aducerea silită
 (1) Aducerea silită constă în conducerea forţată în faţa instanţei de judecată a martorului sau a victimei care se eschivează de la prezentare.
-(2) Aducerea silită se efectuează de către organul de poliţie în temeiul unei încheieri judecătoreşti.
+(2) Aducerea silită se efectuează de către poliţie în temeiul unei încheieri judecătoreşti.
+[Art.437 al.(2) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (3) Mandatul de aducere silită va cuprinde:
 a) data şi locul emiterii;
 b) numele, prenumele, funcţia şi semnătura persoanei care dispune aducerea;
@@ -3749,11 +3821,14 @@ c) a expirat termenul de 90 de zile de admitere temporară a mijlocului de trans
 (3) Testarea alcoolscopică, examenul medical, prelevarea de sînge şi de eliminări ale corpului pentru analiză se efectuează de un specialist abilitat cu asemenea atribuţii. Pentru prezentarea cu bună ştiinţă a unei concluzii false, specialistul răspunde în conformitate cu art.312 din Codul penal.
 (4) Modul de efectuare a testării alcoolscopice, a examenului medical, precum şi de constatare a gradului de ebrietate produsă de alcool sau de alte substanţe, se stabileşte de Guvern.
 Articolul 439. Reţinerea şi aducerea vehiculului la parcare
-(1) Vehiculul al cărui conducător a fost înlăturat de la conducere este reţinut şi, dacă nu poate fi predat proprietarului, posesorului sau reprezentantului lor, este adus la staţia de parcare specială sau pe teritoriul organului de poliţie.
-(2) Vehiculul poate fi adus la staţia de parcare specială sau pe teritoriul organului de poliţie şi în cazul în care:
+(1) Vehiculul al cărui conducător a fost înlăturat de la conducere este reţinut şi, dacă nu poate fi predat proprietarului, posesorului sau reprezentantului lor, este adus la staţia de parcare specială sau la subdiviziunea de poliţie cea mai apropiată de locul constatării contravenţiei.
+[Art.439 al.(1) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
+(2) Vehiculul poate fi adus la staţia de parcare specială sau pe teritoriul subdiviziunii de poliţie şi în cazul în care:
+[Art.439 al.(2) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 a) staţionarea lui poate genera un pericol iminent pentru interesul public;
 b) a fost lăsat într-un loc interzis pentru parcare.
-(3) Faptul aducerii vehiculului la staţia de parcare specială sau pe teritoriul organului de poliţie se consemnează într-un proces-verbal, în care se indică:
+(3) Faptul aducerii vehiculului la staţia de parcare specială sau pe teritoriul subdiviziunii de poliţie se consemnează într-un proces-verbal, în care se indică:
+[Art.439 al.(3) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 a) tipul, modelul vehiculului, numărul de înmatriculare, numerele de identificare ale agregatelor marcate, defectele şi deteriorările lui vizibile;
 b) numele, prenumele, funcţia şi semnătura persoanei care a decis aducerea vehiculului la parcare şi care a organizat aducerea;
 c) temeiul de fapt şi temeiul juridic care au determinat aducerea vehiculului;
@@ -3783,7 +3858,7 @@ Articolul 440. Procesul de constatare a faptei contravenţionale
 (41) Prin derogare de la prevederile alin. (1)–(3), în cazul în care faptele contravenţionale specificate la art. 96 alin. (1) lit. a) şi alin. (3) şi la art. 97–103, cu excepţia contravenţiei prevăzute la art. 971 alin. (2), au fost stabilite de către agentul constatator, acesta notifică titularul de drepturi sau autoritatea abilitată conform Legii privind protecţia indicaţiilor geografice, denumirilor de origine şi specialităţilor tradiţionale garantate despre cele constatate. Dacă titularul de drepturi sau autoritatea abilitată conform Legii privind protecţia indicaţiilor geografice, denumirilor de origine şi specialităţilor tradiţionale garantate, în termen de 15 zile lucrătoare de la data primirii notificării, nu depune plîngerea prealabilă, agentul constatator nu începe procesul contravenţional în conformitate cu prevederile prezentului cod.
 [Art.440 al.(41) introdus prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
 (5) Dacă la depistarea sau la examinarea cazului contravenţional se stabileşte competenţa unui alt agent constatator, materialele se remit în aceeaşi zi conform competenţei.
-(6) La solicitarea unor alţi agenţi constatatori, lucrătorul organului afacerilor interne este obligat să le acorde ajutor la constatarea contravenţiei.
+(6) La solicitarea unor alţi agenţi constatatori, angajatul cu statut special al Ministerului Afacerilor Interne este obligat să le acorde ajutor la constatarea contravenţiei.
 Articolul 441. Circumstanţele care înlătură procesul
 contravenţional
 (1) Procesul contravenţional pornit încetează dacă:
@@ -4083,8 +4158,8 @@ TRIMITEREA SPRE EXECUTARE A HOTĂRÎRII
 JUDECĂTOREŞTI. PROBLEMELE CE URMEAZĂ A
 FI SOLUŢIONATE LA EXECUTAREA SANCŢIUNII
 CONTRAVENŢIONALE
-Articolul 478. Trimiterea spre executare a
-hotărîrii judecătoreşti
+Articolul 478. Trimiterea spre executare a hotărîrii
+judecătoreşti
 (1) Trimiterea spre executare a hotărîrii judecătoreşti se pune în sarcina instanţei care a judecat cauza în primă instanţă.
 (2) În termen de 10 zile de la data rămînerii definitive a hotărîrii judecătoreşti, preşedintele instanţei trimite dispoziţia de executare a hotărîrii, împreună cu o copie de pe hotărîrea definitivă, autorităţii însărcinată cu punerea în executare a hotărîrii conform prevederilor legislaţiei de executare. În cazul în care cauza a fost judecată cu recurs, la copia de pe hotărîre se anexează copia de pe decizia instanţei de recurs.
 (3) Autorităţile care pun în executare hotărîrea judecătorească comunică, în cel mult 5 zile, instanţei care a trimis hotărîrea respectivă despre punerea ei în executare. Administraţia locului de deţinere va notifica instanţa care a trimis hotărîrea despre locul în care contravenientul execută sancţiunea.
