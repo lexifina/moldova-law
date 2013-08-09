@@ -14,6 +14,8 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP203 din 12.07.13, MO191-197/06.09.13 art.621; în vigoare 06.03.14
+LP155 din 28.06.13, MO173-176/09.08.13 art.582
 LP116 din 23.05.13, MO146-151/12.07.13 art.456
 LP31 din 07.03.13, MO69-74/05.04.13 art.223
 LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12
@@ -1133,7 +1135,8 @@ Articolul 183. Instituţia
 (5) Instituţia poate fi publică sau privată.
 Articolul 184. Instituţia publică
 (1) Instituţia publică se constituie în baza unui act emis de autoritatea publică şi este finanţată, integral sau parţial, de la bugetul acesteia din urmă.
-(2) Instituţia publică nu este în drept să instituie alte persoane juridice, cu excepţia uniunii de persoane juridice.
+(2) Instituţia publică nu are dreptul să instituie alte persoane juridice, cu excepţia uniunilor de persoane juridice şi a instituţiilor create de către instituţiile de învăţămînt superior de stat cu autonomie universitară cu acordul fondatorului.
+[Art.184 al.(2) în redacţia LP155 din 28.06.13, MO173-176/09.08.13 art.582]
 Articolul 185. Instituţia privată
 (1) Instituţia privată se constituie în baza hotărîrii persoanei fizice sau juridice de drept privat, care o dotează potrivit scopului preconizat.
 (2) Hotărîrea de constituire a instituţiei private se autentifică notarial.
@@ -5499,6 +5502,8 @@ a) au apărut circumstanţe care indică cu certitudine incapacitatea viitoare a
 b) debitorul sau terţul încalcă obligaţia de a acorda garanţii de rambursare a creditului pe care şi-a asumat-o sau alte condiţii înaintate de bancă pentru punerea la dispoziţie a creditului.
 (2) Creditorul are dreptul de a refuza să pună la dispoziţie următoarele tranşe ale creditului, în cazul în care contractul prevede acordarea creditului în tranşe, dacă debitorul nu îndeplineşte condiţiile contractului referitoare la tranşa sau tranşele precedente.
 (3) Debitorul este în drept să refuze creditul parţial sau total. În acest caz, el trebuie să plătească creditorului o remuneraţie pentru punerea la dispoziţie a creditului (comision de neutilizare).
+(3) Debitorul este în drept să refuze creditul parţial sau total. În acest caz, el trebuie să plătească creditorului o remuneraţie pentru punerea la dispoziţie a creditului (comision de neutilizare). Dispoziţiile prezentului alineat nu se aplică în cazul contractelor de credit pentru consumatori, reglementate prin Legea privind contractele de credit pentru consumatori.
+[Art.1241 al.(3) modificat prin LP203 din 12.07.13, MO191-197/06.09.13 art.621; în vigoare 06.03.14]
 (4) Dreptul de refuz prevăzut la alin.(1)-(3) poate fi exercitat doar dacă partea care refuză notifică cealaltă parte într-un termen rezonabil pînă la momentul executării obligaţiilor ce constituie obiectul refuzului.
 Articolul 1242. Rezilierea contractului
 (1) Creditorul poate rezilia contractul şi cere restituirea creditului şi a sumelor aferente dacă:
@@ -5519,7 +5524,9 @@ Articolul 1244. Răspunderea creditorului
 În cazul neexecutării de către bancă a obligaţiei sale de acordare a creditului, debitorul poate pretinde plata unor penalităţi de întîrziere în modul şi în mărimea prevăzute de lege sau de contract.
 Articolul 1245. Repararea prejudiciului în cazul rambursării
 anticipate a creditului
-Dacă debitorul rambursează creditul înainte de scadenţă, creditorul este în drept să ceară reparaţia prejudiciului cauzat prin rambursare anticipată cu deducerea sumelor economisite, luîndu-se în considerare creditul ce s-ar fi putut acorda din contul acestor mijloace. La calcularea prejudiciului, se ţine cont atît de venitul ratat al creditorului, cît şi de cheltuielile evitate de debitor prin rambursarea înainte de termen a creditului.
+(1) Dacă debitorul rambursează creditul înainte de scadenţă, creditorul este în drept să ceară reparaţia prejudiciului cauzat prin rambursare anticipată cu deducerea sumelor economisite, luîndu-se în considerare creditul ce s-ar fi putut acorda din contul acestor mijloace. La calcularea prejudiciului, se ţine cont atît de venitul ratat al creditorului, cît şi de cheltuielile evitate de debitor prin rambursarea înainte de termen a creditului.
+(2) În cazul contractelor de credit pentru consumatori, prejudiciul se repară prin compensare, a cărei mărime se stabileşte prin Legea privind contractele de credit pentru consumatori.
+[Art.1245 al.(2) introdus prin LP203 din 12.07.13, MO191-197/06.09.13 art.621, în vigoare 06.03.14; alineatul unic devine al.(1)]
 S e c ţ i u n e a a 4-a
 GARANŢIA BANCARĂ
 Articolul 1246. Garanţia bancară
@@ -5529,7 +5536,8 @@ Articolul 1246. Garanţia bancară
 (4) Obligaţia faţă de beneficiar, constituită prin garanţie bancară, este independentă de datoria principală pentru garantarea căreia a fost constituită, chiar dacă garanţia face referire la aceasta.
 Articolul 1247. Irevocabilitatea garanţiei bancare
 Garanţia bancară nu poate fi revocată dacă nu s-a dispus altfel.
-Articolul 1248. Inadmisibilitatea transmiterii garanţiei bancare
+Articolul 1248. Inadmisibilitatea transmiterii garanţiei
+bancare
 Dreptul asupra garanţiei bancare nu este transmisibil dacă garanţia nu prevede altfel.
 Articolul 1249. Momentul producerii efectelor garanţiei bancare
 Garanţia bancară produce efecte din momentul eliberării ei dacă garanţia nu prevede altfel.
@@ -6177,8 +6185,8 @@ OBLIGAŢIILE CARE NASC
 DIN CAUZAREA DE DAUNE
 S e c ţ i u n e a 1
 DISPOZIŢII GENERALE
-CU PRIVIRE LA OBLIGAŢIILE
-CARE NASC DIN CAUZAREA DE DAUNE
+CU PRIVIRE LA OBLIGAŢIILE CARE NASC
+DIN CAUZAREA DE DAUNE
 Articolul 1398. Temeiul şi condiţiile generale ale răspunderii
 delictuale
 (1) Cel care acţionează faţă de altul în mod ilicit, cu vinovăţie este obligat să repare prejudiciul patrimonial, iar în cazurile prevăzute de lege, şi prejudiciul moral cauzat prin acţiune sau omisiune.
@@ -6324,10 +6332,10 @@ Articolul 1424. Termenul de prescripţie
 S e c ţ i u n e a a 2-a
 RĂSPUNDEREA PENTRU PREJUDICIUL
 CAUZAT DE PRODUSE CU VICIU
-[Secţiunea 2 titlu modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
+[Secţiunea 2 titlul modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
 Articolul 1425. Temeiurile reparării prejudiciului cauzat de
 produse cu viciu
-[Art.1425 titlu modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
+[Art.1425 titlul modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
 (1) Producătorul răspunde pentru prejudiciul cauzat de un produs cu viciu, chiar şi în lipsa vinovăţiei, cu excepţia cazurilor în care:
 a) nu a pus produsul respectiv în circulaţie;
 b) se poate considera, în funcţie de împrejurări, că produsul nu avea viciul cauzator de pagube în momentul în care producătorul l-a pus în circulaţie;
@@ -6492,8 +6500,8 @@ Notarul, o altă persoană care autentifică testamentul, martorii, precum şi p
 Articolul 1464. Data întocmirii testamentului
 În testament trebuie să se indice data întocmirii lui. Lipsa datei atrage nulitatea testamentului doar dacă nu sînt înlăturate dubiile privind capacitatea de exerciţiu a testatorului la momentul întocmirii, modificării sau revocării testamentului, precum şi în cazul existenţei a cîtorva testamente.
 Capitolul III
-MODIFICAREA, REVOCAREA
-SAU ANULAREA TESTAMENTULUI
+MODIFICAREA, REVOCAREA SAU
+ANULAREA TESTAMENTULUI
 Articolul 1465. Modificarea sau revocarea testamentului
 Testatorul poate modifica sau revoca testamentul în orice moment:
 a) prin întocmirea unui nou testament, care revocă în mod direct, total sau parţial, testamentul anterior ce contravine noului testament;
@@ -6798,7 +6806,8 @@ T i t l u l VI
 CONFIRMAREA DREPTULUI LA MOŞTENIRE
 Articolul 1556. Certificatul de moştenitor
 Persoanele recunoscute ca moştenitori pot cere notarului de la locul deschiderii succesiunii eliberarea certificatului de moştenitor.
-Articolul 1557. Termenul de eliberare a certificatului de moştenitor
+Articolul 1557. Termenul de eliberare a certificatului de
+moştenitor
 (1) Certificatul de moştenitor se eliberează după 6 luni din ziua deschiderii succesiunii, în orice timp.
 (2) Certificatul de moştenitor se eliberează pînă la expirarea termenului de 6 luni dacă notarul dispune de suficiente dovezi că, în afară de persoanele care solicită eliberarea certificatului, nu există alţi moştenitori.
 Articolul 1558. Eliberarea certificatului de calitate de
