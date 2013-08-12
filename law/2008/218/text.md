@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP203 din 12.07.13, MO191-197/06.09.13 art.621; în vigoare 06.03.14
 HCC12 din 04.06.13, MO167-172/02.08.13 art.22; în vigoare 04.06.13
 LP175 din 12.07.13, MO167-172/02.08.13 art.538
 LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13
@@ -2894,9 +2895,10 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale.
 (3) Obţinerea, la cererea persoanei cu funcţie de răspundere, a permisului de şedere în scop de muncă eliberat pe numele unui cetăţean străin sau al unui apatrid, aflat provizoriu în Republica Moldova, fără angajarea acestuia în cîmpul muncii
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată cetăţeanului străin sau apatridului, cu amendă de la 200 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 Capitolul XVIII
-CONTRAVENŢII CE ATENTEAZĂ LA MODUL DE ADMINISTRARE.
-CONTRAVENŢII ÎN DOMENIUL SUPRAVEGHERII PIEŢEI,
-METROLOGIEI, STANDARDIZĂRII ŞI PROTECŢIEI
+CONTRAVENŢII CE ATENTEAZĂ LA MODUL DE
+ADMINISTRARE. CONTRAVENŢII ÎN DOMENIUL
+SUPRAVEGHERII PIEŢEI, METROLOGIEI,
+STANDARDIZĂRII ŞI PROTECŢIEI
 CONSUMATORILOR
 Articolul 335. Samavolnicia
 Samavolnicia, adică exercitarea în mod arbitrar a unui drept efectiv sau presupus prin încălcarea ordinii stabilite de legislaţie, fără a se cauza vreo daună considerabilă persoanei,
@@ -2943,7 +2945,7 @@ depozitarea, plasarea pe piaţă şi
 comercializarea produselor, privind
 prestarea serviciilor şi încălcarea
 regulilor de protecţie a consumatorilor
-[Art.344 titlu în redacţia LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
+[Art.344 titlul în redacţia LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
 (1) Încălcarea cerinţelor de securitate a produselor prin:
 a) producerea, plasarea pe piaţă şi comercializarea produselor ce nu corespund cerinţelor de securitate
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice;
@@ -2985,6 +2987,20 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicat
 e) neprezentarea de către comerciant, la solicitarea consumatorului, a unui exemplar al contractului cu clauze contractuale standard pe care îl propune
 se sancţionează cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
 [Art.344 al.(3), lit.e) introdusă prin LP23 din 01.03.12, MO54-59/23.03.12 art.172; în vigoare 23.06.12]
+4) Încălcarea cerinţelor legislaţiei privind contractele de credit pentru consumatori prin:
+a) neprezentarea sau prezentarea necompletă a informaţiei standard care trebuie inclusă în publicitate sau a informaţiei precontractuale referitoare la contractul de credit pentru consumatori
+se sancţionează cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice;
+b) neincluderea în contract a informaţiilor standard obligatorii referitoare la contractul de credit pentru consumatori; sau
+c) neinformarea, în termen de 7 zile calendaristice, referitor la respingerea cererii de creditare ca rezultat al consultării bazei de date, precum şi la identitatea acestei baze,
+se sancţionează cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice;
+d) neinformarea în legătură cu orice modificare a ratei dobînzii aferente creditului înainte ca modificarea să intre în vigoare
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 180 de unităţi convenţionale aplicată persoanei juridice;
+e) majorarea sau aplicarea nejustificată a comisioanelor, a taxelor, altele decît cele prevăzute în contractul de credit; sau
+f) lipsa notificării în cazul modificării costurilor creditului potrivit condiţiilor contractuale; sau
+g) neindicarea în mod expres în contract a modului de calcul al dobînzii, cu precizarea periodicităţii şi/sau a condiţiilor în care survine modificarea ratei dobînzii flotante; sau
+h) încălcarea cerinţelor privind stabilirea ratei dobînzii sau a regulilor de calculare a dobînzii anuale efective pentru contractele de credit pentru consumatori, precum şi calculul incomplet sau eronat al acesteia,
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice.
+[Art.344 al.(4) introdus prin LP203 din 12.07.13, MO191-197/06.09.13 art.621; în vigoare 06.03.14]
 Articolul 345. Încălcarea regulilor din domeniul metrologiei
 (1) Încălcarea regulilor din domeniul metrologiei prin:
 a) plasarea pe piaţă, punerea în funcţiune sau utilizarea la măsurări în domenii de interes public (sănătatea şi siguranţa populaţiei, ordinea publică, protecţia mediului, protecţia drepturilor consumatorului, perceperea taxelor şi impozitelor, tranzacţiile şi operaţiunile comerciale, controlul calităţii produselor, proceselor şi serviciilor, asigurarea securităţii şi apărării naţionale, în alte domenii ale vieţii publice unde, în urma măsurărilor sau rezultatelor incorecte ale acestora, pot fi afectate, direct sau indirect, viaţa oamenilor sau interesele persoanelor fizice şi/sau juridice) a mijloacelor de măsurare care nu se consideră mijloace de măsurare legale, şi anume: fără marcajul aprobării de model, fără marcajul de verificare metrologică, fără certificat de aprobare de model, fără buletin de verificare metrologică sau cu astfel de documente falsificate;
