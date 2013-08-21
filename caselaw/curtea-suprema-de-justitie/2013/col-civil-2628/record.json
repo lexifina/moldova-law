@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-1427/13, din 21.08.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2628,
+  "number": "2ra-1427/13",
+  "decision_date": "2013-08-21",
+  "decision_date_source_quote": "21 august 2013",
+  "record_date": "2013-08-21",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2628",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2628",
+  "source_sha256": "34ed69e6202c8ac45dc78128e7072cf89cc2532fae654aab6a76474456a7cba9",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1869,
+    "pdftotext_words": 1851,
+    "common_ratio": [
+      0.9888,
+      0.9984
+    ]
+  },
+  "first_law": null
+}
