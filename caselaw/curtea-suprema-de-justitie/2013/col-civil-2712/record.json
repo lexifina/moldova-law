@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 379, din 28.08.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2712,
+  "number": "379",
+  "decision_date": "2013-08-28",
+  "decision_date_source_quote": "28 august 2013",
+  "record_date": "2013-08-28",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2712",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2712",
+  "source_sha256": "1606d7a8f7ef6df96d9c577fd162a2b5df467e3fb81776fe71710090160e2019",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2427,
+    "pdftotext_words": 2418,
+    "common_ratio": [
+      0.9955,
+      0.9992
+    ]
+  },
+  "first_law": null
+}
