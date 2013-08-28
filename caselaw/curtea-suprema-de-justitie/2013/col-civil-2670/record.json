@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-1280/13, din 28.08.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2670,
+  "number": "2ra-1280/13",
+  "decision_date": "2013-08-28",
+  "decision_date_source_quote": "28 august 2013",
+  "record_date": "2013-08-28",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2670",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2670",
+  "source_sha256": "ef67fb6fc6ade49d29bb4cb4da8250eb452c631168f14019f208fdf9936f2582",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1702,
+    "pdftotext_words": 1689,
+    "common_ratio": [
+      0.9912,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
