@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3r-288/13, din 04.09.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 2824,
+  "number": "3r-288/13",
+  "decision_date": "2013-09-04",
+  "decision_date_source_quote": "04 septembrie 2013",
+  "record_date": "2013-09-04",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=2824",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=2824",
+  "source_sha256": "46fb3e62de19fc69fc76da8bacdd4c6b61f1c56e8a05b873ceea4a25a4d5cabd",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1690,
+    "pdftotext_words": 1676,
+    "common_ratio": [
+      0.9899,
+      0.9982
+    ]
+  },
+  "first_law": null
+}
