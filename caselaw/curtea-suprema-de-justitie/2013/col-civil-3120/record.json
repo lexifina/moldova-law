@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2r-671/13, din 11.09.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 3120,
+  "number": "2r-671/13",
+  "decision_date": "2013-09-11",
+  "decision_date_source_quote": "11 septembrie 2013",
+  "record_date": "2013-09-11",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=3120",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=3120",
+  "source_sha256": "661a12b9d140630214c7fe2e4501638c193e88c75990684213302c4c34208661",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1510,
+    "pdftotext_words": 1502,
+    "common_ratio": [
+      0.9927,
+      0.998
+    ]
+  },
+  "first_law": null
+}
