@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-2614/13, din 12.09.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 3183,
+  "number": "2ra-2614/13",
+  "decision_date": "2013-09-12",
+  "decision_date_source_quote": "12 septembrie 2013",
+  "record_date": "2013-09-12",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=3183",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=3183",
+  "source_sha256": "68ca5bdbb5c5b654700e75b62ef2a7abb8fe447198c10b6a381f9afdd926b84f",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1310,
+    "pdftotext_words": 1289,
+    "common_ratio": [
+      0.9817,
+      0.9977
+    ]
+  },
+  "first_law": null
+}
