@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rac-440/13, din 18.09.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 3327,
+  "number": "2rac-440/13",
+  "decision_date": "2013-09-18",
+  "decision_date_source_quote": "18 septembrie 2013",
+  "record_date": "2013-09-18",
+  "in_force": "2013-09-18",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=3327",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=3327",
+  "source_sha256": "56e4c647dcc90028d57e28d7082da9e1bdb4d8d5183b97d8df8e92e4c9e92fd9",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2181,
+    "pdftotext_words": 2159,
+    "common_ratio": [
+      0.9881,
+      0.9981
+    ]
+  },
+  "first_law": null
+}
