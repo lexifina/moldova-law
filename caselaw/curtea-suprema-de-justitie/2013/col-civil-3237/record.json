@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rh-243/13, din 18.09.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 3237,
+  "number": "2rh-243/13",
+  "decision_date": "2013-09-18",
+  "decision_date_source_quote": "18 septembrie 2013",
+  "record_date": "2013-09-18",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=3237",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=3237",
+  "source_sha256": "7d9e103bcdc7f02e2437c4c87e0bba7fad2ec7a35908a921b2b731adf6078bf7",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1200,
+    "pdftotext_words": 1179,
+    "common_ratio": [
+      0.98,
+      0.9975
+    ]
+  },
+  "first_law": null
+}
