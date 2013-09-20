@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2rhe-38/13, din 20.09.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 3416,
+  "number": "2rhe-38/13",
+  "decision_date": "2013-09-20",
+  "decision_date_source_quote": "20 septembrie 2013",
+  "record_date": "2013-09-20",
+  "in_force": "2013-09-20",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=3416",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=3416",
+  "source_sha256": "3edbae2223e4b634070380e1655ae704bcf70fc3deb3f9223ed860b0e1cfeb61",
+  "pdf_pages": 6,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2614,
+    "pdftotext_words": 2605,
+    "common_ratio": [
+      0.9954,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
