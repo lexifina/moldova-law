@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3r-317/13, din 25.09.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 3430,
+  "number": "3r-317/13",
+  "decision_date": "2013-09-25",
+  "decision_date_source_quote": "25 septembrie 2013",
+  "record_date": "2013-09-25",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=3430",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=3430",
+  "source_sha256": "c4af8b2609cf0c1d1ecbbd7cb67a1ac30e550e9671d00d39181f8298a40b5535",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2212,
+    "pdftotext_words": 2194,
+    "common_ratio": [
+      0.9905,
+      0.9986
+    ]
+  },
+  "first_law": null
+}
