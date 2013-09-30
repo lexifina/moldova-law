@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 4s-10/13, din 30.09.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 21,
+  "number": "4s-10/13",
+  "decision_date": "2013-09-30",
+  "decision_date_source_quote": "30 septembrie 2013",
+  "record_date": "2013-09-30",
+  "in_force": "2013-09-30",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=21",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=21",
+  "source_sha256": "12b735e702a81d7b0cc1fc0f3a122b62c585247bfd6e384bdf1bc0102e9a8b27",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1223,
+    "pdftotext_words": 1202,
+    "common_ratio": [
+      0.9804,
+      0.9975
+    ]
+  },
+  "first_law": null
+}
