@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 8, din 02.10.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 4126,
+  "number": "8",
+  "decision_date": "2013-10-02",
+  "decision_date_source_quote": "02 octombrie 2013",
+  "record_date": "2013-10-02",
+  "in_force": "2013-10-02",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=4126",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=4126",
+  "source_sha256": "7fad3fdbf3c55c48d9bc8fabcbabb5cfa6485ad06bfef108d43c3a5531578bb8",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1020,
+    "pdftotext_words": 1012,
+    "common_ratio": [
+      0.9912,
+      0.999
+    ]
+  },
+  "first_law": null
+}
