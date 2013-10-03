@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3ra-1557/13, din 03.10.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 3879,
+  "number": "3ra-1557/13",
+  "decision_date": "2013-10-03",
+  "decision_date_source_quote": "03 octombrie 2013",
+  "record_date": "2013-10-03",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=3879",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=3879",
+  "source_sha256": "ba4cb8bb11486bbdad2e77a4bc06fb5e4d09fa6893f81fefb3f75dfca7236ab8",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1839,
+    "pdftotext_words": 1817,
+    "common_ratio": [
+      0.9859,
+      0.9978
+    ]
+  },
+  "first_law": null
+}
