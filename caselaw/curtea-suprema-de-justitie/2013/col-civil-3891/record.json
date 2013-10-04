@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-2126/13, din 04.10.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 3891,
+  "number": "2ra-2126/13",
+  "decision_date": "2013-10-04",
+  "decision_date_source_quote": "04 octombrie 2013",
+  "record_date": "2013-10-04",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=3891",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=3891",
+  "source_sha256": "e8e5cf6820241a0c808aadb6469a4ea97d053815f6abe96867c2edffef1dd7e7",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3426,
+    "pdftotext_words": 3417,
+    "common_ratio": [
+      0.9962,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
