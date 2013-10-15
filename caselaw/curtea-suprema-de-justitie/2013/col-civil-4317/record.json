@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), id 4317, din 15.10.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 4317,
+  "number": null,
+  "decision_date": "2013-10-15",
+  "decision_date_source_quote": "15 octombrie 2013",
+  "record_date": "2013-10-15",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=4317",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=4317",
+  "source_sha256": "9a72590bffe32be1579181b0348b40700e849966764219900ddbdd9f8bffda39",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 920,
+    "pdftotext_words": 906,
+    "common_ratio": [
+      0.9826,
+      0.9978
+    ]
+  },
+  "first_law": null
+}
