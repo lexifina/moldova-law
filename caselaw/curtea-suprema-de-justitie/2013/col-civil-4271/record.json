@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-1995/13, din 16.10.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 4271,
+  "number": "2ra-1995/13",
+  "decision_date": "2013-10-16",
+  "decision_date_source_quote": "16 octombrie 2013",
+  "record_date": "2013-10-16",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=4271",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=4271",
+  "source_sha256": "3399509df5b38663a258183122a29784b33064eb7ac638d20d29b183e4eaf7dc",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2121,
+    "pdftotext_words": 2115,
+    "common_ratio": [
+      0.9967,
+      0.9995
+    ]
+  },
+  "first_law": null
+}
