@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-3099/13, din 17.10.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 4313,
+  "number": "2ra-3099/13",
+  "decision_date": "2013-10-17",
+  "decision_date_source_quote": "17 octombrie 2013",
+  "record_date": "2013-10-17",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=4313",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=4313",
+  "source_sha256": "0d15c261d26fa058b98880516ea585a1c213d7e205f1fd9ea4c2ecb4d22c0b1c",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "text contains an unmasked personal identifier, birth date or address",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3587,
+    "pdftotext_words": 3580,
+    "common_ratio": [
+      0.9975,
+      0.9994
+    ]
+  },
+  "first_law": null
+}
