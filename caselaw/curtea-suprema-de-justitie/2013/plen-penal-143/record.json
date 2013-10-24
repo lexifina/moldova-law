@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Plenul Colegiului penal), nr. 4-1re-221/2013, din 24.10.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_penal",
+  "database_label": "Plenul Colegiului penal",
+  "source_id": 143,
+  "number": "4-1re-221/2013",
+  "decision_date": "2013-10-24",
+  "decision_date_source_quote": "24 octombrie 2013",
+  "record_date": "2013-10-24",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_plen_penal.php?id=143",
+  "listing": "http://jurisprudenta.csj.md/db_plen_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_penal.php?id=143",
+  "source_sha256": "043eafe04e6f493c7f1fba9d248383e2c0b76e4f198b949f15a03cb7bd70e109",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1105,
+    "pdftotext_words": 1105,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
