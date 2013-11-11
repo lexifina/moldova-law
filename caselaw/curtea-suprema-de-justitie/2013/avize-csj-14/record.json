@@ -1,0 +1,30 @@
+{
+  "title": "Avizul consultativ al CSJ (Avizele consultative), id 14, din 11.11.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "avize_csj",
+  "database_label": "Avizele consultative",
+  "source_id": 14,
+  "number": null,
+  "decision_date": "2013-11-11",
+  "decision_date_source_quote": "11 noiembrie 2013",
+  "record_date": "2013-11-11",
+  "in_force": "2013-11-11",
+  "source": "http://jurisprudenta.csj.md/search_avize_csj.php?id=14",
+  "listing": "http://jurisprudenta.csj.md/db_avize_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_avize_csj.php?id=14",
+  "source_sha256": "7023cb0cb2d70877f0ca4428d7f2f81e9e92ea8b2854d1fe19a9c808ac8bcf29",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 831,
+    "pdftotext_words": 831,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
