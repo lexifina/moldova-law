@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor penale), nr. 2e-, din 11.12.2013",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawp",
+  "database_label": "Jurisprudența relevantă cauzelor penale",
+  "source_id": 40,
+  "number": "2e-",
+  "decision_date": "2013-12-11",
+  "decision_date_source_quote": "11 decembrie 2013",
+  "record_date": "2013-12-11",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawp.php?id=40",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawp.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawp.php?id=40",
+  "source_sha256": "96ab03b61deb6cdca5d2d022dcda15bcff644c86ace6c1375404a10ccd9468cc",
+  "pdf_pages": 6,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2836,
+    "pdftotext_words": 2836,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
