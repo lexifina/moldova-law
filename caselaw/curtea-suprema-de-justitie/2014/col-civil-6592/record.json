@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-249/14, din 16.01.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 6592,
+  "number": "2ra-249/14",
+  "decision_date": "2014-01-16",
+  "decision_date_source_quote": "16 ianuarie 2014",
+  "record_date": "2014-01-16",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=6592",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=6592",
+  "source_sha256": "b6d6ac5badc86fcba3ac61eaaa642775d03f5b186bfd2c660e94efdbb15a7830",
+  "pdf_pages": 6,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2443,
+    "pdftotext_words": 2422,
+    "common_ratio": [
+      0.9902,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
