@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 3ra-23/14, din 22.01.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 6778,
+  "number": "3ra-23/14",
+  "decision_date": "2014-01-22",
+  "decision_date_source_quote": "22 ianuarie 2014",
+  "record_date": "2014-01-22",
+  "in_force": "2014-01-22",
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=6778",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=6778",
+  "source_sha256": "352d8a7671580a16d11ee4e0192d5fb408ec2df700b129eccc467df96663c5f7",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3114,
+    "pdftotext_words": 3108,
+    "common_ratio": [
+      0.9978,
+      0.9997
+    ]
+  },
+  "first_law": null
+}
