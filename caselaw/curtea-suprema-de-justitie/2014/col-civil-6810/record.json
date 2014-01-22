@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2r-108/14, din 22.01.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 6810,
+  "number": "2r-108/14",
+  "decision_date": "2014-01-22",
+  "decision_date_source_quote": "22 ianuarie 2014",
+  "record_date": "2014-01-22",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=6810",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=6810",
+  "source_sha256": "61f8e0c7449f8f2cb42fe975634674275e97b9fd6a51fb15edb95b040794e149",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2877,
+    "pdftotext_words": 2858,
+    "common_ratio": [
+      0.992,
+      0.9986
+    ]
+  },
+  "first_law": null
+}
