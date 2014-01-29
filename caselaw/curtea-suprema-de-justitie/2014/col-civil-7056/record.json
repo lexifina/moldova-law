@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 05V/2010, din 29.01.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 7056,
+  "number": "05V/2010",
+  "decision_date": "2014-01-29",
+  "decision_date_source_quote": "29 ianuarie 2014",
+  "record_date": "2014-01-29",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=7056",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=7056",
+  "source_sha256": "9115be44753e1aa922244a658129d2086e7ad55012dae24d2ce821d80c4767b0",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2030,
+    "pdftotext_words": 2016,
+    "common_ratio": [
+      0.9921,
+      0.999
+    ]
+  },
+  "first_law": null
+}
