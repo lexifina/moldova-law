@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ra-420/14, din 05.02.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 7206,
+  "number": "2ra-420/14",
+  "decision_date": "2014-02-05",
+  "decision_date_source_quote": "05 februarie 2014",
+  "record_date": "2014-02-05",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=7206",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=7206",
+  "source_sha256": "6c10032d29e3aaa810df7c5ba15f8ae19f34d5f3b725722fd3325858172a43c8",
+  "pdf_pages": 9,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3871,
+    "pdftotext_words": 3865,
+    "common_ratio": [
+      0.9982,
+      0.9997
+    ]
+  },
+  "first_law": null
+}
