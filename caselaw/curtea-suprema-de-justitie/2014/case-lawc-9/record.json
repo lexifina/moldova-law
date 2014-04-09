@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3r-63/14, din 09.04.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 9,
+  "number": "3r-63/14",
+  "decision_date": "2014-04-09",
+  "decision_date_source_quote": "09 aprilie 2014",
+  "record_date": "2014-04-09",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=9",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=9",
+  "source_sha256": "fda709983d80babd1d0e38803a78d76ac2e818a8f40707eac260ddbca6e663f1",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1293,
+    "pdftotext_words": 1274,
+    "common_ratio": [
+      0.9822,
+      0.9969
+    ]
+  },
+  "first_law": null
+}
