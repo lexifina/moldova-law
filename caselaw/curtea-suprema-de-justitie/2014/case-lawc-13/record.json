@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2rac-157/14, din 09.04.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 13,
+  "number": "2rac-157/14",
+  "decision_date": "2014-04-09",
+  "decision_date_source_quote": "09 aprilie 2014",
+  "record_date": "2014-04-09",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=13",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=13",
+  "source_sha256": "ac43691eea0cc3ae5dc7e766d5f281cdf17aa944404925544ddcde1db7a329c3",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1836,
+    "pdftotext_words": 1826,
+    "common_ratio": [
+      0.9918,
+      0.9973
+    ]
+  },
+  "first_law": null
+}
