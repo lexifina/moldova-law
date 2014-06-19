@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Plenul Colegiului penal), nr. 4-1re-146/14, din 19.06.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_penal",
+  "database_label": "Plenul Colegiului penal",
+  "source_id": 409,
+  "number": "4-1re-146/14",
+  "decision_date": "2014-06-19",
+  "decision_date_source_quote": "19 iunie 2014",
+  "record_date": "2014-06-19",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_plen_penal.php?id=409",
+  "listing": "http://jurisprudenta.csj.md/db_plen_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_penal.php?id=409",
+  "source_sha256": "02f488dc67b3a93a84b420e91ad10f37d053330db9545a09d3537f0eb5eb3f4a",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1708,
+    "pdftotext_words": 1708,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
