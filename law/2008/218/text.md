@@ -15,6 +15,12 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP100 din 12.06.14, MO169-173/27.06.14 art.383
+LP87 din 29.05.14, MO160-166/20.06.14 art.353
+LP43 din 27.03.14, MO99-102/25.04.14 art.247
+LP41 din 27.03.14, MO99-102/25.04.14 art.245
+LP38 din 27.03.14, MO92-98/18.04.14 art.228
+LP22 din 13.03.14, MO80-85/04.04.14 art.181
 LP321 din 23.12.13, MO27-34/07.02.14 art.67; în vigoare 07.08.14
 LP287 din 05.12.13, MO27-34/07.02.14 art.63
 LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14
@@ -1360,12 +1366,13 @@ Articolul 167. Deteriorarea intenţionată a gazoductelor
 la efectuarea de lucrări
 Deteriorarea intenţionată a gazoductelor şi a utilajelor acestora la efectuarea de lucrări
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-Articolul 168. Încălcarea legislaţiei în zona
-de protecţie a gazoductelor magistrale
+Articolul 168. Încălcarea legislaţiei în zona de protecţie
+a gazoductelor magistrale
 Încălcarea legislaţiei în zona de protecţie a gazoductelor magistrale
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu demolarea construcţiilor şi defrişarea arborilor şi arbuştilor de către proprietar sau, în mod silit, de către autorităţile administraţiei publice locale din contul proprietarului.
-Articolul 169. Încălcarea normelor de desfăşurare a
-activităţilor licenţiate în domeniul energetic
+Articolul 169. Încălcarea normelor de desfăşurare
+a activităţilor licenţiate în domeniul
+energetic
 Încălcarea de către titularul de licenţă a normelor de desfăşurare a activităţilor licenţiate în domeniul energetic manifestată prin:
 a) refuzul de a permite efectuarea controalelor, verificărilor, inspecţiilor dispuse de către autoritatea de reglementare sau obstrucţionarea autorităţii de reglementare în efectuarea acestora;
 b) neprezentarea în termen a datelor/informaţiilor solicitate de autoritatea de reglementare sau furnizarea de date/informaţii incorecte sau incomplete;
@@ -1501,9 +1508,9 @@ Articolul 183. Daunele provocate semănăturilor,
 plantaţiilor sau recoltei de culturi agricole
 Daunele provocate semănăturilor, plantaţiilor sau recoltei strînse de culturi agricole ce se află în cîmp
 se sancţionează cu amendă de 10 unităţi convenţionale aplicată proprietarului de vite sau de păsări ori persoanei responsabile de ele.
-Articolul 184. Încălcarea normelor tehnice
-privind producerea, prelucrarea,
-păstrarea şi comercializarea seminţelor
+Articolul 184. Încălcarea normelor tehnice privind
+producerea, prelucrarea, păstrarea şi
+comercializarea seminţelor
 Producerea, prelucrarea, păstrarea şi comercializarea seminţelor neconforme după calitate standardelor în vigoare sau fără actele de confirmare a calităţii de soi şi a calităţii culturale
 se sancţionează cu amendă de 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
 Articolul 185. Producerea şi/sau comercializarea
@@ -1604,8 +1611,9 @@ Articolul 198. Încălcarea regulilor de securitate
 în transportul feroviar
 (1) Punerea pe liniile de cale ferată a unor obiecte, fapt ce ar putea duce la deranjarea circulaţiei trenurilor,
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale.
-(2) Deteriorarea intenţionată a liniei de cale ferată, a perdelelor forestiere de protecţie, a paravanelor, a grilajelor de protecţie contra zăpezii şi a altor obiective, a construcţiilor de deservire a căilor ferate, a instalaţiilor de semnalizare şi de telecomunicaţii
+(2) Deteriorarea sau distrugerea liniei de cale ferată, a perdelelor forestiere de protecţie, a paravanelor, a grilajelor de protecţie contra zăpezii şi a altor obiective, a construcţiilor de deservire a căilor ferate, a instalaţiilor de semnalizare şi de telecomunicaţii
 se sancţionează cu amendă de la 20 la 50 de unităţi convenţionale.
+[Art.198 al.(2) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 (3) Încălcarea regulilor de trecere a transportului cu tracţiune animală şi de mînare a vitelor peste linia de cale ferată, precum şi de păşunare a vitelor în apropierea liniei de cale ferată,
 se sancţionează cu avertisment sau cu amendă de la 3 la 5 unităţi convenţionale.
 (4) Traversarea de către pietoni a liniei de cale ferată în locuri interzise sau încălcarea regulilor de traversare în locuri stabilite
@@ -1902,10 +1910,15 @@ se sancţionează cu amendă de 20 de unităţi convenţionale cu aplicarea a 3 
 se sancţionează cu amendă de 30 de unităţi convenţionale cu aplicarea a 4 puncte de penalizare.
 (3) Depăşirea vitezei de circulaţie stabilită pe sectorul respectiv de drum mai mult de 40 km/oră
 se sancţionează cu amendă de 50 de unităţi convenţionale cu aplicarea a 5 puncte de penalizare.
-Articolul 237. Încălcarea regulilor de traversare a liniei
-de cale ferată prin pasajul de nivel
-Încălcarea de către conducătorul de vehicul a regulilor de traversare a liniei de cale ferată prin pasajul de nivel
-se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale cu aplicarea a 4 puncte de penalizare.
+Articolul 237. Încălcarea regulilor de traversare
+a liniei de cale ferată
+(1) Traversarea de către conducătorul de vehicul a liniei de cale ferată în afara pasajului de nivel
+se sancţionează cu amendă de la 100 la 125 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii pe o durată de la 20 la 30 de ore, sau cu arest contravenţional pe un termen de 15 zile, în toate cazurile cu privarea de dreptul de a conduce vehicule pe un termen de 6 luni.
+(2) Încălcarea de către conducătorul de vehicul a regulilor de traversare a liniei de cale ferată prin pasajul de nivel
+se sancţionează cu amendă de la 100 la 125 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii pe o durată de la 30 la 40 de ore, sau cu arest contravenţional pe un termen de 15 zile, în toate cazurile cu privarea de dreptul de a conduce vehicule pe un termen de un an.
+(3) Încălcarea de către conducătorul de vehicul a dispoziţiilor alin. (1) şi (2), care a generat riscul producerii unui accident de circulaţie,
+se sancţionează cu amendă de la 125 la 150 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii pe o durată de la 40 la 60 de ore, sau cu arest contravenţional pe un termen de 15 zile, în toate cazurile cu privarea de dreptul de a conduce vehicule pe un termen de la 2 la 3 ani.
+[Art.237 în redacția LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 Articolul 238. Încălcarea regulilor de oprire şi neacordarea
 de prioritate pietonilor şi altor participanţi
 la traficul rutier
@@ -1922,12 +1935,14 @@ se sancţionează cu amendă de la 5 la 10 unităţi convenţionale cu aplicarea
 Articolul 240. Nerespectarea indicatoarelor de semnalizare
 rutieră şi de acordare a priorităţii de trecere,
 a altor reguli de circulaţie rutieră
-(1) Nerespectarea de către conducătorul de vehicul a indicatoarelor rutiere de prioritate, a indicatoarelor de interzicere şi de sens obligatoriu, a marcajului de pe partea carosabilă a drumului privind acordarea dreptului prioritar de circulaţie, dreptului de depăşire a vehiculelor, a exigenţelor de folosire a dispozitivelor de iluminat la căderea întunericului sau în condiţii de vizibilitate redusă
-se sancţionează cu amendă de la 5 la 10 unităţi convenţionale.
+(1) Nerespectarea de către conducătorul de vehicul a indicatoarelor rutiere de prioritate, a indicatoarelor de interzicere şi de sens obligatoriu, a indicatoarelor de informare privind direcţia permisă de deplasare, a marcajului de pe partea carosabilă a drumului privind acordarea dreptului prioritar de circulaţie, dreptului privind delimitarea benzilor de circulaţie pe sens opus şi a celor destinate vehiculelor de rută, nerespectarea regulilor de circulaţie privind începerea deplasării şi schimbarea direcţiei de mers, privind poziţia pe carosabil, privind depăşirea vehiculelor, privind traversarea intersecţiilor şi a locurilor de oprire a transportului public, privind remorcarea vehiculelor, privind transportul persoanelor şi al încărcăturilor, privind deplasarea pe autostrăzi, nerespectarea exigenţelor de folosire a dispozitivelor de iluminat la căderea întunericului sau în condiţii de vizibilitate redusă.
+[Art.240 al.(1), dispoziția modificată prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
+se sancţionează cu amendă de la 20 la 25 de unităţi convenţionale cu aplicarea a 3 puncte de penalizare.
+[Art.240 al.(1), sancțiunea modificată prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 (2) Neglijarea de către conducătorul de vehicul a semnalului de interzicere al semaforului sau a gestului de interzicere al agentului de circulaţie
-se sancţionează cu amendă de la 25 la 30 de unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
-(3) Încălcarea de către conducătorul de vehicul a altor prevederi ale Regulamentului circulaţiei rutiere
-se sancţionează cu avertisment sau cu amendă de la o unitate la 3 unităţi convenţionale.
+se sancţionează cu amendă de la 25 la 30 de unităţi convenţionale cu aplicarea a 3 puncte de penalizare.
+[Art.240 al.(2), sancțiunea modificată prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
+[Art.240 al.(3) exclus prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 Articolul 241. Neîndeplinirea indicaţiei legale de
 oprire a vehiculului şi de acordare
 vehiculelor a priorităţii de trecere
@@ -1951,7 +1966,8 @@ se sancţionează cu privarea de dreptul de a conduce vehicule pe un termen de l
 Articolul 244. Încălcarea dispoziţiilor din Regulamentul
 circulaţiei rutiere, care a generat pericolul
 unui accident de circulaţie
-Încălcarea de către conducătorul de vehicul a dispoziţiilor din Regulamentul circulaţiei rutiere, prevăzute la art.237–239 din prezentul cod, care a generat pericolul unui accident de circulaţie
+Încălcarea de către conducătorul de vehicul a dispoziţiilor din Regulamentul circulaţiei rutiere, prevăzute la art. 238, 239 din prezentul cod, care a generat pericolul unui accident de circulaţie
+[Art.244 dispoziția modificată prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale cu aplicarea a 4 puncte de penalizare.
 Articolul 245. Încălcarea regulilor de circulaţie de către
 pietoni şi alţi participanţi la circulaţia rutieră
@@ -2008,7 +2024,8 @@ logiei informaţiei
 se sancţionează cu avertisment sau cu amendă de la 50 la 70 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice.
 (2) Nerespectarea prescripţiei privind remedierea încălcării reglementărilor sau a normelor tehnice
 se sancţionează cu privarea de dreptul de utilizare a resurselor limitate şi/sau de dreptul de furnizare a reţelelor sau a serviciilor pe un termen de la 6 luni la un an.
-(3) Utilizarea sau conectarea la reţelele de comunicaţii electronice a echipamentelor, cablurilor sau elementelor de reţea de comunicaţii electronice sau poştale necertificate şi nemarcate de organul abilitat
+(3) Utilizarea sau conectarea la reţelele de comunicaţii electronice a echipamentelor de comunicaţii electronice sau poştale care nu sînt însoţite de declaraţia de conformitate emisă de producător, reprezentantul său autorizat ori importator în baza certificatului de conformitate ori a rapoartelor de încercări, sau care nu sînt marcate conform reglementărilor tehnice aplicabile
+[Art.250 al.(3) modificat prin LP87 din 29.05.14, MO160-166/20.06.14 art.353]
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice.
 (4) Instalarea sau utilizarea neautorizată a echipamentelor de radiocomunicaţii de emisie în mijloacele de transport
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice.
@@ -2020,7 +2037,8 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicat
 se sancţionează cu amendă de la 10 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 300 de unităţi convenţionale aplicată persoanei juridice.
 (8) Instalarea sau utilizarea staţiilor de radiocomunicaţii, inclusiv a antenelor de emisie, fără coordonarea cu organul abilitat şi fără obţinerea de la acesta a autorizaţiei de utilizare
 se sancţionează cu amendă de la 10 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 500 de unităţi convenţionale aplicată persoanei juridice.
-(9) Comercializarea echipamentelor, cablurilor, elementelor de reţea pentru necesităţile comunicaţiilor electronice sau poştale necertificate şi nemarcate
+(9) Plasarea pe piaţă a echipamentelor de comunicaţii electronice sau poştale care nu sînt însoţite de declaraţia de conformitate emisă de producător, reprezentantul său autorizat ori importator în baza certificatului de conformitate ori a rapoartelor de încercări, sau care nu sînt marcate conform reglementărilor tehnice aplicabile
+[Art.250 al.(9), dispoziția în redacția LP87 din 29.05.14, MO160-166/20.06.14 art.353]
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice.
 Articolul 251. Încălcarea normelor de emisie
 electromagnetică şi de perturbaţii
@@ -2562,6 +2580,20 @@ se sancţionează cu amendă de 75 de unităţi convenţionale aplicată persoan
 (9) Desfăşurarea activităţilor de instalare, reparare, deservire tehnică a maşinilor de casă şi control fără a deţine autorizaţia de competenţă tehnică respectivă sau desfăşurarea activităţilor de instalare, reparare, deservire tehnică cu autorizaţia de competenţă tehnică cu termenul de valabilitate expirat, sau perfectarea incompletă (inadecvată) a registrului de evidenţă a serviciilor de asistenţă tehnică pentru maşina de casă şi control se sancţionează cu amendă de 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (10) Săvîrşirea repetată, în decursul unui an calendaristic, a unei contravenţii prevăzute la alin.(2) şi (9) de către o persoană sancţionată contravenţional pentru aceste contravenţii se sancţionează cu amendă de 300 de unităţi convenţionale.
 [Art.2931 introdus prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+Articolul 2932. Încălcarea legislaţiei cu privire
+la prestarea serviciilor de plată
+şi emiterea de monedă electronică
+(1) Desfăşurarea activităţii de prestare a serviciilor de plată şi/sau de emitere a monedei electronice fără înregistrare sau fără licenţă, dacă licenţa este obligatorie, ori cu încălcarea condiţiilor de licenţiere, dacă aceste acţiuni au cauzat pagube persoanei fizice sau juridice ori statului sau dacă sînt însoţite de însuşirea unui venit,
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
+(2) Acceptarea (atragerea) depozitelor ori a altor fonduri rambursabile, în sensul Legii instituţiilor financiare, de către societatea de plată, societatea emitentă de monedă electronică sau de către furnizorul de servicii poştale
+se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
+(3) Calcularea şi acordarea dobînzii sau a oricărui alt beneficiu legat de perioada în care emitentul de monedă electronică deţine moneda electronică, acordarea de împrumuturi (credite) din fondurile primite sau deţinute în scop de emitere a monedei electronice
+se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
+(4) Încălcarea de către prestatorul de servicii de plată a regulilor referitoare la transparenţa condiţiilor şi la cerinţele de informare privind serviciile de plată, prevăzute de legislaţia cu privire la serviciile de plată,
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei juridice.
+(5) Încălcarea regulilor privind prestarea serviciilor de plată şi/sau privind emiterea monedei electronice, prevăzute la art. 50 alin. (1), (2), (5), art. 52 alin. (4), art. 53, art. 55 alin. (1), art. 56 alin. (1) şi (2), art. 58 alin. (3), art. 59 alin. (1), (3), (4), (7), (8), art. 61, art. 62 alin. (6), art.63–67, art. 68 alin. (1), (3), (5), art.70 alin. (2)–(4), (6), (8)–(10) şi la art. 77 alin. (4) din Legea cu privire la serviciile de plată şi moneda electronică,
+se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 350 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
+[Art.2932 introdus prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 Articolul 294. Încălcarea regulilor de prezentare a
 declaraţiilor privind calcularea şi
 utilizarea contribuţiilor de asigurări
@@ -2883,6 +2915,11 @@ Naţionale de Integritate
 (2) Neaplicarea sancţiunii disciplinare sau neemiterea actului privind încetarea mandatului, a raporturilor de muncă ori de serviciu, dacă actul de constatare al Comisiei Naţionale de Integritate a rămas definitiv,
 se sancţionează cu amendă de la 100 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.3191 introdus prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
+Articolul 3192. Neexecutarea hotărîrilor Curţii
+de Conturi
+Acţiunile sau inacţiunile persoanelor cu funcţii de răspundere care, fără motive întemeiate, nu execută hotărîrile Curţii de Conturi în termenele stabilite de către aceasta
+se sancţionează cu amendă de la 200 la 350 de unităţi convenţionale.
+[Art.3192 introdus prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
 Articolul 320. Imixtiunea în activitatea avocatului
 parlamentar
 Imixtiunea în activitatea avocatului parlamentar pentru a influenţa deciziile acestuia asupra unor sesizări, ignorarea intenţionată de către persoana cu funcţie de răspundere a sesizării şi neîndeplinirea recomandărilor date de avocatul parlamentar, împiedicarea sub orice altă formă a activităţii acestuia
@@ -2995,11 +3032,13 @@ sau comunicarea de date statistice eronate
 Neprezentarea la timp organelor abilitate a datelor statistice sau comunicarea de date statistice eronate ori în volum incomplet
 se sancţionează cu amendă de la 20 la 70 de unităţi convenţionale.
 Articolul 3301. Împiedicarea activităţii legitime a
-autorităţii de protecţie a concurenţei
-(1) Prezentarea informaţiei neautentice sau incomplete autorităţii de protecţie a concurenţei
+Consiliului Concurenţei
+[Art.3301 titlul modificat prin LP38 din 27.03.14, MO92-98/18.04.14 art.228]
+(1) Prezentarea informaţiei neautentice sau incomplete Consiliului Concurenţei
 se sancţionează cu amendă de la 30 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-(2) Împiedicarea activităţii legitime a funcţionarilor din cadrul autorităţii de protecţie a concurenţei, comisă prin neadmiterea controlului, împiedicarea accesului în încăperi ori pe teritoriu sau neprezentarea informaţiei solicitate
+(2) Împiedicarea activităţii legitime a funcţionarilor din cadrul Consiliului Concurenţei, comisă prin neadmiterea controlului, împiedicarea accesului în încăperi ori pe teritoriu sau neprezentarea informaţiei solicitate
 se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.3301 modificat prin LP38 din 27.03.14, MO92-98/18.04.14 art.228]
 [Art.3301 introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 Articolul 3302. Încălcarea termenelor de declarare
 a veniturilor şi a proprietăţii sau
@@ -3007,14 +3046,18 @@ a intereselor personale
 Nedepunerea declaraţiei cu privire la venituri şi proprietate sau a declaraţiei de interese personale, în termenele stabilite de legislaţie, de către persoana obligată să o depună
 se sancţionează cu amendă de la 75 la 150 de unităţi convenţionale.
 [Art.3302 introdus prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
+Articolul 3303. Încălcarea legislaţiei şi a reglementărilor
+din domeniul ajutorului de stat
+Încălcarea legislaţiei şi a reglementărilor din domeniul ajutorului de stat la acordarea, raportarea, utilizarea sau la ţinerea evidenţei ajutoarelor de stat, precum şi neîndeplinirea unei obligaţii sau a unei condiţii impuse printr-o decizie ori prescripţie a Consiliului Concurenţei
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 250 de unităţi convenţionale aplicată persoanei juridice.
+[Art.3303 introdus prin LP38 din 27.03.14, MO92-98/18.04.14 art.228]
 Capitolul XVII
 CONTRAVENŢII CE ATENTEAZĂ LA REGIMUL
 FRONTIEREI DE STAT ŞI REGIMUL DE ŞEDERE
 PE TERITORIUL REPUBLICII MOLDOVA
 Articolul 331. Deteriorarea, nimicirea, permutarea
-intenţionată a semnelor frontierei de
-stat, instalarea unor semne de frontieră
-false
+intenţionată a semnelor frontierei de sat,
+instalarea unor semne de frontieră false
 Deteriorarea, nimicirea, permutarea intenţionată a semnelor frontierei de stat, instalarea unor semne de frontieră false
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale.
 [Art.331 sancţiunea modificată prin LP209 din 21.10.11, MO222-226/16.12.11 art.621; în vigoare 01.07.12]
@@ -3221,6 +3264,9 @@ se sancţionează cu amendă de la 30 la 75 de unităţi convenţionale aplicat�
 (4) Împiedicarea activităţii legitime a inspectorilor din cadrul Agenţiei pentru Protecţia Consumatorilor prin neadmiterea lor la efectuarea controlului iniţiat în limitele legii, prin împiedicarea accesului în încăperi sau pe teritoriul pasibil controlului, prin neprezentarea, în cadrul controlului, a documentelor/ informaţiei solicitate care sînt obiectul controlului, prin prezentarea informaţiei neautentice sau incomplete
 se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.349 al.(4) introdus prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
+(5) Neprezentarea fără motive întemeiate a datelor, informaţiilor, actelor sau documentelor solicitate de Curtea de Conturi în condiţiile şi termenele legale
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.349 al.(5) introdus prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
 Articolul 350. Încălcarea legislaţiei cu privire la
 autorizarea activităţii de întreprinzător
 Nesoluţionarea expresă a cererii privind eliberarea de acte prin care s-ar permite solicitantului să iniţieze şi/sau să desfăşoare o afacere (licenţă, autorizaţie, permisiune, certificat, aviz, aprobare, coordonare, brevet, atestat de calificare), nesoluţionarea cu bună ştiinţă a cererii în termenul prevăzut de lege, generîndu-se astfel intervenţia prezumţiei legale a aprobării tacite,
@@ -3258,6 +3304,9 @@ Ghicitul în locuri publice
 (1) Organizarea jocurilor de noroc cu încălcarea regulilor prevăzute de legislaţie
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
 [Art.356 al.(1) sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+(11) Admiterea la jocurile de noroc (cu excepţia loteriilor şi jocurilor de abilitate) a persoanelor care nu au împlinit vîrsta de 18 ani, admiterea la jocurile de noroc a persoanelor care, sub influenţa alcoolului, stupefiantelor sau altor substanţe cu efect puternic ori din alte cauze, vădit nu sînt conştiente de acţiunile lor, precum şi permiterea accesului acestor persoane în sala de joc
+se sancţionează cu amendă de la 80 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 450 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 5 luni la un an.
+[Art.356 al.(11) introdus prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 (2) Ghicitul în locuri publice
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
 [Art.356 al.(2) sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
@@ -3269,15 +3318,15 @@ Articolul 358. Încălcarea regulilor de apărare
 împotriva incendiilor
 Încălcarea standardelor, normelor şi regulilor de asigurare a apărării împotriva incendiilor
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei juridice.
-Articolul 359. Încălcarea regimului special
-în condiţii de stare excepţională
+Articolul 359. Încălcarea regimului special în condiţii
+de stare excepţională
 (1) Încălcarea, în condiţii de stare excepţională, a regimului special, dacă nu conţine elementele constitutive ale infracţiunii,
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
 (2) Acţiunea specificată la alin.(1) săvîrşită în perioada de exercitare a formei speciale de administrare
 se sancţionează cu amendă de la 15 la 25 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
 Articolul 360. Încălcarea modului de comercializare
-şi/sau de înstrăinare a armelor
-individuale şi a muniţiilor aferente
+şi/sau de înstrăinare a armelor individuale
+şi a muniţiilor aferente
 (1) Comercializarea în magazinele specializate a armelor individuale şi a muniţiilor aferente către persoane care nu au permis de procurare a armelor şi a muniţiilor aferente
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea, în ambele cazuri, de dreptul de a desfăşura o astfel de activitate pe un termen de la 3 luni la un an.
 (2) Transmiterea sau altă înstrăinare a armei individuale şi a muniţiilor aferente către o persoană care nu are permis de procurare a armelor şi a muniţiilor aferente
@@ -3507,7 +3556,8 @@ f) să respecte ordinea în şedinţa de judecată şi să nu părăsească sala
 (6) În conformitate cu prevederile prezentului cod, drepturile minorului se realizează şi de reprezentantul lui legal. Procesului contravenţional se aplică în mod corespunzător prevederile Codului de procedură penală cu privire la drepturile şi obligaţiile reprezentantului legal al minorului.
 Articolul 385. Agentul constatator
 (1) Agentul constatator este reprezentantul autorităţii publice care soluţionează, în limitele competenţei sale, cauza contravenţională în modul prevăzut de prezentul cod.
-(2) Este desemnat ca agent constatator funcţionarul din autorităţile indicate la art.400–4232, împuternicit cu atribuţii de constatare a contravenţiei şi/sau de sancţionare.
+(2) Este desemnat ca agent constatator funcţionarul din autorităţile indicate la art.400–4236, împuternicit cu atribuţii de constatare a contravenţiei şi/sau de sancţionare.
+[Art.385 al.(2) modificat prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
 [Art.385 al.(2) modificat prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
 Articolul 386. Procurorul
 (1) Procurorul participă la procesul contravenţional în limitele competenţei stabilite de prezentul cod.
@@ -3582,7 +3632,8 @@ Sînt competente să soluţioneze cauzele contravenţionale:
 a) instanţa de judecată;
 b) procurorul;
 c) comisia administrativă;
-d) agentul constatator (organele de specialitate specificate la art. 400–4235).
+d) agentul constatator (organele de specialitate specificate la art. 400–4236).
+[Art.393 lit.d) modificată prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
 [Art.393 lit.d) modificată prin LP306 din 26.12.12, MO27-30/08.02.13 art.104]
 [Art.393 lit.d) modificată prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
 [Art.393 lit.d) modificată prin LP66 din 07.04.11, MO110-112/08.07.11 art.299]
@@ -3626,7 +3677,9 @@ Articolul 399. Competenţa agentului constatator
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(1) Contravenţiile prevăzute la art.47–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277, art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), 350, 354–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+(1) Contravenţiile prevăzute la art.47–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277, art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prinLP100 din 12.06.14, MO169-173/27.06.14 art.383]
+[Art.400 al.(1) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(1) modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.400 al.(1) modificat prin LP232 din 11.10.13, MO252-257/08.11.13 art.705]
 [Art.400 al.(1) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
@@ -3644,16 +3697,21 @@ Articolul 400. Ministerul Afacerilor Interne
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni în limitele competenţei şefii de direcţii şi adjuncţii lor, şefii inspectoratelor de poliţie şi adjuncţii lor, şefii secţiilor de poliţie, şefii sectoarelor de poliţie, şefii posturilor de poliţie, ofiţerii principali de sector, ofiţerii superiori de sector, ofiţerii de sector, angajaţii secţiilor securitate publică, angajaţii serviciilor patrulare, angajaţii secţiilor supraveghere transport şi circulaţie rutieră, angajaţii serviciilor supraveghere tehnică şi accidente rutiere ale inspectoratelor de poliţie, angajaţii Inspectoratului naţional de patrulare şi ai Inspectoratului naţional de investigaţii din cadrul Inspectoratului General al Poliţiei.
 [Art.400 al.(2) în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (3) Sînt în drept să examineze cauzele privind încălcarea regulilor de apărare împotriva incendiilor şi să aplice sancţiuni şeful Direcţiei salvatori şi pompieri şi adjuncţii lui, şefii detaşamentelor, unităţilor, posturilor paramilitare şi militare de salvatori şi pompieri din subordinea direcţiei, şefii subunităţilor specializate.
-(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 1971, 227, 233, 243, 322, 3321 alin. (1), 3341 se constată de poliţie.
+(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 1971, 227, 233, 237, 243, 322, 3321 alin. (1), art. 3341, art. 356 alin. (11) se constată de poliţie.
+[Art.400 al.(4) modificat prinLP100 din 12.06.14, MO169-173/27.06.14 art.383]
+[Art.400 al.(4) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(4) modificat prin LP232 din 11.10.13, MO252-257/08.11.13 art.705]
 [Art.400 al.(4) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 [Art.400 al.(4) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(4) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
 [Art.400 al.(4) modificat prin LP225 din 25.11.11, MO227-232/23.12.11 art.641]
-(5) Procesele-verbale cu privire la contravenţiile prevăzute la alin.(4) se remit spre examinare comisiei administrative, cu excepţia proceselor-verbale cu privire la contravenţiile, a căror examinare este atribuită la competenţa instanţei de judecată.
+(5) Procesele-verbale cu privire la contravenţiile prevăzute la alin. (4) se remit spre examinare comisiei administrative, cu excepţia proceselor-verbale cu privire la contravenţiile a căror examinare ţine de competenţa instanţei de judecată.
+[Art.400 al.(5) în redacția LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(5) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(5) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
-(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art. 1971, 233, 243, 322 se remit spre examinare în fond instanţei de judecată competente.
+(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art. 1971, 233, 237, 243, art. 356 alin. (11) se remit spre examinare în fond instanţei de judecată competente.
+[Art.400 al.(6) modificat prinLP100 din 12.06.14, MO169-173/27.06.14 art.383]
+[Art.400 al.(6) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(6) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(6) introdus prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
 Articolul 401. Centrul Naţional Anticorupţie
@@ -3668,7 +3726,8 @@ Articolul 402. Organele de inspectare financiară/
 control financiar şi organele fiscale
 ale Ministerului Finanţelor
 [Art.402 titlul în redacţia LP241 din 02.11.12, MO242-244/23.11.12 art.777]
-(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.288, 289, 290, 291, 2931, 2951, 297, 2971, 298, art.299 alin.(1), art.301, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.277 alin.(2), (3), (6), art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 297, 2971, 298, art.299 alin.(1), art.301, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.277 alin.(2), (3), (6), art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+[Art.402 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 [Art.402 al.(1) modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.402 al.(1) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 [Art.402 al.(1) modificat prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
@@ -3692,10 +3751,11 @@ Articolul 404. Comisia Naţională a Pieţei Financiare
 (1) Contravenţiile prevăzute la art.300, 302-310 se examinează de Comisia Naţională a Pieţei Financiare.
 [Art.404 al.(1) modificat prin LP22 din 17.02.11, MO43-45/25.03.11 art.90]
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni preşedintele şi vicepreşedinţii Comisiei Naţionale a Pieţei Financiare.
-Articolul 4041. Autoritatea de protecţie a concurenţei
-(1) Contravenţiile prevăzute la art. 3301 şi la art. 364 alin. (6) se constată de către autoritatea de protecţie a concurenţei.
-(2) Sînt în drept să constate contravenţii şi să încheie procese-verbale persoanele împuternicite de autoritatea de protecţie a concurenţei.
+Articolul 4041. Consiliul Concurenţei
+(1) Contravenţiile prevăzute la art. 3301, 3303 şi 364 alin. (6) se constată de către Consiliul Concurenţei.
+(2) Este în drept să constate contravenţii şi să încheie procese-verbale personalul abilitat cu funcţii de control al Consiliului Concurenţei.
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
+[Art.4041 în redacția LP38 din 27.03.14, MO92-98/18.04.14 art.228]
 [Art.4041 introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 Articolul 405. Organele pentru protecţia mediului, organele
 pentru control geologic şi supraveghere minieră
@@ -3740,8 +3800,10 @@ a) conducătorul organului de specialitate al administraţiei publice în domeni
 [Art.407 al.(5), lit.a) modificată prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 b) comandanţii aeronavelor civile în perioada de îndeplinire a misiunii de zbor, pentru contravenţiile prevăzute la art.210.
 Articolul 408. Agenţia pentru Protecţia Consumatorilor
-(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), 275 alin. (2), 971–972, 278–281, 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
-(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), (7), 275 alin. (2), 971–972, 278–281, 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
+(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), 275 alin. (2), 971–972, 278–281,2932 alin. (4) şi (5), 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
+[Art.408 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
+(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), (7), 275 alin. (2), 971–972, 278–281, 2932 alin. (4) şi (5), 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
+[Art.408 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 [Art.408 al.(1) modificat prin LP321 din 23.12.13, MO27-34/07.02.14 art.67; în vigoare 07.08.14]
 [Art.408 al.(1) modificat prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 [Art.408 al.(1) modificat prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
@@ -3887,6 +3949,11 @@ discriminării şi asigurarea egalităţii
 (2) Sînt în drept să constate contravenţii şi să încheie în mod colegial procese-verbale membrii Consiliului pentru prevenirea şi eliminarea discriminării şi asigurarea egalităţii.
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 [Art.4235 introdus prin LP306 din 26.12.12, MO27-30/08.02.13 art.104]
+Articolul 4236. Curtea de Conturi
+(1) Contravenţiile prevăzute la art. 3192 şi art. 349 alin. (5) se constată de către Curtea de Conturi.
+(2) Are dreptul să constate contravenţii şi să încheie procese-verbale personalul abilitat cu atribuţii de audit public al Curţii de Conturi.
+(3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
+[Art.4236 introdus prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
 Articolul 424. Remiterea materialelor către procuror,
 către ofiţerul de urmărire penală
 Dacă, în procesul examinării cauzei contravenţionale, se constată că încălcarea conţine elementele constitutive ale infracţiunii, agentul constatator remite materialele procurorului sau ofiţerului de urmărire penală, după competenţă.
