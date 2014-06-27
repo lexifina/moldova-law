@@ -14,6 +14,10 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16
+LP90 din 29.05.14, MO169-173/27.06.14 art.379
+LP53 din 03.04.14, MO99-102/25.04.14 art.253
+LP43 din 27.03.14, MO99-102/25.04.14 art.247
 LP203 din 12.07.13, MO191-197/06.09.13 art.621; în vigoare 06.03.14
 LP155 din 28.06.13, MO173-176/09.08.13 art.582
 LP116 din 23.05.13, MO146-151/12.07.13 art.456
@@ -189,7 +193,8 @@ exerciţiu
 (1) Persoana care, în urma consumului abuziv de alcool sau consumului de droguri şi de alte substanţe psihotrope, înrăutăţeşte starea materială a familiei sale poate fi limitată de către instanţa de judecată în capacitatea de exerciţiu. Asupra acestei persoane se instituie curatela.
 (2) Persoana indicată la alin.(1) are dreptul să încheie acte juridice cu privire la dispunerea de patrimoniu, să primească şi să dispună de salariu, de pensie sau de alte tipuri de venituri doar cu acordul curatorului.
 (3) Dacă au dispărut temeiurile în care persoana fizică a fost limitată în capacitatea de exerciţiu, instanţa de judecată anulează limitarea. În baza hotărîrii judecătoreşti, curatela asupra ei se anulează.
-Articolul 26. Activitatea de întreprinzător a persoanei fizice
+Articolul 26. Activitatea de întreprinzător a persoanei
+fizice
 (1) Persoana fizică are dreptul să practice activitate de întreprinzător, fără a constitui o persoană juridică, din momentul înregistrării de stat în calitate de întreprinzător individual sau în alt mod prevăzut de lege.
 (2) Persoana care practică activitate de întreprinzător fără înregistrare de stat nu poate invoca lipsa calităţii de întreprinzător.
 (3) Asupra activităţii de întreprinzător desfăşurate fără constituirea de persoană juridică se aplică regulile care reglementează activitatea persoanelor juridice cu scop lucrativ dacă din lege sau din esenţa raporturilor juridice nu rezultă altfel.
@@ -426,8 +431,10 @@ Articolul 71. Actul de transmitere şi bilanţul de repartiţie
 (2) Actul de transmitere şi bilanţul de repartiţie se confirmă de fondatorii (membrii) persoanei juridice sau de organul persoanei juridice împuternicit cu astfel de atribuţii prin lege sau act de constituire, care au decis reorganizarea persoanei juridice, şi se prezintă, împreună cu actele de constituire ale persoanelor juridice create, pentru înregistrarea lor de stat sau pentru introducerea modificărilor în actele de constituire ale persoanelor juridice existente.
 Articolul 72. Garantarea drepturilor creditorilor persoanei
 juridice în cazul reorganizării ei
-(1) În termen de 15 zile de la adoptarea hotărîrii de reorganizare, organul executiv al persoanei juridice participante la reorganizare este obligat să informeze în scris toţi creditorii cunoscuţi şi să publice un aviz privind reorganizarea în 2 ediţii consecutive ale “Monitorului Oficial al Republicii Moldova”.
-(2) Creditorii pot, în termen de 2 luni de la publicarea ultimului aviz, să ceară persoanei juridice care se reorganizează garanţii în măsura în care nu pot cere satisfacerea creanţelor. Dreptul la garanţii aparţine creditorilor doar dacă vor dovedi că prin reorganizare se va periclita satisfacerea creanţelor lor.
+(1) În termen de 15 zile de la adoptarea hotărîrii de reorganizare, organul executiv al persoanei juridice participante la reorganizare este obligat să informeze în scris toţi creditorii cunoscuţi şi să publice în „Monitorul Oficial al Republicii Moldova” şi, în mod gratuit, pe pagina web oficială a organului înregistrării de stat un aviz privind reorganizarea.
+[Art.72 al.(1) modificat prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+(2) Creditorii pot, în termen de o lună de la publicarea avizului, să ceară persoanei juridice care se reorganizează garanţii în măsura în care nu pot cere satisfacerea creanţelor. Dreptul la garanţii aparţine creditorilor doar dacă vor dovedi că prin reorganizare se va periclita satisfacerea creanţelor lor.
+[Art.72 al.(2) modificat prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 (3) Creditorii sînt în drept să informeze organul înregistrării de stat cu privire la creanţele faţă de debitorul care se reorganizează.
 (4) Persoanele juridice participante la reorganizare răspund solidar pentru obligaţiile apărute pînă la reorganizarea acestora dacă din actul de transmitere şi din bilanţul de repartiţie nu este posibilă determinarea succesorului.
 (5) Membrii organului executiv al persoanei juridice participante la reorganizare răspund solidar, pe parcursul a 3 ani de la data reorganizării, pentru prejudiciul cauzat prin reorganizare participanţilor sau creditorilor persoanelor juridice reorganizate.
@@ -452,7 +459,8 @@ Articolul 75. Hotărîrea de fuziune
 (1) Contractul de fuziune produce efecte numai dacă este aprobat de adunarea generală a membrilor fiecărei persoane juridice participante la fuziune.
 (2) Hotărîrea de fuziune se adoptă cu 2/3 din numărul total de voturi ale participanţilor dacă o majoritate mai mare nu este prevăzută de actul de constituire.
 Articolul 76. Cererea de înregistrare a fuziunii
-(1) După expirarea a 3 luni de la ultima publicaţie a avizului privind fuziunea, organul executiv al persoanei juridice absorbite sau al persoanei juridice participante la contopire depune, la organul care a efectuat înregistrarea ei de stat, o cerere prin care solicită înregistrarea fuziunii. La cerere se anexează:
+(1) După expirarea a 2 luni de la publicarea avizului privind fuziunea, organul executiv al persoanei juridice absorbite sau al persoanei juridice participante la contopire depune, la organul care a efectuat înregistrarea ei de stat, o cerere prin care solicită înregistrarea fuziunii. La cerere se anexează:
+[Art.76 al.(1) modificat prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 a) copia autentificată de pe contractul de fuziune;
 b) hotărîrea de fuziune a fiecărei persoane juridice participante;
 c) dovada oferirii garanţiilor acceptate de creditori sau a plăţii datoriilor;
@@ -488,7 +496,8 @@ Articolul 81. Aprobarea proiectului dezmembrării
 (1) Proiectul dezmembrării se aprobă de adunarea generală a participanţilor cu 2/3 din numărul total de voturi dacă actul de constituire nu prevede o majoritate mai mare.
 (2) Adunarea generală a participanţilor, cu majoritatea indicată la alin.(1), aprobă actul de constituire al noii persoane juridice şi desemnează organul ei executiv.
 Articolul 82. Cererea de înregistrare a dezmembrării
-(1) Organul executiv al persoanei juridice care se dezmembrează depune, după expirarea a 3 luni de la ultima publicare privind dezmembrarea, o cerere de înregistrare a dezmembrării la organul care a efectuat înregistrarea ei de stat şi o alta la organul care va efectua înregistrarea de stat a persoanei juridice care se constituie sau unde este înregistrată persoana juridică la care trece o parte din patrimoniu. La cerere se anexează proiectul dezmembrării, semnat de reprezentanţii persoanelor juridice participante, şi dovada oferirii garanţiilor, acceptate de creditori, sau a plăţii datoriilor.
+(1) Organul executiv al persoanei juridice care se dezmembrează depune, după expirarea a 2 luni de la publicarea avizului privind dezmembrarea, o cerere de înregistrare a dezmembrării la organul care a efectuat înregistrarea ei de stat şi o alta la organul care va efectua înregistrarea de stat a persoanei juridice care se constituie sau unde este înregistrată persoana juridică la care trece o parte din patrimoniu. La cerere se anexează proiectul dezmembrării, semnat de reprezentanţii persoanelor juridice participante, şi dovada oferirii garanţiilor, acceptate de creditori, sau a plăţii datoriilor.
+[Art.82 al.(1) modificat prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 (2) La cererea depusă organului care va efectua înregistrarea de stat a persoanei juridice care se constituie se anexează, de asemenea, actele necesare înregistrării persoanei juridice de tipul respectiv.
 Articolul 83. Înregistrarea dezmembrării
 (1) Înregistrarea dezmembrării se face la organul care a efectuat înregistrarea de stat a persoanei juridice dezmembrate. Înregistrarea dezmembrării se face numai după înregistrarea noilor persoane juridice sau a modificării actului de constituire al persoanei juridice la care trece o parte din patrimoniu.
@@ -523,10 +532,15 @@ a) constituirea ei este viciată;
 b) actul de constituire nu corespunde prevederilor legii;
 c) nu se încadrează în prevederile legale referitoare la forma ei juridică de organizare;
 d) activitatea ei contravine ordinii publice;
+d1) nu a depus, în decurs de 12 luni de la expirarea termenelor stabilite de lege, dări de seamă contabile, fiscale şi statistice;
+[Art.87 al.(1), lit.d1) introdusă prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+d2) capitalul social al ei este sub mărimea minimă obligatorie mai mult de 6 luni;
+[Art.87 al.(1), lit.d2) introdusă prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 e) există alte situaţii prevăzute de lege.
 (2) Instanţa de judecată nu dizolvă persoana juridică dacă, în termenul pe care îl acordă, persoana va corespunde prevederilor legii.
 (3) Instanţa de judecată poate dizolva persoana juridică dacă aceasta contravine interdicţiilor stabilite de prezentul cod pentru forma ei juridică de organizare sau dacă activitatea ei contravine grav actului de constituire.
-(4) Dizolvarea persoanei juridice se pronunţă la cererea participantului, a procurorului sau a Ministerului Justiţiei.
+(4) Dizolvarea persoanei juridice se pronunţă la cererea participantului (asociatului, acţionarului, membrului), a procurorului, a organului fiscal sau a organului care a efectuat înregistrarea de stat a persoanei juridice.
+[Art.87 al.(4) în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 Articolul 88. Administrarea fiduciară
 (1) Instanţa de judecată care examinează cererea privind dizolvarea persoanei juridice poate pune bunurile acesteia, la cerere, sub administrare fiduciară. În încheiere se specifică data instituirii administrării fiduciare. Instanţa desemnează unul sau mai mulţi administratori fiduciari şi determină limitele împuternicirilor şi remuneraţia lor.
 (2) Dacă instanţa de judecată nu dispune altfel, organele persoanei juridice nu pot emite decizii fără acordul prealabil al administratorului fiduciar, iar persoanele cu drept de reprezentare a persoanei juridice nu pot încheia acte juridice fără participarea acestuia.
@@ -541,27 +555,62 @@ Articolul 89. Înregistrarea dizolvării
 Articolul 90. Lichidatorul persoanei juridice
 (1) Poate fi lichidator orice persoană fizică majoră cu capacitate deplină de exerciţiu care are cetăţenia Republicii Moldova şi domiciliază pe teritoriul ei. Prin lege, pot fi stabilite condiţii suplimentare pentru persoana lichidatorului.
 (2) Lichidatorul notifică despre desemnarea sa organul care a efectuat înregistrarea de stat a persoanei juridice şi comunică despre sine informaţiile care se cer de la un administrator. Lichidatorul anexează hotărîrea de desemnare în calitate de lichidator.
-(3) În registru se înregistrează numele, domiciliul, numărul actului de identitate şi codul personal, semnătura lichidatorului.
+(3) În registrul de stat se înscriu numele, domiciliul, numărul actului de identitate, numărul de identificare de stat personal (IDNP) şi semnătura lichidatorului, iar în cazul desemnării în calitate de lichidator a unei alte persoane decît administratorul, organul înregistrării de stat înscrie în registrul de stat menţiunea privind încetarea activităţii administratorului.
+[Art.90 al.(3) în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 (4) Lichidatorul are aceleaşi împuterniciri, obligaţii şi responsabilităţi ca şi administratorul în măsura în care acestea sînt compatibile cu activitatea de lichidator.
 (5) În cazul desemnării mai multor lichidatori, aceştia reprezintă persoana juridică în comun dacă actul de constituire sau hotărîrea prin care sînt desemnaţi nu prevede altfel.
 (6) Îndată după preluarea funcţiei, lichidatorul împreună cu administratorul face şi semnează inventarul şi bilanţul în care constată situaţia exactă a activului şi pasivului.
-(7) Lichidatorul finalizează operaţiunile curente, valorifică creanţele, transformă în bani alte bunuri şi satisface cerinţele creditorilor. În măsura în care este necesar pentru lichidare, el poate încheia noi acte juridice.
-(8) Lichidatorul este obligat să primească şi să păstreze patrimoniul, registrele şi actele persoanei juridice, să ţină un registru cu toate operaţiunile lichidării în ordinea lor cronologică.
+(7) Lichidatorul execută şi finalizează operaţiunile curente, evaluează, valorifică şi înstrăinează activele societăţii dizolvate sub orice formă prevăzută de lege, reprezintă societatea dizolvată în instanţele de judecată, încasează creanţele, inclusiv cele legate de insolvabilitatea debitorilor, încheie tranzacţii, concediază şi angajează lucrătorii persoanei juridice, contractează, după necesitate, specialişti şi experţi, încheie acte juridice, îndeplineşte orice alte acţiuni în măsura în care sînt necesare pentru lichidare.
+[Art.90 al.(7) în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+(8) În cazul desemnării lichidatorului, administratorul este obligat să-i transmită, iar lichidatorul este obligat să primească bunurile, registrele şi actele persoanei juridice şi să întreprindă acţiuni de păstrare a lor. Lichidatorul este obligat, de asemenea, să ţină un registru cu toate operaţiunile lichidării în ordinea cronologică a efectuării lor.
+[Art.90 al.(8) în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 (9) Lichidatorul poate fi revocat oricînd de organul sau de instanţa de judecată care l-a desemnat. Prin aceeaşi hotărîre se desemnează un alt lichidator. Lichidatorul revocat prezintă lichidatorului succesor un raport cu privire la activitatea pe care a desfăşurat-o. Dacă succesorul este desemnat de instanţa de judecată, raportul se prezintă acesteia.
 (10) Remunerarea lichidatorului este stabilită de organul sau de instanţa de judecată care l-a desemnat, cu excepţia cazurilor prevăzute de lege.
 Articolul 91. Informarea creditorilor
-După înregistrarea desemnării sale, lichidatorul publică în “Monitorul Oficial al Republicii Moldova”, în două ediţii consecutive, un aviz despre lichidarea persoanei juridice şi, în termen de 15 zile, îl informează pe fiecare creditor cunoscut despre lichidare şi despre termenul de înaintare a creanţelor.
-Articolul 92. Termenul de înaintare a creanţelor
-(1) Termenul de înaintare a creanţelor este de 6 luni de la data ultimei publicaţii a avizului în “Monitorul Oficial al Republicii Moldova”. Prin hotărîrea de lichidare se poate prevedea un termen mai lung.
+După înregistrarea desemnării sale, lichidatorul publică în “Monitorul Oficial al Republicii Moldova” şi, în mod gratuit, pe pagina web oficială a organului înregistrării de stat un aviz despre lichidarea persoanei juridice şi, în termen de 15 zile, îl informează pe fiecare creditor cunoscut despre lichidare şi despre termenul de înaintare a creanţelor.
+[Art.91 modificat prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+Articolul 92. Termenul de înaintare şi modul
+de admitere a creanţelor
+[Art.92 titlul în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+(1) Termenul de înaintare a creanţelor este de 2 luni de la data publicării avizului prevăzut la art. 91. Prin hotărîrea de lichidare se poate prevedea un termen mai lung, dar care nu va depăşi 4 luni.
+[Art.92 al.(1) în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+(11) Cererile de admitere a creanţelor împreună cu documentele justificative privind creanţele şi cu actele de constituire de garanţii se depun direct la lichidator, la adresa indicată de acesta.
+[Art.92 al.(11)introdus prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+(12) Creanţele creditorilor înaintate după expirarea termenului stabilit pentru înaintarea lor se execută din contul bunurilor persoanei juridice ce au rămas după executarea creanţelor validate înaintate în termenul stabilit.
+[Art.92 al.(12)introdus prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 (2) În cazul în care lichidatorul respinge creanţa, creditorul are dreptul, sub sancţiunea decăderii, ca, în termen de 30 de zile de la data cînd a fost informat despre respingerea creanţei, să înainteze o acţiune în instanţă de judecată.
-Articolul 93. Proiectul bilanţului de lichidare
-(1) În termen de 15 zile de la data expirării termenului de înaintare a creanţelor, lichidatorul este obligat să întocmească un proiect al bilanţului de lichidare care să reflecte valoarea de bilanţ şi valoarea de piaţă a activelor, inclusiv creanţele, datoriile persoanei juridice recunoscute de lichidator şi datoriile care se află pe rol în instanţa judecătorească.
-(2) Proiectul bilanţului de lichidare se prezintă spre aprobare organului sau instanţei care a desemnat lichidatorul.
-(3) Dacă din proiectul bilanţului de lichidare rezultă un excedent al pasivelor faţă de active, lichidatorul este obligat să declare starea de insolvabilitate. Cu acordul tuturor creditorilor, lichidatorul poate continua procedura de lichidare fără a intenta acţiunea de insolvabilitate.
+Articolul 93. Bilanţul de lichidare
+(1) În termen de 15 zile de la data expirării termenului de înaintare a creanţelor, lichidatorul este obligat să întocmească bilanţul provizoriu de lichidare, care să reflecte valoarea de bilanţ şi valoarea de piaţă a activelor inventariate, inclusiv creanţele înaintate şi validate de lichidator, precum şi cele nerecunoscute de lichidator şi/sau care se află pe rol în instanţa de judecată.
+(2) Evaluarea activelor incluse în bilanţul provizoriu de lichidare se efectuează de către lichidator la preţurile medii de piaţă din localitatea amplasării lor. Dacă evaluarea activelor este dificilă ori participantul (asociatul, acţionarul, membrul) sau creditorul nu este de acord cu valoarea bunului determinată de lichidator, acesta din urmă antrenează în evaluare un evaluator în domeniu. În cazul în care în urma evaluării se stabileşte că solicitarea persoanei care a contestat valoarea determinată de lichidator a fost întemeiată, cheltuielile de evaluare sînt suportate de lichidator. Dacă pînă la data aprobării bilanţului provizoriu de lichidare nicio parte nu contestă valoarea de piaţă stabilită de lichidator, evaluarea se prezumă a fi corectă şi definitivă.
+(3) Bilanţul provizoriu de lichidare reflectă creanţele înaintate într-un tabel în care se specifică temeiul, valoarea şi rangul creanţelor, se precizează dacă acestea sînt chirografare, garantate, sub condiţie sau nescadente şi se arată numele/denumirea creditorului, suma solicitată de creditor şi suma acceptată de lichidator, precum şi creanţele litigioase.
+(4) Bilanţul provizoriu de lichidare se prezintă, în termen de cel mult 10 zile de la data întocmirii, participanţilor (asociaţilor, acţionarilor, membrilor) şi creditorilor cunoscuţi şi se aprobă în termen de 30 de zile de către organul sau instanţa care a desemnat lichidatorul.
+(5) Dacă din bilanţul provizoriu de lichidare rezultă un excedent al pasivelor faţă de active, lichidatorul depune cerere introductivă privind intentarea procesului de insolvabilitate. Intentarea procesului de insolvabilitate faţă de persoana juridică constituie temei pentru încetarea procedurii de lichidare a acesteia. Lichidatorul poate continua procedura de lichidare fără a intenta procesul de insolvabilitate, cu acordul tuturor creditorilor validaţi, cu condiţia că pe rolul instanţelor de judecată nu există cereri privind contestarea refuzului de validare a creanţelor sau termenul de contestare nu a expirat, precum şi în cazul în care nu există creditori.
+(6) Lichidatorul, după executarea tuturor creanţelor creditorilor, întocmeşte bilanţul definitiv de lichidare şi, odată cu proiectul planului de repartizare a activelor, îl prezintă spre aprobare organului sau instanţei de judecată care l-a desemnat.
+[Art.93 în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 Articolul 94. Protecţia drepturilor debitorilor
 Hotărîrea de reorganizare sau lichidare în afara procedurii insolvabilităţii nu are ca efect scadenţa creanţelor neajunse la scadenţă.
-Articolul 95. Depunerea sumelor datorate creditorilor
-Sumele datorate creditorilor cunoscuţi care nu au înaintat pretenţii şi creditorilor care nu s-au prezentat pentru a primi executarea se depun în conturi bancare pe numele lor.
+Articolul 941. Lichidarea patrimoniului societăţii
+dizolvate
+(1) Lichidarea patrimoniului presupune înstrăinarea de către lichidator a bunurilor societăţii dizolvate, în condiţii cît mai avantajoase şi în timpul cel mai potrivit, şi începe după aprobarea bilanţului provizoriu de lichidare.
+(2) Prin derogare de la prevederile alin. (1), lichidatorul poate efectua, pînă la aprobarea bilanţului provizoriu de lichidare, lichidarea tuturor activelor patrimoniale care prezintă riscuri iminente de afectare substanţială a sănătăţii publice şi/sau individuale ori a mediului înconjurător şi/sau care riscă să piardă din valoare (să se deprecieze). Lichidatorul poate efectua lichidarea activelor patrimoniale pînă la aprobarea bilanţului provizoriu de lichidare şi pentru a se evita deteriorarea lor, dispariţia din mediul fizic şi/sau virtual, expirarea termenelor de valabilitate a activelor, expirarea avizelor de specialitate (certificate, avize, autorizaţii etc.) la acestea, pentru a se evita alterarea calităţii şi/sau reducerea atractivităţii pe piaţă ori ieşirea de pe piaţă a activelor. În aceste cazuri, lichidatorul coordonează în prealabil acţiunile sale cu organul sau instanţa de judecată care l-a desemnat.
+(3) Lichidarea bunurilor şi/sau drepturilor patrimoniale din patrimoniul societăţii dizolvate, grevate de privilegii, ipoteci, garanţii reale mobiliare, gajuri, drepturi de retenţie, de orice alte sarcini ori măsuri asigurătorii, se va efectua doar după ce lichidatorul a notificat în prealabil creditorii care au constituit privilegiile, ipotecile, garanţiile reale mobiliare, gajurile, drepturile de retenţie şi sarcinile de orice alt fel asupra bunurilor şi/sau drepturilor supuse lichidării.
+(4) Lichidarea bunurilor şi/sau drepturilor patrimoniale din patrimoniul societăţii dizolvate, care nu sînt grevate, se face fără notificarea prealabilă a creditorilor, iar sumele obţinute din înstrăinarea acestora se depun în contul de lichidare al societăţii dizolvate.
+(5) Lichidatorul trebuie să înceapă şi să încheie procedura de lichidare a bunurilor într-un interval de timp rezonabil, în funcţie de tipul bunului şi de regulile comerciale practicate pe piaţă, care asigură vînzarea la cel mai bun preţ.
+[Art.941 introdus prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+Articolul 95. Executarea creanţelor creditorilor
+(1) Lichidatorul nu poate repartiza participanţilor (asociaţilor, acţionarilor, membrilor) activele ce li se cuvin în urma lichidării persoanei juridice înainte de a achita creanţele creditorilor.
+(2) Participanţii (asociaţii, acţionarii, membrii) pot cere, chiar şi în procesul lichidării, ca sumele datorate creditorilor validaţi şi creditorilor care nu s-au prezentat pentru a primi executarea să fie stinse prin consemnare şi ca activele să fie repartizate proporţional participaţiunii lor la capitalul social dacă, în afară de suma necesară pentru îndeplinirea tuturor obligaţiilor persoanei juridice, scadente sau care vor ajunge la scadenţă, mai rămîn disponibile cel puţin 10% din suma încasată în procesul de lichidare.
+(3) Pe perioada lichidării este interzisă executarea silită pentru creditori în mod individual. Executarea creanţelor creditorilor validaţi din contul activelor persoanei juridice ce se lichidează se efectuează doar de către lichidator în următoarea ordine:
+a) creanţele din dăunarea sănătăţii sau din cauzarea morţii, pe calea capitalizării plăţilor respective pe unitate de timp;
+b) creanţele salariale faţă de angajaţi şi remuneraţia datorată conform drepturilor de autor;
+c) creanţele pentru creditele acordate de Ministerul Finanţelor (suma principală, dobînda, comisionul de angajament, fondul de risc), pentru creditele interne şi externe acordate cu garanţie de stat, pentru impozite şi alte obligaţii de plată la bugetul public naţional;
+d) alte creanţe ale creditorilor.
+(4) Achitarea cheltuielilor ce ţin de procedura de lichidare şi care rezultă din acţiunile de administrare, valorificare şi distribuire a activelor, precum şi din remunerarea lichidatorului, se efectuează concomitent cu achitarea creanţelor creditorilor în ordinea expusă la alin. (3), pentru aceasta fiind repartizate cel mult 30% din suma încasată în procesul de lichidare.
+(5) Lichidatorul începe executarea creanţelor creditorilor din ziua aprobării bilanţului provizoriu de lichidare.
+(6) Executarea creanţelor creditorilor din fiecare rînd se face proporţional cu suma creanţelor fiecărui creditor din rîndul respectiv. Executarea creanţelor din rîndul următor se face după executarea în totalitate a creanţelor creditorilor din rîndul precedent.
+(7) După achitarea cheltuielilor prevăzute la alin. (4), creanţele garantate prin gaj, ipotecă şi/sau prin alte garanţii reale constituite asupra activelor vîndute se plătesc din suma obţinută, în ordine prioritară, înainte de satisfacerea celorlalte creanţe.
+(8) Creanţele neexecutate din cauza insuficienţei de bunuri ale persoanei juridice ce se lichidează se consideră stinse. Această normă nu se aplică în cazul în care faţă de persoana juridică a fost intentat procesul de insolvabilitate.
+[Art.95 în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 Articolul 96. Repartizarea activelor persoanelor juridice cu
 scop lucrativ
 (1) Activele persoanei juridice cu scop lucrativ dizolvate care au rămas după satisfacerea pretenţiilor creditorilor sînt transmise de lichidator participanţilor proporţional participaţiunii lor la capitalul social.
@@ -574,7 +623,8 @@ scop nelucrativ
 (2) Dacă persoana juridică cu scop nelucrativ este constituită pentru satisfacerea exclusivă a intereselor participanţilor săi şi actul constitutiv sau hotărîrea adunării generale nu prevăd persoanele care au dreptul la activele persoanei juridice cu scop nelucrativ dizolvate, toate persoanele care la momentul dizolvării au calitatea de participant la ea beneficiază de dreptul la patrimoniul rămas. Între aceste persoane activele se repartizează proporţional.
 (3) Dacă nu pot fi repartizate conform alin.(1) şi (2), activele trec la stat, care le utilizează la realizarea scopurilor statutare ale persoanei juridice cu scop nelucrativ lichidate.
 Articolul 98. Termenul de repartizare a activelor
-Activele persoanei juridice dizolvate nu pot fi repartizate persoanelor îndreptăţite decît după 12 luni de la data ultimei publicări privind dizolvarea şi după 2 luni din momentul aprobării bilanţului lichidării şi a planului repartizării activelor dacă aceste documente nu au fost contestate în instanţă de judecată sau dacă cererea de contestare a fost respinsă printr-o hotărîre judecătorească irevocabilă.
+După expirarea termenului de 30 de zile de la data aprobării bilanţului definitiv de lichidare şi a planului repartizării activelor, iar în cazul contestării acestor documente, de la data respingerii cererii de contestare printr-o hotărîre judecătorească irevocabilă, activele persoanei juridice dizolvate pot fi repartizate persoanelor îndreptăţite.
+[Art.98 în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 Articolul 99. Radierea persoanei juridice din registru
 (1) După repartizarea activelor nete, lichidatorul trebuie să depună la organul înregistrării de stat cererea de radiere a persoanei juridice din registru.
 (2) Radierea se efectuează în modul şi în termenele prevăzute de lege.
@@ -651,12 +701,12 @@ comerciale
 (1) Capitalul social determină valoarea minimă a activelor pe care trebuie să le deţină societatea comercială.
 (2) Capitalul social al societăţii comerciale se formează din aporturile fondatorilor, exprimate în lei.
 (3) Capitalul social se vărsă integral în cel mult 6 luni de la data înregistrării societăţii comerciale.
-(4) Asociatul unic varsă integral aportul pînă la data înregistrării societăţii comerciale.
+[Art.112 al.(4) abrogat prin LP53 din 03.04.14, MO99-102/25.04.14 art.253]
 Articolul 113. Aportul la capitalul social al societăţii
 comerciale
 (1) Aportul la capitalul social al societăţii comerciale este considerat a fi în bani dacă actul de constituire nu prevede altfel.
 (2) Prestaţiile în muncă şi serviciile depuse la înfiinţarea societăţii comerciale şi pe parcursul existenţei ei nu pot constitui aport la formarea sau majorarea capitalului social.
-(3) La data înregistrării societăţii comerciale, fiecare asociat este obligat să verse aportul sub formă de mijloace băneşti în mărime de cel puţin 40 procente din aportul subscris dacă legea sau statutul nu prevede o proporţie mai mare.
+[Art.113 al.(3) abrogat prin LP53 din 03.04.14, MO99-102/25.04.14 art.253]
 [Art.113 al.(3) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 (4) Pentru aportul la capitalul social al societăţii comerciale nu se calculează dobînzi, cu excepţiile stabilite de lege.
 (5) În cazul în care asociatul nu a vărsat în termen aportul, oricare asociat are dreptul să-i ceară în scris aceasta, stabilindu-i un termen suplimentar de cel puţin o lună şi avertizîndu-l că e posibilă excluderea lui din societate.
@@ -811,7 +861,8 @@ b) să ia cunoştinţă de dările de seamă şi de bilanţurile anuale şi să 
 c) să se retragă din societate la sfîrşitul anului financiar şi să primească o parte din activele ei proporţional participaţiunii sale la capitalul social, în modul stabilit de actul de constituire;
 d) să transmită participaţiunea sa la capitalul social sau o parte din ea unui alt comanditar ori, dacă este stipulat de actul de constituire, unui terţ.
 (2) Regulile privind interdicţia concurenţei, prevăzute la art.116 alin.(2), nu se aplică comanditarului dacă actul de constituire nu prevede altfel.
-(3) În momentul înregistrării societăţii în comandită, comanditarul este obligat să verse cel puţin 60% din participaţiunea la care s-a obligat, urmînd ca diferenţa să fie vărsată în termenul stabilit în actul de constituire. Depunerea aportului se confirmă prin certificat de participare eliberat de societate.
+(3) Aportul integral la capitalul social se confirmă prin certificatul de participare eliberat de societatea în comandită.
+[Art.139 al.(3) în redacția LP53 din 03.04.14, MO99-102/25.04.14 art.253]
 (4) Actul de constituire al societăţii în comandită poate prevedea şi alte drepturi şi obligaţii ale comanditarului.
 Articolul 140. Răspunderea în cazul acceptării calităţii de
 comanditar
@@ -844,7 +895,8 @@ a) cuantumul capitalului social;
 b) valoarea nominală a participaţiunilor.
 Articolul 147. Capitalul social al societăţii cu răspundere
 limitată
-(1) Mărimea minimă a capitalului social al societăţii cu răspundere limitată este stabilită prin lege.
+(1) Mărimea capitalului social al societăţii cu răspundere limitată se stabileşte de către fondatori în statut.
+[Art.147 al.(1) în redacția LP53 din 03.04.14, MO99-102/25.04.14 art.253]
 (2) Capitalul social al societăţii cu răspundere limitată este divizat în părţi sociale.
 Articolul 148. Capitalul de rezervă al societăţii cu răspundere
 limitată
@@ -959,7 +1011,6 @@ Articolul 162. Dobîndirea de acţiuni proprii
 [Art.162 al.(4) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (5) Acţiunea proprie poate fi dobîndită de societatea pe acţiuni doar din contul activelor nete care depăşesc mărimea capitalului social şi a altor fonduri pe care societatea este obligată să le constituie şi din care nu se permite să se plătească drepturile acţionarilor.
 [Art.162 al.(5) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
-(6) Acţiunile proprii dobîndite cu încălcarea dispoziţiilor alin.(2)–(5) vor fi înstrăinate în cel mult un an de la data subscrierii lor. Acţiunile care nu au fost înstrăinate în acest termen vor fi anulate, societatea fiind obligată să reducă corespunzător capitalul social.
 [Art.162 al.(6) exclus prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (7) Restricţiile prevăzute la alin.(2) - (5) nu se aplică atunci cînd dobîndirea de către societate a unui număr determinat de acţiuni proprii, eliberate integral, se face în una din următoarele situaţii:
 a) cu scopul de a reduce capitalul social, prin anularea unui număr de acţiuni proprii de o valoare corespunzătoare reducerii;
@@ -986,9 +1037,11 @@ de obligaţiuni
 (1) Societatea emitentă de acţiuni şi obligaţiuni nominative ţine registrul deţinătorilor de acţiuni şi registrul deţinătorilor de obligaţiuni.
 (2) Dacă societatea are mai mult de 50 deţinători de acţiuni sau obligaţiuni, registrele sînt ţinute de un registrator independent.
 (3) Registrul acţionarilor şi registrul deţinătorilor de obligaţiuni trebuie să conţină:
-a) denumirea, sediul şi numărul de înregistrare al societăţii emitente, numărul de înregistrare al fiecărei emisiuni acordat de Comisia Naţională a Pieţei Financiare;
+a) denumirea, sediul şi numărul de identificare de stat (IDNO) al societăţii emitente, numărul de înregistrare al fiecărei emisiuni acordat de Comisia Naţională a Pieţei Financiare;
+[Art.164 al.(3), lit.a) modificată LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 [Art.164 al.(3), lit.a) modificată prin LP130-XVI din 07.06.07, MO94-97/06.07.07 art.418]
-b) numele, alte date din actul de identitate, domiciliul acţionarului sau al deţinătorului de obligaţiuni persoană fizică; denumirea, numărul de înregistrare şi sediul acţionarului sau deţinătorului de obligaţiuni persoană juridică ori deţinătorului nominal de acţiuni sau obligaţiuni;
+b) numele, alte date din actul de identitate, domiciliul acţionarului sau al deţinătorului de obligaţiuni persoană fizică; denumirea, numărul de identificare de stat (IDNO) şi sediul acţionarului sau deţinătorului de obligaţiuni persoană juridică ori deţinătorului nominal de acţiuni sau obligaţiuni;
+[Art.164 al.(3), lit.b) modificată LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 c) numărul de acţiuni sau obligaţiuni, tipul, clasa şi valoarea nominală a acţiunilor sau obligaţiunilor deţinute de fiecare acţionar sau deţinător de obligaţiuni;
 d) data la care fiecare acţionar sau deţinător de obligaţiuni a dobîndit sau a înstrăinat acţiuni sau obligaţiuni.
 [Art.164 al.(3) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
@@ -2330,7 +2383,7 @@ Articolul 455. Tipurile de gaj
 (3) După natura raporturilor de drept, în categoria de gaj înregistrat intră:
 a) ipoteca – gajul bunurilor imobile. Ipoteca trebuie înscrisă în Registrul bunurilor imobile;
 [Art.455 al.(3), lit.a) în redacţia LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
-b) ga jul de întreprinzător – gajul întreprinderii, care se extinde asupra întregului ei patrimoniu, inclusiv asupra fondurilor fixe şi circulante, asupra altor bunuri şi drepturi patrimoniale reflectate în bilanţul întreprinderii, dacă legea sau contractul nu prevede altfel;
+b) gajul de întreprinzător – gajul întreprinderii, care se extinde asupra întregului ei patrimoniu, inclusiv asupra fondurilor fixe şi circulante, asupra altor bunuri şi drepturi patrimoniale reflectate în bilanţul întreprinderii, dacă legea sau contractul nu prevede altfel;
 [Art.455 al.(3), lit.b) modidficată prin LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
 c) gajul mărfurilor care se află în circulaţie sau în proces de prelucrare;
 d) gajul bunurilor pe care debitorul gajist le va dobîndi în viitor.
@@ -2479,7 +2532,7 @@ Articolul 480. Gajul ulterior
 (2) Debitorul gajist are obligaţia de a informa fiecare creditor gajist următor despre toate grevările existente asupra bunului, răspunzînd pentru prejudiciile cauzate creditorului gajist prin neîndeplinirea acestei obligaţii.
 Articolul 481. Ordinea de preferinţă a gajului fără deposedare
 (1) Consecutivitatea satisfacerii creanţelor ce decurg din cîteva drepturi de gaj asupra unuia şi aceluiaşi bun se stabileşte în funcţie de consecutivitatea apariţiei drepturilor de gaj.
-(2) Creanţele creditorului gajist ulterior se satisfac numai după satisfacerea deplină a creanţelor creditorului gajist precedent. Cu excepţia ipotecii, creditorulde grad superior este ţinut să compenseze cheltuielile suportate de creditorul de grad inferior dacă, fiind avizat cu privire la exercitarea unui drept de gaj de către acest alt creditor, omite să invoce într-un termen rezonabil prioritatea drepturilor sale.
+(2) Creanţele creditorului gajist ulterior se satisfac numai după satisfacerea deplină a creanţelor creditorului gajist precedent. Cu excepţia ipotecii, creditorul de grad superior este ţinut să compenseze cheltuielile suportate de creditorul de grad inferior dacă, fiind avizat cu privire la exercitarea unui drept de gaj de către acest alt creditor, omite să invoce într-un termen rezonabil prioritatea drepturilor sale.
 [Art.481 al.(2) modificat prin LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
 (3) Creditorul gajist de grad inferior poate să-şi satisfacă creanţa din bunul gajat înaintea creditorilor de grad superior numai cu acordul scris al fiecărui creditor de grad superior, dacă legea nu prevede altfel.
 [Art.481 al.(3) modificat prin LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
@@ -3217,16 +3270,7 @@ A OBLIGAŢIILOR
 Articolul 660. Confuziunea
 Obligaţia se stinge în cazul în care o singură persoană întruneşte calitatea de creditor şi cea de debitor (confuziunea). În unele cazuri, dacă confuziunea încetează să existe, efectele ei încetează de asemenea.
 Articolul 661. Efectul confuziunii asupra fidejusiunii
-Confuziunea care operează prin întrunirea de către aceeaşi persoană a calităţilor de creditor şi debitor profită fidejusorului. Prin întrunirea de către aceeaşi persoană a calităţii de fidejusor şi de creditor sau de fidejusor şi de debitor, obligaţia principală nu se stinge.Cuantumul despăgubirilor pentru prejudiciul moral trebuie sa fie rezonabil şi să se determine ţinîndu-se cont de:
-a) caracterul informaţiilor răspîndite;
-b) sfera de răspîndire a informaţiilor;
-c) impactul social asupra persoanei;
-d) gravitatea şi întinderea suferinţelor psihice sau fizice cauzate persoanei vătămate;
-e) proporţionalitatea între acordarea despăgubirilor şi gradul în care reputaţia a fost lezată;
-f) gradul de vinovăţie al autorului prejudiciului;
-g) măsura în care această compensare poate aduce satisfacţie persoanei vătămate;
-h) publicarea rectificării, replicii sau dezminţirii pînă la pronunţarea hotărîrii judecătoreşti;
-i) alte circumstanţe relevante pentru cazul dat.
+Confuziunea care operează prin întrunirea de către aceeaşi persoană a calităţilor de creditor şi debitor profită fidejusorului. Prin întrunirea de către aceeaşi persoană a calităţii de fidejusor şi de creditor sau de fidejusor şi de debitor, obligaţia principală nu se stinge.
 Articolul 662. Remiterea de datorie
 (1) Obligaţia se stinge dacă creditorul, în baza unei înţelegeri cu debitorul, îl eliberează pe acesta de executarea obligaţiei (remiterea de datorie). Remiterea de datorie este totală dacă nu a fost stipulat expres că este parţială.
 (2) Obligaţia se stinge, de asemenea, printr-un contract în care creditorul recunoaşte că obligaţia nu există.
@@ -3843,11 +3887,12 @@ Articolul 806. Vînzarea bunului cu utilizarea aparatelor
 automate
 (1) Dacă la vînzarea bunului se utilizează aparat automat, proprietarul acestuia trebuie să informeze cumpărătorul, afişînd pe aparat (sau în alt loc), denumirea vînzătorului, date pentru relaţii cu el, denumirea şi preţul bunului, instrucţiunea despre acţiunile pe care cumpărătorul urmează să le efectueze pentru plata şi recepţionarea bunului.
 (2) Contractul de vînzare-cumpărare cu utilizarea aparatului automat se consideră încheiat în momentul efectuării acţiunilor necesare pentru recepţionarea bunului.
-(3) În cazul în care aparatul automat este utilizat pentru schimbarea monedelor, metalice şi bancnotelor, valutei străine, procurarea tichetelor, sînt aplicabile normele cu privire la vînzarea-cumpărarea de bunuri pentru consum dacă din lege sau din esenţa obligaţiei nu rezultă altfel.
+(3) În cazul în care aparatul automat este utilizat pentru schimbarea monedelor metalice şi bancnotelor, valutei străine, procurarea tichetelor, sînt aplicabile normele cu privire la vînzarea-cumpărarea de bunuri pentru consum dacă din lege sau din esenţa obligaţiei nu rezultă altfel.
 [Art.806 al.(3) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 Articolul 807. Preţul bunului pentru consum
 Preţul, alte clauze esenţiale ale contractului de vînzare-cumpărare a bunurilor pentru consum se stabilesc în mod egal pentru toţi cumpărătorii.
-Articolul 808. Preschimbarea bunului cumpărat pentru consum
+Articolul 808. Preschimbarea bunului cumpărat
+pentru consum
 (1) Cumpărătorul are dreptul ca, în decursul a 14 zile din momentul recepţionării bunului nealimentar, dacă vînzătorul nu a stabilit un termen mai mare, să preschimbe bunul la locul cumpărării lui sau în alt loc, stabilit de vînzător, cu un bun similar de o altă mărime, formă, gabarit, model, culoare sau completare etc., cu efectuarea, în cazul diferenţei de preţ, a recalculării.
 (2) Dacă lipseşte bunul necesar pentru preschimbare, cumpărătorul are dreptul să restituie bunul cumpărat, iar vînzătorul este obligat să-i restituie suma plătită.
 (3) Cererea cumpărătorului de a preschimba bunul sau de a-l restitui urmează să fie executată dacă bunul nu este utilizat, nu şi-a pierdut calităţile de consum şi dacă există probe că a fost cumpărat de la vînzătorul respectiv.
@@ -4011,7 +4056,7 @@ Articolul 851. Plata rentei
 Articolul 852. Interdicţia înstrăinării bunurilor primite de
 debirentier
 (1) În timpul vieţii credirentierului, debirentierul nu poate, fără acordul credirentierului, înstrăina, ipoteca sau greva în alt fel bunurile transmise de persoana care a constituit renta. Nu se admite executarea silită asupra acestor bunuri pentru alte obligaţii ale debirentierului, cu excepţia executării ipotecii constituite cu acordul credirentierului.
-[Art.720 al.(1) modificat prin LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
+[Art.852 al.(1) modificat prin LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
 (2) Dacă debirentierului a fost transmis un bun imobil, interdicţiile stipulate la alin.(1) se înscriu în registrul bunurilor imobile.
 Articolul 853. Schimbarea formei de plată a rentei
 În contractul de plată a rentei în natură, părţile pot conveni asupra înlocuirii acesteia cu o sumă de bani plătită periodic.
@@ -4270,6 +4315,7 @@ Articolul 923. Contractul de leasing
 (2) În lipsa unor prevederi contrare, dreptul de alegere a bunului şi/sau a vînzătorului aparţine locatarului.
 (3) La expirarea contractului de leasing, locatorul va respecta dreptul de opţiune al locatarului de a cumpăra bunul, de a prelungi contractul de leasing ori de a înceta raporturile contractuale.
 (4) Contractului de leasing i se aplică, în mod corespunzător, dispoziţiile privind contractul de locaţiune în măsura în care prezentul capitol sau legea cu privire la leasing nu prevede altfel.
+[Art.923 în redacția LP60-XVI din 28.04.05, MO92-94/08.07.05 art.431]
 Articolul 924. Forma şi conţinutul contractului de leasing
 (1) Contractul de leasing se încheie în scris.
 (2) Contractul de leasing trebuie să conţină îndeosebi:
@@ -4283,6 +4329,7 @@ b) terenurilor agricole;
 c) bunurilor consumptibile;
 d) obiectelor proprietăţii intelectuale care nu pot fi cesionate.
 (2) Bunul mobil care face obiectul contractului de leasing conservă natura mobiliară pe durata contractului, chiar dacă este anexat sau încorporat într-un imobil, în măsura în care nu-şi pierde individualitatea.
+[Art.925 în redacția LP60-XVI din 28.04.05, MO92-94/08.07.05 art.431]
 Articolul 926. Informarea cu privire la contractul de leasing
 Locatorul este obligat să informeze vînzătorul cu privire la contractul de leasing încheiat sau care urmează să fie încheiat.
 Articolul 927. Răspunderea vînzătorului faţă de locatar
@@ -5039,17 +5086,43 @@ Capitolul XIX
 CONTRACTUL DE SERVICII TURISTICE
 Articolul 1131. Contractul de servicii turistice
 (1) Prin contract de servicii turistice, o parte (organizatorul călătoriei, agentul turistic) se obligă să acorde celeilalte părţi (turist) serviciile stipulate, iar aceasta se obligă să achite costul lor.
+(1) Prin contract de servicii turistice, o parte (organizatorul călătoriei, detailistul) se obligă să acorde celeilalte părţi (turist) serviciile stipulate, iar aceasta se obligă să achite costul lor.
+[Art.1131 al.(1) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (2) Declaraţia că se intermediază doar contracte cu persoane care vor realiza călătoria (prestatori de servicii) nu va fi luată în considerare dacă celelalte împrejurări confirmă faptul că autorul declaraţiei execută pe propria răspundere prestaţiile contractuale ce ţin de călătorie.
 Articolul 1132. Informaţia preliminară
 (1) Orice anunţ publicitar, ofertă sau altă informaţie prezentate de organizator despre serviciile turistice trebuie întocmite astfel încît să se excludă interpretarea lor eronată.
+(1) Orice anunţ publicitar, ofertă sau altă informaţie prezentate de organizator sau detailist despre serviciile turistice trebuie întocmite astfel încît să se excludă interpretarea lor eronată.
+[Art.1132 al.(1) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
+(11) În informaţia preliminară prezentată clientului trebuie să fie indicate în mod clar, lizibil şi exact preţul şi informaţiile corespunzătoare privind:
+a) destinaţia călătoriei, mijloacele de transport utilizate, caracteristicile şi categoriile acestora;
+b) modul de cazare, amplasarea, categoria sau nivelul de confort şi principalele sale caracteristici, omologarea şi clasificarea turistică în conformitate cu normele statului de primire respectiv;
+c) serviciile de alimentare;
+d) itinerarul;
+e) condiţiile aplicabile în materie de paşapoarte şi de vize, precum şi formalităţile sanitare necesare pentru călătorie şi şedere;
+f) valoarea sau procentul din preţ ce trebuie vărsat cu titlu de avans şi calendarul pentru plata soldului;
+g) faptul că realizarea pachetului de servicii necesită un număr minim de persoane şi, în acest caz, data-limită de informare a clientului în caz de anulare a pachetului;
+h) condiţiile rezervărilor prealabile.
+[Art.1132 al.(11) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (2) Condiţiile incluse în anunţul publicitar, în ofertă sau în altă informaţie prezentată clientului de către organizator sînt obligatorii pentru acesta din urmă, cu excepţia cazurilor în care clientul a fost notificat, înainte de încheierea contractului, despre modificarea condiţiilor.
+(2) Condiţiile incluse în anunţul publicitar, în ofertă sau în altă informaţie prezentată clientului sînt obligatorii pentru organizator sau detailist, cu excepţia cazului în care:
+a) modificarea acestor condiții a fost comunicată în mod clar clientului înainte de încheierea contractului; în acest caz, informaţia preliminară trebuie să conţină o menţiune specială;
+b) modificările au intervenit ulterior, ca urmare a unui acord între părţile contractante.
+[Art.1132 al.(2) în redacția LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1133. Informaţia obligatorie
 (1) Pînă la momentul încheierii contractului, organizatorul este obligat să pună la dispoziţia clientului, în scris sau în orice altă formă adecvată, o informaţie despre regimul de vize şi paşapoarte, precum şi despre cerinţele de asigurare a sănătăţii pe durata călătoriei.
+(1) Pînă la momentul încheierii contractului, organizatorul și/sau detailistul sînt obligați să pună la dispoziția clientului, în scris sau în orice altă formă adecvată, o informație privind condițiile în materie de pașapoarte și de vize, inclusiv în privința termenelor de obținere a lor, precum și despre cerințele de asigurare a sănătății pe durata călătoriei.
+[Art.1133 al.(1) în redacția LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (2) Într-un termen rezonabil de pînă la începerea călătoriei, organizatorul este obligat să prezinte clientului, în scris sau în orice altă formă adecvată, o informaţie despre:
+(2) Într-un termen rezonabil de pînă la începerea călătoriei, stabilit prin contract, organizatorul și/sau detailistul sînt obligați să prezinte clientului, în scris sau în orice altă formă adecvată, o informaţie despre:
+[Art.1133 al.(2) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 a) timpul şi locul staţionărilor intermediare şi al joncţiunilor de transport, precum şi detaliile amplasării clientului în interiorul vehiculului (cabină pe navă, compartiment în tren etc.);
 b) numele, adresa şi numărul de telefon al reprezentanţilor locali ai organizatorului sau, în absenţa acestora, datele de identificare ale agenţiei locale căreia i se va adresa clientul la necesitate. În cazul absenţei unor astfel de reprezentanţi sau agenţii, clientul urmează să fie informat despre datele de contact cu organizatorul;
+b) numele, adresa şi numărul de telefon al reprezentanţilor locali ai organizatorului și/sau detailistului ori, în absenţa acestora, datele de identificare ale agenţiei locale căreia i se va adresa clientul la necesitate. În cazul absenţei unor astfel de reprezentanţi sau agenţii, clientul urmează să fie informat despre datele de contact ale organizatorului și/sau detailistului;
+[Art.1133 al.(2), lit.b) modificată prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 c) în cazul călătoriei unor minori – datele de contact direct cu minorul sau cu persoana responsabilă de el la locul de destinaţie;
 d) posibilitatea procurării poliţei de asigurare care să acopere, în caz de accident sau boală, responsabilitatea clientului pentru faptul că a renunţat la călătorie, precum şi alte cheltuieli.
+d) posibilitatea procurării poliţei de asigurare care să acopere costurile în caz de reziliere a contractului de către client conform art. 1143 sau costurile de asistenţă, inclusiv taxele de repatriere, în caz de accidentare sau de boală, precum şi alte cheltuieli.
+[Art.1133 al.(2), lit.d) în redacția LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1134. Conţinutul contractului de servicii turistice
 (1) Contractul de servicii turistice trebuie să conţină următoarele clauze:
 a) itinerarul, locul (locurile) de destinaţie şi termenele de aflare, cu indicarea datelor;
@@ -5058,24 +5131,58 @@ c) informaţii despre cazare, categoria sau nivelul de confort, caracteristicile
 d) în cazul stabilirii unui număr minim de persoane necesar pentru realizarea călătoriei, termenul limită de notificare a clientului în caz de contramandare a acesteia;
 e) vizitele, excursiile şi alte servicii incluse în preţul unic al călătoriei;
 f) denumirea şi adresa organizatorului (agentului turistic) şi a asigurătorului, după caz;
+f) denumirea şi adresa organizatorului (sau detailistului) şi a asigurătorului, după caz;
+[Art.1134 al.(1), lit.f) modificată prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 g) preţul călătoriei, posibilitatea de modificare a preţului, costul anumitor servicii suplimentare (taxa de îmbarcare şi debarcare în porturi şi aeroporturi, taxele turistice) neinclus în preţul unic al călătoriei şi posibilitatea de modificare a acestuia;
 h) termenele şi modalitatea de plată a preţului şi a celorlalte costuri;
 i) condiţiile specifice, convenite de părţi la cererea clientului;
 j) termenele de formulare a pretenţiilor privind neexecutarea sau executarea necorespunzătoare a contractului;
 k) alte condiţii.
 (2) Toate condiţiile contractuale trebuie prezentate clientului în scris, înainte de încheierea contractului.
+(2) Toate condiţiile contractuale trebuie prezentate clientului în scris, pe suport de hîrtie sau pe orice suport durabil disponibil şi accesibil consumatorului, înainte de încheierea contractului. Clientul trebuie să primească un exemplar al acestor clauze.
+[Art.1134 al.(2) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (3) Dispoziţiile alin.(2) nu exclud posibilitatea încheierii contractului în ultimul moment.
+(3) Dispoziţiile alin.(2) nu exclud posibilitatea încheierii, în ultimul moment, a contractului sau a rezervării.
+[Art.1134 al.(3) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1135. Călătoria unui terţ
 (1) Turistul are dreptul să ceară, înainte de începutul călătoriei, ca un terţ să preia drepturile şi îndatoririle sale din contractul de călătorie. Organizatorul poate refuza cererea turistului în cazul în care terţul nu corespunde condiţiilor călătoriei.
+(1) În cazul în care clientul nu poate să călătorească, acesta are dreptul să ceară, înainte de începutul călătoriei, ca un terţ să preia drepturile şi îndatoririle sale din contractul de călătorie. Organizatorul poate refuza cererea clientului în cazul în care terţul nu corespunde condiţiilor călătoriei.
+[Art.1135 al.(1) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (2) Organizatorul este în drept să ceară turistului compensarea cheltuielilor suplimentare suportate prin înlocuirea cu terţul.
+(2) Organizatorul sau detailistul este în drept să ceară clientului care cedează pachetul său de servicii ori terţului compensarea cheltuielilor suplimentare suportate prin înlocuirea cu terţul.
+[Art.1135 al.(2) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1136. Modificarea clauzelor esenţiale ale contractului
 (1) Dacă, înainte de începutul călătoriei, este nevoit să modifice considerabil clauzele esenţiale ale contractului, inclusiv preţul, organizatorul este obligat să-l notifice imediat pe client despre acest fapt.
 (2) Preţul menţionat în contract nu poate fi modificat, cu excepţia cazului în care contractul prevede o astfel de posibilitate şi indică modalitatea calculării preţului modificat. Preţul indicat în contract poate fi modificat în mod excepţional, în cazul schimbării preţurilor pentru transport, a taxelor pentru anumite servicii (taxa de îmbarcare şi debarcare în porturi şi aeroporturi, alte taxe). Preţul nu poate fi majorat în termen de 20 de zile pînă la data începerii călătoriei.
+(2) Preţul menţionat în contract nu poate fi modificat, cu excepţia cazului în care contractul prevede o astfel de posibilitate şi indică modalitatea calculării preţului modificat. Preţul indicat în contract poate fi modificat, atît în vederea majorării, cît şi a reducerii, dacă modificarea are loc ca urmare a variaţiilor costurilor pentru transport, a variațiilor taxelor pentru anumite servicii (taxa de îmbarcare și debarcare în porturi și aeroporturi). Preţul nu poate fi majorat în termen de 20 de zile pînă la data începerii călătoriei.
+[Art.1136 al.(2) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (3) În cazul prevăzut la alin.(1), clientul poate renunţa la contract sau accepta modificarea lui, fiind obligat să-l notifice pe organizator în cel mai scurt timp despre decizia sa.
+(3) În cazul prevăzut la alin.(1), clientul poate rezilia contractul sau accepta modificarea lui, fiind obligat să-l notifice pe organizator sau pe detailist în cel mai scurt timp despre decizia sa.
+[Art.1136 al.(3) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
+(4) În cazul în care clientul reziliază contractul în conformitate cu alin. (3) sau dacă, indiferent de cauză, cu excepţia unei greşeli a clientului, organizatorul sau detailistul anulează pachetul de servicii înainte de data de plecare convenită, clientul are dreptul:
+a) la un alt pachet de servicii de calitate echivalentă sau superioară celui inițial, în cazul în care organizatorul și/sau detailistul pot să-l propună. Dacă pachetul de servicii oferit în compensaţie este de calitate inferioară celui inițial, organizatorul trebuie să ramburseze clientului diferenţa de preţ; sau
+b) la rambursarea tuturor sumelor achitate de către client în temeiul contractului, în termen de cel mult 14 zile calendaristice din momentul rezilierii contractului.
+[Art.1136 al.(4) introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
+(5) În cazurile prevăzute la alin. (4), clientul are dreptul la o despăgubire pentru neexecutarea contractului, care îi este achitată de către organizator sau detailist, cu excepţia cazului în care:
+a) anularea se datorează numărului de persoane înscrise pentru pachetul de servicii care este inferior numărului minim necesar, iar clientul este informat despre anulare în scris în termenul indicat în descrierea pachetului de servicii; sau
+b) anularea, exceptînd cazurile de suprarezervare, se datorează unui caz de forţă majoră.
+[Art.1136 al.(5) introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1137. Acordarea de garanţii şi înlăturarea neajunsurilor
 (1) Organizatorul este obligat să organizeze astfel călătoria încît să aibă calităţile promise şi să nu fie afectată de lipsuri care i-ar diminua valoarea sau utilitatea dedusă din contract sau din practica obişnuită.
+(11) Organizatorul şi/sau detailistul sînt răspunzători pentru executarea obligaţiilor asumate prin contract, inclusiv în situaţia în care aceste obligaţii trebuie să fie îndeplinite de către alţi prestatori de servicii.
+[Art.1137 al.(11) introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (2) În cazul în care depistează neajunsuri în timpul călătoriei, turistul are dreptul să ceară înlăturarea lor imediată. Organizatorul poate refuza înlăturarea neajunsurilor dacă aceasta cere cheltuieli disproporţionate.
+(21) În cazul unor pretenţii ale turistului cu privire la executarea serviciilor prevăzute în contract, organizatorul şi/sau detailistul, precum şi prestatorii de servicii vor acţiona imediat pentru soluţionarea pretenţiilor şi vor face proba eforturilor depuse de ei în acest scop.
+[Art.1137 al.(21) introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (3) În cazul în care organizatorul nu înlătură neajunsurile în termenul stabilit de turist, acesta poate să le înlăture singur şi să ceară organizatorului compensarea cheltuielilor suportate. Nu se stabileşte termen în cazul în care organizatorul refuză să înlăture neajunsurile sau turistul este interesat ca acestea să fie înlăturate imediat.
+(3) Dacă după plecare o mare parte din serviciile prevăzute în contract nu sînt prestate sau dacă organizatorul constată că nu va putea asigura o mare parte din serviciile prevăzute, organizatorul:
+a) efectuează, fără costuri suplimentare pentru turist, alte aranjamente corespunzătoare pentru continuarea pachetului de servicii; şi
+b) după caz, despăgubeşte turistul la limita diferenţei dintre serviciile prevăzute şi cele prestate.
+[Art.1137 al.(3) în redacția LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
+(4) În cazul în care aranjamentele menţionate la alin. (3) sînt imposibile sau nu sînt acceptate de către turist din motive întemeiate, organizatorul furnizează către turist, fără costuri suplimentare, un mijloc de transport echivalent, care îl va duce înapoi la locul de plecare sau într-un alt loc de sosire convenit în prealabil cu acesta din urmă, despăgubind turistul.
+[Art.1137 al.(4) introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
+(5) Turistul trebuie să semnaleze cît mai curînd posibil atît prestatorului de servicii, cît şi organizatorului şi/sau detailistului, în scris sau sub altă formă corespunzătoare, orice abatere în executarea contractului pe care o constată la faţa locului. Această obligaţie trebuie menţionată clar şi explicit în contract.
+[Art.1137 al.(5) introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1138. Reducerea preţului pentru neajunsurile
 călătoriei
 (1) În cazul în care, pe parcursul călătoriei, se descoperă neajunsuri, preţul ei se reduce, luîndu-se în considerare momentul descoperirii.
@@ -5087,14 +5194,26 @@ Articolul 1139. Rezilierea contractului din cauza neajunsurilor
 (4) Organizatorul călătoriei este obligat, în urma încetării prin reziliere a contractului, în special în cazul în care contractul prevede întoarcerea, să ia măsurile necesare pentru a-l transporta înapoi pe turist. Cheltuielile suplimentare sînt suportate de organizator.
 Articolul 1140. Reparaţia prejudiciului cauzat prin neajuns
 Turistul poate cere, indiferent de faptul dacă a solicitat reducerea preţului sau a reziliat contractul, despăgubiri pentru neîndeplinirea contractului în cazul în care lipsurile călătoriei se datorează unei împrejurări pentru care răspunde organizatorul.
+Articolul 1140. Reparaţia prejudiciului cauzat prin
+neajuns
+(1) Turistul poate cere, indiferent de faptul dacă a solicitat reducerea preţului sau a reziliat contractul, despăgubiri pentru neîndeplinirea contractului în cazul în care lipsurile călătoriei se datorează unei împrejurări pentru care răspund organizatorul şi/sau detailistul.
+(2) Organizatorul şi/sau detailistul sînt scutiți de răspunderea prevăzută la alin. (1) în cazul în care această neexecutare sau executare defectuoasă nu este imputabilă nici lor, nici altui prestator de servicii, deoarece aceste lipsuri sînt imputabile unui terţ care nu are legătură cu prestarea serviciilor prevăzute în contract şi au un caracter imprevizibil şi inevitabil.
+(3) În cazurile menţionate la alin. (2), organizatorul şi/sau detailistul parte contractantă sînt obligați să ofere prompt asistenţă turistului aflat în dificultate.
+(4) Fără a aduce atingere prevederilor art. 1142 nu se pot face derogări de la dispoziţiile alin. (1)–(3) din prezentul articol prin clauză contractuală.
+[Art.1140 în redacția LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
+Articolul 11401. Garanţia
+Organizatorul sau detailistul trebuie să aducă garanţii pentru a asigura, în caz de insolvabilitate, rambursarea sumelor achitate de turist şi repatrierea acestuia.
+[Art.11401 introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1141. Termenul de înaintare a pretenţiilor şi
 termenul de prescripţie
 (1) Pretenţiile întemeiate pe prevederile art.1137–1140 pot fi înaintate de către turist organizatorului în decursul unei luni din momentul prevăzut în contract pentru încheierea călătoriei. Pretenţiile pot fi înaintate şi după expirarea termenului de o lună dacă termenul este omis din motive neimputabile turistului.
 (2) Termenul de prescripţie al acţiunilor intentate de turist este de 6 luni, calculate din ziua care, conform contractului, este ultima zi a călătoriei. Dacă turistul înaintează pretenţii, curgerea prescripţiei se suspendă pînă în ziua în care organizatorul respinge în scris pretenţiile.
 Articolul 1142. Admiterea limitării răspunderii
-În baza unui acord cu turistul, organizatorul poate să-şi limiteze răspunderea pentru prejudicii, altele decît vătămarea corporală, la triplul preţ al călătoriei dacă:
+(1) În baza unui acord cu turistul, organizatorul poate să-şi limiteze răspunderea pentru prejudicii, altele decît vătămarea corporală, la triplul preţ al călătoriei dacă:
 a) prejudiciul nu este cauzat din intenţie sau din culpă gravă;
 b) prejudiciul este cauzat turistului doar din greşeala unui prestator de servicii implicat în derularea contractului.
+(2) Dacă răspunderea unui prestator de servicii este condiţionată, limitată sau exclusă conform convenţiilor internaţionale, organizatorul și/sau detailistul pot invoca aceasta, în egală măsură, faţă de turist.
+[Art.1142 al.(2) introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144, alineatul unic devine al.(1); în vigoare 01.10.16]
 Articolul 1143. Rezilierea contractului de către turist
 (1) Înainte de începutul călătoriei, turistul poate rezilia oricînd contractul.
 (2) În cazul în care turistul reziliază contractul, organizatorul pierde dreptul asupra preţului călătoriei. El poate, totuşi, să ceară o despăgubire corespunzătoare. Cuantumul despăgubirii se determină în funcţie de preţul călătoriei, scăzîndu-se cheltuielile neefectuate de organizator, precum şi ceea ce organizatorul ar fi putut dobîndi prin valorificarea în alt mod a prestaţiilor sale.
@@ -5501,7 +5620,6 @@ Articolul 1241. Refuzul de executare a contractului
 a) au apărut circumstanţe care indică cu certitudine incapacitatea viitoare a debitorului de a rambursa creditul;
 b) debitorul sau terţul încalcă obligaţia de a acorda garanţii de rambursare a creditului pe care şi-a asumat-o sau alte condiţii înaintate de bancă pentru punerea la dispoziţie a creditului.
 (2) Creditorul are dreptul de a refuza să pună la dispoziţie următoarele tranşe ale creditului, în cazul în care contractul prevede acordarea creditului în tranşe, dacă debitorul nu îndeplineşte condiţiile contractului referitoare la tranşa sau tranşele precedente.
-(3) Debitorul este în drept să refuze creditul parţial sau total. În acest caz, el trebuie să plătească creditorului o remuneraţie pentru punerea la dispoziţie a creditului (comision de neutilizare).
 (3) Debitorul este în drept să refuze creditul parţial sau total. În acest caz, el trebuie să plătească creditorului o remuneraţie pentru punerea la dispoziţie a creditului (comision de neutilizare). Dispoziţiile prezentului alineat nu se aplică în cazul contractelor de credit pentru consumatori, reglementate prin Legea privind contractele de credit pentru consumatori.
 [Art.1241 al.(3) modificat prin LP203 din 12.07.13, MO191-197/06.09.13 art.621; în vigoare 06.03.14]
 (4) Dreptul de refuz prevăzut la alin.(1)-(3) poate fi exercitat doar dacă partea care refuză notifică cealaltă parte într-un termen rezonabil pînă la momentul executării obligaţiilor ce constituie obiectul refuzului.
@@ -5567,21 +5685,28 @@ Articolul 1255. Obligaţia ordonatorului faţă de garant
 S e c ţ i u n e a a 5-a
 ORDINUL DE PLATĂ
 Articolul 1256. Ordinul de plată
-(1) Ordinul de plată (dispoziţie de plată) este dispoziţia dată de o persoană (ordonator) unei bănci (bancă ordonatoare) de a plăti o anumită sumă în favoarea unei alte persoane (beneficiar) pentru stingerea unei obligaţii băneşti a ordonatorului faţă de beneficiar.
-(2) Ordinul de plată poate fi simplu, în cazul în care încasarea sumei de către beneficiar nu este condiţionată de prezentarea vreunui document privind scopul plăţii, sau documentar, în cazul în care încasarea sumei este condiţionată de prezentarea de către beneficiar a unor documente cerute de ordonator.
+(1) Ordinul de plată (dispoziţie de plată), aferent transferului de credit, este dispoziţia dată de o persoană (ordonator) unei bănci (bancă ordonatoare) de a plăti o anumită sumă în favoarea unei alte persoane (beneficiar) pentru stingerea unei obligaţii băneşti a ordonatorului faţă de beneficiar.
+[Art.1256 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
+[Art.1256 al.(2) abrogat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 Articolul 1257. Executarea ordinului de plată
-(1) Banca ordonatoare execută ordinul de plată prin transferul sumei indicate din contul ordonatorului în contul beneficiarului în aceeaşi sau în o altă bancă (banca plătitoare).
+(1) Banca ordonatoare execută ordinul de plată prin transferul sumei indicate din contul ordonatorului în contul beneficiarului în aceeaşi sau în o altă bancă.
+[Art.1257 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 (2) Banca va executa ordinul de plată în termenul stabilit prin lege, prin acordul părţilor sau prin uzanţele bancare.
-(3) Ordonatorul poate revoca sau modifica ordinul de plată atît timp cît banca nu l-a executat.
+(3) Ordonatorul poate revoca sau modifica ordinul de plată pînă la momentul primirii de către bancă a acestuia spre executare.
+[Art.1257 al.(3) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 Articolul 1258. Conţinutul ordinului de plată
 Ordinul de plată cuprinde:
-a) numele sau denumirea, adresa şi numărul contului bancar al ordonatorului;
-b) numele sau denumirea, adresa şi numărul contului bancar al beneficiarului;
-c) denumirea, codul şi adresa băncii ordonatoare;
-d) ordinul de plată;
+a) numele sau denumirea, numărul contului bancar al ordonatorului (plătitorului);
+[Art.1258 lit.a) modificată prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
+b) numele sau denumirea, numărul contului bancar al beneficiarului;
+[Art.1258 lit.b) modificată prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
+c) denumirea, codul băncii ordonatoare;
+[Art.1258 lit.c) modificată prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
+[Art.1258 lit.d) abrogată prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 e) suma în cifre şi litere;
-f) motivul efectuării plăţii;
-g) în cazul ordinului de plată documentar, indicaţia documentelor care trebuie prezentate de beneficiar;
+f) destinaţia plăţii;
+[Art.1258 lit.f) în redacția LP43 din 27.03.14, MO99-102/25.04.14 art.247]
+[Art.1258 lit.g) abrogată prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 h) data emiterii;
 i) semnătura persoanei (persoanelor) autorizate a ordonatorului;
 j) alte date, conform regulamentelor Băncii Naţionale a Moldovei.
@@ -5747,7 +5872,8 @@ S e c ţ i u n e a a 10-a
 EFECTUAREA PLĂŢILOR PRIN CARD BANCAR
 Articolul 1289. Cardul bancar
 (1) Cardul bancar este un instrument de plată emis de o bancă (emitent) care permite titularului cardului să retragă bani în numerar, să efectueze transfer de sume băneşti în limitele disponibilului din contul său în banca emitentă ori din contul liniei de credit acordată de aceasta.
-(2) Titularul cardului bancar poate efectua plăţi pentru bunurile şi serviciile prestate de întreprinderile comerciale care, în baza contractelor încheiate cu emitentul, acceptă să fie plătite prin card. Întreprinderea comercială îşi restituie banii pentru prestaţiile efectuate titularului cardului prin cesiunea către emitent a creanţelor faţă de titularul cardului.
+(2) Titularul cardului bancar poate efectua plăţi pentru bunurile şi serviciile prestate de întreprinderile comerciale care acceptă să fie plătite prin card. Întreprinderea comercială îşi restituie banii pentru prestaţiile efectuate titularului cardului prin cesiunea către emitent a creanţelor faţă de titularul cardului.
+[Art.1289 al.(2) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 (3) Efectuarea plăţilor prin card bancar sînt reglementate de prevederile prezentului cod, în special de reglementările privind ordinul de plată, contul curent bancar, creditul în cont curent, de alte acte normative şi de uzanţele bancare.
 Capitolul XXV
 FACTORINGUL
