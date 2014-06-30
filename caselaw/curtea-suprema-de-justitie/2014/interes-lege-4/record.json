@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ asupra recursului în interesul legii (Recursuri în interesul legii), nr. 4-1ril-3/2014, din 30.06.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "interes_lege",
+  "database_label": "Recursuri în interesul legii",
+  "source_id": 4,
+  "number": "4-1ril-3/2014",
+  "decision_date": "2014-06-30",
+  "decision_date_source_quote": "30 iunie 2014",
+  "record_date": "2014-06-30",
+  "in_force": "2014-06-30",
+  "source": "http://jurisprudenta.csj.md/search_interes_lege.php?id=4",
+  "listing": "http://jurisprudenta.csj.md/db_interes_lege.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_interes_lege.php?id=4",
+  "source_sha256": "ee910a044b5f4deed1eb8240b08a77c24b160745a1e81341a907759784c537d9",
+  "pdf_pages": 15,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 6780,
+    "pdftotext_words": 6745,
+    "common_ratio": [
+      0.9935,
+      0.9987
+    ]
+  },
+  "first_law": null
+}
