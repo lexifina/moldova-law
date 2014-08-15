@@ -15,6 +15,8 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP158 din 18.07.14, MO238-246/15.08.14 art.547; în vigoare 15.08.14
+LP173 din 25.07.14, MO231-237/08.08.14 art.531; în vigoare 08.11.14
 HCC17 din 29.05.14, MO223-230/08.08.14 art.30; în vigoare 29.05.14
 LP110 din 19.06.14, MO178-184/11.07.14 art.419
 LP90 din 29.05.14, MO169-173/27.06.14 art.379
