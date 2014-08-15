@@ -15,6 +15,11 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP180 din 25.07.14, MO238-246/15.08.14 art.559
+LP159 din 18.07.14, MO238-246/15.08.14 art.549; în vigoare 15.02.15
+LP158 din 18.07.14, MO238-246/15.08.14 art.547; în vigoare 15.08.14
+LP117 din 03.07.14, MO209-216/25.07.14 art.453
+LP113 din 03.07.14, MO209-216/25.07.14 art.451
 LP100 din 12.06.14, MO169-173/27.06.14 art.383
 LP87 din 29.05.14, MO160-166/20.06.14 art.353
 LP43 din 27.03.14, MO99-102/25.04.14 art.247
@@ -469,6 +474,9 @@ loc demuncă
 se sancţionează cu amendă de la 10 la 50 de unităţi convenţionale.
 (2) Necomunicarea, în termenul stabilit de legislaţie, de către beneficiarul de ajutor de şomaj şi/sau de alocaţii de integrare ori de reintegrare profesională agenţiei teritoriale de ocupare a forţei de muncă la care este înregistrat a oricărei modificări din condiţiile care au condus la stabilirea dreptului de beneficiar
 se sancţionează cu amendă de la 3 la 10 unităţi convenţionale.
+(3) Neoferirea de către autoritatea publică, instituţia publică sau întreprinderea de stat a locurilor planificate pentru stagii de practică de cel puţin 10% din efectivul de personal
+se sancţionează cu amendă de 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.56 al.(3) introdus prin LP117 din 03.07.14, MO209-216/25.07.14 art.453]
 Articolul 57. Încălcarea termenelor de plată a salariilor,
 pensiilor, burselor, indemnizaţiilor şi de
 efectuare a altor plăţi cu caracter permanent,
@@ -2704,6 +2712,9 @@ se sancţionează cu amendă de la 55 la 110 unităţi convenţionale aplicată 
 se sancţionează cu amendă de la 190 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.298 al.(4) sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.298 al.(4) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+(41) Utilizarea contrar destinaţiei de către organizaţiile necomerciale de utilitate publică, cultele religioase şi părţile componente ale acestora a mijloacelor financiare obţinute în urma desemnării procentuale
+se sancţionează cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.298 al.(41) introdus prin LP158 din 18.07.14, MO238-246/15.08.14 art.547; în vigoare 15.08.14]
 (5) Contractarea de mărfuri, lucrări şi servicii, efectuarea de cheltuieli de către instituţiile finanţate din mijloacele bugetelor şi fondurilor componente ale bugetului public naţional din bani publici în sume ce depăşesc limitele lor anuale stabilite pentru achiziţionarea unui tip de mărfuri, lucrări şi servicii; neînregistrarea la Trezoreria de Stat sau la una din trezoreriile teritoriale ale Ministerului Finanţelor a contractelor de achiziţie de mărfuri, lucrări şi servicii din mijloacele bugetului de stat sau ale bugetelor unităţilor administrativ-teritoriale în valoarea contractului stabilită de Guvern; achiziţionarea de mărfuri, lucrări şi servicii fără încheierea contractelor; transferarea mijloacelor bugetului de stat sau ale bugetelor unităţilor administrativ-teritoriale pentru produse, lucrări şi servicii fără înregistrarea prealabilă a contractelor la Trezoreria de Stat sau la una din trezoreriile teritoriale ale Ministerului Finanţelor
 se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.298 al.(5) modificat prin LP262 din 01.11.13, MO284-289/06.12.13 art.778]
@@ -2733,59 +2744,126 @@ evidenţă a blanchetelor de strictă evidenţă
 se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale.
 (2) Încălcarea regulilor de vînzare-cumpărare a blanchetelor de strictă evidenţă
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
-Articolul 300. Manipularea pe piaţa valorilor mobiliare
-(1) Tranzacţionarea sau influenţarea tranzacţiilor cu valori mobiliare prin informaţie, promisiuni, pronosticuri, avize false şi eronate, denaturarea sau tăinuirea intenţionată a informaţiei despre emitent sau despre valorile mobiliare ale acestuia
+Articolul 300. Manipularea şi utilizarea abuzivă
+a informaţiilor privilegiate pe piaţa
+valorilor mobiliare
+(1) Acţiunile de manipulare a pieţei valorilor mobiliare prin:
+a) tranzacţii sau ordine de tranzacţionare care oferă sau pot oferi informaţii false sau care induc în eroare în legătură cu cererea, oferta sau preţul valorilor mobiliare; care menţin, prin acţiunea uneia sau a mai multor persoane care activează în comun;
+b) tranzacţii sau ordine de tranzacţionare care presupun procedee fictive sau orice altă formă de înşelăciune;
+c) difuzarea şi/sau răspîndirea, prin intermediul mijloacelor de informare în masă, inclusiv Internet sau prin orice alt mijloc, a informaţiilor care oferă sau pot oferi informaţii false sau care induc în eroare asupra valorilor mobiliare, inclusiv difuzarea şi/sau răspîndirea zvonurilor şi ştirilor false sau care induc în eroare, în condiţiile în care persoana care a difuzat şi/sau răspîndit informaţia ştia sau trebuia să ştie că informaţia este falsă sau induce în eroare,
 se sancţionează cu amendă de la 40 la 500 de unităţi convenţionale.
-(2) Utilizarea de către participantul profesionist la piaţa valorilor mobiliare sau de către colaboratorii acestuia a informaţiei confidenţiale cu încălcarea legislaţiei la efectuarea tranzacţiilor cu valori mobiliare, precum şi influenţarea acestor tranzacţii de către terţi
+(2) Utilizarea de către orice persoană a informaţiilor privilegiate cu intenţia de a dobîndi sau înstrăina, pe cont propriu sau pe contul unei terţe persoane, direct ori indirect, valori mobiliare la care aceste informaţii se referă,
 se sancţionează cu amendă de la 30 la 400 de unităţi convenţionale.
-(3) Încălcarea, neexecutarea sau executarea neadecvată ori neonestă de către broker a cerinţelor privind activitatea sa, stipulate în legislaţie şi în contractul respectiv, a altor prevederi ale legislaţiei şi ale actelor normative ale Comisiei Naţionale a Pieţei Financiare
-se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale.
-(4) Refuzul dealerului de a efectua tranzacţii cu valori mobiliare conform clauzelor esenţiale anunţate de el, iar în cazul lipsei în anunţul dealerului a clauzelor esenţiale, conform condiţiilor propuse de clientul acestuia sau conform cerinţelor legislaţiei înaintate faţă de dealer
-se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale.
+[Art.300 în redacţia LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 301. Evaziunea fiscală a persoanelor fizice
 (1) Evaziunea fiscală a persoanelor fizice care nu practică activitate de întreprinzător prin eschivarea de la prezentarea declaraţiei cu privire la impozitul pe venit sau prin includerea în declaraţie a unor date denaturate, dacă suma impozitului pe venit care trebuia să fie achitat nu depăşeşte 2500 de unităţi convenţionale,
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
 (2) Nu se aplică sancţiune în cazul în care impozitul pe venit ce urmează a fi achitat este mai mic de 100 de unităţi convenţionale.
 [Art.301 în redacţia LP206 din 21.10.11, MO197-202/18.11.11 art.571]
-Articolul 302. Abuzurile pe piaţa financiară nebancară
-(1) Desfăşurarea fără înregistrare la Comisia Naţională a Pieţei Financiare a ofertei publice obligatorii a valorilor mobiliare pe piaţa primară sau secundară
-se sancţionează cu amendă de la 100 la 250 de unităţi convenţionale.
-(2) Neefectuarea pe parcursul desfăşurării ofertei publice de valori mobiliare pe piaţa primară ori secundară a modificărilor necesare în prospectul ofertei publice sau în alte documente prezentate pentru înregistrarea ofertei, în cazul depistării unor date neveridice,
+Articolul 302. Încălcarea regulilor privind obligaţiile
+emitenţilor şi a deţinătorilor valorii mobiliare
+(1) Denaturarea şi/sau ascunderea premeditată a informaţiei despre activitatea economico-financiară a emitentului, altă informaţie pe care creditorii, deţinătorii valorilor mobiliare sau autorităţile publice trebuie să o primească în conformitate cu legislaţia,
 se sancţionează cu amendă de la 50 la 200 de unităţi convenţionale.
-(3) Neprezentarea de informaţie sau prezentarea unei informaţii neautentice sau incomplete Comisiei Naţionale a Pieţei Financiare
-se sancţionează cu amendă de la 30 la 150 de unităţi convenţionale.
-(4) Ţinerea registrului deţinătorilor de valori mobiliare nominative cu încălcarea regulilor şi cerinţelor stabilite
-se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
-(5) Nerespectarea de către emitenţi şi de către participanţii profesionişti la piaţa financiară nebancară a formelor de dare de seamă stabilite de legislaţie şi/sau nerespectarea termenelor de publicare în presă
-se sancţionează cu amendă de la 30 la 100 de unităţi convenţionale.
-(6) Nerespectarea de către participanţii profesionişti la piaţa financiară nebancară a cerinţei privind accesul liber al clienţilor acestora la informaţia general accesibilă despre activitatea pe care o desfăşoară
-se sancţionează cu amendă de la 30 la 80 de unităţi convenţionale.
-(7) Eschivarea emitentului de la ţinerea sau de la asigurarea ţinerii registrului deţinătorilor de valori mobiliare nominative conform cerinţelor legislaţiei
-se sancţionează cu amendă de la 200 la 400 de unităţi convenţionale.
-Articolul 303. Încălcarea cerinţelor de prezentare a
-dărilor de seamă de către emitenţi şi
-participanţii profesionişti la piaţa
-financiară nebancară
-Neprezentarea sau prezentarea tardivă Comisiei Naţionale a Pieţei Financiare de către emitenţi şi participanţii profesionişti la piaţa financiară nebancară a dărilor de seamă stabilite de legislaţie şi/sau prezentarea acestora în volum incomplet sau conţinînd informaţii neveridice
-se sancţionează cu amendă de la 150 la 250 de unităţi convenţionale.
-Articolul 304. Încălcarea restricţiilor privind piaţa valorilor
-mobiliare, a prevederilor cu privire la tranzacţiile
-cu conflict de interese, a altorprevederi referitoare
-la piaţa valorilor mobiliare
-(1) Încălcarea restricţiilor privind vînzarea sau cumpărarea valorilor mobiliare stabilite pentru participanţii la piaţa valorilor mobiliare
-se sancţionează cu amendă de la 50 la 180 de unităţi convenţionale.
-(2) Nerespectarea cerinţelor, prevăzute de legislaţia cu privire la piaţa valorilor mobiliare, la achiziţionarea sau la răscumpărarea de către emitent a valorilor mobiliare plasate
-se sancţionează cu amendă de la 100 la 180 de unităţi convenţionale.
-(3) Neprezentarea informaţiei emitentului de către acţionar în termenele stabilite de legislaţia cu privire la piaţa valorilor mobiliare
-se sancţionează cu amendă de la 40 la 150 de unităţi convenţionale.
-(4) Denaturarea şi ascunderea premeditată a informaţiei despre activitatea economico-financiară a societăţii pe acţiuni, a altei informaţii pe care creditorii, acţionarii sau autorităţile publice, în conformitate cu legislaţia, trebuie să o primească
-se sancţionează cu amendă de la 120 la 400 de unităţi convenţionale.
-(5) Neconvocarea adunării generale a acţionarilor sau convocarea acesteia cu încălcarea Legii privind societăţile pe acţiuni şi/sau cu încălcarea statutului societăţii
-se sancţionează cu amendă de la 80 la 180 de unităţi convenţionale.
-(6) Încălcarea modului de încheiere a tranzacţiilor de proporţii şi/sau a tranzacţiilor cu conflict de interese
-se sancţionează cu amendă de la 150 la 400 de unităţi convenţionale.
-(7) Neprezentarea sau prezentarea tardivă a datelor, stabilite de legislaţie, de către persoanele interesate în efectuarea de către societăţile pe acţiuni a tranzacţiilor cu conflict de interese
+(2) Difuzarea informaţiei neveridice sau care induce în eroare, folosirea altor metode care au condus la schimbarea preţului valorilor mobiliare ale societăţii în detrimentul acesteia,
 se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale.
+(3) Încălcarea legislaţiei şi a statutului societăţii privind convocarea şi desfăşurarea adunării generale a acţionarilor societăţii pe acţiuni,
+se sancţionează cu amendă de la 80 la 500 de unităţi convenţionale.
+(4) Încălcarea legislaţiei şi a statutului societăţii privind modificarea capitalului social al societăţii,
+se sancţionează cu amendă de la 100 la 500 de unităţi convenţionale.
+(5) Nerespectarea cerinţelor, prevăzute de legislaţia cu privire la piaţa valorilor mobiliare, la achiziţionarea sau la răscumpărarea de către emitent a valorilor mobiliare plasate,
+se sancţionează cu amendă de la 100 la 180 de unităţi convenţionale.
+(6) Neprezentarea, sau prezentarea tardivă ori incompletă a datelor, prezentarea unor date neveridice sau ascunderea unor date, în cazurile stabilite de legislaţie, de către persoanele interesate în efectuarea de către societăţile pe acţiuni a tranzacţiilor cu conflict de interese,
+se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale.
+(7) Încălcarea modului şi/sau a termenelor de achitare a dividendelor, a dobînzilor sau a altor venituri aferente obligaţiunilor, cu încălcarea prevederilor legislaţiei, ale statutului societăţii sau ale deciziei de emitere a acţiunilor sau obligaţiunilor,
+se sancţionează cu amendă de la 80 la 150 de unităţi convenţionale.
+(8) Neexecutarea de către deţinătorul de valori mobiliare a obligaţiilor de a comunica emitentului şi/sau persoanei care ţine registrul deţinătorilor valorilor mobiliare informaţiile cerute de lege, prezentarea informaţiilor neveridice sau ascunderea unor informaţii,
+se sancţionează cu amendă de la 80 la 200 de unităţi convenţionale.
+(9) Neefectuarea de către emitent a controlului de audit obligatoriu în cazurile prevăzute de legislaţie,
+se sancţionează cu amendă de la 80 la 200 de unităţi convenţionale.
+[Art.302 în redacţia LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+Articolul 303. Încălcarea regulilor privind oferta
+publică a valorilor mobiliare
+(1) Desfăşurarea fără înregistrare la Comisia Naţională a Pieţei Financiare a ofertei publice a valorilor mobiliare pe piaţa primară sau pe piaţa secundară,
+se sancţionează cu amendă de la 300 la 500 de unităţi convenţionale.
+(2) Includerea în prospectul ofertei publice a valorilor mobiliare pe piaţa primară sau pe piaţa secundară a unor date neveridice sau incomplete, precum şi ascunderea unor date relevante, care trebuiau să fie incluse în prospect, potrivit cerinţelor legislaţiei,
+se sancţionează cu amendă de la 50 la 200 de unităţi convenţionale.
+(3) Neefectuarea, pe parcursul desfăşurării ofertei publice primare ori secundare, a modificărilor şi completărilor necesare în prospectul ofertei publice şi în alte documente prezentate pentru înregistrarea ofertei, în cazul depistării unor necorespunderi a acestor documente cerinţelor legislaţiei,
+se sancţionează cu amendă de la 50 la 200 de unităţi convenţionale.
+(4) Nerespectarea de către ofertant şi/sau participantul profesionist pe parcursul desfăşurării ofertei publice pe piaţa valorilor mobiliare a prevederilor stabilite în prospectul ofertei publice, înregistrat la Comisia Naţională a Pieţei Financiare,
+se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale.
+(5) Prezentarea datelor eronate sau incomplete în darea de seamă asupra rezultatelor emisiunii valorilor mobiliare prin ofertă publică,
+se sancţionează cu amendă de la 30 la 400 de unităţi convenţionale.
+[Art.303 în redacţia LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+Articolul 304. Încălcarea regulilor privind obligaţiile
+de dezvăluire a informaţiei pe piaţa
+valorilor mobiliare
+(1) Nerespectarea de către emitenţi, de către participanţii profesionişti la piaţa valorilor mobiliare, de către organizaţiile de autoreglementare ale acestora, de către alţi participanţi la piaţa valorilor mobiliare a formelor de dare de seamă, stabilite de legislaţie, a termenelor de publicare în presă şi de prezentare Comisiei Naţionale a Pieţei Financiare a dărilor de seamă, prezentarea dărilor de seamă în volum incomplet sau conţinînd date eronate, precum şi nerespectarea altor obligaţii de dezvăluire a informaţiei în cazurile prevăzute de lege,
+se sancţionează cu amendă de la 150 la 250 de unităţi convenţionale.
+(2) Nerespectarea de către participanţii profesionişti la piaţa valorilor mobiliare a cerinţei privind accesul liber al clienţilor acestora la informaţia general accesibilă despre activitatea pe care o desfăşoară,
+se sancţionează cu amendă de la 30 la 80 de unităţi convenţionale.
+(3) Neprezentarea sau prezentarea tardivă a informaţiei la cererea Comisiei Naţionale a Pieţei Financiare de către emitenţi şi participanţii profesionişti la piaţa financiară nebancară şi/sau prezentarea acesteia în volum incomplet sau conţinînd date neveridice,
+se sancţionează cu amendă de la 30 la 150 de unităţi convenţionale.
+[Art.304 în redacţia LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+Articolul 3041. Încălcarea regulilor privind registrul
+deţinătorilor de valori mobiliare
+nominative
+(1) Eschivarea emitentului de la ţinerea sau de la asigurarea ţinerii registrului deţinătorilor de valori mobiliare nominative conform cerinţelor legislaţiei în vigoare, ţinerea şi transmiterea registrului cu încălcarea regulilor şi cerinţelor stabilite,
+se sancţionează cu amendă de la 100 la 400 de unităţi convenţionale.
+(2) Refuzul sau eschivarea de la introducerea înscrierii în registru, în baza hotărîrii irevocabile a instanţei de judecată sau a actului executorului judecătoresc cu privire la sechestrarea valorilor mobiliare,
+se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale.
+(3) Încălcarea de către deţinătorul registrului a termenelor de efectuare a înscrierii în registru, eschivarea sau refuzul nemotivat de a face înscrierea sau de a elibera extrase din registru, comiterea de greşeli la ţinerea registrului,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+[Art.3041 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+Articolul 3042. Nerespectarea cerinţelor faţă
+de participanţii profesionişti
+pe piaţa financiară nebancară
+`(1) Practicarea activităţilor profesioniste pe piaţa financiară nebancară fără licenţă,
+se sancţionează cu amendă de la 100 la 500 de unităţi convenţionale.
+(2) Nerespectarea de către participantul profesionist la piaţa financiară nebancară a condiţiilor stabilite în licenţă, a regulilor prudenţiale şi de conduită, a normativelor privind capitalul propriu minim şi fondul de garanţie şi a altor normative stabilite prin lege şi prin actele normative ale Comisiei Naţionale a Pieţei Financiare,
+se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale.
+(3) Nerespectarea termenului de prezentare a documentelor necesare pentru reperfectarea licenţei de către persoanele cu funcţii de răspundere ale deţinătorului de licenţă,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+(4) Nerespectarea de către participantul profesionist la piaţa valorilor mobiliare a obligaţiilor de informare sau, în cazurile stabilite de legislaţie, a obligaţiilor de coordonare în prealabil cu Comisia Naţională a Pieţei Financiare a modificărilor la modul de organizare şi funcţionare a acestuia, în conformitate cu prevederile actelor normative ale Comisiei Naţionale a Pieţei Financiare,
+se sancţionează cu amendă de la 40 la 200 de unităţi convenţionale.
+(5) Nerespectarea de către participantul profesionist la piaţa valorilor mobiliare a obligaţiilor de păstrare a secretului comercial şi profesional,
+se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale.
+[Art.3042 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+Articolul 3043. Nerespectarea regulilor privind
+desfăşurarea activităţilor profesioniste
+pe piaţa financiară nebancară
+(1) Neexecutarea sau executarea necorespunzătoare de către participanţii la piaţa financiară nebancară a deciziilor şi a prescripţiilor Comisiei Naţionale a Pieţei Financiare, precum şi împiedicarea în orice mod a exercitării supravegherii şi controlului din partea Comisiei Naţionale a Pieţei Financiare,
+se sancţionează cu amendă de la 80 la 250 de unităţi convenţionale.
+(2) Nerespectarea de către participanţii profesionişti la piaţa financiară nebancară a cerinţelor stabilite de către Comisia Naţională a Pieţei Financiare privind aplicarea măsurilor de prevenire şi combatere a spălării banilor şi finanţării terorismului pe piaţa financiară nebancară,
+se sancţionează cu amendă de la 150 la 300 de unităţi convenţionale.
+(3) Neexecutarea sau executarea neadecvată ori neonestă de către broker a cerinţelor privind activitatea sa, stipulate în legislaţie şi în contractul încheiat,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+(4) Desfăşurarea activităţii de dealer cu încălcarea prevederilor legislaţiei, inclusiv refuzul dealerului de a efectua tranzacţii cu valori mobiliare conform clauzelor esenţiale anunţate de el,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+(5) Desfăşurarea activităţii de administrare fiduciară a valorilor mobiliare cu încălcarea prevederilor legislaţiei, inclusiv întreprinderea de acţiuni de către administratorul financiar în detrimentul intereselor clientului, în cazul în care apar conflicte de interese între administratorul fiduciar şi client sau între clienţii unuia şi aceluiaşi administrator fiduciar,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+(6) Desfăşurarea activităţii bursiere pe piaţa valorilor mobiliare cu încălcarea prevederilor legislaţiei,
+se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale.
+(7) Dezvăluirea de către depozitarul valorilor mobiliare a informaţiei confidenţiale care i-a devenit cunoscută în exerciţiul funcţiunii,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+(8) Desfăşurarea activităţii depozitarului central pe piaţa valorilor mobiliare cu încălcarea prevederilor legislaţiei,
+se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale.
+(9) Desfăşurarea activităţii de estimare a valorilor mobiliare şi a activelor ce se referă la ele cu încălcarea prevederilor legislaţiei, inclusiv divulgarea informaţiei confidenţiale obţinute în perioada de estimare sau subestimare sau supraestimarea valorilor mobiliare şi a activelor ce se referă la ele,
+se sancţionează cu amendă de la 100 la 300 de unităţi convenţionale.
+(10) Desfăşurarea activităţii de consulting şi/sau consulting investiţional pe piaţa valorilor mobiliare cu încălcarea prevederilor legislaţiei,
+se sancţionează cu amendă de la 50 la 200 de unităţi convenţionale.
+(11) Încălcarea de către persoana care desfăşoară activitate de consulting investiţional a interdicţiilor de a recomanda investiţii care ar determina realizarea de profituri personale sau pentru persoanele sale afiliate sau de a acţiona în calitate de contraparte la tranzacţiile efectuate în urma recomandărilor date,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+[Art.3043 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+Articolul 3044. Încălcarea prevederilor cu privire la
+modul de încheiere a unor tranzacţii
+cu bunurile societăţii comerciale
+(1) Încălcarea modului de încheiere a tranzacţiilor de proporţii şi/sau a tranzacţiilor cu conflict de interese,
+se sancţionează cu amendă de la 100 la 500 de unităţi convenţionale.
+(2) Folosirea de către persoanele cu funcţii de răspundere ale societăţii comerciale a bunurilor societăţii în interes propriu sau în interesul terţilor în care aceştia sînt interesaţi material în mod direct sau indirect,
+se sancţionează cu amendă de la 150 la 500 de unităţi convenţionale.
+(3) Achiziţionarea din mijloacele societăţii a valorilor mobiliare ale altor emitenţi la preţuri evident mai mari decît valoarea lor de piaţă sau înstrăinarea valorilor mobiliare ale societăţii la preţuri evident mai mici decît valoarea lor de piaţă în detrimentul societăţii,
+se sancţionează cu amendă de la 100 la 500 de unităţi convenţionale.
+[Art.3044 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 305. Încălcarea regulilor de activitate
 în domeniul asigurărilor
 (1) Încălcarea modului de aplicare de către asigurători şi intermediarii în asigurări a primelor de asigurare stabilite în conformitate cu legile speciale
@@ -2800,6 +2878,18 @@ se sancţionează cu amendă de la 200 la 250 de unităţi convenţionale.
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale.
 (6) Efectuarea de către asigurător (reasigurător) a transferului de portofoliu de asigurare în lipsa aprobării Comisiei Naţionale a Pieţei Financiare
 se sancţionează cu amendă de la 50 la 80 de unităţi convenţionale.
+(7) Nerespectarea de către asigurător (reasigurător) a obligaţiilor de prezentare Comisiei Naţionale a Pieţei Financiare a raportului privind rezultatele financiare sau a avizului auditului extern, nerespectarea termenelor de publicare în presă şi prezentarea raporturilor în volum incomplet sau conţinînd date neveridice,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+[Art.305 al.(7) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+(8) Refuzul asigurătorului (reasigurătorului), la solicitarea Comisiei Naţionale a Pieţei Financiare, să pună la dispoziţia acesteia informaţii şi documente necesare în exercitarea funcţiilor ei de supraveghere şi control sau prezentarea acesteia în volum incomplet sau conţinînd date neveridice,
+se sancţionează cu amendă de la 30 la 150 de unităţi convenţionale.
+[Art.305 al.(8) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+(9) Prezentarea de către actuar a calculelor actuare, estimărilor şi concluziilor incorecte sau inexacte, precum şi divulgarea informaţiei confidenţiale,
+se sancţionează cu amendă de la 40 la 200 de unităţi convenţionale.
+[Art.305 al.(9) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+(10) Neaplicarea sau aplicarea necorespunzătoare de către persoanele cu funcţie de răspundere ale asigurătorului (reasigurătorului) a măsurilor de remediere financiară a activităţii, stabilite de Comisia Naţională a Pieţei Financiare,
+se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale.
+[Art.305 al.(10) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 306. Încălcarea regulilor de majorare
 sau de reducere a participaţiilor
 calificate în capitalul social
@@ -2817,6 +2907,9 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicat
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere a brokerului de asigurare şi/sau de reasigurare.
 (3) Colectarea primelor de asigurare şi/sau de reasigurare de către brokerul de asigurare şi/sau de reasigurare în lipsa împuternicirilor exprese din partea asigurătorului (reasigurătorului)
 se sancţionează cu amendă de la 60 la 120 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere a brokerului de asigurare şi/sau de reasigurare.
+(4) Acţiunile săvîrşite cu neglijenţă, dezinformare sau alte omisiuni proprii ale brokerului de asigurare şi/sau de reasigurare, dacă aceste acţiuni au adus prejudicii asiguratului (reasiguratului),
+se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale.
+[Art.307 al.(4) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 308. Încălcarea modului de determinare
 a marjei de solvabilitate
 Nerespectarea, în funcţie de clasele de asigurări practicate, de către asigurător (reasigurător) a modului de determinare a marjei de solvabilitate în conformitate cu modalitatea de calcul şi de raportare stabilită prin actele normative ale Comisiei Naţionale a Pieţei Financiare
@@ -2838,6 +2931,31 @@ se sancţionează cu amendă de pînă la 50 de unităţi convenţionale.
 se sancţionează cu amendă de pînă la 50 de unităţi convenţionale aplicată administratorului asociaţiei de economii şi împrumut şi persoanei cu funcţie de răspundere din organizaţia de microfinanţare, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
 (3) Încălcarea acordului privind măsurile de stabilizare sau a ordonanţei Comisiei Naţionale a Pieţei Financiare privind încetarea încălcărilor şi/sau implementarea măsurilor de remediere
 se sancţionează cu amendă de pînă la 200 de unităţi convenţionale.
+(4) Nerespectarea de către asociaţia de economii şi împrumut a condiţiilor stabilite în licenţă, a regulilor prudenţiale şi de conduită, a normativelor stabilite prin lege şi prin actele normative ale Comisiei Naţionale a Pieţei Financiare,
+se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale.
+[Art.310 al.(4) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+(5) Acordarea unui împrumut cu încălcarea intenţionată a legii, a regulilor de prudenţă financiară sau a politicilor de acordare a împrumuturilor,
+se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale.
+[Art.310 al.(5) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+(6) Neprezentarea de către asociaţia de economii şi împrumut adunării generale ordinare anuale şi Comisiei Naţionale a Pieţei Financiare a raportului financiar anual al asociaţiei, a raportului comisiei de cenzori privind controlul anual obligatoriu al activităţii asociaţiei şi raportului de audit, precum şi prezentarea rapoartelor incomplete sau conţinînd date neveridice,
+se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale.
+[Art.310 al.(6) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+Articolul 3101. Încălcarea legislaţiei privind activitatea
+fondurilor nestatale de pensii
+(1) Nerespectarea de către fondul nestatal de pensii a condiţiilor stabilite în licenţă, a regulilor şi normativelor stabilite prin lege şi prin actele normative ale Comisiei Naţionale a Pieţei Financiare,
+se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale.
+(2) Neprezentarea de către fondul nestatal de pensii Comisiei Naţionale a Pieţei Financiare a rapoartelor prevăzute de lege, precum şi prezentarea rapoartelor incomplete sau conţinînd date neveridice,
+se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale.
+(3) Darea unor informaţii eronate sau refuzul de a da informaţii despre investiţii, starea activelor de pensii; prezentarea de către beneficiar a unor documente false sau întocmite greşit în vederea primirii înainte de termen a mijloacelor acumulate; însuşirea, în temeiul unor documente false sau întocmite greşit, a mijloacelor acumulate în fond; netransferarea de către patron în fond a defalcărilor din salariul membrului fondului; divulgarea informaţiei privind starea conturilor de pensie şi plata pensiei suplimentare de către o persoană cu funcţii de răspundere a fondului; acţiunea premeditată a managerului, depozitarului activelor fondului sau auditorului, ce a cauzat prejudicii membrilor fondului,
+se sancţionează cu amendă de la 50 la 500 de unităţi convenţionale.
+[Art.3101 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
+Articolul 3102. Încălcarea legislaţiei privind activitatea
+birourilor istoriilor de credit
+(1) Nerespectarea de către biroul istoriilor de credit a condiţiilor stabilite în licenţă, a regulilor stabilite prin lege şi prin actele normative ale Comisiei Naţionale a Pieţei Financiare, precum şi neexecutarea prescripţiilor Comisiei Naţionale a Pieţei Financiare, obligatorii spre executare, privind înlăturarea încălcărilor depistate în activitatea acestora,
+se sancţionează cu amendă de la 40 la 250 de unităţi convenţionale.
+(2) Obţinerea, utilizarea în alte scopuri sau în alt mod decît cel prevăzut în lege şi/sau divulgarea în orice formă de către birourile istoriilor de credit, utilizatorii istoriei de credit, sursele de formare a istoriei de credit, precum şi de către persoanele cu funcţie de răspundere ale acestora a informaţiei care constituie secret comercial al biroului istoriilor de credit, al sursei de formare a istoriei de credit, al subiectului istoriei de credit sau al utilizatorului istoriei de credit,
+se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale.
+[Art.3102 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 311. Încălcarea termenului de restituire a
 taxei pe valoarea adăugată
 Încălcarea termenului, stabilit de legislaţie, de restituire a taxei pe valoarea adăugată
@@ -3213,6 +3331,26 @@ g) neindicarea în mod expres în contract a modului de calcul al dobînzii, cu 
 h) încălcarea cerinţelor privind stabilirea ratei dobînzii sau a regulilor de calculare a dobînzii anuale efective pentru contractele de credit pentru consumatori, precum şi calculul incomplet sau eronat al acesteia,
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice.
 [Art.344 al.(4) introdus prin LP203 din 12.07.13, MO191-197/06.09.13 art.621; în vigoare 06.03.14]
+(5) Încălcarea cerinţelor faţă de încheierea şi executarea contractelor la distanţă privind serviciile financiare de consum prin:
+a) neprezentarea tipului de serviciu financiar înaintea încheierii unui contract la distanţă cu un consumator, precum şi necomunicarea termenelor şi condiţiilor contractuale şi a informaţiilor prealabile, cu excepţia cazurilor prevăzute la alin. (6) din prezentul articol şi la art. 2932 alin. (4),
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere sau cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei juridice;
+b) nerambursarea de către furnizor, în termen de 30 de zile calendaristice, a sumelor primite conform contractului încheiat la distanţă în cazul revocării contractului, cu excepţia sumelor pentru serviciul financiar prestat efectiv,
+se sancţionează cu amendă de la 25 la 75 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 75 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere sau cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice;
+c) utilizarea mijloacelor de comunicare la distanţă altele decît sistemul automatizat de apel fără intervenţie umană de tip automat de apel, telecopiator sau fax, în cazul comunicărilor nesolicitate, dacă există un refuz evident din partea consumatorului; sau
+d) livrarea către consumator a unui serviciu financiar la distanţă contra plată, fără o solicitare prealabilă din partea acestuia, dacă această livrare presupune efectuarea unei plăţi imediate sau ulterioare,
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere sau cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
+[Art.344 al.(5) introdus prin LP159 din 18.07.14, MO238-246/15.08.14 art.549; în vigoare 15.02.15]
+(6) Necomunicarea de către prestatorul serviciilor de plată a termenelor şi condiţiilor contractuale, a informaţiilor prealabile aferente serviciilor de plată prevăzute de legislaţia cu privire la încheierea şi executarea contractelor la distanţă privind serviciile financiare de consum, şi anume:
+a) unde este cazul, a notificării care să indice că serviciul este legat de instrumente ce implică riscuri speciale asociate trăsăturilor lor specifice sau a operaţiunilor care trebuie executate, sau al cărui cost depinde de fluctuaţiile de pe pieţele financiare care nu se află sub controlul prestatorului serviciilor de plată şi nu poate fi prezentată o estimare a evoluţiei viitoare raportată la performanţele statistice precedente;
+b) a informaţiei privind existenţa sau posibilitatea existenţei unor taxe şi costuri suplimentare care nu se achită prin intermediul prestatorului de servicii de plată sau care nu sînt impuse de acesta;
+c) a limitei de timp sau a datei pînă la care informaţiile furnizate sînt valabile;
+d) a modalităţilor de plată şi de executare a serviciului de plată;
+e) a oricărui cost suplimentar pentru consumator, rezultat din utilizarea de către acesta a mijloacelor de comunicare la distanţă, dacă astfel de costuri adiţionale se percep de către prestatorul de servicii de plată;
+f) a informaţiei privind existenţa sau lipsa dreptului de revocare şi, în cazul în care acest drept există, a termenului şi a condiţiilor de exercitare a acestuia, inclusiv a informaţiilor privind sumele pe care consumatorul trebuie să le plătească pentru serviciul de plată prestat în mod efectiv, precum şi a consecinţelor ce decurg din neexecutarea acestui drept;
+g) a modalităţilor practice de exercitare a dreptului de revocare a contractului înainte de termen, a adresei poştale la care poate fi depusă sau expediată notificarea privind revocarea contractului, precum şi a numărului de fax sau a adresei electronice la care aceasta poate fi expediată;
+h) a informaţiei privind existenţa unor fonduri de garantare sau a altor mecanisme de compensare, altele decît cele prevăzute prin lege,
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere sau cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei juridice.
+[Art.344 al.(6) introdus prin LP159 din 18.07.14, MO238-246/15.08.14 art.549; în vigoare 15.02.15]
 Articolul 345. Încălcarea regulilor din domeniul metrologiei
 (1) Încălcarea regulilor din domeniul metrologiei prin:
 a) plasarea pe piaţă, punerea în funcţiune sau utilizarea la măsurări în domenii de interes public (sănătatea şi siguranţa populaţiei, ordinea publică, protecţia mediului, protecţia drepturilor consumatorului, perceperea taxelor şi impozitelor, tranzacţiile şi operaţiunile comerciale, controlul calităţii produselor, proceselor şi serviciilor, asigurarea securităţii şi apărării naţionale, în alte domenii ale vieţii publice unde, în urma măsurărilor sau rezultatelor incorecte ale acestora, pot fi afectate, direct sau indirect, viaţa oamenilor sau interesele persoanelor fizice şi/sau juridice) a mijloacelor de măsurare care nu se consideră mijloace de măsurare legale, şi anume: fără marcajul aprobării de model, fără marcajul de verificare metrologică, fără certificat de aprobare de model, fără buletin de verificare metrologică sau cu astfel de documente falsificate;
@@ -3748,7 +3886,8 @@ Articolul 403. Serviciul vamal
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni şefii birourilor şi posturilor vamale şi adjuncţii lor, şefii echipelor mobile.
 [Art.403 al.(2) modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 Articolul 404. Comisia Naţională a Pieţei Financiare
-(1) Contravenţiile prevăzute la art.300, 302-310 se examinează de Comisia Naţională a Pieţei Financiare.
+(1) Contravenţiile prevăzute la art.300, 302-3102 se examinează de Comisia Naţională a Pieţei Financiare.
+[Art.404 al.(1) modificat prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 [Art.404 al.(1) modificat prin LP22 din 17.02.11, MO43-45/25.03.11 art.90]
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni preşedintele şi vicepreşedinţii Comisiei Naţionale a Pieţei Financiare.
 Articolul 4041. Consiliul Concurenţei
@@ -3945,7 +4084,8 @@ Datelor cu Caracter Personal
 [Art.4234 introdus prin LP208 din 21.10.11, MO222-226/16.12.11 art.619; în vigoare 16.05.12]
 Articolul 4235. Consiliul pentru prevenirea şi eliminarea
 discriminării şi asigurarea egalităţii
-(1) Contravenţiile specificate la art. 542, 651 şi 711 se constată de către Consiliul pentru prevenirea şi eliminarea discriminării şi asigurarea egalităţii.
+(1) Contravenţiile specificate la art. 542, 651 , 711 şi 712 se constată de către Consiliul pentru prevenirea şi eliminarea discriminării şi asigurarea egalităţii.
+[Art.4235 al.(1) modificat prin LP113 din 03.07.14, MO209-216/25.07.14 art.451]
 (2) Sînt în drept să constate contravenţii şi să încheie în mod colegial procese-verbale membrii Consiliului pentru prevenirea şi eliminarea discriminării şi asigurarea egalităţii.
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 [Art.4235 introdus prin LP306 din 26.12.12, MO27-30/08.02.13 art.104]
