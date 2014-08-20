@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-643/14, din 20.08.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 18,
+  "number": "3ra-643/14",
+  "decision_date": "2014-08-20",
+  "decision_date_source_quote": "20 august 2014",
+  "record_date": "2014-08-20",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=18",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=18",
+  "source_sha256": "f2443197db9295e85ee81757267db22ad291beab573d15ba70f0bf5bef62c048",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3431,
+    "pdftotext_words": 3417,
+    "common_ratio": [
+      0.995,
+      0.9991
+    ]
+  },
+  "first_law": null
+}
