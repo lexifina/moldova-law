@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-1957/14, din 03.09.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 23,
+  "number": "2ra-1957/14",
+  "decision_date": "2014-09-03",
+  "decision_date_source_quote": "03 septembrie 2014",
+  "record_date": "2014-09-03",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=23",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=23",
+  "source_sha256": "d776841b730192d7487a4e2a90d2dd15193a9d9528fdb61bb40edb19f36b5b8b",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3510,
+    "pdftotext_words": 3503,
+    "common_ratio": [
+      0.9977,
+      0.9997
+    ]
+  },
+  "first_law": null
+}
