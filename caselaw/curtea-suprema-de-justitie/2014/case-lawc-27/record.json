@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-2782-14, din 24.09.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 27,
+  "number": "2ra-2782-14",
+  "decision_date": "2014-09-24",
+  "decision_date_source_quote": "24 septembrie 2014",
+  "record_date": "2014-09-24",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=27",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=27",
+  "source_sha256": "aacdd0f3753871b03dee8a38b0026292087989c4df2fee68aac276434be4cfa0",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1504,
+    "pdftotext_words": 1483,
+    "common_ratio": [
+      0.984,
+      0.998
+    ]
+  },
+  "first_law": null
+}
