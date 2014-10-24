@@ -15,6 +15,8 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP82 din 29.05.14, MO319-324/24.10.14 art.632
+LP184 din 28.09.14, MO310-312/10.10.14 art.620; în vigoare 10.10.14
 LP180 din 25.07.14, MO238-246/15.08.14 art.559
 LP159 din 18.07.14, MO238-246/15.08.14 art.549; în vigoare 15.02.15
 LP158 din 18.07.14, MO238-246/15.08.14 art.547; în vigoare 15.08.14
@@ -283,7 +285,7 @@ b) amendă în mărimea valorii produsului, serviciului respectiv care constitui
 (22) Comiterea repetată de către persoana juridică, în decursul unui an calendaristic, a încălcărilor specificate în partea specială a cărţii întîi a prezentului cod se sancţionează cu amendă în mărime dublă din suma amenzii în valoarea limitei maxime, indicată în partea specială a cărţii întîi.
 [Art.34 al.(22) introdus prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 (23) Comiterea de către persoana juridică a treia oară şi mai mult, în decursul unui an calendaristic, a încălcărilor specificate în partea specială a cărţii întîi a prezentului cod se sancţionează cu amendă în mărime triplă din suma amenzii în valoarea limitei maxime, indicată în partea specială a cărţii întîi.
-[Art.30 al.(23) introdus prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
+[Art.34 al.(23) introdus prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 (3) Contravenientul este în drept să achite jumătate din amenda stabilită dacă o plăteşte în cel mult 72 de ore din momentul stabilirii ei. În acest caz, se consideră că sancţiunea amenzii este executată integral.
 (4) Dacă persoana fizică nu a plătit amenda în decursul a 30 de zile de la data stabilirii ei, instanţa de judecată o poate înlocui, după caz, cu:
 a) amendă în mărime dublă, care însă nu poate depăşi limita maximă a sancţiunii cu amenda prevăzută de norma materială contravenţională sau de prezentul articol;
@@ -311,7 +313,8 @@ Privarea de dreptul special
 (6) La expirarea termenului de privare de dreptul de a conduce vehicule sau de dreptul de a deţine armă şi de portarmă, persoana este repusă în acest drept.
 Articolul 37. Munca neremunerată în folosul comunităţii
 (1) Munca neremunerată în folosul comunităţii constă în antrenarea contravenientului persoană fizică, în afara timpului de serviciu de bază sau de studii, la munca stabilită de autoritatea administraţiei publice locale.
-(2) Munca neremunerată în folosul comunităţii se stabileşte pe o durată de la 10 la 60 de ore şi se execută în 2–4 ore pe zi.
+(2) Munca neremunerată în folosul comunităţii se stabileşte pe o durată de la 10 la 60 de ore şi se execută în 2–4 ore pe zi. În cazul contravenientului care nu este angajat în cîmpul muncii, nu este antrenat în activităţi de bază sau de studii, la solicitarea sau cu acordul acestuia, pedeapsa poate fi executată pînă la 8 ore pe zi.
+[Art.37 al.(2) modificat prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (3) Munca neremunerată în folosul comunităţii poate fi aplicată doar persoanelor care acceptă să execute o asemenea sancţiune.
 (4) După pronunţarea hotărîrii judecătoreşti, preşedintele şedinţei de judecată explică esenţa sancţiunii muncii neremunerate în folosul comunităţii, fapt care se consemnează în procesul-verbal al şedinţei de judecată.
 (5) Contravenientului sancţionat cu muncă neremunerată în folosul comunităţii i se ia în scris un angajament prin care se obligă să se prezinte în termen de 10 zile la organul de probaţiune în a cărui rază teritorială îşi are domiciliul.
@@ -319,7 +322,8 @@ Articolul 37. Munca neremunerată în folosul comunităţii
 (6) În caz de eschivare de la munca neremunerată în folosul comunităţii, această sancţiune se înlocuieşte cu arest contravenţional, calculîndu-se o zi de arest pentru 2 ore de muncă neremunerată în folosul comunităţii.
 (7) Munca neremunerată în folosul comunităţii nu poate fi aplicată persoanelor declarate invalizi de gradul I şi de gradul II, militarilor în termen, militarilor şi angajaţilor cu statut special ai Ministerului Afacerilor Interne, angajaţi în bază de contract, femeilor gravide, persoanelor care sînt unicul întreţinător al copilului cu vîrsta de pînă la 8 ani şi nici persoanelor care au împlinit vîrsta generală de pensionare.
 [Art.37 al.(7) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(8) Munca neremunerată în folosul comunităţii se prestează în cel mult 6 luni, timp care curge de la data rămînerii definitive a hotărîrii judecătoreşti.
+(8) Munca neremunerată în folosul comunităţii se prestează în cel mult 6 luni, timp care curge de la data luării la evidenţă a contravenientului şi punerii în executare a hotărîrii judecătoreşti.
+[Art.37 al.(8) modificat prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 Articolul 38. Arestul contravenţional
 (1) Arestul contravenţional este o sancţiune contravenţională excepţională care constă în privarea de libertate pe un termen stabilit prin hotărîre judecătorească şi care se execută în condiţiile prevăzute de Codul de executare.
 (2) Arestul contravenţional se aplică, de regulă, pentru săvîrşirea unei fapte care ameninţă sau pune în pericol real sănătatea ori integritatea corporală a persoanei.
@@ -775,7 +779,7 @@ se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale.
 Articolul 89. Practicarea prostituţiei
 (1) Practicarea prostituţiei
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 40 de ore.
-[Art.89 al.(1) sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.89 al.(1), sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 (2) Persoana angajată în prostituţie contrar voinţei sale este degrevată de răspundere contravenţională.
 Articolul 90. Producerea, comercializarea, difuzarea
 sau păstrarea produselor pornografice
@@ -786,7 +790,7 @@ asupra minorilor
 (1) Difuzarea informaţiei publice cu impact negativ asupra minorilor şi/sau încălcarea legislaţiei privind protecţia minorilor de impactul negativ al informaţiei publice, altele decît cele prevăzute la alin. (2),
 se sancţionează cu amendă de la 80 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în toate cazurile, de dreptul de a exercita o anumită activitate pe un termen de la 3 luni la un an.
 (2) Difuzarea informaţiei publice şi/sau săvîrşirea unor fapte îndreptate spre propagarea prostituţiei, pedofiliei sau pornografiei
-[Art.901 al.(2) dispoziţia în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.901 al.(2), dispoziţia în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 se sancţionează cu amendă de la 100 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în toate cazurile, de dreptul de a exercita o anumită activitate pe un termen de la 3 luni la un an.
 [Art.901 introdus prin LP117 din 23.05.13, MO146-151/12.07.13 art.458]
 Articolul 91. Fumatul şi consumul de băuturi alcoolice
@@ -797,7 +801,7 @@ băuturilor alcoolice
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale.
 (2) Comercializarea către minori a produselor din tutun şi a băuturilor alcoolice
 se sancţionează cu amendă de la 80 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 350 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a exercita o anumită activitate pe un termen de la 3 luni la un an.
-[Art.91 al.(2) sancţiunea modificată prin LP22 din 01.03.12, MO92/15.05.12 art.290]
+[Art.91 al.(2), sancţiunea modificată prin LP22 din 01.03.12, MO92/15.05.12 art.290]
 Capitolul VIII
 CONTRAVENŢII CE ATENTEAZĂ
 LA DREPTURILE REALE
@@ -842,10 +846,10 @@ se sancţionează cu amendă de la 80 la 100 de unităţi convenţionale, aplica
 [Art.96 al.(g) în redacţia LP115 din 23.06.11, MO128-130/05.08.11 art.363]
 (2) Falsificarea, producerea, distrugerea, utilizarea, depozitarea, transportarea sau comercializarea ilicită a marcajelor de control
 se sancţionează cu amendă de la 100 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.96 al.(2) sancţiunea modificată prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
+[Art.96 al.(2), sancţiunea modificată prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
 (3) Distrugerea din neglijenţă a originalului operei ştiinţifice, literare, de artă plastică, de sculptură, de arhitectură, a manuscrisului sau a variantei definitive a originalului fonogramei sau al operei audiovizuale
 se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 350 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.96 al.(3) sancţiunea modificată prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
+[Art.96 al.(3), sancţiunea modificată prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
 Articolul 97. Utilizarea ilegală a mărcii
 Utilizarea fără consimţămîntul titularului a mărcii protejate sau a unui semn care, din cauza identităţii ori similitudinii cu marca înregistrată şi a identităţii ori similitudinii produselor sau serviciilor acoperite de semn şi de marcă, generează riscul de confuzie în percepţia consumatorului, aplicarea semnului pe produse sau pe ambalaje, precum şi utilizarea lui în calitate de ambalaj în cazul mărcilor tridimensionale, oferirea produselor sub acest semn spre comercializare sau comercializarea ori stocarea lor în acest scop, sau, după caz, oferirea ori prestarea serviciilor sub acest semn, importul sau exportul produselor sub acest semn, utilizarea semnului în publicitate, multiplicarea, stocarea sau comercializarea semnului în scopurile menţionate, precum şi îndemnarea terţilor la efectuarea acestor acţiuni
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale, aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale, aplicată persoanei cu funcţie de răspundere, sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore7.
@@ -906,15 +910,15 @@ Articolul 107. Obţinerea sau divulgarea informaţiilor care
 constituie secret comercial, bancar sau fiscal
 [Art.107 titlul modificat prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
 (1) Obţinerea fără consimţămîntul titularului a informaţiilor care constituie secret comercial, bancar sau fiscal în scopul divulgării sau folosirii lor ilegale
-[Art.107 al.(1) dispoziţia modificată prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
+[Art.107 al.(1), dispoziţia modificată prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
 se sancţionează cu amendă de la 30 la 70 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.107 al.(1) sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
-[Art.107 al.(1) sancţiunea modificată prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
+[Art.107 al.(1), sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.107 al.(1), sancţiunea modificată prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
 (2) Divulgarea informaţiilor ce constituie secret comercial, bancar sau fiscal de către un funcţionar public sau de către o persoană căreia aceste informaţii i-au fost încredinţate sau i-au devenit cunoscute în legătură cu serviciul ei
-[Art.107 al.(2) dispoziţia modificată prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
+[Art.107 al.(2), dispoziţia modificată prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.107 al.(2) sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
-[Art.107 al.(2) sancţiunea modificată prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
+[Art.107 al.(2), sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.107 al.(2), sancţiunea modificată prin LP195 din 15.07.10, MO160-162/07.09.10 art.590]
 Articolul 108. Conectarea neautorizată la sursele de
 energie electrică, termică sau la surselede
 gaze
@@ -940,9 +944,9 @@ Articolul 110. Încălcarea regulilor de folosire a apei
 (1) Captarea şi folosirea apei cu încălcarea limitelor stabilite, folosirea apei potabile în scopuri tehnice
 se sancţionează cu amendă de la 20 la 40 de unităţi convenţionale aplicată persoanei fizice sau cu muncă neremunerată în folosul comunităţii de la 20 la 40 de ore, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
 (2) Folosirea obiectivelor acvatice fără autorizaţia de folosinţă specială
-[Art.110 al.(2) dispoziția modificată prin LP255 din 01.11.13, MO276-280/29.11.13 art.762]
+[Art.110 al.(2), dispoziția modificată prin LP255 din 01.11.13, MO276-280/29.11.13 art.762]
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
-[Art.110 al.(2) sancțiunea modificată prin LP255 din 01.11.13, MO276-280/29.11.13 art.762]
+[Art.110 al.(2), sancțiunea modificată prin LP255 din 01.11.13, MO276-280/29.11.13 art.762]
 Articolul 111. Nerespectarea regulilor şi instrucţiunilor
 privind exploatarea construcţiilor, instalaţiilor
 şi aparatelor de măsurat hidrotehnice,
@@ -1275,7 +1279,7 @@ păstrare, utilizare şi înhumare a preparatelor
 biologice, chimice şi a altor substanţe toxice
 [Art.155 titlul modificat prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
 (1) Încălcarea regulilor de evidenţă, transport, păstrare, utilizare şi înhumare a substanţelor radioactive, a preparatelor biologice şi chimice, a îngrăşămintelor minerale, a substanţelor meliorative, a pesticidelor, a stimulatorilor de creştere a plantelor, a amestecurilor de preparate sau a altor substanţe toxice, dacă această faptă nu întruneşte elementele constitutive ale infracţiunii,
-[Art.155 al.(1) dispoziţia modificată prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
+[Art.155 al.(1), dispoziţia modificată prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei juridice cu privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
 (2) Încălcarea normativelor, regulilor şi standardelor care stabilesc modul şi limitele aplicării substanţelor menţionate la alin.(1)
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice.
@@ -1663,7 +1667,7 @@ se sancţionează cu amendă de pînă la 15 unităţi convenţionale sau cu mun
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 40 de ore.
 (3) Fumatul în troleibuze, autobuze, maxi-taxiuri, în vagoane, în locuri neindicate pentru fumat din trenuri de lung parcurs şi în trenuri suburbane, în nave
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 60 de ore.
-[Art.203 al.(3) sancţiunea modificată prin LP22 din 01.03.12, MO92/15.05.12 art.290]
+[Art.203 al.(3), sancţiunea modificată prin LP22 din 01.03.12, MO92/15.05.12 art.290]
 Articolul 204. Călătoria fără bilet
 (1) Admiterea pornirii în călătorie fără bilet de pe teritoriul autogării în transportul rutier regulat suburban, interurban şi internaţional de către conducătorul mijlocului de transport sau persoana responsabilă de aprobarea ieşirii în cursă a mijlocului de transport de pe teritoriul autogării
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale.
@@ -1854,7 +1858,7 @@ se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
 (4) Predarea conducerii vehiculului către o persoană care nu are permis de conducere (cu excepţia instruirii, în prezenţa instructorului), care este privată de dreptul de a conduce vehicule sau care are permis de conducere de o categorie necorespunzătoare
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale cu aplicarea a 3 puncte de penalizare.
 [Art.231 al.(5) abrogat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
-[Art.231 al.(5) dispoziţia modificată prin LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132]
+[Art.231 al.(5) modificat prin LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132]
 Articolul 232. Conducerea vehiculului de către o
 persoană care nu are asupra sa permis
 de conducere
@@ -1900,8 +1904,8 @@ Articolul 234. Necomunicarea identităţii persoanei
 căreia i s-a încredinţat conducerea
 vehiculului
 [Art.234 titlul în redacţia LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132]
-[Art.234 al.(1) exclus prin LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132; al.(2) devine al.(1)]
-(1) Necomunicarea de către proprietarul sau mandatarul (utilizatorul) vehiculului, la solicitarea poliţiei, a identităţii persoanei căreia i-a încredinţat conducerea sau comunicarea cu bună ştiinţă de date eronate privind identitatea acestei persoane
+[Art.234 al.(1) exclus prin LP16-XVI din 03.02.09, MO47-48/03.03.09 art.132; al.(2) devine alineat unic]
+Necomunicarea de către proprietarul sau mandatarul (utilizatorul) vehiculului, la solicitarea poliţiei, a identităţii persoanei căreia i-a încredinţat conducerea sau comunicarea cu bună ştiinţă de date eronate privind identitatea acestei persoane
 se sancţionează cu amendă de la 45 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 75 la 100 de unităţi convenţionale aplicată persoanei juridice.
 Articolul 235. Încălcarea regulilor de folosire a centurii
 de siguranţă, a căştii de protecţie şi a regulilor
@@ -2124,10 +2128,10 @@ tehnice speciale pentru obţinerea
 ascunsă a informaţiei
 (1) Proiectarea sau producerea fără scop de comercializare, deţinerea sau utilizarea ilegală a mijloacelor tehnice speciale pentru obţinerea ascunsă a informaţiei
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
-[Art.261 al.(1) sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.261 al.(1), sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 (2) Utilizarea în activitatea particulară de detectiv şi de pază a mijloacelor tehnice speciale pentru obţinerea ascunsă a informaţiei
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
-[Art.261 al.(2) sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.261 al.(2), sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 Articolul 262. Încălcarea regulilor de import, export,
 proiectare, producere şi comercializare
 a mijloacelor tehnice speciale pentru
@@ -2199,6 +2203,8 @@ se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicat�
 (7) Nerespectarea de către asigurat a termenului stabilit de actele normative în privinţa distribuirii către persoanele asigurate a poliţelor de asigurare obligatorie de asistenţă medicală primite de la agenţiile teritoriale ale Companiei Naţionale de Asigurări în Medicină
 se sancţionează cu amendă de la 5 la 15 unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.266 al.(7) introdus prin LP186 din 15.07.10, MO138-140/06.08.10 art.492]
+(8) Prevederile alineatelor (2) şi (3) nu se aplică producătorilor şi procesatorilor de legume, fructe şi struguri pentru neplata primelor de asigurare obligatorie de asistenţă medicală, neachitarea, achitarea tardivă sau achitarea incompletă a primelor de asigurare obligatorie de asistenţă medicală în perioada de pînă la 30 noiembrie 2014.
+[Art.266 al.(8) introdus prin LP184 din 28.09.14, MO310-312/10.10.14 art.620; în vigoare 10.10.14]
 Articolul 2661. Încălcarea regulilor de gestionare
 a mijloacelor financiare provenite
 din fondurile asigurării obligatorii
@@ -2379,9 +2385,9 @@ se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplica
 [Art.282 al.(22) introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 [Art.282 al.(3)-(4) abrogate prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 (5) Fabricarea, comercializarea articolelor din metale preţioase fără a avea imprimat marcajul de stat al Republicii Moldova sau fără certificat de conformitate pentru unele tipuri de giuvaiericale, a altor articole de uz curent din metale şi pietre preţioase, precum şi comercializarea articolelor de giuvaiergerie fără etichete marcate
-[Art.282 al.(5) dispoziţia modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
+[Art.282 al.(5), dispoziţia modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 se sancţionează cu amendă în mărimea valorii articolului, dar nu mai puţin de 500 de unităţi convenţionale.
-[Art.282 al.(5) sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
+[Art.282 al.(5), sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.282 al.(5) modificat prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 Articolul 283. Falsificarea şi contrafacerea produselor
 (1) Falsificarea produselor, adică fabricarea lor în scop de comercializare fără documente de însoţire, provenienţă, calitate şi conformitate, dacă această faptă nu întruneşte elementele constitutive ale infracţiunii,
@@ -2431,15 +2437,15 @@ se sancţionează cu amendă de la 10 la 50 de unităţi convenţionale.
 se sancţionează cu amendă de la 25 la 75 de unităţi convenţionale.
 (8) Nescoaterea de pe teritoriul vamal al Republicii Moldova a mărfurilor, vehiculelor, obiectelor şi altor valori prohibite introducerii pe teritoriul vamal al Republicii Moldova sau introduse cu obligaţia de a fi scoase de pe teritoriul ei vamal ori nereturnarea pe teritoriul vamal al Republicii Moldova a mărfurilor, vehiculelor, obiectelor şi altor valori scoase cu obligaţia de a fi returnate în termenele stabilite în aceste obligaţii
 se sancţionează cu amendă de la 140 la 150 de unităţi convenţionale, cu obligarea scoaterii de pe teritoriul vamal a mijloacelor de transport prohibite introducerii pe teritoriul vamal al Republicii Moldova sau introduse cu obligaţia de a fi scoase de pe teritoriul ei vamal.
-[Art.287 al.(8) sancţiunea în redacţia LP206 din 16.07.10, MO141-144/10.08.10 art.517]
+[Art.287 al.(8), sancţiunea în redacţia LP206 din 16.07.10, MO141-144/10.08.10 art.517]
 (9) Nescoaterea de pe teritoriul vamal al Republicii Moldova a mărfurilor, obiectelor şi altor valori introduse cu scopul de a fi tranzitate prin teritoriul ei în termenul stabilit de organul vamal
 se sancţionează cu amendă de la 10 la 50 de unităţi convenţionale.
 (10) Trecerea mărfurilor, obiectelor şi altor valori peste frontiera vamală a Republicii Moldova eludîndu-se controlul vamal ori tăinuindu-le de el în locuri special pregătite sau adaptate în acest scop, ori cu folosirea frauduloasă a documentelor sau a mijloacelor de identificare vamală, ori prin nedeclarea sau declararea neautentică în documentele vamale sau în alte documente de trecere a frontierei, dacă aceste acţiuni nu constituie infracţiune de contrabandă sau o altă infracţiune,
 se sancţionează cu amendă de 150 de unităţi convenţionale.
-[Art.287 al.(10) sancţiunea modificată prin LP275 din 15.11.13, MO291-296/13.12.13 art.801]
+[Art.287 al.(10), sancţiunea modificată prin LP275 din 15.11.13, MO291-296/13.12.13 art.801]
 (11) Păstrarea, transportul sau comercializarea mărfurilor, obiectelor şi altor valori introduse pe teritoriul vamal al Republicii Moldova eludîndu-se controlul vamal sau tăinuindu-le de el
 se sancţionează cu amendă de 150 de unităţi convenţionale.
-[Art.287 al.(11) sancţiunea modificată prin LP275 din 15.11.13, MO291-296/13.12.13 art.801]
+[Art.287 al.(11), sancţiunea modificată prin LP275 din 15.11.13, MO291-296/13.12.13 art.801]
 (12) Folosirea, fără autorizaţia organelor vamale, a mărfurilor, obiectelor şi altor valori pentru care au fost acordate înlesniri la impunerea vamală în alte scopuri decît cele în care au fost acordate asemenea înlesniri
 se sancţionează cu amendă de la 10 la 50 de unităţi convenţionale.
 (13) Neachitarea în termen a drepturilor de import şi de export, precum şi alte acţiuni al căror rezultat este neachitarea plenară a taxelor vamale
@@ -2620,43 +2626,45 @@ asigurări sociale de stat obligatorii
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (2) Netransferarea, transferarea tardivă sau transferarea incompletă a contribuţiilor de asigurări sociale de stat obligatorii, pentru toate temeiurile şi felurile de plăţi la care, conform legislaţiei, se calculează contribuţiile menţionate,
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(3) Prevederile alineatului (2) nu se aplică producătorilor şi procesatorilor de legume, fructe şi struguri pentru netransferarea, transferarea tardivă sau transferarea incompletă a contribuţiilor de asigurări sociale de stat obligatorii în perioada de pînă la 30 noiembrie 2014.
+[Art.2941 al.(3) introdus prin LP184 din 28.09.14, MO310-312/10.10.14 art.620; în vigoare 10.10.14]
 [Art.2941 introdus prin LP148 din 15.07.11, MO131/133/12.08.11 art.401]
 Articolul 295. Încălcarea regulilor de organizare
 şi de ţinere a contabilităţii, de întocmire
 şi prezentare a rapoartelor financiare
 [Art.295 titlul modificat prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 (1) Neîndeplinirea cerinţelor legislaţiei referitor la alegerea sistemului şi formei de ţinere a contabilităţii şi la aplicarea politicii de contabilitate, precum şi neasigurarea controlului asupra documentării faptelor economice şi reflectării lor în contabilitate
-[Art.295 al.(1) dispoziţia modificată prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+[Art.295 al.(1), dispoziţia modificată prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 se sancţionează cu amendă de la 25 la 75 de unităţi convenţionale aplicată persoanei responsabile de organizarea unei astfel de evidenţe sau control.
-[Art.295 al.(1) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.295 al.(1), sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (2) Nerespectarea regulilor stabilite de legislaţie privind reflectarea în conturi şi în registrele contabile a faptelor economice
-[Art.295 al.(2) dispoziţia modificată prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+[Art.295 al.(2), dispoziţia modificată prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 se sancţionează cu amendă de la 25 la 75 unităţi convenţionale aplicată persoanei fizice, cu amendă de la 15 la 25 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.295 al.(2) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.295 al.(2), sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (3) Neîntocmirea documentelor primare şi a documentelor primare cu regim special ori nerespectarea cerinţelor de perfectare a acestora, perfectarea incompletă sau inadecvată a documentelor primare şi a documentelor primare cu regim special ori prezentarea acestora în contabilitate cu întîrziere
-[Art.295 al.(3) dispoziţia în redacţia LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+[Art.295 al.(3), dispoziţia în redacţia LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 se sancţionează cu amendă de la 20 la 75 de unităţi convenţionale aplicată persoanei responsabile de întocmirea, semnarea şi prezentarea documentelor primare.
-[Art.295 al.(3) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.295 al.(3), sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (4) Prezentarea în organul abilitat să colecteze rapoartele financiare a rapoartelor financiare care nu corespund formei stabilite de legislaţie sau care nu reflectă toate datele stabilite pentru această formă ori prezentarea incompletă sau cu date eronate a rapoartelor financiare, ori neprezentarea acestora în termenul stabilit de legislaţie,
-[Art.295 al.(4) dispoziţia în redacţia LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+[Art.295 al.(4), dispoziţia în redacţia LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 se sancţionează cu amendă de la 25 la 75 unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.295 al.(4) sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
+[Art.295 al.(4), sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 (5) Neîndeplinirea premeditată, după expirarea termenului stabilit de legislaţie pentru prezentarea rapoartelor financiare, a dispoziţiei scrise a organului abilitat să colecteze rapoartele financiare privind prezentarea ei în termenul stabilit de acesta
-[Art.295 al.(5) dispoziţia modificată prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+[Art.295 al.(5), dispoziţia modificată prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (6) Prezentarea în rapoartele financiare a unor indicatori eronaţi
-[Art.295 al.(6) dispoziţia în redacţia LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+[Art.295 al.(6), dispoziţia în redacţia LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 se sancţionează cu amendă de la 25 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.295 al.(6) sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
+[Art.295 al.(6), sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 (7) Pierderea, sustragerea sau distrugerea documentelor contabile pînă la expirarea termenului de păstrare a lor, conform regulilor stabilite de Organul de Stat pentru Supravegherea şi Administrarea Fondului Arhivistic al Republicii Moldova, sau nerestabilirea lor, conform legislaţiei, în termen de pînă la 3 luni din momentul constatării faptului respectiv
-[Art.295 al.(7) dispoziţia în redacţia LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+[Art.295 al.(7), dispoziţia în redacţia LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 se sancţionează cu amendă de la 10 la 15 unităţi convenţionale aplicată persoanei fizice, cu amendă de la 20 la 30 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (8) Acţiunile specificate la alin.(7) săvîrşite premeditat sau după aplicarea de sancţiuni pentru contravenţii similare
 se sancţionează cu amendă de la 50 la 70 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.295 al.(8) sancţiunea modificată prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
+[Art.295 al.(8), sancţiunea modificată prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 (9) Neîndeplinirea cerinţelor privind utilizarea în evidenţa analitică şi sintetică a formularelor stabilite în actele normative în vigoare, precum şi nerespectarea modalităţii de efectuare a inventarierii
 se sancţionează cu amendă de la 25 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.295 al.(9) introdus prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.295 al.(9), introdus prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 Articolul 2951. Încălcarea procedurii de raportare
 a informaţiei necesare pentru
 monitorizarea datoriei publice
@@ -2667,10 +2675,10 @@ Articolul 296. Primirea şi eliberarea mijloacelor
 pentru retribuirea muncii fără transferul
 contribuţiei de asigurări sociale
 (1) Prezentarea în instituţia financiară a documentelor în vederea primirii de mijloace pentru retribuirea muncii fără documentul ce confirmă transferul contribuţiei de asigurări sociale aplicată persoanei juridice
-[Art.296 al.(1) dispoziţiea modificată prin LP148 din 15.07.11, MO131/133/12.08.11 art.401]
+[Art.296 al.(1), dispoziţiea modificată prin LP148 din 15.07.11, MO131/133/12.08.11 art.401]
 se sancţionează cu amendă de la 15 la 25 de unităţi convenţionale.
 (2) Eliberarea de către instituţia financiară contribuabilului din sistemul public de asigurări sociale a mijloacelor pentru retribuirea muncii fără ca acesta să prezinte, în modul stabilit de legislaţie, documentul ce confirmă transferul contribuţiei de asigurări sociale aplicată persoanei juridice
-[Art.296 al.(2) dispoziţiea modificată prin LP148 din 15.07.11, MO131/133/12.08.11 art.401]
+[Art.296 al.(2), dispoziţiea modificată prin LP148 din 15.07.11, MO131/133/12.08.11 art.401]
 se sancţionează cu amendă de la 15 la 250 de unităţi convenţionale.
 Articolul 297. Încălcarea drepturilor, intereselor şi
 obligaţiilor contribuabilului sau ale
@@ -2693,25 +2701,25 @@ bugetare şi de gestionare a patrimoniului
 public
 [Art.298 denumirea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 (1) Denaturarea de către instituţiile finanţate din mijloacele bugetelor şi fondurilor componente ale bugetului public naţional a calculelor de stabilire a necesarului de mijloace bugetare
-[Art.298 al.(1) dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(1), dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 se sancţionează cu amendă de la 75 la 155 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.298 al.(1) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(1), sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (2) Acţiunile specificate la alin.(1) care au dus la formarea de surplusuri de mijloace bugetare sau de bunuri materiale
 se sancţionează cu amendă de la 110 la 165 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.298 al.(2) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(2), sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (21) Generarea unor cheltuieli suplimentare pentru retribuirea muncii ca urmare a includerii nejustificate în calcul a componentelor salariului sau a altor plăţi
 se sancţionează cu amendă de la 150 la 500 de unităţi convenţionale aplicată persoanelor cu funcţii de răspundere.
 [Art.298 al.(21) introdus prin LP262 din 01.11.13, MO284-289/06.12.13 art.778]
 (3) Neprezentarea spre aprobare sau neaprobarea în termen de către ordonatorii de credite (executorii de buget) a planurilor de finanţare (devizelor de cheltuieli) ale instituţiilor publice
-[Art.298 al.(3) dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(3), dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 se sancţionează cu amendă de la 55 la 110 unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.298 al.(3) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(3), sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (4) Utilizarea contrar destinaţiei sau dezafectarea mijloacelor bugetare de către instituţiile finanţate din mijloacele bugetelor şi fondurilor componente ale bugetului public naţional
-[Art.298 al.(4) dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
-[Art.298 al.(4) dispoziţia modificată prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
+[Art.298 al.(4), dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(4), dispoziţia modificată prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 se sancţionează cu amendă de la 190 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.298 al.(4) sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
-[Art.298 al.(4) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(4), sancţiunea modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
+[Art.298 al.(4), sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (41) Utilizarea contrar destinaţiei de către organizaţiile necomerciale de utilitate publică, cultele religioase şi părţile componente ale acestora a mijloacelor financiare obţinute în urma desemnării procentuale
 se sancţionează cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.298 al.(41) introdus prin LP158 din 18.07.14, MO238-246/15.08.14 art.547; în vigoare 15.08.14]
@@ -2721,10 +2729,10 @@ se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale aplicat
 [Art.298 al.(5) în redacţia LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 [Art.298 al.(5) modificat prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 (51) Efectuarea de către instituţiile finanţate din mijloacele bugetelor şi fondurilor componente ale bugetului public naţional, de către întreprinderile de stat/municipale şi de către societăţile comerciale cu cota de participare a statului/unităţii administrativ-teritoriale a tranzacţiilor economice cu beneficiari prin încheierea contractelor neavantajoase, precum şi utilizarea patrimoniului public de către beneficiarii arendaşi şi/sau chiriaşi fără perfectarea contractelor şi fără efectuarea calculelor plăţilor pentru folosirea fondurilor fixe, terenurilor, încăperilor, bazinelor acvatice, soldate cu venituri ratate,
-[Art.298 al.(51) dispoziţia modificată prin LP262 din 01.11.13, MO284-289/06.12.13 art.778]
-[Art.298 al.(51) dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(51), dispoziţia modificată prin LP262 din 01.11.13, MO284-289/06.12.13 art.778]
+[Art.298 al.(51), dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 se sancţionează cu amendă de la 100 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.298 al.(51) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(51), sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 [Art.298 al.(51) modificat prin LP48 din 26.03.11, MO53/04.04.11, art.114; în vigoare 04.04.11]
 [Art.298 al.(51) introdus prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 (52) Încălcarea procedurii de dare în arendă a terenurilor proprietate publică aferente obiectivelor privatizate sau care se privatizează, aferente obiectivelor private, sau aferente construcţiilor nefinalizate, precum şi a terenurilor proprietate publică care nu sînt aferente obiectivelor privatizate sau construcţiilor nefinalizate, constatată de către organele abilitate cu funcţii de control
@@ -2732,7 +2740,7 @@ se sancţionează cu amendă de la 110 la 220 de unităţi convenţionale aplica
 [Art.298 al.(52) modificat prin LP262 din 01.11.13, MO284-289/06.12.13 art.778]
 [Art.298 al.(52) introdus prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 (6) Formarea şi utilizarea contrar legislaţiei a mijloacelor speciale ale instituţiei publice
-[Art.298 al.(6) dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.298 al.(6), dispoziţia modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 se sancţionează cu amendă de la 190 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.298 al.(6) sancţiunea modificată prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (7) Admiterea de către instituţiile finanţate din mijloacele bugetelor şi fondurilor componente ale bugetului public naţional a datoriilor creditoare cu termenul de achitare expirat
@@ -3185,7 +3193,7 @@ punctelor de trecere a frontierei de stat şi
 a regulilor de trecere a frontierei de stat
 [Art.332 titlul în redacţia LP304 din 26.12.12, MO48/05.03.13 art.150; în vigoare 05.03.13]
 (1) Încălcarea regimului frontierei de stat, a regimului zonei de frontieră, a regimului punctelor de trecere a frontierei de stat şi a regulilor de trecere a frontierei de stat
-[Art.332 al.(1) dispoziţia în redacţia LP304 din 26.12.12, MO48/05.03.13 art.150; în vigoare 05.03.13]
+[Art.332 al.(1), dispoziţia în redacţia LP304 din 26.12.12, MO48/05.03.13 art.150; în vigoare 05.03.13]
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 15 la 30 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (2) Trecerea frontierei de stat prin punctele de trecere a frontierei de stat fără paşaport sau fără autorizaţie din partea autorităţilor respective
 se sancţionează cu amendă de la 20 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
@@ -3441,13 +3449,13 @@ Articolul 356. Jocurile de noroc.
 Ghicitul în locuri publice
 (1) Organizarea jocurilor de noroc cu încălcarea regulilor prevăzute de legislaţie
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
-[Art.356 al.(1) sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.356 al.(1), sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 (11) Admiterea la jocurile de noroc (cu excepţia loteriilor şi jocurilor de abilitate) a persoanelor care nu au împlinit vîrsta de 18 ani, admiterea la jocurile de noroc a persoanelor care, sub influenţa alcoolului, stupefiantelor sau altor substanţe cu efect puternic ori din alte cauze, vădit nu sînt conştiente de acţiunile lor, precum şi permiterea accesului acestor persoane în sala de joc
 se sancţionează cu amendă de la 80 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 450 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 5 luni la un an.
 [Art.356 al.(11) introdus prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 (2) Ghicitul în locuri publice
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
-[Art.356 al.(2) sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.356 al.(2), sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 Articolul 357. Tulburarea liniştii
 Tulburarea liniştii în timpul nopţii, de la ora 22 pînă la ora 7, inclusiv prin cîntare cu voce ridicată, semnalizare acustică, folosire cu intensitate auditivă a aparatajului audiovizual în locuinţe sau în locuri publice, alte acţiuni similare,
 se sancţionează cu amendă de la 15 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
@@ -3503,19 +3511,19 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale cu sau 
 Articolul 364. Încălcarea legislaţiei cu privire la publicitate
 (1) Amplasarea mijloacelor de publicitate exterioară fără permisiunea autorităţii administraţiei publice locale şi fără acordarea, în modul stabilit, a unui spaţiu de afişaj
 se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 40 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 60 la 300 de unităţi convenţionale aplicată persoanei juridice.
-[Art.364 al.(1) sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.364 al.(1), sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 (2) Amplasarea mijloacelor de publicitate exterioară pe arbori sau în zonele de protecţie a monumentelor de arhitectură, de istorie şi de cultură
 se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 40 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 60 la 300 de unităţi convenţionale aplicată persoanei juridice.
-[Art.364 al.(2) sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.364 al.(2), sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 (3) Amplasarea sau difuzarea publicităţii produselor şi a serviciilor supuse certificării sau licenţierii în cazul în care producătorii lor nu dispun de certificat sau de licenţă, precum şi amplasarea sau difuzarea publicităţii produselor şi a serviciilor interzise producerii şi comercializării
 se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 40 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 60 la 300 de unităţi convenţionale aplicată persoanei juridice.
-[Art.364 al.(3) sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.364 al.(3), sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 (4) Amplasarea sau difuzarea publicităţii produselor şi a serviciilor cu folosirea neautorizată a simbolurilor statului
 se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 40 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 60 la 300 de unităţi convenţionale aplicată persoanei juridice.
-[Art.364 al.(4) sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.364 al.(4), sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 (5) Prezentarea, producerea sau difuzarea fără autorizaţie a publicităţii şedinţelor medicale în masă cu folosirea metodelor de influenţă psihică
 se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 40 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 60 la 300 de unităţi convenţionale aplicată persoanei juridice.
-[Art.364 al.(5) sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.364 al.(5), sancţiunea în redacţia LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 (51) Difuzarea publicităţii exterioare care nu întruneşte condiţiile prevăzute de lege
 se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei juridice.
 [Art.364 al.(51) introdus prin LP67 din 05.04.12, MO92/15.05.12 art.310]
@@ -3939,8 +3947,6 @@ a) conducătorul organului de specialitate al administraţiei publice în domeni
 [Art.407 al.(5), lit.a) modificată prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 b) comandanţii aeronavelor civile în perioada de îndeplinire a misiunii de zbor, pentru contravenţiile prevăzute la art.210.
 Articolul 408. Agenţia pentru Protecţia Consumatorilor
-(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), 275 alin. (2), 971–972, 278–281,2932 alin. (4) şi (5), 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
-[Art.408 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 (1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), (7), 275 alin. (2), 971–972, 278–281, 2932 alin. (4) şi (5), 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
 [Art.408 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 [Art.408 al.(1) modificat prin LP321 din 23.12.13, MO27-34/07.02.14 art.67; în vigoare 07.08.14]
