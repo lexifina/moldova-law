@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Contestațiile hotărîrilor CSM), nr. 3-17/14, din 07.11.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "cont_csm",
+  "database_label": "Contestațiile hotărîrilor CSM",
+  "source_id": 57,
+  "number": "3-17/14",
+  "decision_date": "2014-11-07",
+  "decision_date_source_quote": "07 noiembrie 2014",
+  "record_date": "2014-11-07",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_cont_csm.php?id=57",
+  "listing": "http://jurisprudenta.csj.md/db_cont_csm.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_cont_csm.php?id=57",
+  "source_sha256": "bac01df3a3020865e0dbd6b9b87ab4383a04746ffbc4c0128d849b233f58c66a",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 248,
+    "pdftotext_words": 248,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
