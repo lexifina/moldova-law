@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 9, din 22.12.2014",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 236,
+  "number": "9",
+  "decision_date": "2014-12-22",
+  "decision_date_source_quote": "22 decembrie 2014",
+  "record_date": "2014-12-22",
+  "in_force": "2014-12-22",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=236",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=236",
+  "source_sha256": "b41bed3826a7705cce5254bbcb645a763e3d297924409fddccc55fcac12a6fb7",
+  "pdf_pages": 21,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 12409,
+    "pdftotext_words": 12407,
+    "common_ratio": [
+      0.9997,
+      0.9998
+    ]
+  },
+  "first_law": null
+}
