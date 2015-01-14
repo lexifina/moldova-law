@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-47/15, din 14.01.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 29,
+  "number": "3ra-47/15",
+  "decision_date": "2015-01-14",
+  "decision_date_source_quote": "14 ianuarie 2015",
+  "record_date": "2015-01-14",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=29",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=29",
+  "source_sha256": "1fb417ae63e0b41a5ae02503a70a912dfa440e2d72a470a8d060c859e416695f",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3948,
+    "pdftotext_words": 3942,
+    "common_ratio": [
+      0.9982,
+      0.9997
+    ]
+  },
+  "first_law": null
+}
