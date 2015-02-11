@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ri-41/15, din 11.02.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 33,
+  "number": "2ri-41/15",
+  "decision_date": "2015-02-11",
+  "decision_date_source_quote": "11 februarie 2015",
+  "record_date": "2015-02-11",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=33",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=33",
+  "source_sha256": "989099e250f2aba579d1ca5b3ac70a34b8c5ca620d20637491d3acf43d45431f",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2005,
+    "pdftotext_words": 1991,
+    "common_ratio": [
+      0.9915,
+      0.9985
+    ]
+  },
+  "first_law": null
+}
