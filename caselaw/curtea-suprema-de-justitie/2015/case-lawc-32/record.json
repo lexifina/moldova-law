@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ri-24/15, din 11.02.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 32,
+  "number": "2ri-24/15",
+  "decision_date": "2015-02-11",
+  "decision_date_source_quote": "11 februarie 2015",
+  "record_date": "2015-02-11",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=32",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=32",
+  "source_sha256": "b9a27dde75f858e0e04c16c798f0dc6803ebdd6f2ede40b6d946bdbbec960adb",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2288,
+    "pdftotext_words": 2265,
+    "common_ratio": [
+      0.9865,
+      0.9965
+    ]
+  },
+  "first_law": null
+}
