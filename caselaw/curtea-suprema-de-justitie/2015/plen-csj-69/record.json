@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 320, din 23.02.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 69,
+  "number": "320",
+  "decision_date": "2015-02-23",
+  "decision_date_source_quote": "23 februarie 2015",
+  "record_date": "2015-02-23",
+  "in_force": "2015-02-23",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=69",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=69",
+  "source_sha256": "2b219506ffcf6ce080b43e4cb3f9b14b6724d49167c532824b1c0e87a6c26060",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1786,
+    "pdftotext_words": 1763,
+    "common_ratio": [
+      0.9849,
+      0.9977
+    ]
+  },
+  "first_law": null
+}
