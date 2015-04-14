@@ -15,6 +15,8 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15
+LP34 din 19.03.15, MO93/14.04.15 art.132
 LP82 din 29.05.14, MO319-324/24.10.14 art.632
 LP184 din 28.09.14, MO310-312/10.10.14 art.620; în vigoare 10.10.14
 LP180 din 25.07.14, MO238-246/15.08.14 art.559
@@ -387,10 +389,32 @@ CONSTITUŢIONALE ALE PERSOANEI FIZICE
 Articolul 47. Împiedicarea exercitării dreptului electoral
 Împiedicarea accesului în localul de votare
 se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
-Articolul 48. Folosirea în alegeri sau la referendum
-a fondurilor venite din străinătate sau a
-fondurilor nedeclarate public
-Folosirea în alegeri sau la referendum a fondurilor venite din străinătate sau a fondurilor nedeclarate public se sancţionează cu amendă de la 30 la 40 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+Articolul 48. Utilizarea fondurilor nedeclarate, neconforme
+sau venite din străinătate pentru finanţarea
+partidelor politice
+(1) Utilizarea de către partidele politice a unor fonduri nedeclarate, neconforme sau venite din străinătate
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice sau cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(2) Mijloacele băneşti utilizate în modul prevăzut la alin. (1) se confiscă şi se fac venit la bugetul de stat.
+[Art.48 în redacția LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
+Articolul 481. Încălcarea legislaţiei privind gestionarea
+mijloacelor financiare ale partidelor politice
+şi ale fondurilor electorale
+(1) Neprezentarea de către concurenţii electorali a rapoartelor privind finanţarea campaniei electorale în termenul şi în formatul stabilite
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
+(2) Încălcarea modului de evidenţă şi utilizare a patrimoniului partidelor politice şi a mijloacelor din fondul electoral, inclusiv neprezentarea datelor de identificare a donatorilor,
+se sancţionează cu amendă de la 100 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(3) Neprezentarea de către partidele politice a rapoartelor privind gestiunea lor financiară în termenul şi formatul stabilite de către Comisia Electorală Centrală, inclusiv prezentarea unor date incomplete în raport,
+se sancţionează cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(4) Utilizarea contrar destinaţiei a alocaţiilor de la bugetul de stat pentru partidele politice sau a mijloacelor din fondul electoral, dacă aceasta nu constituie infracţiune,
+se sancţionează cu amendă în mărime de la 200 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere şi cu privarea de dreptul de a deţine anumite funcţii sau de a desfăşura anumite activităţi pe un termen de pînă la un an.
+(5) Utilizarea ilicită de resurse administrative (bunuri publice), inclusiv favorizarea sau consimţirea la utilizarea ilegală a resurselor administrative (bunurilor publice), în campaniile electorale, dacă aceasta nu constituie infracţiune,
+se sancţionează cu amendă de la 150 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere şi cu privarea de dreptul de a deţine anumite funcţii sau de a desfăşura anumite activităţi pe un termen de pînă la un an.
+[Art.481 introdus prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
+Articolul 482. Neexecutarea somaţiei Comisiei
+Electorale Centrale
+Neexecutarea somaţiei Comisiei Electorale Centrale privind vărsarea la bugetul de stat a sumelor primite de partidele politice sau de concurenţii electorali cu încălcarea legii sau peste plafoanele stabilite
+se sancţionează cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere şi cu privarea de dreptul de a deţine anumite funcţii pe un termen de la 3 luni la un an.
+[Art.482 introdus prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
 Articolul 49. Împiedicarea activităţii organului electoral
 (1) Nefurnizarea de către persoane cu funcţie de răspundere a datelor şi materialelor solicitate de organul electoral, precum şi neîndeplinirea hotărîrii acestuia luate în limitele competenţei
 se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale.
@@ -3177,6 +3201,13 @@ din domeniul ajutorului de stat
 Încălcarea legislaţiei şi a reglementărilor din domeniul ajutorului de stat la acordarea, raportarea, utilizarea sau la ţinerea evidenţei ajutoarelor de stat, precum şi neîndeplinirea unei obligaţii sau a unei condiţii impuse printr-o decizie ori prescripţie a Consiliului Concurenţei
 se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 250 de unităţi convenţionale aplicată persoanei juridice.
 [Art.3303 introdus prin LP38 din 27.03.14, MO92-98/18.04.14 art.228]
+Articolul 3304. Publicarea subiectelor pentru
+examenele de absolvire a gimnaziului
+şi de bacalaureat, precum şi a soluţiilor
+la acestea
+Publicarea subiectelor pentru examenele de absolvire a gimnaziului şi de bacalaureat şi/sau a soluţiilor la acestea pînă la începerea examenului respectiv sau pe durata desfăşurării acestuia
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 400 de unităţi convenţionale aplicată persoanei juridice, cu amendă de la 250 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu privarea de dreptul de a deţine anumite funcţii sau de dreptul de a desfăşura anumite activităţi pe un termen de la 3 luni la un an.
+[Art.3304 introdus prin LP34 din 19.03.15, MO93/14.04.15 art.132]
 Capitolul XVII
 CONTRAVENŢII CE ATENTEAZĂ LA REGIMUL
 FRONTIEREI DE STAT ŞI REGIMUL DE ŞEDERE
@@ -3702,7 +3733,8 @@ f) să respecte ordinea în şedinţa de judecată şi să nu părăsească sala
 (6) În conformitate cu prevederile prezentului cod, drepturile minorului se realizează şi de reprezentantul lui legal. Procesului contravenţional se aplică în mod corespunzător prevederile Codului de procedură penală cu privire la drepturile şi obligaţiile reprezentantului legal al minorului.
 Articolul 385. Agentul constatator
 (1) Agentul constatator este reprezentantul autorităţii publice care soluţionează, în limitele competenţei sale, cauza contravenţională în modul prevăzut de prezentul cod.
-(2) Este desemnat ca agent constatator funcţionarul din autorităţile indicate la art.400–4236, împuternicit cu atribuţii de constatare a contravenţiei şi/sau de sancţionare.
+(2) Este desemnat ca agent constatator funcţionarul din autorităţile indicate la art.400–4237, împuternicit cu atribuţii de constatare a contravenţiei şi/sau de sancţionare.
+[Art.385 al.(2) modificat prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
 [Art.385 al.(2) modificat prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
 [Art.385 al.(2) modificat prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
 Articolul 386. Procurorul
@@ -3778,7 +3810,8 @@ Sînt competente să soluţioneze cauzele contravenţionale:
 a) instanţa de judecată;
 b) procurorul;
 c) comisia administrativă;
-d) agentul constatator (organele de specialitate specificate la art. 400–4236).
+d) agentul constatator (organele de specialitate specificate la art. 400–4237).
+[Art.393 lit.d) modificată prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
 [Art.393 lit.d) modificată prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
 [Art.393 lit.d) modificată prin LP306 din 26.12.12, MO27-30/08.02.13 art.104]
 [Art.393 lit.d) modificată prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
@@ -3823,8 +3856,9 @@ Articolul 399. Competenţa agentului constatator
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(1) Contravenţiile prevăzute la art.47–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277, art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
-[Art.400 al.(1) modificat prinLP100 din 12.06.14, MO169-173/27.06.14 art.383]
+(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277, art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
+[Art.400 al.(1) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 [Art.400 al.(1) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(1) modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.400 al.(1) modificat prin LP232 din 11.10.13, MO252-257/08.11.13 art.705]
@@ -3843,8 +3877,9 @@ Articolul 400. Ministerul Afacerilor Interne
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni în limitele competenţei şefii de direcţii şi adjuncţii lor, şefii inspectoratelor de poliţie şi adjuncţii lor, şefii secţiilor de poliţie, şefii sectoarelor de poliţie, şefii posturilor de poliţie, ofiţerii principali de sector, ofiţerii superiori de sector, ofiţerii de sector, angajaţii secţiilor securitate publică, angajaţii serviciilor patrulare, angajaţii secţiilor supraveghere transport şi circulaţie rutieră, angajaţii serviciilor supraveghere tehnică şi accidente rutiere ale inspectoratelor de poliţie, angajaţii Inspectoratului naţional de patrulare şi ai Inspectoratului naţional de investigaţii din cadrul Inspectoratului General al Poliţiei.
 [Art.400 al.(2) în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (3) Sînt în drept să examineze cauzele privind încălcarea regulilor de apărare împotriva incendiilor şi să aplice sancţiuni şeful Direcţiei salvatori şi pompieri şi adjuncţii lui, şefii detaşamentelor, unităţilor, posturilor paramilitare şi militare de salvatori şi pompieri din subordinea direcţiei, şefii subunităţilor specializate.
-(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 1971, 227, 233, 237, 243, 322, 3321 alin. (1), art. 3341, art. 356 alin. (11) se constată de poliţie.
-[Art.400 al.(4) modificat prinLP100 din 12.06.14, MO169-173/27.06.14 art.383]
+(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 1971, 227, 233, 237, 243, 322, 3304, 3321 alin. (1), art. 3341, art. 356 alin. (11) se constată de poliţie.
+[Art.400 al.(4) modificat prin LP34 din 19.03.15, MO93/14.04.15 art.132]
+[Art.400 al.(4) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 [Art.400 al.(4) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(4) modificat prin LP232 din 11.10.13, MO252-257/08.11.13 art.705]
 [Art.400 al.(4) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
@@ -3855,8 +3890,9 @@ Articolul 400. Ministerul Afacerilor Interne
 [Art.400 al.(5) în redacția LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(5) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(5) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
-(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art. 1971, 233, 237, 243, art. 356 alin. (11) se remit spre examinare în fond instanţei de judecată competente.
-[Art.400 al.(6) modificat prinLP100 din 12.06.14, MO169-173/27.06.14 art.383]
+(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art. 1971, 233, 237, 243, 322, 3304, art. 356 alin. (11) se remit spre examinare în fond instanţei de judecată competente.
+[Art.400 al.(6) modificat prin LP34 din 19.03.15, MO93/14.04.15 art.132]
+[Art.400 al.(6) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 [Art.400 al.(6) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(6) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(6) introdus prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
@@ -4096,10 +4132,16 @@ discriminării şi asigurarea egalităţii
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 [Art.4235 introdus prin LP306 din 26.12.12, MO27-30/08.02.13 art.104]
 Articolul 4236. Curtea de Conturi
-(1) Contravenţiile prevăzute la art. 3192 şi art. 349 alin. (5) se constată de către Curtea de Conturi.
+(1) Contravenţiile prevăzute la art. 481 alin. (4), art. 3192 şi art. 349 alin. (5) se constată de către Curtea de Conturi.
+[Art.4236 al.(1) modificat prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
 (2) Are dreptul să constate contravenţii şi să încheie procese-verbale personalul abilitat cu atribuţii de audit public al Curţii de Conturi.
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 [Art.4236 introdus prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
+Articolul 4237. Comisia Electorală Centrală
+(1) Contravenţiile prevăzute la art. 481 alin. (1)–(3) se constată de către Comisia Electorala Centrală din oficiu sau la sesizarea organelor abilitate.
+(2) Are dreptul să constate contravenţii şi să încheie procese-verbale preşedintele Comisiei Electorale Centrale sau vicepreşedintele Comisiei, în cazul în care îl substituie pe preşedintele Comisiei.
+(3) Procesele-verbale cu privire la contravenţii se trimit pentru examinare în fond instanţei de judecată competente.
+[Art.4237 introdus prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
 Articolul 424. Remiterea materialelor către procuror,
 către ofiţerul de urmărire penală
 Dacă, în procesul examinării cauzei contravenţionale, se constată că încălcarea conţine elementele constitutive ale infracţiunii, agentul constatator remite materialele procurorului sau ofiţerului de urmărire penală, după competenţă.
