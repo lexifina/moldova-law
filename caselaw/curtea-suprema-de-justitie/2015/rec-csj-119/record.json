@@ -1,0 +1,30 @@
+{
+  "title": "Recomandarea CSJ (Opiniile consultative (recomandări)), nr. 75, din 17.04.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "rec_csj",
+  "database_label": "Opiniile consultative (recomandări)",
+  "source_id": 119,
+  "number": "75",
+  "decision_date": "2015-04-17",
+  "decision_date_source_quote": "17.04.2015",
+  "record_date": "2015-04-17",
+  "in_force": "2015-04-17",
+  "source": "http://jurisprudenta.csj.md/search_rec_csj.php?id=119",
+  "listing": "http://jurisprudenta.csj.md/db_rec_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_rec_csj.php?id=119",
+  "source_sha256": "ac821586cdd574334764cef31d82aafae83727d6acc4b77cc40fa2ee6bbbae12",
+  "pdf_pages": 1,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 403,
+    "pdftotext_words": 403,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
