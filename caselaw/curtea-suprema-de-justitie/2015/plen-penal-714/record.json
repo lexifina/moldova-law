@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Plenul Colegiului penal), nr. 4-1re-112/2015, din 23.04.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_penal",
+  "database_label": "Plenul Colegiului penal",
+  "source_id": 714,
+  "number": "4-1re-112/2015",
+  "decision_date": "2015-04-23",
+  "decision_date_source_quote": "23 aprilie 2015",
+  "record_date": "2015-04-23",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_plen_penal.php?id=714",
+  "listing": "http://jurisprudenta.csj.md/db_plen_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_penal.php?id=714",
+  "source_sha256": "7a6e8ffa240b33e60a1c9f3f3d493f675ac8d85c9f7578898ae948c7d77ba14d",
+  "pdf_pages": 18,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 8706,
+    "pdftotext_words": 8706,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
