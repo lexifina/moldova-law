@@ -15,6 +15,8 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LPC109 din 28.05.15, MO144-149/12.06.15 art.284
+LP71 din 12.04.15, MO102-104/28.04.15 art.170
 LP50 din 03.04.15, MO84/07.04.2015 art.120
 LP158 din 18.07.14, MO238-246/15.08.14 art.547; în vigoare 15.08.14
 LP173 din 25.07.14, MO231-237/08.08.14 art.531; în vigoare 08.11.14
@@ -298,12 +300,13 @@ Capitolul 12 ACHITAREA PREALABILĂ A IMPOZITULUI
 Articolul 80. Achitarea prealabilă a impozitului pe dividende
 Capitolul 13 TRECEREA ÎN CONT A IMPOZITELOR
 Articolul 81. Trecerea în cont a impozitelor calculate şi reţinute
-Articolul 82. Trecerea în cont a impozitului achitat în străinătate pe venitul din investiţii şi pe venitul financiar
+Articolul 82. Trecerea în cont a impozitului achitat în străinătate pe venitul
+din investiţii şi pe venitul financiar
 Capitolul 14 PREZENTAREA DECLARAŢIEI CU PRIVIRE LA IMPOZITUL
 PE VENIT ŞI A DOCUMENTULUI CU PRIVIRE LA VENITUL
 SOCIETĂŢII. UTILIZAREA CODULUI FISCAL
-Articolul 83. Prezentarea declaraţiei cu privire la impozitul pe venit şi a documentului
-cu privire la venitul societăţii
+Articolul 83. Prezentarea declaraţiei cu privire la impozitul pe venit şi a
+documentului cu privire la venitul societăţii
 Articolul 84. Achitarea impozitului în rate
 Articolul 85. Semnarea declaraţiilor şi altor documente
 Articolul 86. Utilizarea codului fiscal
@@ -358,12 +361,12 @@ Titlul IV
 ACCIZELE
 Capitolul 1 DISPOZIŢII GENERALE
 Articolul 119. Noţiuni
-Capitolul 2 SUBIECŢII IMPUNERII, OBIECTELE IMPUNERII
-ŞI BAZA IMPOZABILĂ
+Capitolul 2 SUBIECŢII IMPUNERII, OBIECTELE IMPUNERII ŞI BAZA
+IMPOZABILĂ
 Articolul 120. Subiecţii impunerii
 Articolul 121. Obiectele impunerii şi baza impozabilă
-Capitolul 3 COTELE ACCIZELOR, MODUL DE CALCULARE
-ŞI TERMENELE DE ACHITARE
+Capitolul 3 COTELE ACCIZELOR, MODUL DE CALCULARE ŞI TERMENELE
+DE ACHITARE
 Articolul 122. Cotele accizelor
 Articolul 123. Modul de calculare şi termenele de achitare a accizelor
 Articolul 124. Înlesniri la plata accizelor
@@ -372,7 +375,8 @@ Capitolul 4 ÎNREGISTRAREA SUBIECŢILOR IMPUNERII. EVIDENŢA
 MĂRFURILOR SUPUSE ACCIZELOR CE SE EXPEDIAZĂ
 (SE TRANSPORTĂ). DECLARAREA ACHITĂRII ACCIZELOR
 Articolul 126. Înregistrarea subiecţilor impunerii
-Articolul 127. Evidenţa mărfurilor supuse accizelor ce se expediază (se transportă). Declararea achitării accizelor
+Articolul 127. Evidenţa mărfurilor supuse accizelor ce se expediază
+(se transportă). Declararea achitării accizelor
 Capitolul 5 ADMINISTRAREA ACCIZELOR
 Articolul 128. Controlul efectuat de organele fiscale şi organele vamale
 Titlul V
@@ -403,16 +407,19 @@ Articolul 149. Gradele de calificare ale funcţionarilor fiscali
 Articolul 150. (Exclus).
 Articolul 151. Apărarea drepturilor şi intereselor funcţionarilor fiscali
 Articolul 152. Asigurarea materială şi socială a funcţionarului fiscal
-Articolul 153. Răspunderea funcţionarului fiscal. Dreptul de a contesta acţiunile lui
+Articolul 153. Răspunderea funcţionarului fiscal. Dreptul de a contesta
+acţiunile lui
 Capitolul 3 ALTE ORGANE CU ATRIBUŢII DE ADMINISTRARE FISCALĂ
-Articolul 1531. Atribuţiile şi drepturile Centrului pentru Combaterea Crimelor Economice şi Corupţiei
+Articolul 1531. Atribuţiile şi drepturile Centrului pentru Combaterea Crimelor
+Economice şi Corupţiei
 Articolul 154. Atribuţiile şi drepturile organelor vamale
 Articolul 155. Obligaţiile organelor vamale
 Articolul 156. Atribuţiile serviciului de colectare a impozitelor şi taxelor locale
 Articolul 157. Drepturile serviciului de colectare a impozitelor şi taxelor locale
 Articolul 158. Obligaţiile serviciului de colectare a impozitelor şi taxelor locale
 Articolul 159. Actele serviciului de colectare a impozitelor şi taxelor locale
-Articolul 160. Organizarea şi funcţionarea serviciului de colectare a impozitelor şi taxelor locale
+Articolul 160. Organizarea şi funcţionarea serviciului de colectare a impozitelor şi
+taxelor locale
 Capitolul 4 EVIDENŢA CONTRIBUABILILOR
 Articolul 161. Dispoziţii generale
 Articolul 162. Atribuirea codului fiscal
@@ -453,7 +460,297 @@ Capitolul 7 DAREA DE SEAMĂ FISCALĂ
 Articolul 187. Prezentarea dării de seamă fiscale
 Articolul 188. Darea de seamă fiscală corectată
 Articolul 189. Calcularea impozitelor şi taxelor de către organul fiscal
-Capitolul 8 EVIDENŢA OBIECTELOR IMPOZABILE
+Capitolul 8 EVIDENŢA OBIECTELOR IMPOZABILE Şl A OBLIGAŢIILOR
+FISCALE
+Articolul 190. Principiile generale de evidenţă a obiectelor impozabile şi a obligaţiilor
+fiscale
+Articolul 191. Avizul de plată a obligaţiei fiscale
+Articolul 192. Termenul de remitere a avizului de plată şi termenul de stingere a
+obligaţiei fiscale
+Capitolul 9 EXECUTAREA SILITĂ A OBLIGAŢIEI FISCALE
+Articolul 193. Condiţiile declanşării executării silite a obligaţiei fiscale
+Articolul 194. Modalităţile de executare silită a obligaţiei fiscale
+Articolul 195. Organele abilitate cu executarea silită a obligaţiei fiscale
+Articolul 196. Regulile generale de executare silită a obligaţiei fiscale
+Articolul 197. încasarea de mijloace băneşti de pe conturile bancare ale contribuabilului
+Articolul 198. Ridicarea de la contribuabil a mijloacelor băneşti în numerar
+Articolul 199. Reguli generale de sechestrare a bunurilor
+Articolul 200. Sechestrarea bunurilor ca modalitate de asigurare a executării silite a
+obligaţiei fiscale
+Articolul 201. Sechestrarea bunurilor contribuabilului care se află la alte persoane
+Articolul 202. Ridicarea sechestrului
+Articolul 203. Comercializarea bunurilor sechestrate
+Articolul 204. Ridicarea bunurilor
+Articolul 205. Urmărirea datoriei debitoare
+Articolul 206. Imposibilitatea executării silite a obligaţiei fiscale
+Articolul 207. Evidenţa acţiunilor de executare silită a obligaţiei fiscale
+Capitolul 10 ORGANIZAREA LICITAŢIEI DE BUNURI SECHESTRATE
+Articolul 208. Organizarea evaluării bunurilor sechestrate
+Articolul 209. Organizarea licitaţiilor
+Articolul 210. Comisia de licitaţie
+Articolul 211. Condiţiile de pârtiei pare la licitaţie
+Articolul 212. Desfăşurarea licitaţiei
+Articolul 213. încheierea contractului de vînzare-cumpărare şi plata lotului
+Capitolul 11 CONTROLUL FISCAL
+Articolul 214. Principiile generale de efectuare a controlului fiscal
+Articolul 215. Controlul fiscal la oficiul organului fiscal sau al altui organ cu atribuţii
+de administrare fiscală
+Articolul 216. Controlul fiscal la faţa locului
+Articolul 217. Verificarea faptică
+Articolul 218. Verificarea documentară
+Articolul 219. Verificarea totală
+Articolul 220. Verificarea parţială
+Articolul 221. Verificarea tematică
+Articolul 222. Verificarea operativă
+Articolul 223. Verificarea prin contrapunere
+Articolul 224. Exclus.
+Articolul 225. Metodele şi sursele indirecte de estimare a sumei obligaţiei fiscale
+Articolul 226. Citaţia la organul fiscal, inclusiv citaţia bancară, procedura de audiere
+Capitolul 12 ASIGURAREA STINGERII OBLIGAŢIEI FISCALE
+Articolul 227. Măsurile de asigurare a stingerii obligaţiei fiscale
+Articolul 228. Majorarea de întîrziere (penalitatea)
+Articolul 229. Suspendarea operaţiunilor la conturile bancare
+Articolul 230. Sechestrarea bunurilor
+Capitolul 13 DISPOZIŢII GENERALE PRIVIND RĂSPUNDEREA
+PENTRU ÎNCĂLCĂRI FISCALE
+Articolul 231. Noţiunea şi temeiurile tragerii la răspundere pentru încălcare fiscală
+Articolul 232. Persoanele pasibile de răspundere pentru încălcare fiscală
+Articolul 233. Condiţii generale de tragere la răspundere pentru încălcare fiscală
+Articolul 234. Absolvirea de răspundere pentru încălcare fiscală
+Articolul 235. Scopul şi forma sancţiunilor fiscale
+Articolul 236. Amenda
+Articolul 237. (Exclus).
+Articolul 238. Regulile generale de aplicare a sancţiunii fiscale
+Capitolul 14 PROCEDURA DE EXAMINARE A CAZURILOR DE ÎNCĂLCARE
+FISCALĂ
+Articolul 239. Scopul procedurii de examinare a cazului de încălcare fiscală
+Articolul 240. Circumstanţele care exclud procedura de examinare a cazului de
+încălcare fiscală
+Articolul 241. Autoritatea abilitată să examineze cauzele privind încălcările fiscale
+Articolul 242. Drepturile şi obligaţiile persoanei trase la răspundere pentru încălcare
+fiscală
+Articolul 243. Participarea persoanei trase la răspundere pentru încălcare fiscală
+la examinarea cazului
+Articolul 244. Reprezentantul şi confirmarea împuternicirilor lui
+Articolul 245. Locul şi modul examinării cazului de încălcare fiscală
+Articolul 246. Termenele de examinare a cazului de încălcare fiscală
+Articolul 247. Clarificarea circumstanţelor cazului de încălcare fiscală
+Articolul 248. Decizia asupra cazului de încălcare fiscală
+Articolul 249. Tipurile de decizii
+Articolul 250. Pronunţarea deciziei asupra cazului de încălcare fiscală şi înmînarea
+unui exemplar al deciziei
+Articolul 251. Propunerile de lichidare a cauzelor şi condiţiilor săvîrşirii încălcării
+fiscale
+Articolul 252. Executarea deciziei asupra cazului de încălcare fiscală
+Capitolul 15 TIPURILE DE ÎNCĂLCĂRI FISCALE Şl RĂSPUNDEREA
+PENTRU ELE
+Articolul 253. împiedicarea activităţii organului fiscal
+Articolul 254. Neutilizarea maşinilor de casă şi de control
+Articolul 255. Neprezentarea informaţiei despre sediu
+Articolul 256. Nerespectarea regulilor de evidenţă a contribuabililor
+Articolul 257. Încălcarea regulilor de ţinere a evidenţei contabile şi a evidenţei în
+scopuri fiscale
+Articolul 258. Exclus.
+Articolul 259. Încălcarea de către instituţiile financiare (sucursale sau filialele acestora)
+a modului de decontare
+Articolul 260. Nerespectarea modului de întocmire şi de prezentare a dării de seamă
+fiscale
+Articolul 261. încălcarea regulilor de calculare şi de plată a impozitelor şi taxelor
+Articolul 262. Lipsa certificatului de acciz şi/sau a timbrelor de acciz
+Articolul 263. Nerespectarea regulilor de executare silită a obligaţiei fiscale
+Capitolul 16 TERMENELE DE PRESCRIPŢIE
+Articolul 264. Termenul de prescripţie pentru determinarea obligaţiilor fiscale
+Articolul 265. Termenul de prescripţie pentru stingerea obligaţiei fiscale
+Articolul 266. Termenul de prescripţie pentru compensarea ori restituirea sumelor
+plătite în plus sau a sumelor care, conform legislaţiei fiscale, urmează
+a fi restituite
+Capitolul 17 CONTESTAŢIILE
+Articolul 267. Dreptul de a contesta decizia organului fiscal sau acţiunea funcţionarului
+fiscal
+Articolul 268. Termenul de depunere a contestaţiei
+Articolul 269. Depunerea contestaţiei
+Articolul 270. Examinarea contestaţiei
+Articolul 271. Decizia emisă pe marginea contestaţiei
+Articolul 272. Executarea deciziei contestate
+Articolul 273. Contestarea deciziilor şi acţiunilor privind executarea silită a obligaţiei fiscale
+Articolul 274. Contestarea în instanţă judecătorească a deciziei organului fiscal şi a acţiunii
+funcţionarului fiscal
+Capitolul 18 ACTELE NORMATIVE
+Articolul 275. Actele normative ale organului fiscal
+Titlul VI
+IMPOZITUL PE BUNURILE IMOBILIARE
+Capitolul 1 DISPOZIŢII GENERALE
+Articolul 276. Noţiuni
+Capitolul 2 SUBIECŢII IMPUNERII, OBIECTELE IMPUNERII Şl BAZA
+IMPOZABILĂ A BUNURILOR IMOBILIARE
+Articolul 277. Subiecţii impunerii
+Articolul 278. Obiectele impunerii şi baza impozabilă a bunurilor imobiliare
+Capitolul 3 EVALUAREA Şl REEVALUAREA BUNURILOR IMOBILIARE
+ÎN SCOPUL IMPOZITĂRII
+Articolul 279. Evaluarea şi reevaluarea bunurilor imobiliare
+Capitolul 4 COTELE, MODUL DE CALCULARE Şl TERMENELE DE ACHITARE
+A IMPOZITULUI PE BUNURILE IMOBILIARE
+Articolul 280. Cotele impozitului
+Articolul 281. Calcularea impozitului Articolul 282. Termenele achitării impozitului
+Capitolul 5 ÎNLESNIRI LA PLATA IMPOZITULUI PE BUNURILE IMOBILIARE
+Articolul 283. Scutirea de impozit
+Articolul 284. Scutirea de impozit acordată de autorităţile reprezentative ale administraţiei
+publice locale
+Capitolul 6 ADMINISTRAREA IMPOZITULUI PE BUNURILE IMOBILIARE
+Articolul 285. Furnizarea informaţiei
+Articolul 286. Avizul de plată a impozitului
+Articolul 287. Ţinerea cadastrului fiscal
+TITLUL VII TAXELE LOCALE
+Capitolul 1 DISPOZIŢII GENERALE
+Articolul 288. Noţiuni
+Articolul 289. Relaţiile reglementate de prezentul titlu
+Capitolul 2 SUBIECŢII IMPUNERII Şl BAZA IMPOZABILĂ
+Articolul 290. Subiecţii impunerii
+Articolul 291. Baza impozabilă
+Capitolul 3 COTELE, MODUL DE CALCUL Şl DE PLATĂ A TAXELOR LOCALE
+Articolul 292. Cotele şi termenele de plată a taxelor locale
+Articolul 293. Modul de calculare
+Articolul 294. Plata taxelor locale
+Capitolul 4 ÎNLESNIRI LA PLATA TAXELOR LOCALE
+Articolul 295. Scutirea de taxe
+Articolul 296. Scutirea de taxe locale şi înlesnirile acordate de autoritatea administraţiei publice locale
+Capitolul 5 ADMINISTRAREA TAXELOR LOCALE
+Articolul 297. Atribuţiile autorităţii administraţiei publice locale
+Articolul 298. Responsabilitatea pentru plata taxelor locale
+Capitolul 3 COTELE, MODUL DE CALCUL Şl DE PLATĂ A TAXELOR LOCALE
+Articolul 292. Cotele şi termenele de plată a taxelor locale
+Articolul 293. Modul de calculare
+Articolul 294. Plata taxelor locale
+Capitolul 4 ÎNLESNIRI LA PLATA TAXELOR LOCALE
+Articolul 295. Scutirea de taxe
+Articolul 296. Scutirea de taxe locale şi înlesnirile acordate de autoritatea administraţiei publice locale
+Capitolul 5 ADMINISTRAREA TAXELOR LOCALE
+Articolul 297. Atribuţiile autorităţii administraţiei publice locale
+Articolul 298. Responsabilitatea
+TITLUL VIII
+AXELE PENTRU RESURSELE NATURALE
+Capitolul 1 DISPOZIŢII GENERALE
+Articolul 299. Noţiuni
+Articolul 300. Relaţiile reglementate de prezentul titlu
+Articolul 301. Termenele de achitare şi prezentare a dărilor de seamă
+Capitolul 2 TAXA PENTRU APĂ
+Articolul 302. Subiecţii impunerii
+Articolul 303. Obiectul impunerii
+Articolul 304. Cotele impunerii
+Articolul 305. Modul de calculare a taxei
+Articolul 306. înlesniri
+Capitolul 3 TAXA PENTRU EFECTUAREA PROSPECŢIUNILOR GEOLOGICE
+Articolul 307. Subiecţii impunerii
+Articolul 308. Obiectul impunerii
+Articolul 309. Cota impunerii
+Articolul 310. Modul de calculare şi achitare a taxei
+Capitolul 4 TAXA PENTRU EFECTUAREA EXPLORĂRILOR GEOLOGICE
+Articolul 311. Subiecţii impunerii
+Articolul 312. Obiectul impunerii
+Articolul 313. Cota impunerii
+Articolul 314. Modul de calculare şi achitare a taxei
+Capitolul 5 TAXA PENTRU EXTRAGEREA MINERALELOR UTILE
+Articolul 315. Subiecţii impunerii
+Articolul 316. Obiectul impunerii
+Articolul 317. Cotele impunerii
+Articolul 318. Modul de calculare şi achitare a taxei
+Articolul 319. Înlesniri
+Capitolul 6 TAXA PENTRU FOLOSIREA SPAŢIILOR SUBTERANE ÎN SCOPUL
+CONSTRUCŢIEI OBIECTIVELOR SUBTERANE, ALTELE DECÎT CELE
+DESTINATE EXTRACŢIEI MINERALELOR UTILE
+Articolul 320. Subiecţii impunerii
+Articolul 321. Obiectul impunerii
+Articolul 322. Cota impunerii
+Articolul 323. Modul de calculare şi achitare a taxei
+Articolul 324. înlesniri
+Capitolul 7 TAXA PENTRU EXPLOATAREA CONSTRUCŢIILOR SUBTERANE
+ÎN SCOPUL DESFĂŞURĂRII ACTIVITĂŢII DE ÎNTREPRINZĂTOR,
+ALTELE DECÎT CELE DESTINATE EXTRACŢIEI MINERALELOR
+UTILE
+Articolul 325. Subiecţii impunerii
+Articolul 326. Obiectul impunerii
+Articolul 327. Cota impunerii
+Articolul 328. Modul de calculare şi achitare a taxei
+Articolul 329. înlesniri
+Capitolul 8 TAXA PENTRU LEMNUL ELIBERAT PE PICIOR
+Articolul 330. Subiecţii impunerii
+Articolul 331. Obiectul impunerii
+Articolul 332. Cotele impunerii
+Articolul 333. Modul de calculare şi de achitare a taxei
+Articolul 334. înlesniri
+Anexa nr.1 Cotele taxei pentru apă
+Anexa nr.2 Cotele taxelor pentru extragerea mineralelor utile
+Anexa nr.3 Cotele taxelor pentru lemnul eliberat pe picior
+Titlul IX
+AXELE RUTIERE
+Capitolul 1DISPOZIŢII GENERALE
+Articolul 335. Sistemul taxelor rutiere
+Articolul 336. Noţiuni generale
+Capitolul 2 TAXA PENTRU FOLOSIREA DRUMURILOR DE CĂTRE
+AUTOVEHICULELE ÎNMATRICULATE ÎN REPUBLICA MOLDOVA
+Articolul 337. Subiecţii impunerii
+Articolul 338. Obiectul impunerii
+Articolul 339. Cotele impunerii
+Articolul 340. Perioada fiscală şi termenele de achitare a taxei
+Articolul 341. Modul de calculare şi de achitare a taxei
+Articolul 342. Darea de seamă privind achitarea taxei
+Articolul 343. înlesniri
+Capitolul 3 TAXA PENTRU FOLOSIREA DRUMURILOR REPUBLICII MOLDOVA
+DE CĂTRE AUTOVEHICULELE NEÎNMATRICULATE ÎN REPUBLICA
+MOLDOVA
+Articolul 344. Subiecţii impunerii
+Articolul 345. Obiectul impunerii
+Articolul 346. Cotele impunerii
+Articolul 347. Modul de calculare şi de achitare a taxei
+Articolul 348. înlesniri
+Capitolul 4 TAXA PENTRU FOLOSIREA DRUMURILOR DE CĂTRE
+AUTOVEHICULE A CĂROR MASĂ TOTALĂ, SARCINĂ MASICĂ PE
+OSIE SAU ALE CĂROR GABARITE DEPĂŞESC LIMITELE ADMISE
+Articolul 349. Subiecţii impunerii
+Articolul 350. Obiectul impunerii
+Articolul 351. Cotele impunerii
+Articolul 352. Modul de calculare și de achitare a taxei, de prezentare a dărilor de seamă
+Capitolul 5 TAXA PENTRU FOLOSIREA ZONEI DE PROTECŢIE A DRUMURILOR
+DIN AFARA PERIMETRULUI LOCALITĂŢILOR PENTRU EFECTUAREA
+LUCRĂRILOR DE CONSTRUCŢIE Şl MONTAJ
+Articolul 353. Subiecţii impunerii
+Articolul 354. Obiectul impunerii
+Articolul 355. Cotele impunerii
+Articolul 356. Modul de calculare şi de achitare a taxei
+Capitolul 6 TAXA PENTRU FOLOSIREA ZONEI DE PROTECŢIE A
+DRUMURILOR DIN AFARA PERIMETRULUI LOCALITĂŢILOR
+PENTRU AMPLASAREA PUBLICITĂŢII EXTERIOARE
+Articolul 357. Subiecţii impunerii
+Articolul 358. Obiectul impunerii
+Articolul 359. Cotele impunerii
+Articolul 360. Perioada fiscală
+Articolul 361. Modul de calculare şi de achitare a taxei, de prezentare a dărilor de seamă
+Capitolul 7 TAXA PENTRU FOLOSIREA ZONEI DE PROTECŢIE A
+DRUMURILOR DIN AFARA PERIMETRULUI LOCALITĂŢILOR
+PENTRU AMPLASAREA OBIECTIVELOR DE PRESTARE A
+SERVICIILOR RUTIERE
+Articolul 362. Subiecţii impunerii
+Articolul 363. Obiectul impunerii
+Articolul 364. Cotele impunerii
+Articolul 365. Perioada fiscală
+Articolul 366. Modul de calculare şi de achitare a taxei, de prezentare a dărilor
+de seamă
+Anexa nr.1 Taxa pentru folosirea drumurilor de către autovehiculele înmatriculate
+în Republica Moldova
+Anexa nr.2 Taxa pentru folosirea drumurilor Republicii Moldova de către autovehiculele
+neînmatriculate în Republica Moldova
+Anexa nr.3 Taxa pentru folosirea drumurilor de către autovehicule înmatriculate în
+Republica Moldova a căror masă totală, sarcină masică pe osie sau ale
+căror gabarite depăşesc limitele admise
+Anexa nr.4 Taxa pentru folosirea drumurilor de către autovehicule neînmatriculate în
+Republica Moldova a căror masă totală, sarcină masică pe osie sau ale
+căror gabarite depăşesc limitele admise
+Anexa nr.5 Taxa pentru folosirea zonei de protecţie a drumurilor din afara perimetrului
+localităţilor pentru efectuarea lucrărilor de construcţie şi montaj
+Anexa nr.6 Taxa pentru folosirea zonei de protecţie a drumurilor din afara perimetrului
+localităţilor pentru amplasarea publicităţii exterioare şi taxa pentru folosirea
+zonei de protecţie a drumurilor din afara perimetrului localităţilor pentru
+amplasarea obiectivelor de prestare a serviciilor rutiere
 TITLUL I art.1-11
 TITLUL II art.12-92
 TITLUL III art.93-1182
