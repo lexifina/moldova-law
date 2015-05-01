@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15
 LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15
 LP34 din 19.03.15, MO93/14.04.15 art.132
 LP82 din 29.05.14, MO319-324/24.10.14 art.632
@@ -2171,13 +2172,15 @@ VAMALĂ ŞI VALORILE MOBILIARE
 Articolul 263. Desfăşurarea ilegală a activităţii
 de întreprinzător
 (1) Desfăşurarea activităţii de întreprinzător fără înregistrare la Camera Înregistrării de Stat sau la o altă autoritate publică competentă conform legii ori cu act de înregistrare declarat nevalabil
-se sancţionează cu amendă de la 10 la 35 de unităţi convenţionale.
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
+[Art.263 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (2) Desfăşurarea activităţii în baza licenţei de avocat, de notar, de executor judecătoresc, de mediator sau în baza patentei de întreprinzător fără a fi înregistrat ca plătitor de contribuţii de asigurări sociale de stat în termen de 10 zile lucrătoare din momentul obţinerii dreptului de a desfăşura activitatea
 se sancţionează cu amendă de la 25 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.263 al.(2) în redacţia LP148 din 15.07.11, MO131/133/12.08.11 art.401]
 [Art.263 al.(3) abrogat prin LP77 din 12.04.13, MO125-129/14.06.13 art.398; în vigoare 01.07.13]
 (4) Desfăşurarea unei activităţi de întreprinzător fără autorizaţie, licenţă sau certificat, eliberate de autoritatea competentă în temeiul legii,
-se sancţionează cu amendă de la 25 la 100 de unităţi convenţionale.
+se sancţionează cu amendă de la 100 la 300 de unităţi convenţionale.
+[Art.263 al.(4) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (5) Desfăşurarea activităţii de întreprinzător fără înregistrarea în termen a modificărilor operate în actele de constituire, precum şi a datelor privind schimbarea conducătorului (managerului) ori a sediului,
 se sancţionează cu amendă de 10 unităţi convenţionale.
 (6) Desfăşurarea activităţii de întreprinzător cu încălcarea dreptului la firmă (denumire), stabilit de lege, şi a modului de utilizare a firmei
@@ -2350,8 +2353,9 @@ pieţeiproduselor petroliere
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
 (2) Comercializarea cu amănuntul a produselor petroliere principale şi/sau a gazelor lichefiate fără dispozitive de alimentare utilate cu aparate de casă şi de control cu memorie fiscală conectate la distribuitor (sistem de măsurare şi înregistrare a produselor petroliere principale şi/sau a gazelor lichefiate) ori utilizarea, în procesul de comercializare, a unor astfel de dispozitive defecte, fără verificare metrologică sau nesigilate în modul stabilit
 se sancţionează cu amendă de 500 de unităţi convenţionale.
-(3) Lipsa la staţiile de alimentare cu produse petroliere a registrului de evidenţă a produselor petroliere recepţionate şi a raportului de schimb de o formă stabilită, ţinerea lui nesistematică sau înscrierea în el a unor date neveridice
-se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale.
+(3) Lipsa la staţia certificată de alimentare cu produse petroliere principale şi gaze lichefiate a documentelor de forma stabilită în actele normative în vigoare (registrul de evidenţă a produselor petroliere recepţionate, raportul de schimb, raportul privind datele înregistrate în aparatul de casă şi de control), ţinerea lor nesistematică sau înscrierea în ele a unor date neveridice
+se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.277 al.(3) în redacția LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (4) Recepţionarea produselor petroliere în baza documentelor însoţitoare, de transport şi de expediţie întocmite incorect fie în cazul manco al produselor petroliere, fie cu utilajele de scurgere defecte
 se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale.
 (5) Livrarea produselor petroliere fără a se trece indicaţiile de pe contorul coloanei de distribuţie a produselor petroliere la gradaţia zero
@@ -2360,6 +2364,20 @@ se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale.
 se sancţionează cu amendă de la 150 la 500 de unităţi convenţionale.
 (7) Încălcarea regulilor de păstrare a produselor petroliere
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
+(8) Recepţionarea plăţilor pentru produsele petroliere principale şi gazele lichefiate comercializate cu amănuntul în alt loc decît la ghişeul de plată al staţiei certificate de alimentare cu produse petroliere principale şi gaze lichefiate
+se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.277 al.(8) introdus prin 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
+Articolul 2771. Încălcarea legislaţiei cu privire
+la jocurile de noroc
+(1) Împiedicarea exercitării atribuţiilor de control sau refuzul de a prezenta documentele ce reflectă activitatea economico-financiară a organizatorului jocurilor de noroc, sau prezentarea de date falsificate,
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice.
+(2) Desfăşurarea activităţii în domeniul jocurilor de noroc fără licenţă sau cu licenţa suspendată /retrasă, sau cu licenţa nevalabilă,
+se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice.
+(3) Admiterea la jocurile de noroc (cu excepţia loteriilor şi jocurilor de abilitate) a persoanelor care nu au împlinit vîrsta de 18 ani, admiterea la jocurile de noroc a persoanelor care, sub influenţa alcoolului, stupefiantelor sau altor substanţe cu efect puternic ori din alte cauze, vădit nu sînt conştiente de acţiunile lor, precum şi permiterea accesului acestor persoane în localul de joc
+se sancţionează cu amendă de la 80 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 450 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 5 luni la un an.
+(4) Nerespectarea regulilor de joc sau organizarea jocului de noroc după reguli ce nu corespund cerinţelor legislaţiei cu privire la jocurile de noroc şi ale altor acte normative, inclusiv folosirea utilajului de joc produs cu mai mult de 10 ani în urmă sau nedeclararea la licenţiere a unităţilor structurale şi/sau utilajului folosit (fiecare automat de joc cu cîştiguri băneşti şi fiecare masă de joc),
+se sancţionează cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
+[Art.2771 introdus prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 Articolul 278. Încălcarea cerinţelor legale privind
 interesele economice ale consumatorilor
 (1) Încălcarea de către vînzător, prestator a termenului, prevăzut de lege, de cel mult 14 zile calendaristice de la data înaintării reclamaţiei sau a termenului stabilit prin contract pentru soluţionarea reclamaţiei
@@ -2481,11 +2499,13 @@ se sancţionează cu amendă de la 25 la 75 de unităţi convenţionale.
 (16) Nesupunerea dispoziţiilor sau cerinţelor legale ale persoanei cu funcţie de răspundere din organul vamal, insultarea acestei persoane
 se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 30 la 60 de ore.
 Articolul 2871. Împiedicarea activităţii în cadrul
-auditului postvămuire
+controlului ulterior
+[Art.2871 denumirea modificată prin 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (1) Lipsa sau neasigurarea integrităţii documentelor aferente tranzacţiilor economice externe, precum şi ţinerea neconformă a evidenţei contabile a acestora
 se sancţionează cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei juridice.
-(2) Împiedicarea controlului vamal în cadrul auditului postvămuire prin neasigurarea accesului în sediu, încăperi de producţie, depozite şi în alte încăperi (cu excepţia încăperilor utilizate exclusiv ca spaţiu locativ), prin neprezentarea de explicaţii, date, informaţii şi documente necesare organului vamal asupra problemelor care apar în timpul controlului, prin alte acţiuni sau inacţiuni
+(2) Împiedicarea controlului vamal în cadrul controlului ulterior prin neasigurarea accesului în sediu, încăperi de producţie, depozite şi în alte încăperi (cu excepţia încăperilor utilizate exclusiv ca spaţiu locativ), prin neprezentarea de explicaţii, date, informaţii şi documente necesare organului vamal asupra problemelor care apar în timpul controlului ulterior, prin alte acţiuni sau inacţiuni
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere şi/sau cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
+[Art.2871 al.(2) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (3) Neasigurarea condiţiilor corespunzătoare pentru efectuarea auditului postvămuire, neacordarea unui spaţiu de lucru în birou, precum şi neasigurarea asistenţei necesare
 se sancţionează cu amendă de la 150 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (4) Neasigurarea integrităţii sigiliilor aplicate de către colaboratorii vamali în cadrul efectuării auditului postvămuire
@@ -2606,7 +2626,8 @@ a plăţilor în numerar
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
 Articolul 2931. Încălcarea regulilor de exploatare
 a maşinilor de casă şi control
-(1) Exploatarea maşinilor de casă şi control fără memorie fiscală, defectate, nesigilate, neînregistrate la organul fiscal se sancţionează cu amendă de 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(1) Exploatarea maşinilor de casă şi control fără memorie fiscală, defectate, nesigilate /neînregistrate de /la organul fiscal sau în lipsa contractului valid de asistenţă tehnică cu prestatorul autorizat se sancţionează cu amendă de 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.2931 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (2) Deteriorarea sau distrugerea premeditată a maşinii de casă şi control ori înlocuirea premeditată a memoriei fiscale sau a programului de aplicaţie al maşinii de casă şi control se sancţionează cu amendă de 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (3) Degradarea, pierderea, nimicirea, lipsa registrului maşinii de casă şi control, legalizat în modul stabilit, pentru înregistrarea cronologică a datelor fiscale stocate în memoria fiscală ori completarea lui neregulată sau incompletă (inadecvată) se sancţionează cu amendă de 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (4) Efectuarea decontărilor cu consumatorii fără utilizarea maşinii de casă şi control sau emiterea (perfectarea) bonului de casă (bonului de plată în cazurile prevăzute de actele normative) fără toate elementele obligatorii, sau emiterea (perfectarea) bonului de casă (bonului de plată în cazurile prevăzute de actele normative) de o valoare ce nu corespunde sumei achitate real, sau nepredarea premeditată a bonului de casă (bonului de plată în cazurile prevăzute de actele normative) consumatorului se sancţionează cu amendă de 50 de unităţi convenţionale.
@@ -2616,7 +2637,9 @@ a maşinilor de casă şi control
 se sancţionează cu amendă de 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (8) Degradarea, pierderea, nimicirea, lipsa cărţii tehnice (paşaportului) sau a cartelei de înregistrare, sau a registrului de evidenţă a serviciilor de asistenţă tehnică pentru maşina de casă şi control se sancţionează cu amendă de 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (9) Desfăşurarea activităţilor de instalare, reparare, deservire tehnică a maşinilor de casă şi control fără a deţine autorizaţia de competenţă tehnică respectivă sau desfăşurarea activităţilor de instalare, reparare, deservire tehnică cu autorizaţia de competenţă tehnică cu termenul de valabilitate expirat, sau perfectarea incompletă (inadecvată) a registrului de evidenţă a serviciilor de asistenţă tehnică pentru maşina de casă şi control se sancţionează cu amendă de 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-(10) Săvîrşirea repetată, în decursul unui an calendaristic, a unei contravenţii prevăzute la alin.(2) şi (9) de către o persoană sancţionată contravenţional pentru aceste contravenţii se sancţionează cu amendă de 300 de unităţi convenţionale.
+(10) Exploatarea (inclusiv asistenţa tehnică) a maşinilor de casă şi control excluse din Registrul unic al maşinilor de casă şi control, precum şi a celor scoase de la evidenţă (înregistrare) la organul fiscal
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice.
+[Art.2931 al.(10) în redacția LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.2931 introdus prin LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10]
 Articolul 2932. Încălcarea legislaţiei cu privire
 la prestarea serviciilor de plată
@@ -2688,7 +2711,9 @@ se sancţionează cu amendă de la 50 la 70 de unităţi convenţionale aplicat�
 [Art.295 al.(8), sancţiunea modificată prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 (9) Neîndeplinirea cerinţelor privind utilizarea în evidenţa analitică şi sintetică a formularelor stabilite în actele normative în vigoare, precum şi nerespectarea modalităţii de efectuare a inventarierii
 se sancţionează cu amendă de la 25 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.295 al.(9), introdus prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.295 al.(9)introdus prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+(10) Livrarea şi/sau utilizarea sistemelor informaţionale computerizate şi/sau a softurilor pentru maşinile de casă şi control necertificate de către Comisia de certificare a Ministerului Finanţelor se sancţionează cu amendă de la 25 la 150 de unităţi convenţionale aplicate persoanei cu funcţie de răspundere.
+[Art.2931 al.(10) introdus prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.01.16]
 Articolul 2951. Încălcarea procedurii de raportare
 a informaţiei necesare pentru
 monitorizarea datoriei publice
@@ -2700,10 +2725,12 @@ pentru retribuirea muncii fără transferul
 contribuţiei de asigurări sociale
 (1) Prezentarea în instituţia financiară a documentelor în vederea primirii de mijloace pentru retribuirea muncii fără documentul ce confirmă transferul contribuţiei de asigurări sociale aplicată persoanei juridice
 [Art.296 al.(1), dispoziţiea modificată prin LP148 din 15.07.11, MO131/133/12.08.11 art.401]
-se sancţionează cu amendă de la 15 la 25 de unităţi convenţionale.
+se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale.
+[Art.296 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (2) Eliberarea de către instituţia financiară contribuabilului din sistemul public de asigurări sociale a mijloacelor pentru retribuirea muncii fără ca acesta să prezinte, în modul stabilit de legislaţie, documentul ce confirmă transferul contribuţiei de asigurări sociale aplicată persoanei juridice
 [Art.296 al.(2), dispoziţiea modificată prin LP148 din 15.07.11, MO131/133/12.08.11 art.401]
-se sancţionează cu amendă de la 15 la 250 de unităţi convenţionale.
+se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale (instituţiei financiare).
+[Art.296 al.(2) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 Articolul 297. Încălcarea drepturilor, intereselor şi
 obligaţiilor contribuabilului sau ale
 unui alt participant la raporturile fiscale
@@ -3476,17 +3503,15 @@ stare de ebrietate produsă de alcool
 se sancţionează cu amendă de la 5 la 10 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
 (2) Apariţia în locuri publice în stare de ebrietate produsă de alcool sau de alte substanţe, în cazul în care persoana şi-a pierdut capacitatea de a se mişca de sine stătător,
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
-Articolul 356. Jocurile de noroc.
-Ghicitul în locuri publice
-(1) Organizarea jocurilor de noroc cu încălcarea regulilor prevăzute de legislaţie
+Articolul 356. Jocurile de noroc şi ghicitul
+în locuri publice
+(1) Desfăşurarea jocurilor de noroc neautorizate
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
-[Art.356 al.(1), sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
-(11) Admiterea la jocurile de noroc (cu excepţia loteriilor şi jocurilor de abilitate) a persoanelor care nu au împlinit vîrsta de 18 ani, admiterea la jocurile de noroc a persoanelor care, sub influenţa alcoolului, stupefiantelor sau altor substanţe cu efect puternic ori din alte cauze, vădit nu sînt conştiente de acţiunile lor, precum şi permiterea accesului acestor persoane în sala de joc
-se sancţionează cu amendă de la 80 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 450 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 5 luni la un an.
-[Art.356 al.(11) introdus prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 (2) Ghicitul în locuri publice
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
-[Art.356 al.(2), sancţiunea modificată prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
+[Art.356 în redacția LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
+[Art.356 modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
+[Art.356 modificat prin LP233 din 11.10.13, MO252-257/08.11.13 art.707]
 Articolul 357. Tulburarea liniştii
 Tulburarea liniştii în timpul nopţii, de la ora 22 pînă la ora 7, inclusiv prin cîntare cu voce ridicată, semnalizare acustică, folosire cu intensitate auditivă a aparatajului audiovizual în locuinţe sau în locuri publice, alte acţiuni similare,
 se sancţionează cu amendă de la 15 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
@@ -3856,7 +3881,8 @@ Articolul 399. Competenţa agentului constatator
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277, art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin.(1), (4), (5) şi (7), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(1) modificat prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
 [Art.400 al.(1) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 [Art.400 al.(1) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
@@ -3877,7 +3903,8 @@ Articolul 400. Ministerul Afacerilor Interne
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni în limitele competenţei şefii de direcţii şi adjuncţii lor, şefii inspectoratelor de poliţie şi adjuncţii lor, şefii secţiilor de poliţie, şefii sectoarelor de poliţie, şefii posturilor de poliţie, ofiţerii principali de sector, ofiţerii superiori de sector, ofiţerii de sector, angajaţii secţiilor securitate publică, angajaţii serviciilor patrulare, angajaţii secţiilor supraveghere transport şi circulaţie rutieră, angajaţii serviciilor supraveghere tehnică şi accidente rutiere ale inspectoratelor de poliţie, angajaţii Inspectoratului naţional de patrulare şi ai Inspectoratului naţional de investigaţii din cadrul Inspectoratului General al Poliţiei.
 [Art.400 al.(2) în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (3) Sînt în drept să examineze cauzele privind încălcarea regulilor de apărare împotriva incendiilor şi să aplice sancţiuni şeful Direcţiei salvatori şi pompieri şi adjuncţii lui, şefii detaşamentelor, unităţilor, posturilor paramilitare şi militare de salvatori şi pompieri din subordinea direcţiei, şefii subunităţilor specializate.
-(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 1971, 227, 233, 237, 243, 322, 3304, 3321 alin. (1), art. 3341, art. 356 alin. (11) se constată de poliţie.
+(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 1971, 227, 233, 237, 243, 322, 3304, 3321 alin. (1), art. 3341, art.2771 alin.(3) se constată de poliţie.
+[Art.400 al.(4) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(4) modificat prin LP34 din 19.03.15, MO93/14.04.15 art.132]
 [Art.400 al.(4) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 [Art.400 al.(4) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
@@ -3890,7 +3917,8 @@ Articolul 400. Ministerul Afacerilor Interne
 [Art.400 al.(5) în redacția LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(5) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(5) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
-(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art. 1971, 233, 237, 243, 322, 3304, art. 356 alin. (11) se remit spre examinare în fond instanţei de judecată competente.
+(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art. 1971, 233, 237, 243, 322, 3304, art.2771 alin.(3) se remit spre examinare în fond instanţei de judecată competente.
+[Art.400 al.(6) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(6) modificat prin LP34 din 19.03.15, MO93/14.04.15 art.132]
 [Art.400 al.(6) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
 [Art.400 al.(6) modificat prin LP22 din 13.03.14, MO80-85/04.04.14 art.181]
@@ -3908,7 +3936,8 @@ Articolul 402. Organele de inspectare financiară/
 control financiar şi organele fiscale
 ale Ministerului Finanţelor
 [Art.402 titlul în redacţia LP241 din 02.11.12, MO242-244/23.11.12 art.777]
-(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 297, 2971, 298, art.299 alin.(1), art.301, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.277 alin.(2), (3), (6), art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.277 alin.(2), (3) şi (6), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+[Art.402 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.402 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 [Art.402 al.(1) modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.402 al.(1) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
@@ -3983,7 +4012,8 @@ a) conducătorul organului de specialitate al administraţiei publice în domeni
 [Art.407 al.(5), lit.a) modificată prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 b) comandanţii aeronavelor civile în perioada de îndeplinire a misiunii de zbor, pentru contravenţiile prevăzute la art.210.
 Articolul 408. Agenţia pentru Protecţia Consumatorilor
-(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), (7), 275 alin. (2), 971–972, 278–281, 2932 alin. (4) şi (5), 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
+(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), (7), 971–972, 278–281, 2932 alin. (4) şi (5), 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
+[Art.408 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.408 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 [Art.408 al.(1) modificat prin LP321 din 23.12.13, MO27-34/07.02.14 art.67; în vigoare 07.08.14]
 [Art.408 al.(1) modificat prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
@@ -4031,11 +4061,13 @@ Medicină
 [Art.413 în redacţia LP186 din 15.07.10, MO138-140/06.08.10 art.492]
 Articolul 414. Organele supravegherii de stat în
 domeniul agricol şi sanitar-veterinar
-(1) Contravenţiile prevăzute la art.131, 157, 158, 183–190, 192–196, 275 se constată de organele supravegherii de stat în domeniul agricol şi sanitar-veterinar.
+(1) Contravenţiile prevăzute la art.131, 157, 158, 183–190, 192–196, 275 alin.(1) se constată de organele supravegherii de stat în domeniul agricol şi sanitar-veterinar.
+[Art.414 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (2) Sînt în drept să constate contravenţii şi să încheie procese-verbale:
 a) şeful Inspectoratului General Agricol şi adjuncţii lui, şefii oficiilor teritoriale ale inspectoratului, pentru contravenţiile prevăzute la art.131, 183–188, 192–195;
 b) directorul Agenţiei Fitosanitare şi adjuncţii lui, şefii direcţiilor teritoriale ale agenţiei, pentru contravenţiile prevăzute la art.189, 190;
-c) medicii veterinari oficiali din cadrul Agenţiei Sanitar-Veterinare şi pentru Siguranţa Produselor de Origine Animală sau din cadrul direcţiilor raionale (municipale) sanitar-veterinare şi pentru siguranţa produselor de origine animală, pentru contravenţiile prevăzute la art.157, 158, 196, 275.
+c) medicii veterinari oficiali din cadrul Agenţiei Sanitar-Veterinare şi pentru Siguranţa Produselor de Origine Animală sau din cadrul direcţiilor raionale (municipale) sanitar-veterinare şi pentru siguranţa produselor de origine animală, pentru contravenţiile prevăzute la art.157, 158, 196, 275 alin.(1).
+[Art.414 al.(2), lit.c) modificată prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 Articolul 415. Ministerul Apărării
 (1) Contravenţiile prevăzute la art.242, 244, 366–373 se constată de Ministerul Apărării.
