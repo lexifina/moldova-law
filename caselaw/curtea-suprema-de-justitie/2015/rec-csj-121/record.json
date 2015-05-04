@@ -1,0 +1,30 @@
+{
+  "title": "Recomandarea CSJ (Opiniile consultative (recomandări)), nr. 76, din 04.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "rec_csj",
+  "database_label": "Opiniile consultative (recomandări)",
+  "source_id": 121,
+  "number": "76",
+  "decision_date": "2015-05-04",
+  "decision_date_source_quote": "04.05.2015",
+  "record_date": "2015-05-04",
+  "in_force": "2015-05-04",
+  "source": "http://jurisprudenta.csj.md/search_rec_csj.php?id=121",
+  "listing": "http://jurisprudenta.csj.md/db_rec_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_rec_csj.php?id=121",
+  "source_sha256": "2b0d635b907c91527ab7e19036eb47eed619564c7dea6fa269004dc584059d35",
+  "pdf_pages": 1,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 436,
+    "pdftotext_words": 436,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
