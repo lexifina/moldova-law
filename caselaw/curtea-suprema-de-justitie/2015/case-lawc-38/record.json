@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-801/15, din 13.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 38,
+  "number": "2ra-801/15",
+  "decision_date": "2015-05-13",
+  "decision_date_source_quote": "13 mai 2015",
+  "record_date": "2015-05-13",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=38",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=38",
+  "source_sha256": "5011fbfc676337ac5594335c6f19a023e135927d54684fdab05dab86810dea8d",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2233,
+    "pdftotext_words": 2219,
+    "common_ratio": [
+      0.9924,
+      0.9986
+    ]
+  },
+  "first_law": null
+}
