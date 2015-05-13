@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ac-118/15, din 13.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 39,
+  "number": "2ac-118/15",
+  "decision_date": "2015-05-13",
+  "decision_date_source_quote": "13 mai 2015",
+  "record_date": "2015-05-13",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=39",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=39",
+  "source_sha256": "b60b5c4afb06fd1c518e5ad5412ee6b676e7c2f21a0a0806bf5e2b21db50a3a8",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1109,
+    "pdftotext_words": 1094,
+    "common_ratio": [
+      0.9847,
+      0.9982
+    ]
+  },
+  "first_law": null
+}
