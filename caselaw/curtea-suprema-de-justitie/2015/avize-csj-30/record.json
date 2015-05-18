@@ -1,0 +1,30 @@
+{
+  "title": "Avizul consultativ al CSJ (Avizele consultative), nr. 4ac-6/15, din 18.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "avize_csj",
+  "database_label": "Avizele consultative",
+  "source_id": 30,
+  "number": "4ac-6/15",
+  "decision_date": "2015-05-18",
+  "decision_date_source_quote": "18 mai 2015",
+  "record_date": "2015-05-18",
+  "in_force": "2015-05-18",
+  "source": "http://jurisprudenta.csj.md/search_avize_csj.php?id=30",
+  "listing": "http://jurisprudenta.csj.md/db_avize_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_avize_csj.php?id=30",
+  "source_sha256": "02e4a143c77a6fe3b181e9a86432ccecb6e2aed404be079b11602515c5333651",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 774,
+    "pdftotext_words": 774,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
