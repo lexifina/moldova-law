@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-365/15, din 20.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 45,
+  "number": "3ra-365/15",
+  "decision_date": "2015-05-20",
+  "decision_date_source_quote": "20 mai 2015",
+  "record_date": "2015-05-20",
+  "in_force": "2015-05-20",
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=45",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=45",
+  "source_sha256": "8d8fa5566d85309411b1ed93663df4295576eb01eba6842923da573f80083627",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3053,
+    "pdftotext_words": 3040,
+    "common_ratio": [
+      0.9951,
+      0.9993
+    ]
+  },
+  "first_law": null
+}
