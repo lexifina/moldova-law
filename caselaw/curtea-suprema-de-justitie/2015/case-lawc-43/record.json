@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-529/15, din 20.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 43,
+  "number": "3ra-529/15",
+  "decision_date": "2015-05-20",
+  "decision_date_source_quote": "20 mai 2015",
+  "record_date": "2015-05-20",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=43",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=43",
+  "source_sha256": "f999d4d3df532a62cfe5f1ab10e7d10ac343d63651b318e871452287ff65e4a0",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3100,
+    "pdftotext_words": 3086,
+    "common_ratio": [
+      0.9945,
+      0.999
+    ]
+  },
+  "first_law": null
+}
