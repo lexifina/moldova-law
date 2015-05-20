@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-992/15, din 20.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 41,
+  "number": "2ra-992/15",
+  "decision_date": "2015-05-20",
+  "decision_date_source_quote": "20 mai 2015",
+  "record_date": "2015-05-20",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=41",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=41",
+  "source_sha256": "f55ba3fa4524910b25cc00825ea16887c24d9d7c219ee75ea1d20bdf2438dd58",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3687,
+    "pdftotext_words": 3665,
+    "common_ratio": [
+      0.9921,
+      0.9981
+    ]
+  },
+  "first_law": null
+}
