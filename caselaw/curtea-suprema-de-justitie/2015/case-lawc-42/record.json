@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ri-146/15, din 20.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 42,
+  "number": "2ri-146/15",
+  "decision_date": "2015-05-20",
+  "decision_date_source_quote": "20 mai 2015",
+  "record_date": "2015-05-20",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=42",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=42",
+  "source_sha256": "6a448ff8ab9717c78a3bdd558839794e75789a530d7b0ed790c37c9a462cfa40",
+  "pdf_pages": 11,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4432,
+    "pdftotext_words": 4392,
+    "common_ratio": [
+      0.9894,
+      0.9984
+    ]
+  },
+  "first_law": null
+}
