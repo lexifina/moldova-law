@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-622/15, din 27.05.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 47,
+  "number": "3ra-622/15",
+  "decision_date": "2015-05-27",
+  "decision_date_source_quote": "27 mai 2015",
+  "record_date": "2015-05-27",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=47",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=47",
+  "source_sha256": "f9db78b06e3399eab1c67d35eed5595c8bbef92c808fe63691e0b8b1e2f5d117",
+  "pdf_pages": 9,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4410,
+    "pdftotext_words": 4388,
+    "common_ratio": [
+      0.9934,
+      0.9984
+    ]
+  },
+  "first_law": null
+}
