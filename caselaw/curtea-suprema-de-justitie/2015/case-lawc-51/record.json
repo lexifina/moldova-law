@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2rhc-67/15, din 03.06.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 51,
+  "number": "2rhc-67/15",
+  "decision_date": "2015-06-03",
+  "decision_date_source_quote": "03 iunie 2015",
+  "record_date": "2015-06-03",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=51",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=51",
+  "source_sha256": "86428106c880047e0b125b7d4921282721e8b661fb23087c7596642937671e99",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3212,
+    "pdftotext_words": 3189,
+    "common_ratio": [
+      0.9913,
+      0.9984
+    ]
+  },
+  "first_law": null
+}
