@@ -15,6 +15,8 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15
+LP95 din 14.05.15, MO139-143/05.06.15 art.261
 LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15
 LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15
 LP34 din 19.03.15, MO93/14.04.15 art.132
@@ -580,13 +582,7 @@ se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale.
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale sau cu arest contravenţional de pînă la 15 zile.
 (5) Împiedicarea sub orice formă a accesului în clădirile din imediata apropiere a locului de desfăşurare a întrunirii
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale.
-Articolul 671. Propagarea şi/sau utilizarea pe
-teritoriul Republicii Moldova
-a simbolurilor regimului comunist
-totalitar şi promovarea ideologiilor
-totalitare
-Propagarea şi/sau utilizarea pe teritoriul Republicii Moldova în scopuri politice şi de propagandă a simbolurilor regimului comunist totalitar (secera şi ciocanul şi orice suport cu aceste simboluri), precum şi promovarea ideologiilor totalitare
-se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere şi persoanei juridice.
+[Art.671 abrogat prin LP95 din 14.05.15, MO139-143/05.06.15 art.261]
 [Art.671 declarat neconstituţional prin HCC12 din 04.06.13, MO167-172/02.08.13 art.22; în vigoare 04.06.13]
 [Art.671 introdus prin LP192 din 12.07.12, MO190-192/14.09.12 art.646; în vigoare 01.10.12]
 Articolul 68. Constrîngerea sau împiedicarea de
@@ -827,6 +823,46 @@ se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale.
 (2) Comercializarea către minori a produselor din tutun şi a băuturilor alcoolice
 se sancţionează cu amendă de la 80 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 350 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a exercita o anumită activitate pe un termen de la 3 luni la un an.
 [Art.91 al.(2), sancţiunea modificată prin LP22 din 01.03.12, MO92/15.05.12 art.290]
+Articolul 911. Încălcarea legislaţiei privind controlul
+asupra plasării pe piață și consumul
+produselor din tutun
+(1) Importul, plasarea pe piaţă sau comercializarea produselor din tutun neambalate şi neetichetate în conformitate cu prevederile legale
+se sancţionează cu amendă de la 130 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(2) Importul, plasarea pe piață sau comercializarea produselor alimentare, a jucăriilor și/sau a altor produse care fac asociere cu produsele din tutun
+se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(3) Importul, plasarea pe piață sau comercializarea produselor din tutun care nu arde, a produselor care conțin nicotină adăugată în cantități mai mari decît cele prevăzute de legislația în vigoare
+se sancţionează cu amendă de la 130 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(4) Importul, plasarea pe piaţă sau comercializarea produselor din tutun cu nivelul emisiilor peste limitele prevăzute de legislaţia în vigoare
+se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(5) Plasarea pe piaţă a produselor din tutun care conţin ingrediente interzise de legislaţia privind controlul tutunului
+se sancţionează cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice.
+(6) Plasarea pe piaţă a produselor din tutun care conţin elemente de prezentare şi etichetare false, înşelătoare sau care pot crea impresii eronate despre caracteristicile, efectele asupra sănătăţii, riscurile şi emisiile acestor produse, care sugerează că un anumit produs din tutun este mai puţin dăunător decît altele sau are efecte vitalizante, energizante, vindecătoare, de întinerire, naturale, organice, alte efecte benefice asupra sănătății sau modului de viață ori se referă la miros, gust, prezenţa ori absenţa aromelor şi/sau a altor aditivi
+se sancţionează cu amendă de la 400 la 450 de unităţi convenţionale aplicată persoanei juridice.
+(7) Plasarea pe piaţă a produselor din tutun fără marcajul de trasabilitate
+se sancţionează cu amendă de la 400 la 450 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(8) Utilizarea mărcilor comerciale ale produselor din tutun la promovarea altor produse sau servicii, a mărcilor comerciale ale altor produse sau servicii la promovarea produselor din tutun, utilizarea accesoriilor pentru fumat (scrumiere, brichete) în scopul promovării directe sau indirecte a produselor din tutun, precum și oferirea promoțională sau în calitate de cadou a produselor din tutun
+se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(9) Neprezentarea către Centrul Naţional de Sănătate Publică în termenele stabilite a informaţiei prevăzute de legislația privind controlul tutunului şi/sau prezentarea informaţiei neveridice şi incomplete
+se sancţionează cu amendă de la 400 la 450 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(10) Comercializarea produselor din tutun în alt mod decît prin vînzare-cumpărare, fără ca vînzătorul şi cumpărătorul să se afle fizic unul în prezenţa altuia,
+se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 450 de unităţi convenţionale aplicată persoanei juridice.
+(11) Expunerea vizibilă a produselor din tutun în spaţiile comerciale accesibile publicului
+se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 450 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice.
+(12) Neafişarea la loc vizibil în unităţile comerciale a informaţiei privind interzicerea vînzării produselor din tutun persoanelor cu vîrsta de pînă la 18 ani
+se sancţionează cu amendă de la 250 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 350 la 400 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(13) Comercializarea de produse din tutun minorilor sau vînzarea de produse din tutun fără a verifica în modul stabilit de legislaţie vîrsta cumpărătorului
+se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice.
+(14) Neafişarea semnului unic de interzicere a fumatului
+se sancţionează cu amendă de la 250 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 350 la 400 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(15) Admiterea fumatului în spaţiile publice închise şi semiînchise, inclusiv în locurile de uz comun, la locurile de muncă şi în alte locuri în care fumatul este interzis de legislaţia în vigoare
+se sancţionează cu amendă de la 350 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(16) Admiterea fumatului în transportul public
+se sancţionează cu amendă de la 130 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(17) Fumatul în spaţiile publice închise şi semiînchise, inclusiv în locurile de uz comun, la locurile de muncă, în spaţiile publice deschise administrate de instituţiile medico-sanitare, instituțiile de învăţămînt, autorităţile publice centrale şi locale, inclusiv pe teritoriile aferente acestora, în raza de 10 metri de la intrarea în spaţiile publice închise, inclusiv în locurile de uz comun, şi la locurile de muncă, de la ferestrele care se deschid şi de la locurile/instalaţiile de captare a aerului pentru spaţiile publice închise şi pentru locurile de muncă
+se sancţionează cu amendă de la 50 la 70 de unităţi convenţionale aplicată persoanei fizice.
+(18) Fumatul în mijloacele de transport public, în mijloacele de transport private în care se află minori, sub acoperișul staţiilor de transport public, în parcurile de distracții şi pe terenurile de joacă pentru copii, pe stadioane, arene, în pieţe şi alte spaţii publice deschise pe durata evenimentelor publice distractive sau de alt gen
+se sancţionează cu amendă de la 50 la 70 de unităţi convenţionale aplicată persoanei fizice.
+[Art.911 introdus prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 Capitolul VIII
 CONTRAVENŢII CE ATENTEAZĂ
 LA DREPTURILE REALE
@@ -1692,6 +1728,7 @@ se sancţionează cu amendă de pînă la 15 unităţi convenţionale sau cu mun
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 40 de ore.
 (3) Fumatul în troleibuze, autobuze, maxi-taxiuri, în vagoane, în locuri neindicate pentru fumat din trenuri de lung parcurs şi în trenuri suburbane, în nave
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 60 de ore.
+[Art.203 al.(3) abrogat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.203 al.(3), sancţiunea modificată prin LP22 din 01.03.12, MO92/15.05.12 art.290]
 Articolul 204. Călătoria fără bilet
 (1) Admiterea pornirii în călătorie fără bilet de pe teritoriul autogării în transportul rutier regulat suburban, interurban şi internaţional de către conducătorul mijlocului de transport sau persoana responsabilă de aprobarea ieşirii în cursă a mijlocului de transport de pe teritoriul autogării
@@ -3291,11 +3328,9 @@ Articolul 3341. Încălcarea regulilor de aflare
 se sancţionează cu arest contravenţional de pînă la 15 zile.
 [Art.3341 introdus prin LP232 din 11.10.13, MO252-257/08.11.13 art.705]
 Capitolul XVIII
-CONTRAVENŢII CE ATENTEAZĂ LA MODUL DE
-ADMINISTRARE. CONTRAVENŢII ÎN DOMENIUL
-SUPRAVEGHERII PIEŢEI, METROLOGIEI,
-STANDARDIZĂRII ŞI PROTECŢIEI
-CONSUMATORILOR
+CONTRAVENŢII CE ATENTEAZĂ LA MODUL DE ADMINISTRARE.
+CONTRAVENŢII ÎN DOMENIUL SUPRAVEGHERII PIEŢEI, METROLOGIEI,
+STANDARDIZĂRII ŞI PROTECŢIEI CONSUMATORILOR
 Articolul 335. Samavolnicia
 Samavolnicia, adică exercitarea în mod arbitrar a unui drept efectiv sau presupus prin încălcarea ordinii stabilite de legislaţie, fără a se cauza vreo daună considerabilă persoanei,
 se sancţionează cu amendă de la 30 la 40 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
@@ -3586,6 +3621,14 @@ se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicat
 (6) Prezentarea, producerea ori difuzarea publicităţii neoneste, neautentice, amorale sau a oricărei alte publicităţi ce contravine legii de către agenţii de publicitate
 se sancţionează cu amendă de la 30 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
 [Art.364 al.(6) introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
+Articolul 3641. Încălcarea legislaţiei cu privire
+la publicitatea şi sponsorizarea
+produselor din tutun
+(1) Amplasarea şi/sau difuzarea publicităţii în favoarea produselor din tutun şi promovarea prin sponsorizare a produselor din tutun, care au drept scop sau efect, direct ori indirect, stimularea vînzărilor și sporirea consumului produselor din tutun,
+se sancţionează cu amendă de la 140 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(2) Utilizarea denumirilor mărcilor produselor din tutun la promovarea altor produse şi servicii, a accesoriilor pentru fumat în scopul promovării directe sau indirecte a produselor din tutun, oferirea promoţională sau în calitate de cadou a produselor din tutun
+se sancţionează cu amendă de la 100 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 450 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+[Art.3641 introdus prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 Articolul 365. Distrugerea sau deteriorarea
 intenţionată a obiectelor activităţii
 de publicitate
@@ -3611,8 +3654,7 @@ se sancţionează cu amendă de la 50 la 200 de unităţi convenţionale aplicat
 se sancţionează cu amendă de la 50 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 250 de unităţi convenţionale aplicată persoanei juridice.
 [Art.3652 introdus prin LP66 din 07.04.11, MO110-112/08.07.11 art.299]
 Capitolul XX
-CONTRAVENŢII ÎN DOMENIUL EVIDENŢEI
-MILITARE
+CONTRAVENŢII ÎN DOMENIUL EVIDENŢEI MILITARE
 Articolul 366. Neîndeplinirea îndatoririlor privind
 evidenţa militară
 (1) Neprezentarea persoanei care se află la evidenţă sau care este obligată să se afle la evidenţă militară, la citarea centrelor militare, fără motive întemeiate sau plecarea ei în o altă localitate pentru domiciliere ori şedere temporară, sau plecarea în străinătate pe un termen ce depăşeşte 30 de zile fără a se scoate de la evidenţă, sau sosirea dintr-o altă localitate unde domiciliază temporar fără a se pune la evidenţă militară, precum şi comunicarea tardivă organului de evidenţă militară a datelor despre schimbarea stării familiale, a domiciliului, a locului de studii, de muncă sau schimbarea funcţiei, pentru o perioadă ce depăşeşte 30 de zile,
@@ -3882,6 +3924,8 @@ Articolul 399. Competenţa agentului constatator
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin.(1), (4), (5) şi (7), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin.(1), (4), (5) şi (7), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.400 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(1) modificat prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
 [Art.400 al.(1) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
@@ -3976,7 +4020,7 @@ pentru control geologic şi supraveghere minieră
 (1) Contravenţiile prevăzute la art.95, 109–118, 120–130, 132–154, 156, 182 se examinează de organele pentru protecţia mediului.
 [Art.405 al.(1) modificat prin LP39 din 21.03.13, MO82/12.04.13 art.254]
 [Art.405 al.(1) modificat prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
-(2) Sînt în drept să examineze cauze contravenţionale privind contravenţiile prevăzute la alin. (1)şi să aplice sancţiuni inspectorul principal de stat pentru ecologie şi adjuncţii lui, inspectorii superiori de stat pentru ecologie şi inspectorii de stat pentru ecologie.
+(2) Sînt în drept să examineze cauze contravenţionale privind contravenţiile prevăzute la alin. (1) şi să aplice sancţiuni inspectorul principal de stat pentru ecologie şi adjuncţii lui, inspectorii superiori de stat pentru ecologie şi inspectorii de stat pentru ecologie.
 [Art.405 al.(2) modificat prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 (21) Contravenţiile prevăzute la art. 94 şi 119 se examinează de organele pentru control geologic şi supraveghere minieră.
 [Art.405 al.(21) introdus prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
@@ -3990,9 +4034,14 @@ pentru control geologic şi supraveghere minieră
 (7) Sînt în drept să constate contravenţii şi să încheie procese-verbale persoanele menţionate la alin.(2) şi (22).
 [Art.405 al.(7) modificat prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 (8) Procesele-verbale cu privire la contravenţiile prevăzute la alin.(6) se remit spre examinare comisiei administrative.
-Articolul 406. Organele supravegherii sanitar
+Articolul 406. Organele supravegherii sanitar -
 epidemiologice de stat
+Articolul 406. Organele supravegherii supravegherii
+de stat a sănătăţii publice
+[Art.406 titlul modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 (1) Contravenţiile prevăzute la art.80–83, 115 alin. (1), (2) şi (4), 268–271, 276 se examinează de organele supravegherii sanitar-epidemiologice de stat.
+(1) Contravențiile prevăzute la art. 80–83, art. 911 alin. (1)–(15) şi (17), art. 115 alin. (1), (2) și (4), art. 155, 268–271, 276 şi 3641 se examinează de organele supravegherii de stat a sănătății publice.
+[Art.406 al.(1) în redacția LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.406 al.(1) modificat prin LP198 din 12.07.12, MO190-192/14.09.12 art.648]
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni medicul-şef sanitar de stat al Republicii Moldova şi adjuncţii lui, medicii-şefi sanitari de stat ai raioanelor şi oraşelor (municipiilor).
 Articolul 407. Organele de specialitate în domeniul
