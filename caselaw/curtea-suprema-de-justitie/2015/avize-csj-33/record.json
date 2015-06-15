@@ -1,0 +1,30 @@
+{
+  "title": "Avizul consultativ al CSJ (Avizele consultative), nr. 1545-XIII, din 15.06.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "avize_csj",
+  "database_label": "Avizele consultative",
+  "source_id": 33,
+  "number": "1545-XIII",
+  "decision_date": "2015-06-15",
+  "decision_date_source_quote": "15 iunie 2015",
+  "record_date": "2015-06-15",
+  "in_force": "2015-06-15",
+  "source": "http://jurisprudenta.csj.md/search_avize_csj.php?id=33",
+  "listing": "http://jurisprudenta.csj.md/db_avize_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_avize_csj.php?id=33",
+  "source_sha256": "d8300b41a3e1f8f0c11f562d66da2bcfa1fb4cedcf53a2d3216cfe5711531133",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1265,
+    "pdftotext_words": 1265,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
