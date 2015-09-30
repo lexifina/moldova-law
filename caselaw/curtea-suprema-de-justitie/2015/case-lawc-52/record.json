@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-1191/15, din 30.09.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 52,
+  "number": "3ra-1191/15",
+  "decision_date": "2015-09-30",
+  "decision_date_source_quote": "30 septembrie 2015",
+  "record_date": "2015-09-30",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=52",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=52",
+  "source_sha256": "d82bfe1a4292df7a595c831b657c6bdee2a89f6a60225cd48dcf85edcaa0a596",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1662,
+    "pdftotext_words": 1643,
+    "common_ratio": [
+      0.9862,
+      0.9976
+    ]
+  },
+  "first_law": null
+}
