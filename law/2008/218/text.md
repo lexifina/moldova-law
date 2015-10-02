@@ -7,7 +7,7 @@ PARLAMENTUL
 COD
 Nr. 218
 din 24.10.2008
-CODUL CONTRAVENŢIONAL
+CONTRAVENŢIONAL
 AL REPUBLICII MOLDOVA
 Publicat : 16.01.2009
 în Monitorul Oficial
@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP166 din 31.07.15, MO267-273/02.10.15 art.508
 LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15
 LP95 din 14.05.15, MO139-143/05.06.15 art.261
 LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15
@@ -1726,8 +1727,6 @@ pasagerilor în transporturi
 se sancţionează cu amendă de pînă la 15 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de pînă la 40 de ore.
 (2) Aruncarea gunoiului şi altor obiecte pe fereastra sau pe uşa troleibuzului, autobuzului, maxi-taxiului, vagonului şi peste bordul navei
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 40 de ore.
-(3) Fumatul în troleibuze, autobuze, maxi-taxiuri, în vagoane, în locuri neindicate pentru fumat din trenuri de lung parcurs şi în trenuri suburbane, în nave
-se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 60 de ore.
 [Art.203 al.(3) abrogat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.203 al.(3), sancţiunea modificată prin LP22 din 01.03.12, MO92/15.05.12 art.290]
 Articolul 204. Călătoria fără bilet
@@ -2748,7 +2747,7 @@ se sancţionează cu amendă de la 50 la 70 de unităţi convenţionale aplicat�
 [Art.295 al.(8), sancţiunea modificată prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 (9) Neîndeplinirea cerinţelor privind utilizarea în evidenţa analitică şi sintetică a formularelor stabilite în actele normative în vigoare, precum şi nerespectarea modalităţii de efectuare a inventarierii
 se sancţionează cu amendă de la 25 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-[Art.295 al.(9)introdus prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
+[Art.295 al.(9) introdus prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (10) Livrarea şi/sau utilizarea sistemelor informaţionale computerizate şi/sau a softurilor pentru maşinile de casă şi control necertificate de către Comisia de certificare a Ministerului Finanţelor se sancţionează cu amendă de la 25 la 150 de unităţi convenţionale aplicate persoanei cu funcţie de răspundere.
 [Art.2931 al.(10) introdus prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.01.16]
 Articolul 2951. Încălcarea procedurii de raportare
@@ -3134,10 +3133,11 @@ de Conturi
 Acţiunile sau inacţiunile persoanelor cu funcţii de răspundere care, fără motive întemeiate, nu execută hotărîrile Curţii de Conturi în termenele stabilite de către aceasta
 se sancţionează cu amendă de la 200 la 350 de unităţi convenţionale.
 [Art.3192 introdus prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
-Articolul 320. Imixtiunea în activitatea avocatului
-parlamentar
-Imixtiunea în activitatea avocatului parlamentar pentru a influenţa deciziile acestuia asupra unor sesizări, ignorarea intenţionată de către persoana cu funcţie de răspundere a sesizării şi neîndeplinirea recomandărilor date de avocatul parlamentar, împiedicarea sub orice altă formă a activităţii acestuia
-se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 75 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+Articolul 320. Imixtiunea în activitatea Avocatului
+Poporului și Avocatului Poporului pentru
+drepturile copilului
+Imixtiunea în activitatea Avocatului Poporului și Avocatului Poporului pentru drepturile copilului cu scopul de a influența deciziile acestora asupra unor sesizări, ignorarea intenționată de către persoana cu funcție de răspundere a sesizării și neîndeplinirea recomandărilor date de Avocatul Poporului și Avocatul Poporului pentru drepturile copilului, împiedicarea sub orice altă formă a activității acestora se sancționează cu amendă de la 20 la 30 de unități convenționale aplicată persoanei fizice, cu amendă de la 75 la 100 de unități convenționale aplicată persoanei cu funcție de răspundere.
+[Art.320 în redacţia LP166 din 31.07.15, MO267-273/02.10.15 art.508]
 Articolul 321. Încălcarea regulilor de folosire
 a paşapoartelor diplomatice şi
 de serviciu ale Republicii Moldova
@@ -3923,7 +3923,6 @@ Articolul 399. Competenţa agentului constatator
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin.(1), (4), (5) şi (7), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
 (1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin.(1), (4), (5) şi (7), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
 [Art.400 al.(1) modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.400 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
@@ -4034,12 +4033,9 @@ pentru control geologic şi supraveghere minieră
 (7) Sînt în drept să constate contravenţii şi să încheie procese-verbale persoanele menţionate la alin.(2) şi (22).
 [Art.405 al.(7) modificat prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 (8) Procesele-verbale cu privire la contravenţiile prevăzute la alin.(6) se remit spre examinare comisiei administrative.
-Articolul 406. Organele supravegherii sanitar -
-epidemiologice de stat
 Articolul 406. Organele supravegherii supravegherii
 de stat a sănătăţii publice
 [Art.406 titlul modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
-(1) Contravenţiile prevăzute la art.80–83, 115 alin. (1), (2) şi (4), 268–271, 276 se examinează de organele supravegherii sanitar-epidemiologice de stat.
 (1) Contravențiile prevăzute la art. 80–83, art. 911 alin. (1)–(15) şi (17), art. 115 alin. (1), (2) și (4), art. 155, 268–271, 276 şi 3641 se examinează de organele supravegherii de stat a sănătății publice.
 [Art.406 al.(1) în redacția LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.406 al.(1) modificat prin LP198 din 12.07.12, MO190-192/14.09.12 art.648]
