@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-728/15, din 28.10.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 56,
+  "number": "2ra-728/15",
+  "decision_date": "2015-10-28",
+  "decision_date_source_quote": "28 octombrie 2015",
+  "record_date": "2015-10-28",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=56",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=56",
+  "source_sha256": "953eed02e1f47c08cce335f95687436c306a7d08177ae26564143b1ca1063cf4",
+  "pdf_pages": 11,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 5172,
+    "pdftotext_words": 5155,
+    "common_ratio": [
+      0.9956,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
