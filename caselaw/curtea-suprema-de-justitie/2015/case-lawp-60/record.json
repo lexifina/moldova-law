@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor penale), nr. 1ra-983/2015, din 03.11.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawp",
+  "database_label": "Jurisprudența relevantă cauzelor penale",
+  "source_id": 60,
+  "number": "1ra-983/2015",
+  "decision_date": "2015-11-03",
+  "decision_date_source_quote": "03 noiembrie 2015",
+  "record_date": "2015-11-03",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawp.php?id=60",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawp.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawp.php?id=60",
+  "source_sha256": "10c82422e769ae41da769203a3f191531a0d5d0943c7098297930d0e37f58bca",
+  "pdf_pages": 10,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4348,
+    "pdftotext_words": 4348,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
