@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 176, din 18.11.2015",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 67,
+  "number": "176",
+  "decision_date": "2015-11-18",
+  "decision_date_source_quote": "18 noiembrie 2015",
+  "record_date": "2015-11-18",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=67",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=67",
+  "source_sha256": "bab8db4d4d38dc5e0dd5bfd03fe0945957ea460770a706713434a96b4cf53bd6",
+  "pdf_pages": 6,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2326,
+    "pdftotext_words": 2325,
+    "common_ratio": [
+      0.9991,
+      0.9996
+    ]
+  },
+  "first_law": null
+}
