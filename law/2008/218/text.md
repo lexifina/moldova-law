@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP195 din 19.11.15, MO340-346/15.12.15 art.652
 LP166 din 31.07.15, MO267-273/02.10.15 art.508
 LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15
 LP95 din 14.05.15, MO139-143/05.06.15 art.261
@@ -3749,7 +3750,8 @@ Articolul 381. Accesul liber la justiţie
 (4) Autoritatea competentă să soluţioneze cauza contravenţională are obligaţia de a lua toate măsurile prevăzute de lege pentru cercetarea sub toate aspectele, completă şi obiectivă, a circumstanţelor cauzei, de a evidenţia atît circumstanţele care dovedesc vinovăţia persoanei, cît şi cele care dezvinovăţesc persoana în a cărei privinţă a fost pornit proces contravenţional, precum şi circumstanţele atenuante sau agravante.
 Articolul 382. Citarea
 (1) Citarea este o acţiune procedurală prin care autoritatea competentă să soluţioneze cauza contravenţională asigură prezentarea persoanei în faţa sa pentru desfăşurarea normală a procesului contravenţional.
-(2) Citarea se face prin invitaţie scrisă, care se înmînează de către agentul împuternicit în acest sens sau se expediază prin poştă.
+(2) Citarea se face prin invitație scrisă, care se înmînează de către autoritatea competentă sau se expediază prin poștă. Citarea se poate face şi prin notă telefonică sau telegrafică, prin telefax, poștă electronică ori prin orice alt sistem de mesagerie electronică în cazul în care autoritatea dispune de mijloacele tehnice necesare pentru a dovedi că citația a fost primită.
+[Art.382 al.(2) în redacția LP195 din 19.11.15, MO340-346/15.12.15 art.652]
 (3) Citarea se face în aşa fel ca persoana chemată să primească invitaţia cu cel puţin 5 zile înainte de data cînd ea trebuie să se prezinte în faţa autorităţii respective.
 (4) Persoana este obligată să se prezinte la data, ora şi în locul indicate în citaţie. În cazul imposibilităţii de a se prezenta, persoana este obligată să informeze organul respectiv, indicînd motivul.
 (5) În cazul în care nu anunţă autoritatea despre imposibilitatea de a se prezenta la data, ora şi în locul indicate în citaţie ori în cazul în care nu se prezintă nemotivat, persoana poate fi supusă amenzii judiciare sau aducerii silite.
