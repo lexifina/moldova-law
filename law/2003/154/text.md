@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP205 din 20.11.15, MO340-346/18.12.15 art.658
 LP93 din 29.05.14, MO174-177/04.07.14 art.399
 LP62 din 11.04.14, MO110-114/09.05.14 art.282
 LP310 din 20.12.13, MO14-16/21.01.14 art.30
@@ -274,7 +275,8 @@ Articolul 18. Sistemul parteneriatului social
 Sistemul parteneriatului social include următoarele niveluri:
 a) naţional – stabileşte bazele reglementării relaţiilor social-economice şi de muncă în Republica Moldova;
 b) ramural – stabileşte bazele reglementării relaţiilor din sfera muncii şi cea socială într-o anumită ramură (ramuri) a economiei naţionale;
-c) teritorial – stabileşte bazele reglementării relaţiilor din sfera muncii şi cea socială în unităţile administrativ-teritoriale de nivelul al doilea;
+c) teritorial – stabileşte bazele reglementării relaţiilor din sfera muncii şi cea socială în unităţile administrativ-teritoriale de nivelul al doilea şi în municipii;
+[Art.18 lit.c) modificată prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 d) de unitate – stabileşte obligaţiile reciproce concrete dintre salariaţi şi angajator în sfera muncii şi cea socială.
 Articolul 19. Formele parteneriatului social
 Parteneriatul social se realizează prin:
@@ -374,7 +376,8 @@ de muncă şi încheierea acestuia
 (2) Dacă, în decurs de 3 luni din ziua derulării negocierilor, nu s-a ajuns la o înţelegere asupra unor prevederi ale proiectului contractului colectiv de muncă, părţile sînt obligate să semneze contractul doar pentru clauzele coordonate, întocmind, concomitent, un proces-verbal asupra divergenţelor existente.
 (3) Divergenţele nesoluţionate vor constitui obiectul unor negocieri colective ulterioare sau se vor soluţiona în conformitate cu prezentul cod şi cu alte acte normative.
 Articolul 33. Acţiunea contractului colectiv de muncă
-(1) Contractul colectiv de muncă intră în vigoare din momentul semnării de către părţi sau de la data stabilită în contract.
+(1) Contractul colectiv de muncă intră în vigoare din momentul semnării de către părţi sau de la data stabilită în contract. Un exemplar al contractului colectiv de muncă se remite de către una dintre părţile semnatare, în termen de 7 zile calendaristice de la data încheierii, la inspecţia teritorială de muncă.
+[Art.33 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (11) Durata contractului colectiv de muncă se stabileşte de către părţi şi nu poate fi mai mică de un an.
 [Art.33 al.(11) introdus prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (2) Contractul colectiv de muncă produce efecte şi în cazul schimbării denumirii unităţii sau al desfacerii contractului individual de muncă cu conducătorul unităţii.
@@ -382,7 +385,8 @@ Articolul 33. Acţiunea contractului colectiv de muncă
 (4) În cazul schimbării tipului de proprietate al unităţii, contractul colectiv de muncă continuă să-şi producă efectele în decurs de 6 luni din momentul transmiterii dreptului de proprietate.
 (5) În cazul reorganizării sau schimbării tipului de proprietate al unităţii, oricare dintre părţi poate propune celeilalte părţi să încheie un nou contract colectiv de muncă sau să prelungească contractul precedent.
 (6) La expirarea termenului contractului colectiv de muncă, acesta continuă să-şi producă efectele pînă la momentul încheierii unui nou contract sau pînă cînd părţile nu vor decide asupra prelungirii acestuia.
-(7) Sub incidenţa contractului colectiv de muncă încheiat pe unitate în ansamblu cad toţi salariaţii unităţii, ai filialelor şi ai reprezentanţelor acesteia.
+(7) Sub incidenţa contractului colectiv de muncă încheiat pe unitate în ansamblu cad salariaţii unităţii, ai filialelor şi ai reprezentanţelor acesteia, care au împuternicit reprezentanţii lor să participe la negocierile colective, să elaboreze şi să încheie contractul colectiv de muncă în numele lor.
+[Art.33 al.(7) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 34. Modificarea şi completarea contractului
 colectiv de muncă
 Modificarea şi completarea contractului colectiv de muncă are loc în modul stabilit de prezentul cod pentru încheierea contractului.
@@ -405,7 +409,8 @@ Articolul 37. Modul de elaborare a proiectului şi de
 (5) Convenţia colectivă este semnată de reprezentanţii părţilor.
 Articolul 38. Acţiunea convenţiei colective
 (1) Convenţia colectivă încheiată la nivel naţional (Convenţia generală) intră în vigoare la data publicării ei în Monitorul Oficial al Republicii Moldova.
-(2) Celelalte convenţii colective intră în vigoare la data înregistrării lor, conform prevederilor art.40, sau la o altă dată indicată în textul convenţiei respective, dar care nu poate precede data înregistrării acesteia.
+(2) Convenţiile colective de nivel ramural şi teritorial intră în vigoare la momentul semnării de către părţi sau la data stabilită în convenţie. Un exemplar al convenţiei colective de nivel ramural sau teritorial se remite de una dintre părţile semnatare, în termen de 7 zile calendaristice de la data încheierii, la Ministerul Muncii, Protecţiei Sociale şi Familiei.
+[Art.38 al.(2) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (3) Termenul convenţiei colective este stabilit de părţi şi nu poate fi mai mic de un an.
 (4) În cazul în care salariaţii cad sub incidenţa concomitentă a mai multor convenţii colective, prioritate au dispoziţiile mai favorabile ale acestora.
 (5) Sub incidenţa convenţiei colective cad salariaţii şi angajatorii care au împuternicit reprezentanţii lor să participe la negocierile colective, să elaboreze şi să încheie convenţia colectivă în numele lor, autorităţile publice în limitele angajamentelor asumate, precum şi salariaţii şi angajatorii care au aderat la convenţie după încheierea acesteia.
@@ -414,14 +419,9 @@ Articolul 38. Acţiunea convenţiei colective
 Articolul 39. Modificarea şi completarea convenţiei
 colective
 Modificarea şi completarea convenţiei colective are loc în modul stabilit de prezentul cod pentru încheierea convenţiei.
-Articolul 40. Înregistrarea contractelor colective de
-muncă şi a convenţiilor colective
-(1) Contractele colective de muncă se depun de una dintre părţile semnatare, în termen de 7 zile calendaristice de la data încheierii, pentru înregistrare la inspecţia teritorială de muncă.
-[Art. 40 al.(1) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-[Art.40 al.(1) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-(2) Convenţiile colective de nivel ramural şi teritorial se depun de una dintre părţile semnatare, în termen de 7 zile calendaristice de la data încheierii, pentru înregistrare la Ministerul Muncii, Protecţiei Sociale şi Familiei.
-[Art.40 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-(3) Convenţia colectivă de nivel naţional nu este supusă înregistrării.
+[Art.40 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art. 40 modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
+[Art.40 modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 41. Controlul asupra îndeplinirii contractului
 colectiv de muncă şi a convenţiei colective
 (1) Controlul asupra îndeplinirii contractului colectiv de muncă şi a convenţiei colective este exercitat de părţile parteneriatului social, prin reprezentanţii lor, şi de Inspectoratul de Stat al Muncii, conform legislaţiei în vigoare.
@@ -487,6 +487,8 @@ d1) specialitatea, profesia, calificarea, funcţia;
 [Art.49 al.(1), lit.d1) introdusă prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 e) atribuţiile funcţiei;
 f) riscurile specifice funcţiei;
+f1) denumirea lucrării ce urmează a fi îndeplinită (în cazul contractului individual de muncă pentru perioada îndeplinirii unei anumite lucrări – art. 312– 316);
+[Art.49 al.(1), lit.f1) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 g) drepturile şi obligaţiile salariatului;
 h) drepturile şi obligaţiile angajatorului;
 i) condiţiile de retribuire a muncii, inclusiv salariul funcţii sau cel tarifar şi suplimentele, premiile şi ajutoarele materiale;
@@ -523,16 +525,22 @@ Articolul 52. Clauza de mobilitate
 Prin clauza de mobilitate se permite angajatorului să dispună de o activitate ce nu presupune un loc stabil de muncă în cadrul aceleiaşi unităţi.
 [Art.52 modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 53. Clauza de confidenţialitate
-(1) Prin clauza de confidenţialitate părţile convin ca, pe toată durata contractului individual de muncă şi timp de cel mult un an după încetarea acestuia, să nu divulge date sau informaţii de care au luat cunoştinţă în perioada executării contractului individual de muncă, în condiţiile stabilite de regulamentul intern al unităţii, de contractul colectiv sau de cel individual de muncă.
+(1) Prin clauza de confidenţialitate părţile convin ca, pe toată durata contractului individual de muncă şi timp de cel mult 2 ani după încetarea acestuia, să nu divulge date sau informaţii de care au luat cunoştinţă în perioada executării contractului individual de muncă, în condiţiile stabilite de regulamentul intern al unităţii, de contractul colectiv sau de cel individual de muncă.
+[Art.53 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.53 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (2) Nerespectarea clauzei de confidenţialitate atrage obligarea părţii vinovate la repararea prejudiciului cauzat.
 Articolul 54. Durata contractului individual de muncă
 (1) Contractul individual de muncă se încheie, de regulă, pe durată nedeterminată.
 (2) Contractul individual de muncă poate fi încheiat şi pe o durată determinată, ce nu depăşeşte 5 ani, în condiţiile prevăzute de prezentul cod.
 (3) Dacă în contractul individual de muncă nu este stipulată durata acestuia, contractul se consideră încheiat pe o durată nedeterminată.
+(4) Se interzice încheierea contractelor individuale de muncă pe durată determinată în scopul eschivării de la acordarea drepturilor şi garanţiilor prevăzute pentru salariaţii angajaţi pe durată nedeterminată.
+[Art.54 al.(4) introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+(5) Contractul individual de muncă încheiat pe durată determinată în lipsa unor temeiuri legale, constatată de Inspectoratul de Stat al Muncii, se consideră încheiat pe durată nedeterminată.
+[Art.54 al.(5) introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 55. Contractul individual de muncă pe durată
 determinată
-Contractul individual de muncă poate fi încheiat pe durată determinată, conform art.54 alin.(2), numai în vederea executării unor lucrări cu caracter temporar, în următoarele cazuri:
+Contractul individual de muncă poate fi încheiat pe durată determinată, conform art.54 alin.(2), în următoarele cazuri:
+[Art.55 modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 a) pentru perioada îndeplinirii obligaţiilor de muncă ale salariatului al cărui contract individual de muncă este suspendat (cu excepţia cazurilor de aflare a acestuia în grevă), sau pentru perioada în care el se află în unul din concediile prevăzute la art.112, 120, 123, 124, 126, 178, 299 şi 300;
 [Art.55 lit.a) modificată prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 [Art.55 lit.a) modificată prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
@@ -548,6 +556,12 @@ h) la alegerea, pe o perioadă determinată a salariaţilor, în funcţii electi
 i) cu conducătorii unităţilor, adjuncţii lor şi contabilii-şefi ai unităţilor;
 j) pentru perioada îndeplinirii de către şomeri a lucrărilor publice remunerate, în modul stabilit de Guvern;
 k) pentru perioada îndeplinirii unei anumite lucrări;
+k1) pentru perioada implementării unui proiect investiţional sau a unui program de asistenţă tehnică şi financiară;
+[Art.55 lit.k1) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+k2) pentru efectuarea unor lucrări legate de majorarea volumului de producţie sau de servicii prestate, al căror caracter temporar (pînă la un an) poate fi argumentat de angajator;
+[Art.55 lit.k2) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+k3) cu persoanele care se angajează la unităţile create pentru o perioada determinată;
+[Art.55 lit.k3) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 l) cu lucrătorii de creaţie din artă şi cultură;
 m) cu salariaţii asociaţiilor religioase; precum şi
 n) în alte cazuri prevăzute de legislaţia în vigoare.
@@ -566,7 +580,8 @@ b) carnetul de muncă, cu excepţia cazurilor cînd persoana se încadrează în
 c) documentele de evidenţă militară – pentru recruţi şi rezervişti;
 d) diploma de studii, certificatul de calificare ce confirmă pregătirea specială – pentru profesiile care cer cunoştinţe sau calităţi speciale;
 e) certificatul medical, în cazurile prevăzute de legislaţia în vigoare.
-(2) Se interzice angajatorilor să ceară de la persoanele care se angajează alte documente decît cele prevăzute la alin.(1).
+(2) Se interzice angajatorilor să ceară de la persoanele care se angajează alte documente decît cele prevăzute la alin.(1), precum şi de alte acte legislative.
+[Art.57 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 58. Forma şi începutul acţiunii contractului
 individual de muncă
 (1) Contractul individual de muncă se încheie în formă scrisă. Contractul individual de muncă încheiat pînă la data intrării în vigoare a prezentului cod poate fi perfectat în formă scrisă numai cu acordul părţilor. Propunerea angajatorului privind perfectarea contractului individual de muncă în formă scrisă se aduce la cunoştinţa salariatului, sub semnătură, prin ordinul (dispoziţia, decizia, hotărîrea) angajatorului. Propunerea salariatului privind perfectarea contractului individual de muncă în formă scrisă se aduce la cunoştinţa angajatorului prin depunerea şi înregistrarea cererii lui scrise. Refuzul motivat al uneia dintre părţi privind perfectarea contractului individual de muncă în formă scrisă se comunică celeilalte părţi prin răspunsul său scris în decurs de 5 zile lucrătoare.
@@ -578,7 +593,8 @@ individual de muncă
 [Art.58 al.(4) introdus prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 [Art.59 exclus prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 60. Perioada de probă
-(1) Pentru verificarea aptitudinilor profesionale ale salariatului, la încheierea contractului individual de muncă, acestuia i se poate stabili o perioadă de probă de cel mult 3 luni şi, respectiv, de cel mult 6 luni – în cazul persoanelor cu funcţie de răspundere lista cărora se aprobă de către angajator cu consultarea reprezentanţilor salariaţilor. În cazul angajării muncitorilor necalificaţi, perioada de probă se stabileşte ca excepţie şi nu poate depăşi 15 zile calendaristice.
+(1) Pentru verificarea aptitudinilor profesionale ale salariatului, la încheierea contractului individual de muncă, acestuia i se poate stabili o perioadă de probă de cel mult 3 luni şi, respectiv, de cel mult 6 luni – în cazul conducătorului unităţii, adjuncţilor lui, contabilului-şef şi altor persoane cu funcţie de răspundere lista cărora se aprobă de către angajator cu consultarea reprezentanţilor salariaţilor. În cazul angajării muncitorilor necalificaţi, perioada de probă se stabileşte ca excepţie şi nu poate depăşi 30 zile calendaristice.
+[Art.60 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.60 al.(1) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (2) În perioada de probă nu se include perioada aflării salariatului în concediu medical şi alte perioade în care el a absentat de la lucru din motive întemeiate, confirmate documentar.
 (3) Clauza privind perioada de probă trebuie să fie prevăzută în contractul individual de muncă. În lipsa unei astfel de clauze, se consideră că salariatul a fost angajat fără perioadă de probă.
@@ -613,7 +629,8 @@ Articolul 64. Executarea contractului individual de muncă
 [Art.64 al.(3) în redacția LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.64 al.(3) modificat prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 65. Perfectarea documentelor la angajare
-(1) Angajarea se legalizează prin ordinul (dispoziţia, decizia, hotărîrea) angajatorului, care este emis în baza contractului individual de muncă negociat şi semnat de părţi.
+(1) În baza contractului individual de muncă negociat şi semnat de părţi, angajatorul emite ordinul (dispoziţia, decizia, hotărîrea) de angajare.
+[Art.65 al.(1) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) Ordinul (dispoziţia, decizia, hotărîrea) de angajare trebuie adus la cunoştinţa salariatului, sub semnătură, în termen de 3 zile lucrătoare de la data semnării de către părţi a contractului individual de muncă. La cererea scrisă a salariatului, angajatorul este obligat să-i elibereze acestuia o copie a ordinului (dispoziţiei, deciziei, hotărîrii), legalizată în modul stabilit, în termen de 3 zile lucrătoare.
 [Art.65 al.(2) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 (3) La angajare sau la transferare a salariatului la o altă muncă, conform prevederilor prezentului cod, angajatorul este obligat:
@@ -633,7 +650,8 @@ Articolul 67. Certificatul cu privire la muncă şi salariu
 Angajatorul este obligat să elibereze salariatului în termen de 3 zile lucrătoare, la cererea lui scrisă, un certificat cu privire la munca în cadrul unităţii respective, în care urmează să se indice specialitatea, calificarea, funcţia, durata muncii şi cuantumul salariului.
 [Art.67 modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 Capitolul III
-MODIFICAREA CONTRACTULUI INDIVIDUAL DE MUNCĂ
+MODIFICAREA CONTRACTULUI
+INDIVIDUAL DE MUNCĂ
 Articolul 68. Modificarea contractului individual
 de muncă
 (1) Contractul individual de muncă nu poate fi modificat decît printr-un acord suplimentar semnat de părţi, care se anexează la contract şi este parte integrantă a acestuia.
@@ -677,12 +695,14 @@ Articolul 74. Transferul la o altă muncă şi permutarea
 [Art.74 al.(3) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (4) Nu se consideră transfer şi nu necesită consimţămîntul salariatului permutarea lui în cadrul aceleiaşi unităţi la un alt loc de muncă, în altă subdiviziune a unităţii situată în aceeaşi localitate, însărcinarea de a îndeplini lucrul la un alt mecanism ori agregat în limitele specialităţii, calificării sau funcţiei specificate în contractul individual de muncă. În caz de permutare, angajatorul emite un ordin (dispoziţie, decizie, hotărîre) care se aduce la cunoştinţa salariatului.
 Capitolul IV
-SUSPENDAREA CONTRACTULUI INDIVIDUAL DE MUNCĂ
+SUSPENDAREA CONTRACTULUI
+INDIVIDUAL DE MUNCĂ
 Articolul 75. Noţiuni generale
 (1) Suspendarea contractului individual de muncă poate interveni în circumstanţe ce nu depind de voinţa părţilor, prin acordul părţilor sau la iniţiativa uneia dintre părţi.
 (2) Suspendarea contractului individual de muncă presupune suspendarea prestării muncii de către salariat şi a plăţii drepturilor salarialе (salariu, sporuri, alte plăţi) de către angajator.
 (3) Pe toată durata suspendării contractului individual de muncă, drepturile şi obligaţiile părţilor, în afară de cele prevăzute la alin.(2), continuă să existe dacă prin actele normative în vigoare, prin convenţiile colective, prin contractul colectiv şi prin cel individual de muncă nu se prevede altfel.
-(4) Suspendarea contractului individual de muncă, cu excepţia cazurilor prevăzute la art.76 lit.a) şi b), se face prin ordinul (dispoziţia, decizia, hotărîrea) angajatorului, care se aduce la cunoştinţa salariatului, sub semnătură, cel tîrziu la data suspendării.
+(4) Suspendarea contractului individual de muncă, cu excepţia cazurilor prevăzute la art.76 lit.a) şi b) şi art. 78 alin. (1) lit. d1) şi e), se face prin ordinul (dispoziţia, decizia, hotărîrea) angajatorului, care se aduce la cunoştinţa salariatului, sub semnătură, cel tîrziu la data suspendării.
+[Art.75 al.(4) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.75 al.(4) introdus prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 76. Suspendarea contractului individual
 de muncă în circumstanţe ce nu depind
@@ -723,12 +743,22 @@ a) concediu pentru îngrijirea copilului în vîrstă de pînă la 6 ani;
 b) concediu pentru îngrijirea unui membru bolnav al familiei cu durata de pînă la un an, conform certificatului medical;
 c) urmare a unui curs de formare profesională în afara unităţii, potrivit art.214 alin.(3);
 d) ocupare a unei funcţii elective în autorităţile publice, în organele sindicale sau în cele patronale;
+d1) neachitare sau achitare parţială, cel puţin 2 luni consecutive, a salariului sau a altor plăţi obligatorii;
+[Art.78 al.(1), lit.d1) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 e) condiţii de muncă nesatisfăcătoare din punctul de vedere al protecţiei muncii; precum şi
 f) din alte motive prevăzute de legislaţie.
 (2) Contractul individual de muncă poate fi suspendat din iniţiativa angajatorului:
 a) pe durata anchetei de serviciu, efectuate în condiţiile prezentului cod;
 [Art.78 al.(2), lit.b) exclusă prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 c) în alte cazuri prevăzute de legislaţie.
+(3) În cazurile prevăzute la alin. (l) lit. d1) şi e), salariatul este obligat să comunice în scris angajatorului data suspendării contractului individual de muncă.
+[Art.78 al.(3) introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+(4) Angajatorul nu este în drept să angajeze alţi salariaţi pentru a-i înlocui pe acei ale căror contracte individuale de muncă au fost suspendate în temeiurile prevăzute la alin. (l) lit. d1) şi e).
+[Art.78 al.(3) introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+(5) În cazurile de suspendare a contractului individual de muncă în temeiurile prevăzute la alin. (l) lit. d1) şi e), salariatul este obligat să-şi reia activitatea de muncă în cel mult 3 zile lucrătoare de la momentul:
+a) înlăturării pericolului pentru viaţă sau sănătate;
+b) achitării salariului, altor plăţi obligatorii sau informării despre transferul acestor plaţi pe cardul bancar.
+[Art.78 al.(5) introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 79. Modul de soluţionare a litigiilor legate
 de suspendarea contractului individual
 de muncă
@@ -748,9 +778,12 @@ Articolul 81. Temeiurile încetării contractului individual
 de muncă
 (1) Contractul individual de muncă poate înceta:
 a) în circumstanţe ce nu depind de voinţa părţilor (art.82, 305 şi 310);
+a1) prin acordul scris al părţilor (art. 821);
+[Art.81 al.(1), lit.a1) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 b) la iniţiativa uneia dintre părţi (art.85 şi 86).
 (2) În toate cazurile menţionate la alin.(1), ziua încetării contractului individual de muncă se consideră ultima zi de muncă.
-(3) Contractul individual de muncă încetează în temeiul ordinului (dispoziţiei, deciziei, hotărîrii) angajatorului, care se aduce la cunoştinţa salariatului, sub semnătură, cel tîrziu la data eliberării din serviciu.
+(3) Contractul individual de muncă încetează în temeiul ordinului (dispoziţiei, deciziei, hotărîrii) angajatorului, care se aduce la cunoştinţa salariatului, sub semnătură, cel tîrziu la data eliberării din serviciu. Ordinul (dispoziţia, decizia, hotărîrea) angajatorului cu privire la încetarea contractului individual de muncă trebuie să conţină referire la articolul, alineatul, punctul şi litera corespunzătoare din lege.
+[Art.81 al.(3) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.81 al.(3) introdus prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 82. Încetarea contractului individual de
 muncă în circumstanţe ce nu depind
@@ -771,21 +804,28 @@ i) atingere a vîrstei de 65 de ani de către conducătorul unităţii de stat ,
 [Art.82 lit.i) în redacţia LP269 din 28.07.06, MO120-123/04.08.06 art.574; în vigoare 28.07.06]
 [Art.82 lit.i) introdusă prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362; lit.i) - j) devin lit. j) -k)]
 j) forţă majoră, confirmată în modul stabilit, care exclude posibilitatea continuării raporturilor de muncă;
+j1) restabilire la locul de muncă, conform hotărîrii instanţei de judecată, a persoanei care a îndeplinit anterior munca respectivă, dacă permutarea sau transferul salariatului la o altă muncă conform prezentului cod nu este posibil;
+[Art.81 al.(1), lit.j1) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 k) alte temeiuri prevăzute la art.305 şi 310.
 Notă.
 Persoanele eliberate din serviciu în temeiul lit. i) pot fi angajate pe o durată determinată conform art. 55 lit. f), în orice funcţie, alta decît cea de conducător de unitate de stat, inclusiv municipală, sau de unitate cu capital majoritar de stat.
 [Art.82 nota modificată prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 [Art.82 nota în redacţia LP269 din 28.07.06, MO120-123/04.08.06 art.574; în vigoare 28.07.06]
 [Art.82 nota introdusă prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
+Articolul 821. Încetarea contractului individual de
+muncă prin acordul scris a părţilor
+Contractul individual de muncă poate înceta, în orice moment, prin acordul scris al părţilor.
+[Art.821 introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 83. Încetarea contractului individual de
 muncă pe durată determinată
-(1) În caz de încetare a contractului individual de muncă pe durată determinată în legătură cu expirarea termenului său, salariatul trebuie să fie înştiinţat în scris de către angajator despre acest fapt cu cel puţin 10 zile lucrătoare înainte.
+[Art.83 al.(1) abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.83 al.(2) abrogat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.83 al.(2) modificat prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
 (3) Contractul individual de muncă pe durată determinată încheiat pentru perioada îndeplinirii obligaţiilor de muncă ale salariatului al cărui contract individual de muncă este suspendat sau care se află în concediul respectiv (art.55 lit.a)) încetează în ziua reîntoarcerii acestui salariat la lucru.
 [Art.83 al.(3) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (4) Dacă, la expirarea termenului contractului individual de muncă pe durată determinată, nici una dintre părţi nu a cerut încetarea lui şi raporturile de muncă continuă de fapt, contractul se consideră prelungit pe durată nedeterminată.
-(5) Contractul individual de muncă pe durată determinată poate înceta înainte de termen în cazurile prevăzute la art.82 şi 86, precum şi, prin acordul scris al părţilor, în cazurile prevăzute la art.85 alin.(2).
+(5) Contractul individual de muncă pe durată determinată poate înceta înainte de termen în cazurile prevăzute la art. 82, 821, 85 şi 86.
+[Art.83 al.(5) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.83 al.(5) introdus prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 84. Nulitatea contractului individual de
 muncă
@@ -801,8 +841,10 @@ Articolul 85. Demisia
 [Art.85 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (3) După expirarea termenelor indicate la alin.(1), (2) şi (41), salariatul are dreptul să înceteze lucrul, iar angajatorul este obligat să efectueze achitarea deplină a drepturilor salariale ce i se cuvin salariatului şi să-i elibereze carnetul de muncă şi alte documente legate de activitatea acestuia în unitate.
 (31) Contractul individual de muncă poate fi desfăcut, prin acordul scris al părţilor, înainte de expirarea termenelor indicate la alin.(1), (2) şi (41).
-(4) Pînă la expirarea termenelor indicate la alin.(1), (2) şi (41), salariatul are dreptul oricînd să-şi retragă cererea sau să depună o nouă cerere, prin care să o anuleze pe prima. În acest caz, angajatorul este în drept să-l elibereze pe salariat numai dacă, pînă la retragerea (anularea) cererii depuse, a fost încheiat un contract individual de muncă cu un alt salariat în condiţiile prezentului cod.
-(41) Conducătorul unităţii, adjuncţii lui şi contabilul-şef sînt în drept să demisioneze pînă la expirarea duratei contractului individual de muncă în cazurile stipulate de contract, anunţînd despre aceasta angajatorul, prin cerere scrisă, cu o lună înainte.
+(4) Timp de 7 zile calendaristice de la data depunerii cererii de demisie, salariatul are dreptul să-şi retragă cererea sau să depună o nouă cerere, prin care să o anuleze pe prima. În acest caz, angajatorul este în drept să-l elibereze pe salariat numai dacă, pînă la retragerea (anularea) cererii depuse, a fost încheiat un contract individual de muncă cu un alt salariat în condiţiile prezentului cod.
+[Art.85 al.(4) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+(41) Conducătorul unităţii, adjuncţii lui şi contabilul-şef sînt în drept să demisioneze, anunţînd despre aceasta angajatorul, prin cerere scrisă, cu o lună înainte.
+[Art.85 al.(41) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (5) Dacă, după expirarea termenelor indicate în alin.(1), (2) şi (41), salariatul nu a fost de fapt eliberat din funcţie şi el îşi continuă activitatea de muncă fără să-şi reafirme în scris dorinţa de a desface contractul individual de muncă, eliberarea acestuia nu se admite.
 [Art.85 în redacția LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 [Art.85 modificat prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
@@ -815,7 +857,8 @@ d) constatarea faptului că salariatul nu corespunde funcţiei deţinute sau mun
 e) constatarea faptului că salariatul nu corespunde funcţiei deţinute sau muncii prestate ca urmare a calificării insuficiente, confirmate prin hotărîre a comisiei de atestare;
 f) schimbarea proprietarului unităţii (în privinţa conducătorului unităţii, a adjuncţilor săi, a contabilului-şef);
 g) încălcarea repetată, pe parcursul unui an, a obligaţiilor de muncă, dacă anterior au fost aplicate sancţiuni disciplinare;
-h) absenţa fără motive întemeiate de la lucru mai mult de 4 ore consecutive în timpul zilei de muncă;
+h) absenţa repetată fără motive întemeiate de la lucru timp de 4 ore consecutive (fără a ține cont de pauza de masă) în timpul zilei de muncă;
+[Art.86 al.(1), lit.h) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 i) prezentarea la lucru în stare de ebrietate alcoolică, narcotică sau toxică, stabilită în modul prevăzut la art.76 lit.k);
 j) săvîrşirea la locul de muncă a unei sustrageri (inclusiv în proporţii mici) din patrimoniul unităţii, stabilite prin hotărîre a instanţei de judecată sau a organului de competenţa căruia ţine aplicarea sancţiunilor administrative;
 k) comiterea de către salariatul care mînuieşte nemijlocit valori băneşti sau materiale a unor acţiuni culpabile dacă aceste acţiuni pot servi temei pentru pierderea încrederii angajatorului faţă de salariatul respectiv;
@@ -826,7 +869,7 @@ o) semnarea de către conducătorul unităţii (filialei, subdiviziunii), de că
 p) încălcarea gravă, chiar şi o singură dată, a obligaţiilor de muncă de către conducătorul unităţii, de către adjuncţii săi sau de către contabilul-şef;
 r) prezentarea de către salariat angajatorului, la încheierea contractului individual de muncă, a unor documente false (art.57 alin.(1)), fapt confirmat în modul stabilit;
 s) încheierea, vizînd salariaţii ce prestează munca prin cumul, a unui contract individual de muncă cu o altă persoană care va exercita profesia, specialitatea sau funcţia respectivă ca profesie, specialitate sau funcţie de bază (art.273);
-t) restabilirea la locul de muncă, conform hotărîrii instanţei de judecată, a persoanei care a îndeplinit anterior munca respectivă, dacă permutarea sau transferul salariatului la o altă muncă conform prezentului cod nu sînt posibile;
+[Art.86 al.(1), lit.t) abrogată prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 u) transferarea salariatului la o altă unitate cu acordul celui transferat şi al ambilor angajatori;
 [Art.86 al.(1), lit.u) modificată prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 v) refuzul salariatului de a continua munca în legătură cu schimbarea proprietarului unităţii sau reorganizarea acesteia, precum şi a transferării unităţii în subordinea unui alt organ;
@@ -837,36 +880,55 @@ z) pentru alte motive prevăzute de prezentul cod şi de alte acte legislative.
 [Art.86 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 87. Interzicerea concedierii fără acordul
 organului sindical
-(1) Concedierea salariaţilor membri de sindicat în cazurile stipulate la art.86 alin.(1) lit.c), d), e), g) şi h) poate avea loc doar cu acordul preliminar scris al organului (organizatorului) sindical din unitate. În celelalte cazuri, concedierea se admite cu consultarea prealabilă a organului (organizatorului) sindical din unitate.
+(1) Concedierea salariaţilor membri de sindicat în cazurile stipulate la art. 86 alin. (1) lit. c), e) şi g) poate avea loc doar cu acordul preliminar scris al organului (organizatorului) sindical din unitate. În celelalte cazuri, concedierea se admite cu consultarea prealabilă a organului (organizatorului) sindical din unitate.
+[Art.87 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.87 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (2) Concedierea persoanei alese în organul sindical şi neeliberate de la locul de muncă de bază se admite cu respectarea modului general de concediere şi doar cu acordul preliminar al organului sindical al cărui membru este persoana în cauză.
 (3) Conducătorii organizaţiei sindicale primare (organizatorii sindicali) neeliberaţi de la locul de muncă de bază nu pot fi concediaţi fără acordul preliminar al organului sindical ierarhic superior.
-(4) Organele sindicale (organizatorii sindicali) indicate la alin.(1)-(3) îşi vor comunica acordul sau dezacordul (opinia consultativă) privind concedierea salariatului în termen de 10 zile lucrătoare de la data solicitării acordului de către angajator. În cazul în care răspunsul nu a fost primit de angajator în acest termen, acordul (comunicarea opiniei consultative) a organului respectiv se prezumă.
+(4) Organele sindicale (organizatorii sindicali) indicate la alin. (1)–(3) își vor comunica acordul sau dezacordul (opinia consultativă) argumentat în scris privind concedierea salariatului în termen de 10 zile lucrătoare de la data solicitării acordului (opiniei consultative) de către angajator. În cazul în care răspunsul nu a fost primit de angajator în acest termen, acordul (comunicarea opiniei consultative) a organului respectiv se prezumă.
+[Art.87 al.(4) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 88. Procedura de concediere în cazul
 lichidării unităţii, reducerii numărului
 sau a statelor de personal
 (1) Angajatorul este în drept să concedieze salariaţii de la unitate în legătură cu lichidarea acesteia ori în legătură cu reducerea numărului sau a statelor de personal (art.86 alin.(1) lit.b) şi c)) doar cu condiţia că:
-a) va emite un ordin (dispoziţie, decizie, hotărîre), motivat din punct de vedere juridic, cu privire la lichidarea unităţii ori reducerea numărului sau a statelor de personal;
+a) va emite un ordin (dispoziţie, decizie, hotărîre), motivat din punct de vedere juridic sau economic, cu privire la lichidarea unităţii ori reducerea numărului sau a statelor de personal;
+[Art.88 al.(1), lit.c) modificată prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 b) va emite un ordin (dispoziţie, decizie, hotărîre) cu privire la preavizarea, sub semnătură, a salariaţilor cu 2 luni înainte de lichidarea unităţii ori de reducerea numărului sau a statelor de personal. În caz de reducere a numărului sau a statelor de personal, vor fi preavizate numai persoanele ale căror locuri de muncă urmează a fi reduse;
-c) o dată cu preavizarea în legătură cu reducerea numărului sau a statelor de personal, va propune în scris salariatului preavizat un alt loc de muncă (funcţie) în cadrul unităţii respective;
+c) o dată cu preavizarea în legătură cu reducerea numărului sau a statelor de personal, va propune în scris salariatului preavizat un alt loc de muncă (funcţie) în cadrul unităţii respective (cu condiţia că astfel de loc de muncă (funcție) există la unitate, iar salariatul preavizat întruneşte cerinţele necesare pentru suplinirea acestuia);
+[Art.88 al.(1), lit.c) modificată prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.88 al.(1), lit.c) modificată prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 d) va reduce, în primul rînd, locurile de muncă vacante;
 e) va desface contractul individual de muncă în primul rînd cu salariaţii angajaţi prin cumul;
 f) va acorda salariatului ce urmează a fi concediat o zi lucrătoare pe săptămînă cu menţinerea salariului mediu pentru căutarea unui alt loc de muncă;
 g) va prezenta, în modul stabilit, cu 2 luni înainte de concediere, agenţiei pentru ocuparea forţei de muncă informaţiile privind persoanele ce urmează a fi disponibilizate;
 h) se va adresa organului sindical în vederea obţinerii acordului pentru concediere, în modul prevăzut de prezentul cod;
-i) în cazul în care reorganizarea sau lichidarea unităţii presupune reducerea în masă a locurilor de muncă, va informa, cu cel puţin 3 luni înainte, despre acest lucru organele sindicale din unitatea şi ramura respectivă şi va iniţia negocieri în vederea respectării drepturilor şi intereselor salariaţilor. Criteriile vizînd reducerea în masă a locurilor de muncă se stabilesc prin convenţiile colective.
+i) în cazul în care reorganizarea sau lichidarea unităţii presupune reducerea în masă a locurilor de muncă, va informa în scris, cu cel puţin 3 luni înainte, despre acest lucru organele sindicale din unitatea şi ramura respectivă şi va iniţia negocieri în vederea respectării drepturilor şi intereselor salariaţilor. Criteriile vizînd reducerea în masă a locurilor de muncă se stabilesc prin convenţiile colective.
+[Art.88 al.(1), lit.i) modificată prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) În cazul în care, după expirarea termenului de preavizare de 2 luni, nu a fost emis ordinul (dispoziţia, decizia, hotărîrea) de concediere a salariatului, această procedură nu poate fi repetată în cadrul aceluiaşi an calendaristic. În termenul de preavizare nu se include perioada aflării salariatului în concediul anual de odihnă, în concediul de studii şi în concediul medical.
 [Art.88 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (3) Locul de muncă redus nu poate fi restabilit în statele unităţii pe parcursul anului calendaristic în care a avut loc concedierea salariatului care l-a ocupat.
 [Art.88 al.(3) în redacția LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (4) În caz de lichidare a unităţii, angajatorul este obligat să respecte procedura de concediere prevăzută la alin.(1) lit. a), b), f), g) şi i).
 [Art.88 al.(4) introdus prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
+Articolul 881. Procedura de concediere în legătură
+cu transferarea la o altă unitate
+(1) Angajatorul este în drept să concedieze salariaţii în legătură cu transferarea la o altă unitate (art. 86 alin. (1) lit. u)) doar cu condiţia că:
+a) va primi un demers în scris din partea unui alt angajator prin care se solicită concedierea prin transfer a unui anumit salariat, cu indicarea locului de muncă (funcţiei) ce i se propune la unitatea nouă;
+b) se va adresa în scris salariatului a cărui concediere se solicită în vederea obţinerii acordului scris al acestuia pentru concediere;
+c) va obţine acordul scris al salariatului pentru concediere;
+d) va achita salariatului concediat, în ziua eliberării din serviciu, toate sumele ce i se cuvin de la unitate (salariul, compensaţia pentru concediile nefolosite etc.).
+(2) Salariatul, pînă la exprimarea în scris a acordului pentru concediere, poate solicita de la noul angajator oferta de angajare, care va cuprinde toate clauzele viitorului contract individual de muncă.
+(3) Oferta de angajare se prezintă salariatului în formă scrisă şi este irevocabilă în termenul prevăzut de aceasta.
+(4) Este interzis refuzul de angajare a salariatului concediat în legătură cu transferarea la o altă unitate, ca urmare a acordului lui şi al ambilor angajatori.
+[Art.881 introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 89. Restabilirea la locul de muncă
 (1) Salariatul transferat nelegitim la o altă muncă sau eliberat nelegitim din serviciu poate fi restabilit la locul de muncă prin negocieri directe cu angajatorul, iar în caz de litigiu - prin hotărîre a instanţei de judecată.
 [Art.89 al.(1) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-(2) La examinarea litigiului individual de muncă de către instanţa de judecată, angajatorul este obligat să dovedească legalitatea şi să indice temeiurile transferării sau eliberării din serviciu a salariatului. În cazul concedierii unui membru de sindicat fără acordul organului sindical, cînd acordul respectiv este necesar conform art.87, instanţa de judecată, prin hotărîre, restabileşte salariatul la locul de muncă.
+(2) La examinarea litigiului individual de muncă de către instanţa de judecată, angajatorul este obligat să dovedească legalitatea şi să indice temeiurile transferării sau eliberării din serviciu a salariatului. În cazul contestării de către salariatul membru de sindicat a ordinului de concediere, instanţa de judecată va solicita acordul (opinia consultativă) al organului (organizatorului) sindical privind concedierea salariatului respectiv.
+[Art.89 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.89 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
+(3) Imediat după pronunțarea hotărîrii instanței de judecată privind restabilirea salariatului la locul de muncă, angajatorul este obligat să emită un ordin de restabilire, pe care îl aduce la cunoștința salariatului, sub semnătură, în termen de 3 zile lucrătoare de la data emiterii.
+[Art.89 al.(3) introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 90. Răspunderea angajatorului pentru
 transferul sau eliberarea nelegitimă
 din serviciu
@@ -966,7 +1028,8 @@ Articolul 100. Durata zilnică a timpului de muncă
 Articolul 101. Munca în schimburi
 (1) Munca în schimburi, adică lucrul în 2, 3 sau 4 schimburi, se aplică în cazurile cînd durata procesului de producţie depăşeşte durata admisă a zilei de muncă, precum şi în scopul utilizării mai eficiente a utilajului, sporirii volumului de producţie sau de servicii.
 (2) În condiţiile muncii în schimburi, fiecare grup de salariaţi prestează munca în limitele programului stabilit.
-(3) Programul muncii în schimburi se aprobă de angajator de comun acord cu reprezentanţii salariaţilor, ţinîndu-se cont de specificul muncii.
+(3) Programul muncii în schimburi se aprobă de angajator după consultarea reprezentanţilor salariaţilor, ţinîndu-se cont de specificul muncii.
+[Art.101 al.(3) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (4) Munca în decursul a două schimburi succesive este interzisă.
 (5) Programul muncii în schimburi se aduce la cunoştinţa salariaţilor cu cel puţin o lună înainte de punerea lui în aplicare.
 (6) Durata întreruperii în muncă între schimburi nu poate fi mai mică decît durata dublă a timpului de muncă din schimbul precedent (inclusiv pauza pentru masă).
@@ -1019,12 +1082,15 @@ Articolul 107. Pauza de masă şi repausul zilnic
 (3) La unităţile cu flux continuu, angajatorul este obligat să asigure salariaţilor condiţii pentru luarea mesei în timpul serviciului la locul de muncă.
 (4) Durata repausului zilnic, cuprinsă între sfîrşitul programului de muncă într-o zi şi începutul programului de muncă în ziua imediat următoare, nu poate fi mai mică decît durata dublă a timpului de muncă zilnic.
 Articolul 108. Pauzele pentru alimentarea copilului
-(1) Unuia dintre părinţii (tutorelui, curatorului) care au copii în vîrstă de pînă la 3 ani i se acordă, pe lîngă pauza de masă, pauze suplimentare pentru alimentarea copilului.
+(1) Unuia dintre părinţii (tutorelui) care au copii în vîrstă de pînă la 3 ani i se acordă, pe lîngă pauza de masă, pauze suplimentare pentru alimentarea copilului.
+[Art.108 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.108 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(2) Pauzele suplimentare vor avea o frecvenţă de cel puţin o dată la fiecare 3 ore, fiecare pauză avînd o durată de minimum 30 de minute. Pentru unul dintre părinţii (tutorele, curatorul) care au 2 sau mai mulţi copii în vîrstă de pînă la 3 ani, durata pauzei nu poate fi mai mică de o oră.
+(2) Pauzele suplimentare vor avea o frecvenţă de cel puţin o dată la fiecare 3 ore, fiecare pauză avînd o durată de minimum 30 de minute. Pentru unul dintre părinţii (tutorele) care au 2 sau mai mulţi copii în vîrstă de pînă la 3 ani, durata pauzei nu poate fi mai mică de o oră.
+[Art.108 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.108 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (3) Pauzele pentru alimentarea copilului se includ în timpul de muncă şi se plătesc reieşindu-se din salariul mediu.
-(4) Unuia dintre părinţi (tutorelui, curatorului) care educă un copil invalid i se va acorda suplimentar, în baza unei cereri scrise, o zi liberă pe lună, cu menţinerea salariului mediu din contul angajatorului.
+(4) În cazul în care angajatorul asigură în cadrul unităţii încăperi speciale pentru alimentarea copiilor, acestea vor îndeplini condiţiile de igienă corespunzătoare normelor sanitare în vigoare.
+[Art.108 al.(4) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 109. Repausul săptămînal
 (1) Repausul săptămînal se acordă timp de 2 zile consecutive, de regulă sîmbăta şi duminica.
 (2) În cazul în care un repaus simultan pentru întregul personal al unităţii în zilele de sîmbătă şi duminică ar prejudicia interesul public sau ar compromite funcţionarea normală a unităţii, repausul săptămînal poate fi acordat şi în alte zile, stabilite prin contractul colectiv de muncă sau prin regulamentul intern al unităţii, cu condiţia ca una din zilele libere să fie duminica.
@@ -1061,7 +1127,8 @@ j) ziua Hramului bisericii din localitatea respectivă, declarată în modul sta
 [Art.111 al.(3) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (4) Invalizii de gradul I şi II, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii invaliz, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin. (2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de sărbătoare nelucrătoare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de sărbătoare nelucrătoare.
 [Art.111 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(5) În scopul utilizării optime de către salariaţi a zilelor de repaus şi de sărbătoare nelucrătoare, Guvernul este în drept să transfere zilele de repaus (de lucru) în alte zile.
+(5) În scopul utilizării optime de către salariaţi a zilelor de repaus şi de sărbătoare nelucrătoare, Guvernul este în drept să transfere zilele de repaus (de lucru) în alte zile. Salariaţii care în ziua declarată zi de odihnă încă nu se aflau în raporturi de muncă cu unitatea în cauză, salariaţii ale căror contracte individuale de muncă erau suspendate la data respectivă, precum şi salariaţii care în ziua respectivă s-au aflat în concediu medical, în concediu de maternitate, în concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, în concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 6 ani, în concediu de odihnă anual, în concediu neplătit şi în concediu de studii nu au obligaţia de a se prezenta la serviciu în ziua declarată zi lucrătoare.
+[Art.111 al.(5) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (6) În cazul în care zilele de sărbătoare nelucrătoare coincid cu zilele de repaus săptămînal, salariul mediu pentru aceste zile nu se menţine.
 [Art.111 al.(6) introdus prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
 Capitolul III
@@ -1137,9 +1204,10 @@ anuale nefolosite
 (3) În perioada valabilităţii contractului individual de muncă, concediile nefolosite pot fi alipite la concediul de odihnă anual sau pot fi folosite aparte (în întregime sau fracţionat, conform art.115 alin.(5)) de către salariat în perioadele stabilite prin acordul scris al părţilor.
 [Art.119 al.(3) introdus prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 120. Concediul neplătit
-(1) Din motive familiale şi din alte motive întemeiate, în baza unei cereri scrise, salariatului i se poate acorda, cu consimţămîntul angajatorului, un concediu neplătit cu o durată de pînă la 60 de zile calendaristice, în care scop se emite un ordin (dispoziţie, decizie, hotărîre).
+(1) Din motive familiale şi din alte motive întemeiate, în baza unei cereri scrise, salariatului i se poate acorda, cu consimţămîntul angajatorului, un concediu neplătit cu o durată de pînă la 120 de zile calendaristice, în care scop se emite un ordin (dispoziţie, decizie, hotărîre).
+[Art.120 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) Unuia dintre părinţii care au 2 şi mai mulţi copii în vîrstă de pînă la 14 ani (sau un copil invalid), părinţilor singuri necăsătoriţi care au un copil de aceeaşi vîrstă li se acordă anual, în baza unei cereri scrise, un concediu neplătit cu o durată de cel puţin 14 zile calendaristice. Acest concediu poate fi alipit la concediul de odihnă anual sau poate fi folosit aparte (în întregime sau divizat) în perioadele stabilite de comun acord cu angajatorul.
-[Art.116 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
+[Art.120 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.120 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 121. Concediile de odihnă anuale suplimentare
 (1) Salariaţii care lucrează în condiţii vătămătoare, nevăzătorii şi tinerii în vîrstă de pînă la 18 ani beneficiază de un concediu de odihnă anual suplimentar plătit cu durata de cel puţin 4 zile calendaristice.
@@ -1185,7 +1253,8 @@ pentru îngrijirea copilului
 (4) Concediile de odihnă anuale, conform alin.(1)-(3), li se acordă salariaţilor indiferent de vechimea în muncă în unitatea respectivă.
 Articolul 126. Concediul suplimentar neplătit pentru
 îngrijirea copilului în vîrstă de la 3 la 6 ani
-(1) În afară de concediul de maternitate şi concediul parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, femeii, precum şi persoanelor menţionate la art.124 alin.(4), li se acordă, în baza unei cereri scrise, un concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 6 ani, cu menţinerea locului de muncă (a funcţiei).
+(1) În afară de concediul de maternitate şi concediul parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, femeii, precum şi persoanelor menţionate la art.124 alin.(4), li se acordă, în baza unei cereri scrise, un concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 6 ani, cu menţinerea locului de muncă (a funcţiei). În lipsa locului de muncă anterior (funcţiei anterioare), persoanelor menţionate li se acordă un alt loc de muncă echivalent (funcţie echivalentă).
+[Art.126 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) În baza unei cereri scrise, în timpul aflării în concediul suplimentar neplătit pentru îngrijirea copilului, femeia sau persoanele menţionate la art.124 alin.(4) pot să lucreze în condiţiile timpului de muncă parţial sau la domiciliu.
 (3) Perioada concediului suplimentar neplătit se include în vechimea în muncă, inclusiv în vechimea în muncă specială, dacă contractul individual de muncă nu a fost suspendat conform art.78 alin.(1) lit.a).
 [Art.126 al.(3) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
@@ -1331,7 +1400,9 @@ Articolul 148. Reţinerile din salariu
 a) pentru restituirea avansului eliberat în contul salariului;
 b) pentru restituirea sumelor plătite în plus în urma unor greşeli de calcul;
 c) pentru acoperirea avansului necheltuit şi nerestituit la timp, eliberat pentru deplasare în interes de serviciu sau transferare într-o altă localitate ori pentru necesităţi gospodăreşti, dacă salariatul nu contestă temeiul şi cuantumul reţinerilor;
-d) pentru repararea prejudiciului material cauzat unităţii din vina salariatului (art.338).
+d) pentru repararea prejudiciului material cauzat unităţii din vina salariatului (art.338);
+e) pentru restituirea costului carnetului de muncă întocmit salariatului la unitate.
+[Art.148 al.(2), lit.e) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (3) În cazurile specificate la alin.(2), angajatorul are dreptul să emită ordinul (dispoziţia, decizia, hotărîrea) de reţinere în termen de cel mult o lună din ziua expirării termenului stabilit pentru restituirea avansului sau achitarea datoriei, din ziua efectuării plăţii greşit calculate ori a constatării prejudiciului material. Dacă acest termen a fost omis ori salariatul contestă temeiul sau cuantumul reţinerii, litigiul se va examina de către instanţa de judecată la cererea angajatorului sau salariatului (art.349-355).
 [Art.148 al.(3) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 (4) În caz de eliberare a salariatului înainte de expirarea anului de muncă în contul căruia el a folosit deja concediul, angajatorul îi poate reţine din salariu suma achitată pentru zilele fără acoperire ale concediului. Reţinerea pentru aceste zile nu se face dacă salariatul şi-a încetat sau suspendat activitatea în temeiurile indicate la art.76 lit.e), art.78 alin.(1) lit.d), art.82 lit.a) şi i), art.86 alin.(1) lit.b)-e) şi u), în caz de pensionare sau înmatriculare la o instituţie de învăţămînt conform art.85 alin.(2), precum şi în alte cazuri prevăzute de contractul colectiv sau cel individual de muncă ori prin acordul scris al părţilor.
@@ -1576,7 +1647,8 @@ a) cu 2 luni înainte – în caz de concediere în legătură cu lichidarea uni
 b) cu o lună înainte – în caz de concediere în legătură cu constatarea faptului că salariatul nu corespunde funcţiei deţinute sau muncii prestate ca urmare a calificării insuficente confirmate prin hotărîrea comisiei de atestare (art. 86 alin. (1) lit. e)).
 [Art.184 al.(1), lit.b) modificată prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.184 al.(1), lit.b) modificată prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-(2) În perioadele prevăzute la alin.(1), salariatului i se acordă cel puţin o zi liberă pe săptămînă, cu menţinerea salariului mediu, pentru căutarea unui alt loc de muncă.
+(2) În perioadele prevăzute la alin.(1), salariatului i se acordă cel puţin o zi lucrătoare pe săptămînă, cu menţinerea salariului mediu, pentru căutarea unui alt loc de muncă.
+[Art.184 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (3) La încetarea contractului individual de muncă ca urmare a încălcării de către salariat a obligaţiilor sale de muncă (art.86 alin.(1) lit.g)-k), m), o)-r)), preavizarea nu este obligatorie.
 Articolul 185. Garanţii în cazul încetării contractului
 individual de muncă în legătură
@@ -1704,7 +1776,8 @@ d) diplome de onoare.
 (2) Regulamentul intern al unităţii, statutele şi regulamentele disciplinare pot să prevadă şi alte modalităţi de stimulare a salariaţilor.
 (3) Pentru succese deosebite în muncă, merite faţă de societate şi faţă de stat, salariaţii pot fi înaintaţi la distincţii de stat (ordine, medalii, titluri onorifice), lor li se pot decerna premii de stat.
 Articolul 204. Modul de aplicare a stimulărilor
-(1) Stimulările se aplică de către angajator de comun acord cu reprezentanţii salariaţilor.
+(1) Stimulările se aplică de către angajator după consultarea reprezentanţilor salariaţilor.
+[Art.204 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) Stimulările se consemnează într-un ordin (dispoziţie, decizie, hotărîre), se aduc la cunoştinţa colectivului de muncă şi se înscriu în carnetul de muncă al salariatului.
 Articolul 205. Avantajele şi înlesnirile acordate
 salariaţilor care îşi îndeplinesc
@@ -1728,8 +1801,10 @@ disciplinare
 (2) Salariaţilor care poartă răspundere disciplinară conform statutelor sau regulamentelor disciplinare şi altor acte normative li se pot aplica sancţiuni disciplinare şi de organele ierarhic superioare celor indicate la alin.(1).
 (3) Salariaţii care deţin funcţii elective pot fi concediaţi (art.206 alin.(1) lit.d)) numai prin hotărîrea organului de care au fost aleşi şi numai în temeiuri legale.
 Articolul 208. Modul de aplicare a sancţiunilor disciplinare
-(1) Pînă la aplicarea sancţiunii disciplinare, angajatorul este obligat să ceară salariatului o explicaţie scrisă privind fapta comisă. Refuzul de a prezenta explicaţia cerută se consemnează într-un proces-verbal semnat de un reprezentant al angajatorului şi un reprezentant al salariaţilor.
-(2) În funcţie de gravitatea faptei comise de salariat, angajatorul este în drept să organizeze şi o anchetă de serviciu. În cadrul anchetei, salariatul are dreptul să-şi explice atitudinea şi să prezinte persoanei abilitate cu efectuarea anchetei toate probele şi justificările pe care le consideră necesare.
+(1) Pînă la aplicarea sancțiunii disciplinare, angajatorul este obligat să ceară în scris salariatului o explicație scrisă privind fapta comisă. Explicația privind fapta comisă poate fi prezentată de către salariat în termen de 5 zile lucrătoare de la data solicitării. Refuzul de a prezenta explicația cerută se consemnează într-un proces- verbal semnat de un reprezentant al angajatorului și un reprezentant al salariaților.
+[Art.208 al.(1) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+(2) În funcţie de gravitatea faptei comise de salariat, angajatorul este în drept să organizeze şi o anchetă de serviciu, a cărei durată nu poate depăşi o lună. În cadrul anchetei, salariatul are dreptul să-şi explice atitudinea şi să prezinte persoanei abilitate cu efectuarea anchetei toate probele şi justificările pe care le consideră necesare.
+[Art.208 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 209. Termenele de aplicare a sancţiunilor
 disciplinare
 (1) Sancţiunea disciplinară se aplică, de regulă, imediat după constatarea abaterii disciplinare, dar nu mai tîrziu de o lună din ziua constatării ei, fără a lua în calcul timpul aflării salariatului în concediul anual de odihnă, în concediul de studii sau în concediul medical.
@@ -1777,7 +1852,8 @@ CONTRACTUL DE UCENICIE ŞI CONTRACTUL
 DE FORMARE PROFESIONALĂ CONTINUĂ
 Articolul 216. Contractul de ucenicie şi contractul de
 formare profesională continuă
-(1) Angajatorul are dreptul să încheie un contract de ucenicie cu o persoană în vîrstă de pînă la 30 de ani care este în căutarea unui loc de muncă şi care nu are o calificare profesională.
+(1) Angajatorul are dreptul să încheie un contract de ucenicie cu persoana care este în căutarea unui loc de muncă şi care nu are o calificare profesională.
+[Art.216 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.216 al.(1) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 (2) Contractul de ucenicie, încheiat în formă scrisă, este un contract de drept civil şi se reglementează de Codul civil şi de alte acte normative.
 [Art.216 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
@@ -1917,6 +1993,10 @@ Se interzice concedierea femeilor gravide, a femeilor care au copii în vîrstă
 Articolul 252. Garanţii pentru persoanele care îngrijesc
 copii lipsiţi de grijă maternă
 Garanţiile şi drepturile acordate femeilor cu copii în vîrstă de pînă la 6 ani şi altor persoane care folosesc concediile pentru îngrijirea copilului, prevăzute la art.124, 126 şi 127 (limitarea muncii de noapte, a muncii suplimentare, atragerii la lucru în zilele de repaus şi a trimiterii în deplasare în interes de serviciu, acordarea concediilor suplimentare, stabilirea regimului de muncă privilegiat, alte garanţii şi înlesniri stabilite de legislaţia muncii), se extind, în afara rudelor menţionate la art.124 alin.(4), şi asupra altor persoane care îngrijesc realmente copii lipsiţi de grija maternă (în caz de deces, de decădere din drepturile părinteşti sau de aflare îndelungată a mamei într-o instituţie de tratament, în alte cazuri), precum şi asupra tutorilor (curatorilor) minorilor.
+Articolul 2521. Garanţii pentru persoanele care educă
+un copil cu dizabilități
+Unuia dintre părinţii (tutorelui, curatorului) care educă un copil cu dizabilități i se va acorda suplimentar, în baza unei cereri scrise, o zi liberă pe lună, cu menţinerea salariului mediu din contul angajatorului.
+[Art.2521 introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Capitolul III
 MUNCA PERSOANELOR ÎN VÎRSTĂ
 DE PÎNĂ LA 18 ANI
@@ -1953,10 +2033,14 @@ Articolul 260. Încheierea contractului individual
 de muncă cu conducătorul unităţii
 (1) Contractul individual de muncă cu conducătorul unităţii se încheie pe durata indicată în documentele de constituire ale unităţii sau pe un termen stabilit în contract prin acordul părţilor.
 (2) Legislaţia în vigoare sau documentele de constituire ale unităţii pot prevedea proceduri speciale ce vor preceda încheierea contractului individual de muncă cu conducătorul unităţii (organizarea concursului, alegerea sau numirea în funcţie).
-Articolul 261. Munca prin cumul a conducătorului
-unităţii
-(1) Conducătorul unităţii nu poate să presteze muncă prin cumul la o altă unitate sau să cumuleze funcţii la unitatea pe care o conduce, cu excepţiile prevăzute de legislaţia în vigoare.
-(2) Conducătorul unităţii nu poate să facă parte din organele care exercită supravegherea şi controlul în unitatea pe care o conduce.
+Articolul 261. Munca prin cumul a conducătorului unităţii de stat,
+inclusiv municipale,sau al unităţii cu capital majoritar
+de stat
+[Art.261 titlul în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+(1) Conducătorul unităţii de stat, inclusiv municipale, sau al unităţii cu capital majoritar de stat nu poate să presteze muncă prin cumul la o altă unitate sau să cumuleze funcţii la unitatea pe care o conduce, cu excepţiile prevăzute de legislaţia în vigoare.
+[Art.261 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+(2) Conducătorul unităţii de stat, inclusiv municipale, sau al unităţii cu capital majoritar de stat nu poate să facă parte din organele care exercită supravegherea şi controlul în unitatea pe care o conduce.
+[Art.261 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 262. Răspunderea materială a conducătorului
 unităţii
 (1) Conducătorul unităţii poartă răspundere materială deplină pentru prejudiciul direct şi real pe care l-a cauzat unităţii, conform prezentului cod şi altor acte normative.
@@ -2004,7 +2088,8 @@ Durata concretă a timpului de muncă şi a timpului de odihnă la locul de munc
 Articolul 272. Concediul de odihnă anual al salariaţilor
 care prestează muncă prin cumul
 (1) Salariaţii care prestează muncă prin cumul beneficiază de un concediu de odihnă anual, plătit conform funcţiei sau specialităţii cumulate, care se acordă concomitent cu concediul de odihnă anual de la locul de muncă de bază.
-(2) Concediul pentru munca prin cumul se acordă conform duratei stabilite pentru funcţia sau specialitatea respectivă la unitate, indiferent de durata concediului la locul de muncă de bază. Salariatul beneficiază de un concediu suplimentar neplătit în cazul în care durata concediului la locul de muncă prin cumul este mai mică decît cea de la locul de muncă de bază.
+(2) Concediul pentru munca prin cumul se acordă conform duratei stabilite pentru funcţia sau specialitatea respectivă la unitate, indiferent de durata concediului la locul de muncă de bază. Salariatul beneficiază de un concediu suplimentar neplătit în cazul în care durata concediului la locul de muncă prin cumul şi la locul de muncă de bază diferă.
+[Art.272 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (3) Plata indemnizaţiei de concediu sau a compensaţiei pentru concediul nefolosit se efectuează pornindu-se de la salariul mediu pentru funcţia sau specialitatea cumulată, determinat în modul stabilit de Guvern.
 Articolul 273. Temeiurile suplimentare de încetare
 a contractului individual de muncă cu
@@ -2274,7 +2359,8 @@ continuă
 (3) Angajatorul este obligat să ţină evidenţa timpului de muncă şi a timpului de odihnă al fiecărui salariat care prestează munca în tură continuă, atît pentru fiecare lună, cît şi pentru întreaga perioadă de evidenţă.
 Articolul 321. Regimul de muncă şi de odihnă în
 cadrul turei continue
-(1) Timpul de muncă şi timpul de odihnă în perioada de evidenţă sînt reglementate prin programul muncii în tură continuă, care se aprobă de angajator în comun cu reprezentanţii salariaţilor şi se aduce la cunoştinţa salariaţilor cu cel puţin o lună înainte de punerea lui în aplicare.
+(1) Timpul de muncă şi timpul de odihnă în perioada de evidenţă sînt reglementate prin programul muncii în tură continuă, care se aprobă de angajator după consultarea reprezentanţilor salariaţilor şi se aduce la cunoştinţa salariaţilor cu cel puţin o lună înainte de punerea lui în aplicare.
+[Art.321 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) Programul muncii în tură continuă prevede timpul necesar pentru transportarea salariaţilor la locul de muncă şi înapoi. Timpul deplasării spre locul de executare a lucrărilor şi înapoi nu se include în timpul de muncă şi poate coincide cu zilele de odihnă dintre schimburi.
 (3) Orele de muncă suplimentară în limitele programului muncii în tură continuă se pot acumula pe parcursul anului calendaristic şi se pot constitui în zile complete, cu acordarea ulterioară a unor zile libere suplimentare, conform ordinului (dispoziţiei, deciziei, hotărîrii) angajatorului.
 (4) Zilele libere, acordate pentru munca prestată în afara duratei normale a timpului de muncă în perioada de evidenţă, sînt retribuite în mărimea unui salariu de bază zilnic dacă contractul individual sau cel colectiv de muncă nu prevede condiţii mai avantajoase.
@@ -2646,94 +2732,27 @@ Articolul 372. Inspectoratul de Stat al Muncii
 [Art.372 al.(2) modificat prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 (3) Regulamentul de organizare şi funcţionare a Inspectoratului de Stat al Muncii este aprobat de Guvern.
 [Art.372 al.(3) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-Articolul 373. Funcţiile de bază ale Inspectoratului
-de Stat al Muncii
-[Art.373 titlul modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-Funcţiile de bază ale Inspectoratului de Stat al Muncii sînt:
-a) asigurarea aplicării dispoziţiilor actelor normative referitoare la condiţiile de muncă şi la protecţia salariaţilor în exercitarea obligaţiilor lor de muncă;
-b) difuzarea informaţiilor despre cele mai eficiente metode şi mijloace privind respectarea legislaţiei muncii;
-c) informarea autorităţilor publice competente despre dificultăţile legate de aplicarea legislaţiei muncii.
+[Art.373 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.373 modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-Articolul 374. Atribuţiile Inspectoratului de Stat
-al Muncii
-[Art. 374 titlul modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-(1) Pentru realizarea funcţiilor sale, Inspectoratul de Stat al Muncii exercită următoarele atribuţii:
-[Art.374 al.(1) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-[Art. 374 al.(1) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-1) controlează respectarea dispoziţiilor actelor internaţionale, legislative şi ale altor acte normative, precum şi ale convenţiilor colective referitoare la:
-[Art.374 al.(1), pct.1) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-a) contractele individuale şi cele colective de muncă;
-b) carnetele de muncă;
-c) timpul de muncă şi timpul de odihnă;
-d) retribuirea muncii;
-e) munca minorilor şi a femeilor;
-f) protecţia muncii;
-[Art.374 al.(1), pct.1) lit.g) exclusă prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-[Art.374 al.(1), pct.2) exclus prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-3) avizează, în modul stabilit de lege lansarea în producţie a prototipurilor de echipamente tehnice şi de echipament individual de protecţie şi de lucru;
-[Art.374 al.(1), pct.3) modificat prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-4) cercetează, în modul stabilit de Guvern, accidentele de muncă;
-5) coordonează activitatea de pregătire, instruire şi informare a salariaţilor unităţilor în problemele privind raporturile de muncă, securitatea şi sănătatea în muncă, mediul de muncă.
-6) acordă ajutor metodologic şi consultativ salariaţilor şi angajatorilor.
-[Art.374 al.(1), pct.6) introdus prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-7) exercită alte atribuţii prevăzute de lege
-[Art. 374 al.(1), pct.6) introdus prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-(2) Inspectoratul de Stat al Muncii este în drept:
-a) să solicite şi să primească de la autorităţile publice centrale şi locale, de la persoane juridice şi fizice informaţiile necesare exercitării atribuţiilor sale;
-b) să constate contravenţiile prevăzute la art.55–61 din Codul contravenţional al Republicii Moldova.
-[Art.374 al.(2), lit.b) în redacţia LP131-XVIII din 23.12.09, MO23-24/12.02.10 art.35]
-[Art.374 al.(2), lit.b) modificată prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-Articolul 375. Colaborarea cu alte organe, instituţii
-şi organizaţii
-În realizarea funcţiilor sale, Inspectoratul de Stat al Muncii colaborează cu alte organe, instituţii şi organizaţii care desfăşoară activităţi similare, cu patronatele şi sindicatele. Modalităţile de colaborare se stabilesc prin acordul părţilor.
+[Art.374 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art.374 modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
+[Art.374 modificat prin LP131-XVIII din 23.12.09, MO23-24/12.02.10 art.35]
+[Art. 374 modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
+[Art.374 modificat prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
+[Art.374 modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
+[Art.375 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.375 modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-Articolul 376. Drepturile de bază ale inspectorilor
-de muncă
-(1) În exerciţiul atribuţiilor de control, la prezentarea legitimaţiei de serviciu, inspectorii de muncă sînt în drept:
-a) să pătrundă liber, la orice oră de zi sau de noapte, fără informarea prealabilă a angajatorului, la locurile de muncă, în încăperile de serviciu şi de producţie;
-b) să solicite şi să primească de la angajatori actele şi informaţiile necesare controlului;
-c) să solicite şi să primească explicaţii de la angajatori şi salariaţi (de la reprezentanţii lor);
-d) să ceară lichidarea imediată sau într-un termen anumit a abaterilor constatate de la dispoziţiile actelor legislative şi ale altor acte normative referitoare la mediul de muncă şi la protecţia salariaţilor.
-(2) Suplimentar la cele prevăzute în alin.(1), inspectorii de muncă cu atribuţii în domeniul protecţiei muncii sînt în drept:
-a) să dispună sistarea funcţionării (inclusiv prin sigilare, cu indicarea în procesul-verbal de control) a atelierelor, a halelor, a secţiilor, a altor subdiviziuni ale unităţii, sistarea exploatării clădirilor, a edificiilor şi a echipamentelor tehnice, precum şi sistarea lucrărilor şi a proceselor tehnologice, doar în cazul unui pericol iminent de accidentare;
-[Art.376 al.(2), lit.a) în redacția LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-b) să propună anularea avizelor privind lansarea în producţie a prototipurilor de echipamente tehnice şi de echipament individual de protecţie şi de lucru, dacă constată că, prin modificarea condiţiilor pentru care au fost prevăzute acestea, nu se respectă cerinţele minime de securitate şi sănătate în muncă .
-[Art.376 al.(2), lit.b) modificată prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-[Art.376 al.(2), lit.b) modificată prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-(3) Dreptul prevăzut la alin.(2) lit.a) se exercită în conformitate cu prevederile art. 8 din Legea privind Inspectoratul de Stat al Muncii şi cu prevederile Legii cu privire la principiile de bază de reglementare a activităţii de întreprinzător.
-[Art.376 al.(3) introdus prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-Articolul 377. Obligaţiile şi răspunderea inspectorilor
-de muncă
-(1) Inspectorii de muncă sînt obligaţi:
-a) să se călăuzească în activitatea lor de legislaţia în vigoare;
-b) să păstreze confidenţialitate asupra sursei oricărei reclamaţii care semnalează încălcarea dispoziţiilor actelor normative referitoare la muncă, protecţia muncii şi să nu dezvăluie angajatorului faptul că respectivul control a fost efectuat în urma unei reclamaţii;
-c) să respecte dispoziţiile legislaţiei în vigoare privind nedivulgarea informaţiilor care constituie secret de stat sau secret comercial şi care i-au devenit cunoscute în exerciţiul funcţiunii;
-d) să nu participe direct sau indirect în activitatea unităţilor supuse controlului său.
-(2) Pentru neexecutarea sau executarea necorespunzătoare a obligaţiilor lor, inspectorii de muncă poartă răspundere disciplinară, administrativă şi penală în modul stabilit de legislaţia în vigoare.
-Articolul 378. Independenţa inspectorilor de muncă
-(1) În procesul realizării drepturilor şi îndeplinirii obligaţiilor lor, inspectorii de muncă sînt reprezentanţii împuterniciţi ai statului şi se supun numai legii.
-(2) Nu se admite nici un fel de amestec în activitatea inspectorilor de muncă, care le-ar impune exercitarea necorespunzătoare a atribuţiilor ce le revin.
-Articolul 379. Obligaţiile angajatorului faţă de inspectorii
-de muncă
-Angajatorul are faţă de inspectorii de muncă următoarele obligaţii:
-a) la prezentarea legitimaţiei de serviciu, să asigure inspectorilor de muncă liberul acces, la orice oră de zi sau de noapte, la locurile de muncă, în încăperile de producţie şi de serviciu pentru efectuarea inspecţiei;
-b) să prezinte documentele şi informaţiile solicitate de inspectorul de muncă în timpul efectuării inspecţiei;
-c) să asigure realizarea măsurilor stabilite de inspectorul de muncă în urma controlului sau a cercetării accidentelor de muncă.
-Articolul 380. Contestarea măsurilor luate de inspectorii
-de muncă
-(1) Actele administrative emise de inspectorii de muncă pot fi contestate la directorulul Inspectoratului de Stat al Muncii şi/sau conform Legii contenciosului administrativ.
-[Art.380 al.(1) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-(2) Actele administrative emise de directorulul Inspectoratului de Stat al Muncii pot fi contestate conform Legii contenciosului administrativ.
-[Art.380 al.(2) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
-Articolul 381. Răspunderea pentru încălcarea legislaţiei
-muncii şi a altor acte normative ce conţin
-norme ale dreptului muncii
-(1) Persoanele vinovate de încălcarea legislaţiei muncii, a altor acte normative ce conţin norme ale dreptului muncii, a contractelor colective de muncă şi a convenţiilor colective sînt trase la răspundere disciplinară, materială, administrativă şi penală în modul prevăzut de lege.
-[Art.381 al.(1) modificat prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-(2) Persoanele vinovate de încălcarea clauzelor contractului colectiv de muncă sau ale convenţiei colective pot fi trase suplimentar la răspundere conform prevederilor statutelor unităţilor, patronatelor şi sindicatelor şi/sau ale contractului colectiv de muncă sau ale convenţiei colective.
-Articolul 382. Răspunderea pentru împiedicarea activităţii
-inspectorilor de muncă
-Persoanele care împiedică, în orice mod, efectuarea controlului de stat asupra respectării actelor legislative, a altor acte normative ce conţin norme ale dreptului muncii, a contractelor colective de muncă şi convenţiilor colective, care nu îndeplinesc măsurile obligatorii dispuse de inspectorii de muncă, care ameninţă cu violenţa sau aplică violenţa faţă de inspectorii de muncă, faţă de membrii familiilor lor şi bunurile lor poartă răspundere în conformitate cu legislaţia în vigoare, cu contractele colective de muncă şi cu convenţiile colective.
+[Art.376 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art.376 modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
+[Art.376 modificat prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
+[Art.377 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art.378 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art.379 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art.380 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art.380 modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
+[Art.381 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art.381 modificat prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
+[Art.382 abrogat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 383. Supravegherea energetică de stat
 Supravegherea de stat asupra înfăptuirii măsurilor care asigură funcţionarea în condiţii de siguranţă a instalaţiilor electrice şi de termoficare este exercitată de organul supravegherii energetice de stat în limitele, conform cerinţelor şi procedurii stabilite în lege.
 [Art.383 modificat prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
