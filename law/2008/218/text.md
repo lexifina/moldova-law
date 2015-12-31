@@ -15,6 +15,9 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16
+LP218 din 03.12.15, MO361-369/31.12.15 art.679; în vigoare 31.01.16
+LP138 din 03.12.15, MO361-369/31.12.15 art.675
 LP195 din 19.11.15, MO340-346/15.12.15 art.652
 LP166 din 31.07.15, MO267-273/02.10.15 art.508
 LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15
@@ -2323,8 +2326,9 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicat
 [Art.273 pct.3) în redacţia LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 4) încălcarea regimului de lucru stabilit de autorităţile administraţiei publice locale
 se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale;
-5) încălcarea regulilor de desfăşurare a comerţului cu ridicata
-se sancţionează vînzătorul cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice;
+5) încălcarea termenelor de plată pentru achitarea facturilor la procurarea produselor agroalimentare ușor perisabile
+se sancționează, comerciantul, cu amendă de la 50 la 100 de unități convenționale în cazul persoanei fizice, cu amendă de la 200 la 400 de unități convenționale în cazul persoanei juridice.
+[Art.273 pct.5) în redacţia LP218 din 03.12.15, MO361-369/31.12.15 art.679; în vigoare 31.01.16]
 [Art.273 pct.5) modificat prin LP41 din 21.03.13, MO75-81/12.04.13 art.235]
 [Art.273 pct.5) în redacţia LP101 din 13.12.12, MO10-14/18.01.13 art.41]
 6) lipsa indicatoarelor de preţuri sau a meniurilor la mărfurile destinate comercializării ori întocmirea lor cu încălcarea regulilor stabilite
@@ -2404,6 +2408,9 @@ se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
 (8) Recepţionarea plăţilor pentru produsele petroliere principale şi gazele lichefiate comercializate cu amănuntul în alt loc decît la ghişeul de plată al staţiei certificate de alimentare cu produse petroliere principale şi gaze lichefiate
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.277 al.(8) introdus prin 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
+(9) Comercializarea pe piaţa internă a motorinei importate pentru consum propriu sau utilizarea ei în alte scopuri decît pentru consum propriu, dacă aceste acțiuni nu constituie infracțiune,
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 500 de unităţi convenţionale aplicată persoanei juridice.
+[Art.277 al.(9) introdus prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
 Articolul 2771. Încălcarea legislaţiei cu privire
 la jocurile de noroc
 (1) Împiedicarea exercitării atribuţiilor de control sau refuzul de a prezenta documentele ce reflectă activitatea economico-financiară a organizatorului jocurilor de noroc, sau prezentarea de date falsificate,
@@ -3870,6 +3877,10 @@ Articolul 391. Interpretul, traducătorul
 Articolul 392. Apărătorul
 Este apărător persoana admisă în profesia de avocat avînd dreptul să participe la procesul contravenţional pentru a asigura asistenţă juridică sau a reprezenta partea pe care o asistă în bază de contract sau în urma desemnării de către coordonatorul oficiului teritorial al Consiliului Naţional pentru Asistenţă Juridică Garantată de Stat.
 [Art.392 modificat prin LP112 din 18.05.12, MO149-154/20.07.12 art.488]
+Articolul 3921. Consilierul de probaţiune
+(1) Consilierul de probaţiune este persoana care efectuează evaluarea psihosocială și controlul subiecţilor probaţiunii, contribuie la resocializarea și la adaptarea socială a acestora prin formarea unei atitudini şi a unor reguli de conduită socială în vederea reintegrării lor în societate şi prevenirii săvîrşirii de noi contravenții.
+(2) Consilierul de probaţiune, în exercitarea atribuţiilor de serviciu, are dreptul de a lua cunoştinţă de materialele cauzei.
+[Art.3921 introdus prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 Capitolul III
 AUTORITĂŢILE COMPETENTE SĂ SOLUŢIONEZE
 CAUZELE CONTRAVENŢIONALE
@@ -3926,6 +3937,8 @@ Articolul 399. Competenţa agentului constatator
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin.(1), (4), (5) şi (7), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin. (1), (4), (5), (7) și (9), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
 [Art.400 al.(1) modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.400 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(1) modificat prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
@@ -3981,7 +3994,10 @@ Articolul 402. Organele de inspectare financiară/
 control financiar şi organele fiscale
 ale Ministerului Finanţelor
 [Art.402 titlul în redacţia LP241 din 02.11.12, MO242-244/23.11.12 art.777]
-(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.277 alin.(2), (3) şi (6), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.273 alin. (5), art.277 alin.(2), (3) şi (6), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.273 alin. (5), art. 277 alin. (2), (3), (6), (8) și (9), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+[Art.402 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
+[Art.402 al.(1) modificat prin LP218 din 03.12.15, MO361-369/31.12.15 art.679; în vigoare 31.01.16]
 [Art.402 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.402 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 [Art.402 al.(1) modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
