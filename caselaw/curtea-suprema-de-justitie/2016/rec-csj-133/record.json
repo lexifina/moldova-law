@@ -1,0 +1,30 @@
+{
+  "title": "Recomandarea CSJ (Opiniile consultative (recomandări)), nr. 85, din 20.01.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "rec_csj",
+  "database_label": "Opiniile consultative (recomandări)",
+  "source_id": 133,
+  "number": "85",
+  "decision_date": "2016-01-20",
+  "decision_date_source_quote": "20.01.2016",
+  "record_date": "2016-01-20",
+  "in_force": "2016-01-20",
+  "source": "http://jurisprudenta.csj.md/search_rec_csj.php?id=133",
+  "listing": "http://jurisprudenta.csj.md/db_rec_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_rec_csj.php?id=133",
+  "source_sha256": "c7f608d044e23842456dd00e614288be9df55f8a254e37019819eff60ea211b9",
+  "pdf_pages": 1,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 396,
+    "pdftotext_words": 396,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
