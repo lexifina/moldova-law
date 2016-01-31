@@ -15,6 +15,8 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP242 din 29.12.15, MO20-24/29.01.16 art.48
+LP230 din 10.12.15, MO2-12/15.01.16 art.19; în vigoare 15.07.16
 LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16
 LP218 din 03.12.15, MO361-369/31.12.15 art.679; în vigoare 31.01.16
 LP138 din 03.12.15, MO361-369/31.12.15 art.675
@@ -2760,8 +2762,10 @@ se sancţionează cu amendă de la 25 la 50 de unităţi convenţionale aplicat�
 [Art.2931 al.(10) introdus prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.01.16]
 Articolul 2951. Încălcarea procedurii de raportare
 a informaţiei necesare pentru
-monitorizarea datoriei publice
-Neîndeplinirea cerinţelor stabilite de Guvern privind raportarea informaţiei necesare pentru monitorizarea datoriei publice, a obligaţiilor condiţionale ce rezultă din contractele de garanţie de stat şi a operaţiilor ce ţin de recreditarea de stat
+monitorizarea datoriei sectorului public
+[Art.2951 titlul modificat prin LP242 din 29.12.15, MO20-24/29.01.16 art.48]
+Neîndeplinirea cerinţelor stabilite de Guvern privind raportarea informaţiei necesare pentru monitorizarea datoriei sectorului public, a obligaţiilor condiţionale ce rezultă din contractele de garanţie de stat şi a operaţiilor ce ţin de recreditarea de stat
+[Art.2951 dispoziția modificată prin LP242 din 29.12.15, MO20-24/29.01.16 art.48]
 se sancţionează cu amendă de la 25 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.2951 introdus prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 Articolul 296. Primirea şi eliberarea mijloacelor
@@ -3460,6 +3464,33 @@ g) a modalităţilor practice de exercitare a dreptului de revocare a contractul
 h) a informaţiei privind existenţa unor fonduri de garantare sau a altor mecanisme de compensare, altele decît cele prevăzute prin lege,
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere sau cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei juridice.
 [Art.344 al.(6) introdus prin LP159 din 18.07.14, MO238-246/15.08.14 art.549; în vigoare 15.02.15]
+(7) Încălcarea cerinţelor de informare pentru alte contracte decît contractele negociate în afara spațiilor comerciale şi contractele la distanţă prin:
+a) neprezentarea sau prezentarea incompletă a informaţiei precontractuale pentru alte contracte decît contractele negociate în afara spațiilor comerciale şi contractele la distanţă
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei juridice;
+b) necomunicarea principalelor caracteristici ale produselor sau serviciilor în mod corespunzător cu mijlocul de comunicare utilizat şi cu produsele sau serviciile în cauză
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei juridice;
+c) necomunicarea informaţiei referitoare la preţul total al produselor sau serviciilor cu toate taxele incluse ori, în cazul în care preţul nu poate fi calculat din timp dată fiind natura produselor sau a serviciilor, la modalitatea de calcul al preţului, precum şi la costurile suplimentare de transport, de livrare sau la taxele poştale, ori, în cazul în care acestea nu pot fi calculate din timp, neindicarea faptului că aceste costuri suplimentare ar putea fi suportate de consumator
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
+[Art.344 al.(7) introdus prin LP230 din 10.12.15, MO2-12/15.01.16 art.19; în vigoare 15.07.16]
+(8) Încălcarea cerinţelor de informare pentru contractele negociate în afara spaţiilor comerciale şi cele la distanţă prin:
+a) neprezentarea sau prezentarea incompletă a informaţiei precontractuale pentru contractele negociate în afara spaţiilor comerciale şi cele la distanţă
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei juridice;
+b) necomunicarea principalelor caracteristici ale produselor sau serviciilor în mod corespunzător cu mijlocul de comunicare utilizat şi cu produsele sau serviciile în cauză
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei juridice;
+c) necomunicarea informaţiei referitoare la preţul total al produselor sau serviciilor cu toate taxele incluse, la costurile suplimentare de transport, de livrare, la taxele poștale sau de orice altă natură ori, în cazul în care acestea nu pot fi calculate din timp, neindicarea faptului că aceste costuri suplimentare ar putea fi suportate de consumator
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice;
+d) necomunicarea informaţiei privind costul de utilizare a mijloacelor de comunicare la distanță în vederea încheierii contractului, atunci cînd este calculat pe baza unui alt tarif decît tariful de bază,
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice;
+e) necomunicarea informaţiei privind modalitățile de plată, livrare şi executare, privind data pînă la care sau termenul în care comerciantul se angajează să livreze produsele sau să presteze serviciile
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice;
+f) necomunicarea informaţiei privind existența și condițiile aferente avansurilor sau altor garanții financiare care trebuie plătite sau oferite de consumator la cererea comerciantului
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice;
+g) necomunicarea informaţiei privind existenţa sau lipsa dreptului de revocare şi, dacă acest drept există, privind termenul şi condiţiile de exercitare a acestuia, inclusiv a informaţiilor despre faptul că consumatorul va trebui să suporte costul aferent returnării produselor în caz de revocare, iar pentru contractele la distanță – dacă, prin însăși natura lor, produsele nu pot fi, în mod normal, returnate prin poștă – costul aferent returnării produselor; necomunicarea informaţiei că consumatorul nu va beneficia de un drept de revocare, a consecinţelor ce decurg din neexecutarea acestui drept sau a circumstanţelor în care consumatorul îşi pierde dreptul de revocare
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
+[Art.344 al.(8) introdus prin LP230 din 10.12.15, MO2-12/15.01.16 art.19; în vigoare 15.07.16]
+(9) Nerambursarea sau rambursarea, cu depăşirea termenului de 14 zile de la data la care este informat despre decizia de revocare a contractului, de către comerciant a sumelor pe care le-a primit drept plată din partea consumatorului
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice.
+[Art.344 al.(9) introdus prin LP230 din 10.12.15, MO2-12/15.01.16 art.19; în vigoare 15.07.16]
 Articolul 345. Încălcarea regulilor din domeniul metrologiei
 (1) Încălcarea regulilor din domeniul metrologiei prin:
 a) plasarea pe piaţă, punerea în funcţiune sau utilizarea la măsurări în domenii de interes public (sănătatea şi siguranţa populaţiei, ordinea publică, protecţia mediului, protecţia drepturilor consumatorului, perceperea taxelor şi impozitelor, tranzacţiile şi operaţiunile comerciale, controlul calităţii produselor, proceselor şi serviciilor, asigurarea securităţii şi apărării naţionale, în alte domenii ale vieţii publice unde, în urma măsurărilor sau rezultatelor incorecte ale acestora, pot fi afectate, direct sau indirect, viaţa oamenilor sau interesele persoanelor fizice şi/sau juridice) a mijloacelor de măsurare care nu se consideră mijloace de măsurare legale, şi anume: fără marcajul aprobării de model, fără marcajul de verificare metrologică, fără certificat de aprobare de model, fără buletin de verificare metrologică sau cu astfel de documente falsificate;
