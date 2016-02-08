@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), id 118, din 08.02.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 118,
+  "number": null,
+  "decision_date": "2016-02-08",
+  "decision_date_source_quote": "8 februarie 2016",
+  "record_date": "2016-02-08",
+  "in_force": "2016-02-08",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=118",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=118",
+  "source_sha256": "fdba5cfd537c441db1a60b149655274b13bf1749f9e920bad849e983e911c5cb",
+  "pdf_pages": 10,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3743,
+    "pdftotext_words": 3729,
+    "common_ratio": [
+      0.9957,
+      0.9995
+    ]
+  },
+  "first_law": null
+}
