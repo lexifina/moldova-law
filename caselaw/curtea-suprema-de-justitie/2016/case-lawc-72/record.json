@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-54/16, din 10.02.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 72,
+  "number": "3ra-54/16",
+  "decision_date": "2016-02-10",
+  "decision_date_source_quote": "10 februarie 2016",
+  "record_date": "2016-02-10",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=72",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=72",
+  "source_sha256": "48510ba240b984aaeb1810e02f60cabeda370e8ff43198aab7cb72944b7f358f",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1900,
+    "pdftotext_words": 1882,
+    "common_ratio": [
+      0.9889,
+      0.9984
+    ]
+  },
+  "first_law": null
+}
