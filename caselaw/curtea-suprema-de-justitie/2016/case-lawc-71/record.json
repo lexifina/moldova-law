@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ri-51/16, din 16.03.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 71,
+  "number": "2ri-51/16",
+  "decision_date": "2016-03-16",
+  "decision_date_source_quote": "16 martie 2016",
+  "record_date": "2016-03-16",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=71",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=71",
+  "source_sha256": "23d333d4756e1fd1d496966b1b901e73e33ee9bf78b405e0837a65c8f64b2d62",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1762,
+    "pdftotext_words": 1755,
+    "common_ratio": [
+      0.9949,
+      0.9989
+    ]
+  },
+  "first_law": null
+}
