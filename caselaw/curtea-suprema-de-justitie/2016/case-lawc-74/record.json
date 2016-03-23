@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3r-68/16, din 23.03.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 74,
+  "number": "3r-68/16",
+  "decision_date": "2016-03-23",
+  "decision_date_source_quote": "23 martie 2016",
+  "record_date": "2016-03-23",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=74",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=74",
+  "source_sha256": "6b071b0fc192cd0629f4fc2e6604e1e96f33abe28a227d9e6f94db6fb7718c29",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1601,
+    "pdftotext_words": 1583,
+    "common_ratio": [
+      0.9869,
+      0.9981
+    ]
+  },
+  "first_law": null
+}
