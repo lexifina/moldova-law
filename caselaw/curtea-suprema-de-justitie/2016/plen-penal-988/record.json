@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Plenul Colegiului penal), nr. 4-1re-18/2016, din 31.03.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_penal",
+  "database_label": "Plenul Colegiului penal",
+  "source_id": 988,
+  "number": "4-1re-18/2016",
+  "decision_date": "2016-03-31",
+  "decision_date_source_quote": "31 martie 2016",
+  "record_date": "2016-03-31",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_plen_penal.php?id=988",
+  "listing": "http://jurisprudenta.csj.md/db_plen_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_penal.php?id=988",
+  "source_sha256": "b9af9822e562097804ddc77a733dfe012b093dfd99edc6f3523f98dbfd2958a3",
+  "pdf_pages": 10,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4951,
+    "pdftotext_words": 4951,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
