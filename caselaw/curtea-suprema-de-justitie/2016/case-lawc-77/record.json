@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-435/16, din 06.04.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 77,
+  "number": "3ra-435/16",
+  "decision_date": "2016-04-06",
+  "decision_date_source_quote": "6 aprilie 2016",
+  "record_date": "2016-04-06",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=77",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=77",
+  "source_sha256": "0c736e1bad66def1eaf6bc1b96c27b78c290a6d406d8e653658a153d154dc7c2",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1807,
+    "pdftotext_words": 1787,
+    "common_ratio": [
+      0.9862,
+      0.9972
+    ]
+  },
+  "first_law": null
+}
