@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP9 din 26.02.16, MO90-99/08.04.16 art.166; în vigoare 08.04.16
 LP242 din 29.12.15, MO20-24/29.01.16 art.48
 LP230 din 10.12.15, MO2-12/15.01.16 art.19; în vigoare 15.07.16
 LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16
@@ -1311,7 +1312,7 @@ Articolul 152. Darea în exploatare a vehiculelor terestre,
 a navelor şi aeronavelor care depăşesc
 normativele admise de emisiea poluanţilor
 şi de emitere a zgomotului
-Darea în exploatare a vehiculelor terestre, a navelor şi aeronavelor care depăşesc normativele admise de emisie a poluanţilor şi de emitere a zgomotului în timpul funcţio¬nării
+Darea în exploatare a vehiculelor terestre, a navelor şi aeronavelor care depăşesc normativele admise de emisie a poluanţilor şi de emitere a zgomotului în timpul funcţionării
 se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice.
 Articolul 153. Exploatarea vehiculelor terestre, a navelor
 şi aeronavelor care depăşesc normativele
@@ -3522,10 +3523,12 @@ se sancţionează cu amendă de 500 de unităţi convenţionale aplicată persoa
 Articolul 348. Încălcarea regulilor de evaluare
 a conformităţii
 Încălcarea regulilor de evaluare a conformităţii prin:
-a) eliberarea certificatelor de conformitate în baza rezultatelor negative ale încercărilor;
+a) eliberarea certificatelor de conformitate sau a rapoartelor de încercări în baza rezultatelor negative ale încercărilor;
+[Art.348 lit.a) modificată prin LP9 din 26.02.16, MO90-99/08.04.16 art.166; în vigoare 08.04.16]
 b) eliberarea certificatelor de conformitate în cazul neconformităţii produselor cu condiţiile prevăzute în documentele normative, în conformitate cu care produsele au fost certificate;
 c) eliberarea certificatelor de conformitate pentru produse şi servicii ce nu ţin de domeniul organismului de certificare;
-d) eliberarea certificatelor de conformitate după expirarea termenului de valabilitate al autorizaţiei de desemnare, suspendarea valabilităţii sau anularea autorizaţiei de desemnare;
+d) eliberarea certificatelor de conformitate şi/sau a rapoartelor de încercări după expirarea termenului de valabilitate a acreditării sau a recunoaşterii acordate de către autoritatea de reglementare ori după suspendarea sau retragerea recunoaşterii;
+[Art.348 lit.d) în redacția LP9 din 26.02.16, MO90-99/08.04.16 art.166; în vigoare 08.04.16]
 e) prezentarea unor rezultate neveridice ale încercărilor sau etalonărilor
 se sancţionează cu amendă de 500 de unităţi convenţionale aplicată persoanei juridice.
 Articolul 349. Împiedicarea activităţii legitime a
@@ -3967,7 +3970,6 @@ Articolul 399. Competenţa agentului constatator
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin.(1), (4), (5) şi (7), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
 (1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin. (1), (4), (5), (7) și (9), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
 [Art.400 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
 [Art.400 al.(1) modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
@@ -4025,7 +4027,6 @@ Articolul 402. Organele de inspectare financiară/
 control financiar şi organele fiscale
 ale Ministerului Finanţelor
 [Art.402 titlul în redacţia LP241 din 02.11.12, MO242-244/23.11.12 art.777]
-(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.273 alin. (5), art.277 alin.(2), (3) şi (6), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
 (1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.273 alin. (5), art. 277 alin. (2), (3), (6), (8) și (9), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
 [Art.402 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
 [Art.402 al.(1) modificat prin LP218 din 03.12.15, MO361-369/31.12.15 art.679; în vigoare 31.01.16]
