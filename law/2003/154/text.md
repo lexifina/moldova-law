@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP52 din 01.04.16, MO106-113/22.04.16 art.209
 LP205 din 20.11.15, MO340-346/18.12.15 art.658
 LP93 din 29.05.14, MO174-177/04.07.14 art.399
 LP62 din 11.04.14, MO110-114/09.05.14 art.282
@@ -389,7 +390,9 @@ Articolul 33. Acţiunea contractului colectiv de muncă
 [Art.33 al.(7) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 34. Modificarea şi completarea contractului
 colectiv de muncă
-Modificarea şi completarea contractului colectiv de muncă are loc în modul stabilit de prezentul cod pentru încheierea contractului.
+(1) Modificarea şi completarea contractului colectiv de muncă are loc în modul stabilit de prezentul cod pentru încheierea contractului.
+(2) Orice modificare sau completare a contractului colectiv de muncă urmează a fi adusă la cunoştinţa salariaţilor unităţii de către angajator în termen de 5 zile lucrătoare de la data operării, printr-un anunţ public plasat pe un panou informativ cu acces general la sediul unităţii (inclusiv la fiecare din filialele sau reprezentanţele unității), precum şi pe pagina web a acesteia, după caz.
+[Art.34 al.(2) introdus prin LP52 din 01.04.16, MO106-113/22.04.16 art.209; alineatul unic devine al.(1)]
 Articolul 35. Convenţia colectivă
 (1) Convenţia colectivă este un act juridic care stabileşte principiile generale de reglementare a raporturilor de muncă şi a raporturilor social-economice legate nemijlocit de acestea, care se încheie de către reprezentanţii împuterniciţi ai salariaţilor şi ai angajatorilor la nivel naţional, teritorial şi ramural, în limitele competenţei lor.
 (2) În convenţia colectivă pot fi incluse clauze privind:
@@ -415,7 +418,8 @@ Articolul 38. Acţiunea convenţiei colective
 (4) În cazul în care salariaţii cad sub incidenţa concomitentă a mai multor convenţii colective, prioritate au dispoziţiile mai favorabile ale acestora.
 (5) Sub incidenţa convenţiei colective cad salariaţii şi angajatorii care au împuternicit reprezentanţii lor să participe la negocierile colective, să elaboreze şi să încheie convenţia colectivă în numele lor, autorităţile publice în limitele angajamentelor asumate, precum şi salariaţii şi angajatorii care au aderat la convenţie după încheierea acesteia.
 (6) Sub incidenţa convenţiei colective cad toţi angajatorii membri ai patronatului care a încheiat convenţia. Încetarea calităţii de membru al patronatului nu eliberează angajatorul de obligaţia respectării prevederilor convenţiei încheiate în perioada aflării sale, ca membru, în patronat. Angajatorul care a aderat la patronat în perioada acţiunii convenţiei colective este obligat să îndeplinească prevederile convenţiei în cauză.
-(7) Modul de publicare a convenţiilor colective încheiate la nivel ramural şi teritorial se stabileşte de părţi.
+(7) Modul de publicare a convenţiilor colective încheiate la nivel ramural şi teritorial, precum şi a modificărilor şi completărilor operate în acestea se stabileşte de părţi.
+[Art.38 al.(7) modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 Articolul 39. Modificarea şi completarea convenţiei
 colective
 Modificarea şi completarea convenţiei colective are loc în modul stabilit de prezentul cod pentru încheierea convenţiei.
@@ -473,10 +477,18 @@ Articolul 47. Garanţii la angajare
 (2) Se interzice orice limitare, directă sau indirectă, în drepturi ori stabilirea unor avantaje, directe sau indirecte, la încheierea contractului individual de muncă în dependenţă de sex, rasă, etnie, religie, domiciliu, opţiune politică sau origine socială.
 (3) Refuzul angajatorului de a angaja se întocmeşte în formă scrisă, cu indicarea datelor prevăzute la art.49 alin.(1) lit.b), şi poate fi contestat în instanţa de judecată.
 [Art.47 al.(3) modificat prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
-Articolul 48. Dreptul persoanei care se angajează de a
-fi informată asupra clauzelor contractului
-individual de muncă
-Anterior încheierii contractului individual de muncă, angajatorul are obligaţia de a informa persoana care solicită angajarea cu privire la principalele clauze pe care le va cuprinde contractul individual de muncă (art.49).
+Articolul 48. Informarea privind condiţiile de activitate
+(1) Anterior angajării sau transferării într-o nouă funcţie, angajatorul are obligaţia de a informa persoana care urmează a fi angajată sau transferată despre condiţiile de activitate în funcţia propusă, oferindu-i informaţia prevăzută la art. 49 alin. (1), precum şi informaţia privind perioadele de preaviz ce urmează a fi respectate de angajator şi salariat în cazul încetării activităţii. Informaţia în cauză va face obiectul unui proiect de contract individual de muncă sau al unei scrisori oficiale, ambele semnate de angajator.
+(2) La angajare, salariatului îi vor fi puse la dispoziţie, suplimentar, convenţiile colective care-i sînt aplicabile, contractul colectiv de muncă, regulamentul intern al unităţii, precum şi informaţia privind cerinţele de securitate şi sănătate în muncă aferente activităţii sale.
+(3) În cazul în care salariatul urmează să-şi desfăşoare activitatea în străinătate, angajatorul are obligaţia de a-i furniza, în timp util, toată informaţia prevăzută la art. 49 alin. (1) şi, suplimentar, informaţii referitoare la:
+a) durata muncii în străinătate;
+b) moneda în care va fi retribuită munca, precum şi modalitatea de plată;
+c) compensaţiile şi avantajele în numerar şi/sau în natură aferente plecării în străinătate;
+d) condiţiile specifice de asigurare;
+e) condiţiile de cazare;
+f) aranjamentele de călătorie tur-retur.
+(4) La angajarea în Republica Moldova a cetăţenilor străini se vor lua în considerare, de asemenea, prevederile legislaţiei în domeniul migraţiei de muncă, precum şi dispoziţiile relevante ale tratatelor internaţionale la care Republica Moldova este parte.
+[Art.48 în redacția LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 Articolul 49. Conţinutul contractului individual de muncă
 (1) Conţinutul contractului individual de muncă este determinat prin acordul părţilor, ţinîndu-se cont de prevederile legislaţiei în vigoare, şi include:
 a) numele şi prenumele salariatului;
@@ -491,23 +503,24 @@ f1) denumirea lucrării ce urmează a fi îndeplinită (în cazul contractului i
 [Art.49 al.(1), lit.f1) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 g) drepturile şi obligaţiile salariatului;
 h) drepturile şi obligaţiile angajatorului;
-i) condiţiile de retribuire a muncii, inclusiv salariul funcţii sau cel tarifar şi suplimentele, premiile şi ajutoarele materiale;
+i) condiţiile de retribuire a muncii, inclusiv salariul funcţiei sau cel tarifar, suplimentele, premiile şi ajutoarele materiale (în cazul în care acestea fac parte din sistemul de salarizare al unităţii), precum şi periodicitatea achitării plăților;
+[Art.49 al.(1), lit.i) în redacția LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 j) compensaţiile şi alocaţiile, inclusiv pentru munca prestată în condiţii grele, vătămătoare şi/sau periculoase;
-k) locul de muncă;
-l) regimul de muncă şi de odihnă;
+k) locul de muncă. Dacă locul de muncă nu este fix, se menţionează că salariatul poate avea diferite locuri de muncă şi se indică adresa juridică a unităţii sau, după caz, domiciliul angajatorului;
+[Art.49 al.(1), lit.k) în redacția LP52 din 01.04.16, MO106-113/22.04.16 art.209]
+l) regimul de muncă şi de odihnă, inclusiv durata zilei şi a săptămînii de muncă a salariatului;
+[Art.49 al.(1), lit.l) modificată prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 m) perioada de probă, după caz;
 n) durata concediului de odihnă anual şi condiţiile de acordare a acestuia;
 o) prevederile contractului colectiv de muncă şi ale regulamentului intern al unităţii referitoare la condiţiile de muncă ale salariatului;
 p) condiţiile de asigurare socială;
-r) condiţiile de asigurare medicală.
+r) condiţiile de asigurare medicală;
+s) clauzele specifice (art. 51), după caz.
+[Art.49 al.(1), lit.s) introdusă prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 (2) Contractul individual de muncă poate conţine şi alte prevederi ce nu contravin legislaţiei în vigoare.
 (3) Este interzisă stabilirea pentru salariat, prin contractul individual de muncă, a unor condiţii sub nivelul celor prevăzute de actele normative în vigoare, de convenţiile colective şi de contractul colectiv de muncă.
-(4) În cazul în care salariatul urmează să-şi desfăşoare activitatea în străinătate, angajatorul are obligaţia de a-i pune la dispoziţie, în timp util, toată informaţia prevăzută la alin.(1) şi, suplimentar, informaţii referitoare la:
-a) durata perioadei de muncă în străinătate;
-b) moneda în care va fi retribuită munca, precum şi modalitatea de plată;
-c) compensaţiile şi avantajele în numerar şi/sau în natură aferente plecării în străinătate;
-d) condiţiile specifice de asigurare.
-(5) În cazul angajării la muncă în Republica Moldova a cetăţenilor străini, se vor lua în considerare, de asemenea, prevederile actelor interstatale (interguvernamentale), la care Republica Moldova este parte, ce vizează statutul juridic al persoanelor respective.
+[Art.49 al.(4) abrogat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
+[Art.49 al.(5) abrogat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 [Art.49 al.(5) introdus prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 50. Interzicerea de a cere efectuarea unei munci
 care nu este stipulată în contractul individual
@@ -531,7 +544,8 @@ Articolul 53. Clauza de confidenţialitate
 (2) Nerespectarea clauzei de confidenţialitate atrage obligarea părţii vinovate la repararea prejudiciului cauzat.
 Articolul 54. Durata contractului individual de muncă
 (1) Contractul individual de muncă se încheie, de regulă, pe durată nedeterminată.
-(2) Contractul individual de muncă poate fi încheiat şi pe o durată determinată, ce nu depăşeşte 5 ani, în condiţiile prevăzute de prezentul cod.
+(2) Contractul individual de muncă poate fi încheiat şi pe o durată determinată, ce nu depăşeşte 5 ani, în condiţiile prevăzute de prezentul cod. Temeiul legal al încheierii contractului individual de muncă pe durată determinată se indică în contract.
+[Art.54 al.(2) introdus prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 (3) Dacă în contractul individual de muncă nu este stipulată durata acestuia, contractul se consideră încheiat pe o durată nedeterminată.
 (4) Se interzice încheierea contractelor individuale de muncă pe durată determinată în scopul eschivării de la acordarea drepturilor şi garanţiilor prevăzute pentru salariaţii angajaţi pe durată nedeterminată.
 [Art.54 al.(4) introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
@@ -539,7 +553,7 @@ Articolul 54. Durata contractului individual de muncă
 [Art.54 al.(5) introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 55. Contractul individual de muncă pe durată
 determinată
-Contractul individual de muncă poate fi încheiat pe durată determinată, conform art.54 alin.(2), în următoarele cazuri:
+(1) Contractul individual de muncă poate fi încheiat pe durată determinată, conform art.54 alin.(2), în următoarele cazuri:
 [Art.55 modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 a) pentru perioada îndeplinirii obligaţiilor de muncă ale salariatului al cărui contract individual de muncă este suspendat (cu excepţia cazurilor de aflare a acestuia în grevă), sau pentru perioada în care el se află în unul din concediile prevăzute la art.112, 120, 123, 124, 126, 178, 299 şi 300;
 [Art.55 lit.a) modificată prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
@@ -565,6 +579,19 @@ k3) cu persoanele care se angajează la unităţile create pentru o perioada det
 l) cu lucrătorii de creaţie din artă şi cultură;
 m) cu salariaţii asociaţiilor religioase; precum şi
 n) în alte cazuri prevăzute de legislaţia în vigoare.
+(2) În cazurile enumerate la alin. (1) lit. e), g), i), l) şi m), încheierea unui contract individual de muncă pe durată determinată sau prelungirea, pe durată determinată, a unui contract existent este permisă doar atunci cînd stabilirea unui raport de muncă permanent nu este posibilă din motive obiective (cum ar fi disponibilitatea persoanelor care îşi fac studiile la secţia de zi doar în perioada vacanţelor, existenţa unor legi organice care permit sau prescriu angajarea anumitor salariaţi pe durată determinată etc.). Motivele respective, de rînd cu temeiurile legale ale limitării duratei raportului de muncă, urmează a fi indicate în contract sau în acordul suplimentar la acesta.
+[Art.55 al.(2) introdus prin LP52 din 01.04.16, MO106-113/22.04.16 art.209; alineatul unic devine al.(1)]
+Articolul 551. Garanţii pentru salariaţii angajaţi pe
+o durată determinată
+(1) Nu se admite tratamentul mai puţin favorabil al salariaţilor angajaţi pe o durată determinată în raport cu salariaţii permanenţi care prestează o muncă echivalentă la aceeaşi unitate, dacă un asemenea tratament se bazează exclusiv pe durata raportului de muncă şi nu are o justificare obiectivă.
+(2) Interdicţia prevăzută la alin. (1) se va aplica cel puţin:
+a) vechimii în muncă necesare pentru ocuparea anumitor funcţii;
+b) oportunităţilor de instruire;
+c) posibilităţii de a ocupa o funcţie permanentă în cadrul unităţii.
+(3) În vederea asigurării accesului egal la locurile de muncă, vechimea în muncă stabilită pentru ocuparea unei funcţii va fi aceeaşi pentru salariaţii angajaţi pe durată nedeterminată şi cei angajaţi pe o durată determinată.
+(4) Pentru a îmbunătăţi competenţele profesionale, dezvoltarea carierei şi mobilitatea profesională a salariaţilor angajaţi pe durată determinată, angajatorul va facilita accesul acestora la oportunităţi adecvate de formare profesională, în conformitate cu prevederile prezentului cod (titlul VIII).
+(5) Angajatorul va informa salariaţii angajaţi pe o durată determinată despre funcţiile vacante apărute în cadrul unităţii, în termen de 5 zile lucrătoare de la data apariţiei lor, astfel ca salariaţii respectivi să poată accede la funcţii permanente în condiţii egale cu ceilalţi salariaţi. Informaţia privind funcţiile vacante va fi adusă la cunoştinţa salariaţilor, precum şi a reprezentanţilor acestora la nivel de unitate, printr-un anunţ public plasat pe un panou informativ cu acces general la sediul unităţii (inclusiv la fiecare din filialele sau reprezentanţele unității), precum şi pe pagina web a acesteia, după caz.
+[Art.551 introdus prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 Capitolul II
 ÎNCHEIEREA ŞI EXECUTAREA CONTRACTULUI
 INDIVIDUAL DE MUNCĂ
@@ -633,10 +660,7 @@ Articolul 65. Perfectarea documentelor la angajare
 [Art.65 al.(1) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) Ordinul (dispoziţia, decizia, hotărîrea) de angajare trebuie adus la cunoştinţa salariatului, sub semnătură, în termen de 3 zile lucrătoare de la data semnării de către părţi a contractului individual de muncă. La cererea scrisă a salariatului, angajatorul este obligat să-i elibereze acestuia o copie a ordinului (dispoziţiei, deciziei, hotărîrii), legalizată în modul stabilit, în termen de 3 zile lucrătoare.
 [Art.65 al.(2) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-(3) La angajare sau la transferare a salariatului la o altă muncă, conform prevederilor prezentului cod, angajatorul este obligat:
-a) să-l pună la curent cu munca care i se încredinţează, cu condiţiile de muncă, cu drepturile şi obligaţiile sale;
-b) să-i aducă la cunoştinţă regulamentul intern al unităţii şi contractul colectiv de muncă;
-c) să-l familiarizeze cu tehnica securităţii, igiena muncii, măsurile de securitate antiincendiară şi cu alte reguli de protecţie a muncii.
+[Art.65 al.(3) abrogat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 Articolul 66. Carnetul de muncă
 (1) Carnete de muncă se ţin pentru toţi salariaţii care lucrează în unitate mai mult de 5 zile lucrătoare.
 [Art.66 al.(1) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
@@ -655,21 +679,15 @@ INDIVIDUAL DE MUNCĂ
 Articolul 68. Modificarea contractului individual
 de muncă
 (1) Contractul individual de muncă nu poate fi modificat decît printr-un acord suplimentar semnat de părţi, care se anexează la contract şi este parte integrantă a acestuia.
-(2) Modificare a contractului individual de muncă se consideră orice schimbare sau completare ce se referă la:
+(2) Modificare a contractului individual de muncă se consideră orice modificare sau completare care vizează cel puţin una dintre clauzele prevăzute la art. 49 alin. (1).
+[Art.68 al.(2) în redacția LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 [Art.68 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-a) durata contractului;
-[Art.68 al.(2), lit.b) exclusă prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-c) specificul muncii (condiţii grele, vătămătoare şi/sau periculoase, introducerea clauzelor specifice conform art.51 etc.);
-d) cuantumul retribuirii muncii;
-e) regimul de muncă şi de odihnă;
-f) specialitatea, profesia, calificarea, funcţia;
-g) caracterul înlesnirilor şi modul lor de acordare dacă acestea sînt prevăzute în contract.
-[Art.68 al.(2), lit.g) în redacția LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-(3) Cu titlu de excepţie, modificarea unilaterală de către angajator a altor clauze ale contractului individual de muncă decît cele specificate la alin.(2) este posibilă numai în cazurile şi în condiţiile prevăzute de prezentul cod.
-[Art.68 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
+[Art.68 al.(3) abrogat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
+[Art.68 al.(3) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 [Art.68 al.(3) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 69. Schimbarea temporară a locului de muncă
-(1) Locul de muncă poate fi schimbat temporar de către angajator prin deplasarea în interes de serviciu sau detaşarea salariatului la alt loc de muncă în conformitate cu art.70 şi 71.
+(1) Prin derogare de la prevederile art. 68 alin. (1), locul de muncă al salariatului poate fi schimbat temporar de către angajator, fără efectuarea modificărilor în contractul individual de muncă, în cazul deplasării sau detaşării conform art. 70 şi 71.
+[Art.69 al.(1) în redacția LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 (2) Pe durata deplasării în interes de serviciu sau a detaşării la alt loc de muncă, salariatul îşi menţine funcţia, salariul mediu şi alte drepturi prevăzute de contractul colectiv şi de cel individual de muncă.
 Articolul 70. Trimiterea în deplasare în interes de serviciu
 Trimiterea salariatului în deplasare în interes de serviciu poate fi dispusă pentru o perioadă de cel mult 60 de zile calendaristice, în modul şi în condiţiile prevăzute la art.174-176.
@@ -687,13 +705,14 @@ Articolul 72. Salarizarea în caz de detaşare
 Articolul 73. Schimbarea temporară a locului şi
 specificului muncii
 În cazul apariţiei unei situaţii prevăzute de art.104 alin.(2) lit.a) şi b), angajatorul poate schimba temporar, pe o perioadă de cel mult o lună, locul şi specificul muncii salariatului fără consimţămîntul acestuia şi fără operarea modificărilor respective în contractul individual de muncă.
-Articolul 74. Transferul la o altă muncă şi permutarea
+Articolul 74. Transferul la o altă muncă
+[Art.74 titlul modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 (1) Transferul salariatului la o altă muncă permanentă în cadrul aceleiaşi unităţi, cu modificarea contractului individual de muncă conform art.68, precum şi angajarea prin transferare la o muncă permanentă la o altă unitate ori transferarea într-o altă localitate împreună cu unitatea, se permit numai cu acordul scris al părţilor.
 [Art.74 al.(1) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 (2) Salariatul care, conform certificatului medical, necesită acordarea unei munci mai uşoare urmează a fi transferat, cu consimţămîntul scris al acestuia, la o altă muncă, care nu-i este contraindicată. Dacă salariatul refuză acest transfer, contractul individual de muncă se desface în conformitate cu prevederile art.86 alin.(1) lit.x). În cazul în care un loc de muncă corespunzător lipseşte, contractul individual de muncă va fi desfăcut în temeiul art.86 alin.(1) lit.d).
 (3) În caz de transfer în condiţiile alin.(1) şi (2), părţile vor opera modificările necesare în contractul individual de muncă conform art.68, în temeiul ordinului (dispoziţiei, deciziei, hotărîrii) emis de angajator care se aduce la cunoştinţa salariatului, sub semnătură, în termen de 3 zile lucrătoare.
 [Art.74 al.(3) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-(4) Nu se consideră transfer şi nu necesită consimţămîntul salariatului permutarea lui în cadrul aceleiaşi unităţi la un alt loc de muncă, în altă subdiviziune a unităţii situată în aceeaşi localitate, însărcinarea de a îndeplini lucrul la un alt mecanism ori agregat în limitele specialităţii, calificării sau funcţiei specificate în contractul individual de muncă. În caz de permutare, angajatorul emite un ordin (dispoziţie, decizie, hotărîre) care se aduce la cunoştinţa salariatului.
+[Art.74 al.(4) abrogat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 Capitolul IV
 SUSPENDAREA CONTRACTULUI
 INDIVIDUAL DE MUNCĂ
@@ -804,8 +823,9 @@ i) atingere a vîrstei de 65 de ani de către conducătorul unităţii de stat ,
 [Art.82 lit.i) în redacţia LP269 din 28.07.06, MO120-123/04.08.06 art.574; în vigoare 28.07.06]
 [Art.82 lit.i) introdusă prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362; lit.i) - j) devin lit. j) -k)]
 j) forţă majoră, confirmată în modul stabilit, care exclude posibilitatea continuării raporturilor de muncă;
-j1) restabilire la locul de muncă, conform hotărîrii instanţei de judecată, a persoanei care a îndeplinit anterior munca respectivă, dacă permutarea sau transferul salariatului la o altă muncă conform prezentului cod nu este posibil;
-[Art.81 al.(1), lit.j1) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+j1) restabilire la locul de muncă, conform hotărîrii instanţei de judecată, a persoanei care a îndeplinit anterior munca respectivă, dacă transferul salariatului la o altă muncă conform prezentului cod nu este posibil;
+[Art.81 lit.j1) modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
+[Art.81 lit.j1) introdusă prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 k) alte temeiuri prevăzute la art.305 şi 310.
 Notă.
 Persoanele eliberate din serviciu în temeiul lit. i) pot fi angajate pe o durată determinată conform art. 55 lit. f), în orice funcţie, alta decît cea de conducător de unitate de stat, inclusiv municipală, sau de unitate cu capital majoritar de stat.
@@ -1497,10 +1517,11 @@ a unor noi procese de producţie
 (2) Modul de înregistrare a staţionării produse fără vina salariatului şi mărimea concretă a retribuţiei se stabilesc în contractul colectiv şi/sau în cel individual de muncă.
 (3) Orele de staţionare produsă din vina salariatului nu sînt retribuite.
 (4) Contractul colectiv sau cel individual de muncă poate stipula plata salariului mediu în perioada de însuşire de către salariat a unui nou proces de producţie.
-Articolul 164. Menţinerea salariului în caz de permutare
-sau transfer la o altă muncă permanentă cu
-retribuţie mai mică
-În cazul cînd salariatul este permutat sau transferat la o altă muncă permanentă cu retribuţie mai mică în cadrul aceleiaşi unităţi sau într-o altă localitate împreună cu unitatea, conform art.74 alin.(1), acestuia i se menţine salariul mediu de la locul de muncă precedent timp de o lună din ziua permutării (transferării), cu respectarea prealabilă a prevederilor art.68.
+Articolul 164. Menţinerea salariului în caz de transfer
+la o altă muncă permanentă cu retribuţie
+mai mică
+În cazul în care salariatul este transferat la o altă muncă permanentă cu retribuţie mai mică în cadrul aceleiaşi unităţi sau într-o altă localitate împreună cu unitatea, conform art. 74 alin. (1), acestuia i se menţine salariul mediu de la locul de muncă precedent timp de o lună din ziua transferării, cu respectarea prealabilă a prevederilor art. 68.
+[Art.164 în redacția LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 Articolul 165. Salariul mediu
 (1) Salariul mediu include toate drepturile salariale din care, conform legislaţiei în vigoare, se calculează contribuţiile de asigurări sociale de stat obligatorii, cu excepţia plăţilor cu caracter unic.
 [Art.165 al.(1) modificat prin LP242-XVI din 20.11.08, MO237-240/31.12.08 art.860]
@@ -1758,7 +1779,8 @@ g) regimul de muncă şi de odihnă.
 (4) Obligaţia familiarizării salariaţilor, sub semnătură, cu conţinutul regulamentului intern al unităţii trebuie îndeplinită de angajator în termen de 5 zile lucrătoare de la data aprobării regulamentului.
 (5) Modul de familiarizare a fiecărui salariat cu conţinutul regulamentului intern al unităţii se stabileşte nemijlocit în textul acestuia.
 (6) Regulamentul intern se afişează în toate subdiviziunile structurale ale unităţii.
-(7) Orice modificare sau completare a regulamentului intern al unităţii se efectuează cu respectarea prevederilor art.198.
+(7) Orice modificare sau completare a regulamentului intern al unităţii se efectuează cu respectarea prevederilor art.198 şi se aduce la cunoştinţa salariaţilor în termenul şi în modul prevăzute la alin. (4) şi (5).
+[Art.199 al.(7) modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 Articolul 200. Statutele şi regulamentele disciplinare
 În unele ramuri ale economiei naţionale, anumitelor categorii de salariaţi li se aplică statute şi regulamente disciplinare aprobate de Guvern.
 Capitolul II
@@ -1924,10 +1946,10 @@ Articolul 223. Coordonarea securităţii şi sănătăţii
 în muncă
 Ministerul Muncii, Protecţiei Sociale şi Familiei exercită coordonarea securităţii şi sănătăţii în muncă în Republica Moldova.
 Capitolul II
-ORGANIZAREA SECURITĂŢII ŞI SĂNĂTĂŢII ÎN
-MUNCĂ. ASIGURAREA DREPTULUI SALARIAŢILOR
-LA O MUNCĂ CARE SĂ CORESPUNDĂ CERINŢELOR
-DE SECURITATE ŞI SĂNĂTATE ÎN MUNCĂ
+ORGANIZAREA SECURITĂŢII ŞI SĂNĂTĂŢII ÎN MUNCĂ.
+ASIGURAREA DREPTULUI SALARIAŢILOR LA O MUNCĂ
+CARE SĂ CORESPUNDĂ CERINŢELOR DE SECURITATE
+ŞI SĂNĂTATE ÎN MUNCĂ
 [Capitolul II titlul în redacția LP254 din 09.12.11, MO25-28/03.02.12 art.79]
 Articolul 224. Organizarea securităţii şi sănătăţii
 în muncă
@@ -1939,7 +1961,8 @@ de securitate şi sănătate în muncă
 (1) Statul garantează salariaţilor apărarea dreptului acestora la o muncă care să corespundă cerinţelor de securitate şi sănătate în muncă.
 (2) Condiţiile de muncă stipulate în contractul individual de muncă trebuie să corespundă cerinţelor de securitate şi sănătate în muncă.
 (3) Pe parcursul sistării de către organele de stat de control a activităţii de muncă, prevăzută de contractul individual de muncă, ca rezultat al încălcării cerinţelor de securitate şi sănătate în muncă fără vina salariatului, acestuia i se menţine locul de muncă (funcţia) şi salariul mediu.
-(4) Dacă salariatul refuză să presteze munca în cazul apariţiei unui pericol pentru viaţa ori sănătatea sa, angajatorul este obligat să-i acorde salariatului, prin transfer sau permutare, alt lucru, corespunzător nivelului de pregătire profesională a salariatului, pînă la înlăturarea pericolului, cu menţinerea salariului de la locul de muncă precedent.
+(4) Dacă salariatul refuză să presteze munca în cazul apariţiei unui pericol pentru viaţa ori sănătatea sa, angajatorul este obligat să-i acorde salariatului, o altă muncă, corespunzătoare nivelului de pregătire profesională a salariatului, pînă la înlăturarea pericolului, cu menţinerea salariului de la locul de muncă precedent.
+[Art.225 al.(4) modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 (5) În cazul în care acordarea unei alte munci nu este posibilă, timpul staţionării salariatului pînă la înlăturarea pericolului pentru viaţa sau sănătatea sa se plăteşte de angajator în conformitate cu art. 163 alin. (1).
 (6) În cazul neasigurării salariatului, conform cerinţelor de securitate şi sănătate în muncă, cu echipament de protecţie individuală şi colectivă, angajatorul nu are dreptul să ceară salariatului executarea obligaţiilor de muncă şi este obligat să plătească staţionarea din această cauză în conformitate cu prevederile alin. (5).
 (7) Refuzul salariatului de a presta munca în cazul apariţiei unui pericol pentru viaţa ori sănătatea sa din cauza nerespectării cerinţelor de securitate şi sănătate în muncă sau de a presta munca în condiţii grele, vătămătoare şi/sau periculoase ce nu sînt prevăzute în contractul individual de muncă nu atrage răspunderea disciplinară.
@@ -1982,7 +2005,8 @@ Articolul 249. Limitarea trimiterii în deplasare
 Articolul 250. Transferul la o muncă mai uşoară al
 femeilor gravide şi al femeilor care au
 copii în vîrstă de pînă la 3 ani
-(1) Femeilor gravide şi femeilor care alăptează li se acordă, prin transfer sau permutare, în conformitate cu certificatul medical, o muncă mai uşoară, care exclude influenţa factorilor de producţie nefavorabili, menţinîndu-li-se salariul mediu de la locul de muncă precedent.
+(1) Femeilor gravide şi femeilor care alăptează li se acordă, în conformitate cu certificatul medical, o muncă mai uşoară, care exclude influenţa factorilor de producţie nefavorabili, menţinîndu-li-se salariul mediu de la locul de muncă precedent.
+[Art.250 al.(1) modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 (2) Pînă la soluţionarea problemei ce ţine de acordarea unei munci mai uşoare care ar exclude influenţa factorilor de producţie nefavorabili, femeile gravide vor fi scutite de îndeplinirea obligaţiilor de muncă, menţinîndu-li-se salariul mediu pentru toate zilele pe care nu le-au lucrat din această cauză.
 (3) Femeile care au copii în vîrstă de pînă la 3 ani, în cazul cînd nu au posibilitate să-şi îndeplinească obligaţiile de muncă la locul lor de muncă, sînt transferate, în modul prevăzut de prezentul cod, la un alt loc de muncă, menţinîndu-li-se salariul mediu de la locul de muncă precedent pînă cînd copilul împlineşte vîrsta de 3 ani.
 Articolul 251. Interzicerea concedierii femeilor gravide
@@ -1998,8 +2022,7 @@ un copil cu dizabilități
 Unuia dintre părinţii (tutorelui, curatorului) care educă un copil cu dizabilități i se va acorda suplimentar, în baza unei cereri scrise, o zi liberă pe lună, cu menţinerea salariului mediu din contul angajatorului.
 [Art.2521 introdus prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Capitolul III
-MUNCA PERSOANELOR ÎN VÎRSTĂ
-DE PÎNĂ LA 18 ANI
+MUNCA PERSOANELOR ÎN VÎRSTĂ DE PÎNĂ LA 18 ANI
 Articolul 253. Examenele medicale ale salariaţilor
 în vîrstă de pînă la 18 ani
 (1) Salariaţii în vîrstă de pînă la 18 ani sînt angajaţi numai după ce au fost supuşi unui examen medical preventiv. Ulterior, pînă la atingerea vîrstei de 18 ani, aceştia vor fi supuşi examenului medical obligatoriu în fiecare an.
@@ -2725,7 +2748,7 @@ Articolul 372. Inspectoratul de Stat al Muncii
 [Art.372 al.(1) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
 [Art. 372 al.(1) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (11) Modul, condiţiile şi procedura efectuării la unităţi a controlului prevăzut la alin.(1) se stabilesc expres în lege.
-[Art.371 al.(11) introdus prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
+[Art.372 al.(11) introdus prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
 (2) Ministerul Apărării, Ministerul Afacerilor Interne, Serviciul de Informaţii şi Securitate, Serviciul de Protecţie şi Pază de Stat, Departamentul instituţiilor penitenciare al Ministerului Justiţiei, Centrul Naţional Anticorupţie organizează activităţi de inspecţie a muncii prin serviciile lor de specialitate, care au competenţă numai pentru structurile din subordine.
 [Art.372 al.(2) modificat prin LP304 din 26.12.12, MO48/05.03.13 art.150; în vigoare 05.03.13]
 [Art.372 al.(2) modificat prin LP120 din 25.05.12, MO103/29.05.12 art.353; în vigoare 01.10.12]
