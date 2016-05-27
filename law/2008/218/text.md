@@ -15,6 +15,11 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP71 din 14.04.16, MO140-149/27.05.16 art.291
+LP75 din 21.04.16, MO128-133/13.05.16 art.272
+LP70 din 14.04.16, MO128-133/13.05.16 art.270
+LP60 din 07.04.16, MO123-127/06.05.16 art.246
+LP51 din 31.03.16, MO114-122/29.04.16 art.229
 LP9 din 26.02.16, MO90-99/08.04.16 art.166; în vigoare 08.04.16
 LP242 din 29.12.15, MO20-24/29.01.16 art.48
 LP230 din 10.12.15, MO2-12/15.01.16 art.19; în vigoare 15.07.16
@@ -194,11 +199,18 @@ b) depăşirii vădite a drepturilor şi atribuţiilor acordate prin lege;
 c) neîndeplinirii sau îndeplinirii necorespunzătoare a obligaţiilor de serviciu.
 (7) În lipsa condiţiilor enunţate la alin.(6), persoana cu funcţie de răspundere vinovată de săvîrşirea unei contravenţii răspunde conform dispoziţiilor generale.
 Articolul 17. Răspunderea contravenţională
-a persoaneijuridice
-(1) Este pasibilă de răspundere contravenţională persoana juridică, cu excepţia autorităţilor publice şi instituţiilor publice, în cazurile prevăzute de prezentul cod, pentru contravenţiile săvîrşite în numele său ori în interesul său de către organele sale ori de reprezentanţii acestora dacă aceasta corespunde uneia dintre următoarele condiţii:
-a) este vinovată de neîndeplinirea sau de îndeplinirea necorespunzătoare a dispoziţiilor legii ce stabilesc îndatoriri sau interdicţii pentru desfăşurarea unei anumite activităţi;
-b) este vinovată de desfăşurarea unei activităţi ce nu corespunde actelor sale constitutive ori scopurilor declarate;
-c) fapta care a cauzat sau a creat pericolul cauzării de daune în proporţii considerabile unei alte persoane, societăţii ori statului a fost săvîrşită în interesul acestei persoane, a fost admisă, sancţionată, aprobată, utilizată de organul său împuternicit ori de persoana cu funcţie de răspundere.
+a persoanei juridice
+(1) O persoană juridică, cu excepția autorităților publice, este pasibilă de răspundere contravenţională pentru o faptă prevăzută de prezentul cod dacă:
+a) aceasta nu a îndeplinit sau a îndeplinit necorespunzător dispozițiile directe ale legii ce stabilesc îndatoriri sau interdicții privind efectuarea unei anumite activități sau a efectuat o activitate ce nu corespunde actelor sale de constituire sau scopurilor sale declarate;
+b) fapta a fost săvîrșită în interesul persoanei juridice respective de către o persoană fizică împuternicită cu funcții de conducere, care a acționat independent sau ca parte a unui organ al persoanei juridice;
+c) fapta a fost admisă sau autorizată, sau aprobată, sau utilizată de către persoana împuternicită cu funcții de conducere;
+d) fapta a fost săvîrșită datorită lipsei de supraveghere și control din partea persoanei împuternicite cu funcții de conducere.
+[Art.17 al.(1) în redacția LP60 din 07.04.16, MO123-127/06.05.16 art.246]
+(11) O persoană fizică se consideră împuternicită cu funcții de conducere dacă are cel puțin una din următoarele funcții:
+a) de reprezentare a persoanei juridice;
+b) de luare a deciziilor în numele persoanei juridice;
+c) de exercitare a controlului în cadrul persoanei juridice.
+[Art.17 al.(11) introdus prin LP60 din 07.04.16, MO123-127/06.05.16 art.246]
 (2) Persoana juridică răspunde contravenţional în cazul în care norma materială din partea specială a cărţii întîi prevede expres sancţionarea ei.
 (3) Dacă în partea specială a cărţii întîi este prevăzută răspunderea contravenţională a persoanei juridice, întreprinderea individuală răspunde ca persoană juridică.
 (4) Răspunderea contravenţională a persoanei juridice nu exclude răspunderea persoanei fizice pentru contravenţia săvîrşită.
@@ -633,10 +645,27 @@ a exemplarelor depozitului legal, distru- gerea sau deteriorarea intenţionată 
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 25 la 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere sau cu muncă neremunerată în folosul comunităţii, în ambele cazuri, de la 20 la 60 de ore.
 (2) Distrugerea sau deteriorarea intenţionată a fondului bibliotecii
 se sancţionează cu amendă de la 15 la 25 de unităţi convenţionale aplicată persoanei fizice.
-Articolul 74. Încălcarea regulilor de ocrotire şi de folosire
-a monumentelor de istorie şi de cultură
-Încălcarea regulilor de ocrotire şi de folosire a monumentelor de istorie şi de cultură, a monumentelor care fac parte din patrimoniul natural sau a obiectivelor ocrotite de stat, precum şi a obiectelor sau a documentelor care prezintă valoare istorică sau culturală,
-se sancţionează cu amendă de la 40 la 70 de unităţi convenţionale aplicată persoanei fizice sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei juridice.
+Articolul 74. Încălcarea legislaţiei cu privire la patrimoniul
+cultural și monumentele de for public
+(1) Încălcarea regimului de protecţie şi de folosire a bunurilor de patrimoniu cultural și a monumentelor de for public
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată peroanei fizice, cu amendă de la 100 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 500 de unităţi convenţionale aplicată persoanei juridice.
+(2) Edificarea monumentelor de for public fără aprobări legale
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
+(3) Demontarea, strămutarea sau modificarea monumentelor de for public fără aprobări legale
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
+(4) Intervenţiile de construcție neautorizate în zonele de protecţie a monumentelor de for public
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
+(5) Neîndeplinirea atribuţiilor legate de întreţinerea, îngrijirea, conservarea și restaurarea monumentelor de for public
+se sancţionează cu amendă de la 50 la 125 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice.
+(6) Nerespectarea de către primarul unităţii teritorial-administrative a prevederilor legale cu privire la asigurarea pazei patrimoniului arheologic şi semnalarea Agenţiei Naţionale Arheologice referitor la nerespectarea legislaţiei privind protejarea patrimoniului arheologic
+se sancţionează cu amendă de la 50 la 500 de unităţi convenţionale.
+(7) Eliberarea de către emitent a autorizaţiei de construire în lipsa certificatului de descărcare de sarcină arheologică pentru terenurile cu patrimoniu arheologic sau în lipsa avizului Consiliului Naţional al Monumentelor Istorice pentru intervenţii la monumente de istorie şi cultură de categorie naţională, dacă aceasta nu constituie infracțiune,
+se sancţionează cu amendă de la 350 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere sau cu privarea de dreptul de a deţine anumite funcţii pe un termen de pînă la 1 an.
+(8) Împiedicarea de către proprietarii terenurilor cu patrimoniu arheologic sau de către titularii dreptului de posesiune a acestora a accesului personalului autorizat, conform legislației, de către autoritatea responsabilă de protejarea și valorificarea patrimoniului arheologic, în vederea prospectării arheologice, cercetării şi protejării patrimoniului arheologic şi asigurării măsurilor de protecţie şi pază a bunurilor de patrimoniu arheologic
+se sancţionează cu amendă în mărime de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei juridice.
+(9) Înstrăinarea de către proprietarii privați a terenurilor cu patrimoniu arheologic sau a monumentelor înscrise în Registrul monumentelor Republicii Moldova ocrotite de stat fără notificarea prealabilă a Ministerului Culturii
+se sancţionează cu amendă în mărime de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persanei juridice.
+[Art.74 în redacția LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 Articolul 741. Prelucrarea datelor cu caracter personal
 cu încălcarea legislaţiei privind protecţia
 datelor cu caracter personal
@@ -710,7 +739,8 @@ Articolul 771. Nerespectarea angajamentelor
 privind asigurarea instituţiei
 medico-sanitare cu medicamente
 Nerespectarea angajamentelor asumate de părţi privind asigurarea instituţiei medico-sanitare publice ori private cu medicamente conform contractului de achiziţii publice sau altui contract de vînzare-cumpărare
-se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 120 la 175 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 500 de unităţi convenţionale aplicată persoanei juridice.
+se sancționează cu amendă de la 100 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 200 la 500 de unități convenționale aplicată persoanei cu funcție de răspundere, cu amendă de la 400 la 500 de unități convenționale aplicată persoanei juridice.
+[Art.771 sancțiunea în redacția LP51 din 31.03.16, MO114-122/29.04.16 art.229]
 [Art.771 introdus prin LP142 din 14.06.13, MO161-166/26.07.13 art.512]
 Articolul 78. Vătămarea intenţionată uşoară a
 integrităţiicorporale
@@ -1672,21 +1702,65 @@ se sancţionează cu amendă de la 10 la 30 de unităţi convenţionale aplicat�
 Capitolul XII
 CONTRAVENŢII CE ATENTEAZĂ LA
 REGIMUL DIN TRANSPORTURI
-Articolul 197. Încălcarea normelor de capacitate
-a traficului de pasageri
-(1) Prestarea serviciilor de transport de călători de către transportul urban, suburban, interurban, la comandă şi de către taxiuri în lipsa certificatului de conformitate
-se sancţionează cu amendă de la 20 la 50 de unităţi convenţionale cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
-(2) Încălcarea normelor de capacitate a traficului de pasageri de către conducătorul de maxi-taxi, de autobuz de rută interurbană sau internaţională
-se sancţionează cu amendă de la 25 la 50 de unităţi convenţionale.
-(3) Prestarea de servicii în domeniul parcărilor şi în parchinguri în lipsa certificatului de conformitate
-se sancţionează cu amendă de la 20 la 40 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 75 la 100 de unităţi convenţionale aplicată persoanei juridice.
-(4) Nerespectarea în transportul auto a condiţiilor stabilite în licenţă şi/sau în actele de autorizare a activităţii agentului transportator, eliberate de organele abilitate în conformitate cu legislaţia în vigoare,
-se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale.
-Articolul 1971. Transportarea ilegală a călătorilor
-(1) Transportarea contra plată a călătorilor cu unitatea de transport de pînă la opt locuri, inclusiv locul conducătorului auto, de către persoana care nu dispune de licenţă şi de documentul eliberat de autorităţile administraţiei publice locale ce atestă dreptul de a efectua transporturi în regim de taxi
-se sancţionează cu amendă de la 100 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 350 la 400 de unităţi convenţionale aplicată persoanei juridice.
-(2) Transportarea contra plată a călătorilor cu unitatea de transport ce depăşeşte opt locuri, inclusiv locul conducătorului auto, de către persoana care nu dispune de licenţă şi de permisul de activitate pe rută ce atestă dreptul de a efectua transporturi pe rute regulate şi/sau de documentul ce atestă dreptul de a efectua transporturi pe rute neregulate
-se sancţionează cu amendă de la 120 la 140 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 450 de unităţi convenţionale aplicată persoanei juridice.
+Articolul 197. Încălcarea normelor de efectuare
+a transportului rutier de persoane
+și mărfuri
+(1) Efectuarea transportului rutier contra cost de persoane cu vehicule rutiere construite şi echipate pentru transportul de persoane care au mai mult de 9 locuri pe scaune, inclusiv locul conducătorului auto, fără a deține licența de transport rutier
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(2) Efectuarea transportului rutier contra cost de persoane cu vehicule rutiere construite şi echipate pentru transportul de persoane care au mai puțin de 9 locuri pe scaune, inclusiv locul conducătorului auto, fără a deține licența de transport rutier
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(3) Efectuarea transportului rutier contra cost de mărfuri fără a deține licența de transport rutier
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 350 la 500 de unităţi convenţionale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(4) Efectuarea transportului rutier în cont propriu fără a deține declarația informativă tip
+se sancționează cu amendă de la 100 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 350 la 400 de unităţi convenţionale aplicată persoanei juridice.
+(5) Efectuarea transportului rutier de persoane și/sau mărfuri fără a deține actele permisive și/sau documentele de transport specifice tipului de transport rutier efectuat, prevăzute, după caz, la art. 58–62, 70, 72, 73, 76, 78 și 83 din Codul transporturilor rutiere,
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 350 la 400 de unităţi convenţionale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(6) Efectuarea transportului rutier fără a deține copia conformă a licenței de transport rutier pentru vehiculul rutier cu care este efectuat transportul
+se sancţionează cu amendă de la 100 la 130 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 250 de unităţi convenţionale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(7) Efectuarea transportului rutier de persoane și/sau mărfuri în lipsa, la bordul vehiculului rutier, a actelor permisive și/sau a documentelor de transport specifice tipului de transport rutier efectuat, prevăzute, după caz, la art. 58–62, 70, 72, 73, 76, 78 și 83 din Codul transporturilor rutiere,
+se sancţionează cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
+(8) Efectuarea transportului rutier de persoane prin servicii regulate la alte ore de pornire decît cele prevăzute în graficul de circulaţie, conform actului permisiv, cu excepția efectuării curselor suplimentare în conformitate cu prevederile art. 90 alin. (4) și (5) din Codul transporturilor rutiere,
+se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei juridice.
+(9) Sustragerea de la control sau obstrucționarea efectuării controlului în trafic
+se sancţionează cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei fizice cu suspendarea dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(10) Sustragerea de la control sau obstrucționarea efectuării controlului la sediu
+se sancţionează cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(11) Parcarea autobuzelor/autocarelor și a vehiculelor rutiere destinate transportului rutier de mărfuri cu masa maximă autorizată ce depășește 3,5 tone pe drumuri publice și pe teritoriile adiacente drumurilor publice din intravilanul localității
+se sancționează cu amendă de la 100 la 130 de unități convenționale aplicată persoanei fizice, cu amendă de la 250 la 300 de unități convenționale aplicată persoanei juridice.
+(12) Desfășurarea activităților conexe transportului rutier, supuse licențierii sau autorizării, după caz, prevăzute la art. 86, art. 94 alin. (1) lit. e) și f), la art. 110, 118 și 125 din Codul transporturilor rutiere, fără a deține licența/autorizația respectivă
+se sancționează cu amendă de la 120 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 450 la 500 de unități convenționale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfășura o anumită activitate pe un termen de 3 luni.
+(13) Desfășurarea activităților conexe transportului rutier, supuse sau nesupuse licențierii/autorizării, după caz, cu încălcarea condițiilor de acces specificate la art. 88, 96, 110, 111, 119, 120 și 126 din Codul transporturilor rutiere
+se sancționează cu amendă de la 120 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 450 la 500 de unități convenționale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfășura o anumită activitate pe un termen de 3 luni.
+(14) Nerespectarea, în cadrul desfășurării activității de transport rutier sau activității conexe transportului rutier, a obligațiilor prevăzute în Codul transporturilor rutiere
+se sancționează cu amendă de la 120 la 140 de unități convenționale aplicată persoanei fizice, cu amendă de la 400 la 450 de unități convenționale aplicată persoanei juridice.
+(15) Amplasarea, în interiorul și/sau pe caroseria unui vehicul rutier, pentru care nu se deține copia conformă a licenței de transport rutier valabilă, a însemnelor, a înscrisurilor, a dotărilor și a accesoriilor specifice vehiculelor rutiere care efectuează transport rutier în regim de taxi
+se sancționează cu amendă de la 120 la 140 de unități convenționale aplicată persoanei fizice, cu amendă de la 400 la 450 de unități convenționale aplicată persoanei juridice.
+(16) Amplasarea, în interiorul și/sau pe caroseria unui vehicul rutier, a indicatorului de rută cu indicarea punctelor de plecare/de destinație fără a deține autorizația de transport rutier de persoane prin servicii regulate
+se sancționează cu amendă de la 120 la 140 de unități convenționale aplicată persoanei fizice, cu amendă de la 400 la 450 de unități convenționale aplicată persoanei juridice.
+(17) Efectuarea transportului rutier în regim de taxi cu încălcarea prevederilor art. 84 alin. (2) și (3) din Codul transporturilor rutiere
+se sancționează cu amendă de la 100 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 200 la 400 de unități convenționale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(18) Depășirea cu 25% sau mai mult a limitelor maxime ale perioadei de conducere de 6 zile sau de două săptămîni
+se sancționează cu amendă de la 120 la 140 de unități convenționale aplicată persoanei fizice, cu amendă de la 400 la 450 de unități convenționale aplicată persoanei juridice.
+(19) Depășirea cu 50% sau mai mult, pe parcursul unei zile de lucru, a limitei maxime a perioadei de conducere, fără o pauză sau fără o perioadă neîntreruptă de repaus de cel puțin 4,5 ore,
+se sancționează cu amendă de la 120 la 140 de unități convenționale aplicată persoanei fizice, cu amendă de la 400 la 450 de unități convenționale aplicată persoanei juridice.
+(20) Efectuarea transportului rutier cu un vehicul rutier în lipsa tahografului şi/sau a limitatorului de viteză ori utilizarea unui echipament fraudulos capabil să modifice datele aparatului de înregistrare şi/sau ale dispozitivului de limitare a vitezei, falsificarea foilor de înregistrare ori a datelor descărcate de pe tahograf şi/sau de pe cartela tahografică a conducătorului auto
+se sancționează cu amendă de la 130 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 450 la 500 de unități convenționale aplicată persoanei juridice.
+(21) Efectuarea transportului rutier de mărfuri periculoase interzise pentru transportare sau care sînt transportate în condiții de izolare interzise ori neaprobate sau fără identificarea acestora ca mărfuri periculoase marcată pe vehicul, creînd un risc imediat pentru siguranța circulației rutiere,
+se sancționează cu amendă de la 120 la 140 de unități convenționale aplicată persoanei fizice, cu amendă de la 400 la 450 de unități convenționale aplicată persoanei juridice.
+(22) Efectuarea transportului rutier cu un vehicul rutier ce nu corespunde cerințelor tehnice în vigoare ce țin de sistemul de frînare, de mecanismul de direcție, de roți/pneuri, de sistemul de suspensie sau de șasiu, creînd un risc imediat pentru siguranța circulației rutiere, fapt constatat în modul corespunzător la o stație de inspecție tehnică,
+se sancționează cu amendă de la 120 la 140 de unități convenționale aplicată persoanei fizice, cu amendă de la 400 la 450 de unități convenționale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(23) Efectuarea transportului rutier de mărfuri cu depășirea cu cel puțin 20% a masei totale maxime admise pentru vehicule rutiere cu o încărcătură utilă admisibilă care depășește 12 tone sau cu cel puțin 25% pentru vehicule rutiere cu o încărcătură utilă admisibilă care nu depășește 12 tone
+se sancționează cu amendă de la 130 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 450 la 500 de unități convenționale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(24) Nereturnarea autorizațiilor folosite sau expirate către organele emitente în temenele prevăzute
+se sancționează cu amendă de la 150 la 200 de unități convenționale aplicată persoanei juridice.
+(25) Admiterea la efectuarea curselor suplimentare în cadrul serviciilor regulate de transport rutier de persoane cu încălcarea prevederilor art. 90 alin. (4) și (5) din Codul transporturilor rutiere
+se sancționează cu amendă de la 100 la 150 de unități convenționale aplicată persoanei cu funcție de răspundere, cu amendă de la 200 la 400 de unități convenționale aplicată persoanei juridice.
+(26) Efectuarea transportului rutier în regim de cabotaj
+se sancționează cu amendă de la 130 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 400 la 450 de unități convenționale aplicată persoanei juridice.
+(27) Atribuirea autorizațiilor multilaterale ale Conferinței Europene a Miniștrilor de Transport cu încălcarea procedurii stabilite în Regulamentul privind eliberarea şi utilizarea autorizaţiilor de transporturi rutiere
+se sancționează cu amendă de la 450 la 500 de unități convenționale aplicată persoanei cu funcție de răspundere cu privarea de dreptul de a deține anumite funcții pe un termen de la 6 luni la un an.
+[Art.197 în redacția LP70 din 14.04.16, MO128-133/13.05.16 art.270]
+[Art.1971 abrogat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.1971 introdus prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
 Articolul 198. Încălcarea regulilor de securitate
 în transportul feroviar
@@ -1735,7 +1809,7 @@ se sancţionează cu amendă de pînă la 15 unităţi convenţionale sau cu mun
 (2) Aruncarea gunoiului şi altor obiecte pe fereastra sau pe uşa troleibuzului, autobuzului, maxi-taxiului, vagonului şi peste bordul navei
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 40 de ore.
 [Art.203 al.(3) abrogat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
-[Art.203 al.(3), sancţiunea modificată prin LP22 din 01.03.12, MO92/15.05.12 art.290]
+[Art.203 al.(3) modificat prin LP22 din 01.03.12, MO92/15.05.12 art.290]
 Articolul 204. Călătoria fără bilet
 (1) Admiterea pornirii în călătorie fără bilet de pe teritoriul autogării în transportul rutier regulat suburban, interurban şi internaţional de către conducătorul mijlocului de transport sau persoana responsabilă de aprobarea ieşirii în cursă a mijlocului de transport de pe teritoriul autogării
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale.
@@ -1854,13 +1928,28 @@ a circulaţiei rutiere, altor instalaţii rutiere
 Deteriorarea drumurilor, pasajelor de nivel, mijloacelor tehnice de dirijare a circulaţiei rutiere, altor instalaţii rutiere, precum şi crearea intenţionată de obstacole în circulaţia rutieră
 se sancţionează cu amendă de pînă la 50 de unităţi convenţionale.
 Articolul 224. Încălcarea regulilor de folosire
-a drumurilor de către vehicule
-(1) Circulaţia pe drumurile naţionale a vehiculelor cu şenile, a vehiculelor echipate cu pneuri utilate cu crampoane (în afara perioadei 1 decembrie – 1 martie), cu tracţiune animală, precum şi a celor neechipate corespunzător, care transportă încărcături neacoperite cu prelată a căror scurgere provoacă poluarea învelişului rutier, a terenurilor adiacente drumurilor sau încetinirea circulaţiei rutiere,
+a drumurilor la circulația vehiculelor
+(1) Circulaţia pe drumurile naţionale a vehiculelor cu şenile, a vehiculelor echipate cu pneuri utilate cu crampoane (în afara perioadei 1 decembrie – 1 martie), a vehiculelor cu tracţiune animală, precum şi a celor neechipate corespunzător, care transportă încărcături neacoperite cu prelată a căror scurgere provoacă poluarea învelişului rutier, a terenurilor adiacente drumurilor sau încetinirea circulaţiei rutiere
 se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice.
-(2) Nerespectarea de către conducătorii de vehicule sau de către furnizorii de mărfuri în vrac/vraf a restricţiilor de tonaj (greutate) sau de gabarit
-se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice.
-(3) Nesupunerea la dispoziţiile sau la cerinţele legale ale angajatul cu statut special al Ministerului Afacerilor Interne sau ale persoanei cu funcţie de răspundere din organul de specialitate în domeniul transportului privind verificarea masei totale, a sarcinii masice pe osie sau a gabaritelor vehiculelor, refuzul de a prezenta actele sau împiedicarea în orice mod a activităţii acestora
-se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+(2) Desfășurarea activității furnizorilor de bunuri divizibile fără a avea în dotare, în punctele de încărcare a vehiculelor, instalații de cîntărire a bunurilor divizibile și/sau a vehiculelor rutiere sau fără a emite și ține evidența tichetelor de cîntar, ștampilate și semnate, pentru fiecare vehicul utilizat pentru distribuția rutieră a bunurilor divizibile care pleacă din punctele proprii de încărcare
+se sancţionează cu amendă de la 420 la 450 de unităţi convenţionale aplicată persoanei juridice.
+(3) Neprezentarea de către furnizorii de bunuri divizibile, la solicitarea reprezentanților organelor de control, a tichetelor de cîntar eliberate și a documentelor contabile privind bunurile divizibile livrate
+se sancţionează cu amendă de la 420 la 450 de unităţi convenţionale aplicată persoanei juridice.
+(4) Încărcarea de către furnizorii de bunuri divizibile a vehiculelor rutiere folosite pentru transportul bunurilor divizibile astfel încît masa totală a vehiculului depășește masa totală maximă admisă, corespunzătoare sectorului de drum public unde este amenajat accesul de la punctul de încărcare,
+se sancţionează cu amendă de la 420 la 450 de unităţi convenţionale aplicată persoanei juridice.
+(5) Efectuarea transportului rutier de bunuri indivizibile cu depășirea masei totale maxime admise, maselor maxime admise pe axe și/sau dimensiunilor maxime admise sau în lipsa autorizației speciale de transport
+se sancţionează cu amendă de la 120 la 130 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 420 la 450 de unităţi convenţionale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(6) Efectuarea transportului rutier de bunuri indivizibile cu depășirea masei totale maxime admise, maselor maxime admise pe axe și/sau dimensiunilor maxime înscrise în autorizația specială de transport
+se sancţionează cu amendă de la 100 la 120 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 400 la 450 de unităţi convenţionale aplicată persoanei juridice cu suspendarea, în ambele cazuri, a dreptului de utilizare a vehiculului rutier pe un termen de 6 luni.
+(7) Efectuarea transportului rutier de bunuri divizibile fără tichetul de cîntar eliberat de furnizorul de bunuri divizibile
+se sancţionează cu amendă de la 100 la 120 de unităţi convenţionale aplicată persoanei fizice.
+(8) Admiterea intrării, de către beneficiarul care recepționează bunuri divizibile distribuite prin rețeaua de drumuri publice, în punctul de descărcare, a vehiculelor fără tichet de cîntar eliberat de furnizorul de bunuri divizibile sau a vehiculelor față de care a fost aplicată măsura de suspendare a dreptului de utilizare a vehiculului rutier
+se sancţionează cu amendă de la 350 la 400 de unităţi convenţionale aplicată persoanei juridice.
+(9) Neprezentarea, de către beneficiarul care recepționează bunuri divizibile, la solicitarea reprezentanților organelor de control, a documentelor contabile privind bunurile divizibile recepționate
+se sancţionează cu amendă de la 420 la 450 de unităţi convenţionale aplicată persoanei juridice.
+(10) Nesupunerea la dispoziţiile sau la cerinţele legale ale colaboratorului organului afacerilor interne sau ale persoanei cu funcţie de răspundere din cadrul organului de specialitate în domeniul transportului rutier privind verificarea masei totale, maselor pe axe și/sau dimensiunilor vehiculului, refuzul de a prezenta actele sau împiedicarea în orice mod a activităţii acestora
+se sancţionează cu amendă de la 130 la 150 de unităţi convenţionale aplicată persoanei fizice cu privarea de dreptul de a conduce vehicule pe un termen de 6 luni, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an, cu amendă de la 450 la 500 de unităţi convenţionale aplicată persoanei juridice cu privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 6 luni la un an.
+[Art.224 în redacția LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.224 în redacţia LP147 din 14.06.13, MO146-151/12.07.13 art.464; în vigoare 12.08.13]
 Articolul 225. Blocarea intenţionată a arterelor
 de transport
@@ -3347,10 +3436,9 @@ STANDARDIZĂRII ŞI PROTECŢIEI CONSUMATORILOR
 Articolul 335. Samavolnicia
 Samavolnicia, adică exercitarea în mod arbitrar a unui drept efectiv sau presupus prin încălcarea ordinii stabilite de legislaţie, fără a se cauza vreo daună considerabilă persoanei,
 se sancţionează cu amendă de la 30 la 40 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 40 la 60 de ore.
-Articolul 336. Nesubordonarea cu reavoinţă
-dispoziţiei sau cererii legitime a
-colaboratorului organelor de
-ocrotire a normelor de drept
+Articolul 336. Nesubordonarea cu reavoinţă dispoziţiei
+sau cererii legitime a colaboratorului organelor
+de ocrotire a normelor de drept
 Nesubordonarea cu rea-voinţă dispoziţiei sau cererii legitime a procurorului, a ofiţerului de urmărire penală, a ofiţerului de informaţii şi securitate, a angajatului cu statut special al Ministerului Afacerilor Interne, a altei persoane, aflate în exerciţiul funcţiunii sau al datoriei obşteşti de asigurare a securităţii statului, de menţinere a ordinii publice şi de combatere a criminalităţii,
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 30 la 60 de ore.
 Articolul 337. Neluarea de măsuri pentru
@@ -3660,8 +3748,9 @@ se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicat
 (51) Difuzarea publicităţii exterioare care nu întruneşte condiţiile prevăzute de lege
 se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei juridice.
 [Art.364 al.(51) introdus prin LP67 din 05.04.12, MO92/15.05.12 art.310]
-(6) Prezentarea, producerea ori difuzarea publicităţii neoneste, neautentice, amorale sau a oricărei alte publicităţi ce contravine legii de către agenţii de publicitate
+(6) Prezentarea, producerea ori difuzarea publicităţii neoneste, neautentice, amorale, sexiste sau a oricărei alte publicităţi ce contravine legii de către agenţii de publicitate
 se sancţionează cu amendă de la 30 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
+[Art.364 al.(6) modificat prin LP71 din 14.04.16, MO140-149/27.05.16 art.291]
 [Art.364 al.(6) introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 Articolul 3641. Încălcarea legislaţiei cu privire
 la publicitatea şi sponsorizarea
@@ -3843,7 +3932,8 @@ f) să respecte ordinea în şedinţa de judecată şi să nu părăsească sala
 (6) În conformitate cu prevederile prezentului cod, drepturile minorului se realizează şi de reprezentantul lui legal. Procesului contravenţional se aplică în mod corespunzător prevederile Codului de procedură penală cu privire la drepturile şi obligaţiile reprezentantului legal al minorului.
 Articolul 385. Agentul constatator
 (1) Agentul constatator este reprezentantul autorităţii publice care soluţionează, în limitele competenţei sale, cauza contravenţională în modul prevăzut de prezentul cod.
-(2) Este desemnat ca agent constatator funcţionarul din autorităţile indicate la art.400–4237, împuternicit cu atribuţii de constatare a contravenţiei şi/sau de sancţionare.
+(2) Este desemnat ca agent constatator funcţionarul din autorităţile indicate la art.400–4238, împuternicit cu atribuţii de constatare a contravenţiei şi/sau de sancţionare.
+[Art.385 al.(2) modificat prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 [Art.385 al.(2) modificat prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
 [Art.385 al.(2) modificat prin LP41 din 27.03.14, MO99-102/25.04.14 art.245]
 [Art.385 al.(2) modificat prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
@@ -3952,7 +4042,8 @@ c) cauzele contravenţionale în care agentul constatator, procurorul propun apl
 (2) Instanţa de judecată este competentă să aplice măsuri de siguranţă şi amendă judiciară.
 (3) Instanţa de recurs judecă recursul pronunţîndu-se prin decizie.
 Articolul 396. Competenţa procurorului
-(1) Procurorul examinează contravenţiile prevăzute la art. 541, 63–68, 88, 312, 313, 3133, 316, 317, 320, 323, 324, 335–337, 351–353 şi cele pe care le-a depistat în exerciţiul funcţiunii.
+(1) Procurorul examinează contravenţiile prevăzute la art. 541, 63–68, 88, art.197 alin. (27), art.312, 313, 3133, 316, 317, 320, 323, 324, 335–337, 351–353 şi cele pe care le-a depistat în exerciţiul funcţiunii.
+[Art.396 al.(1) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.396 al.(1) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
 [Art.396 al.(1) modificat prin LP162 din 22.07.11, MO170-175/14.10.11 art.498]
 [Art.396 al.(1) modificat prin LP102 din 28.05.10, MO135-137/03.08.10; în vigoare 01.01.12]
@@ -3970,7 +4061,9 @@ Articolul 399. Competenţa agentului constatator
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, 74, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197, 201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin. (1), (4), (5), (7) și (9), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197 alin. (1)–(4), (9)–(13), (15), (21), (22), art.201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin. (1), (4), (5), (7) și (9), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
+[Art.400 al.(1) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.400 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
 [Art.400 al.(1) modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.400 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
@@ -3994,7 +4087,8 @@ Articolul 400. Ministerul Afacerilor Interne
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni în limitele competenţei şefii de direcţii şi adjuncţii lor, şefii inspectoratelor de poliţie şi adjuncţii lor, şefii secţiilor de poliţie, şefii sectoarelor de poliţie, şefii posturilor de poliţie, ofiţerii principali de sector, ofiţerii superiori de sector, ofiţerii de sector, angajaţii secţiilor securitate publică, angajaţii serviciilor patrulare, angajaţii secţiilor supraveghere transport şi circulaţie rutieră, angajaţii serviciilor supraveghere tehnică şi accidente rutiere ale inspectoratelor de poliţie, angajaţii Inspectoratului naţional de patrulare şi ai Inspectoratului naţional de investigaţii din cadrul Inspectoratului General al Poliţiei.
 [Art.400 al.(2) în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (3) Sînt în drept să examineze cauzele privind încălcarea regulilor de apărare împotriva incendiilor şi să aplice sancţiuni şeful Direcţiei salvatori şi pompieri şi adjuncţii lui, şefii detaşamentelor, unităţilor, posturilor paramilitare şi militare de salvatori şi pompieri din subordinea direcţiei, şefii subunităţilor specializate.
-(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 1971, 227, 233, 237, 243, 322, 3304, 3321 alin. (1), art. 3341, art.2771 alin.(3) se constată de poliţie.
+(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 227, 233, 237, 243, 322, 3304, 3321 alin. (1), art. 3341, art.2771 alin.(3) se constată de poliţie.
+[Art.400 al.(4) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.400 al.(4) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(4) modificat prin LP34 din 19.03.15, MO93/14.04.15 art.132]
 [Art.400 al.(4) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
@@ -4008,7 +4102,8 @@ Articolul 400. Ministerul Afacerilor Interne
 [Art.400 al.(5) în redacția LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(5) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(5) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
-(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art. 1971, 233, 237, 243, 322, 3304, art.2771 alin.(3) se remit spre examinare în fond instanţei de judecată competente.
+(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art.233, 237, 243, 322, 3304, art.2771 alin.(3) se remit spre examinare în fond instanţei de judecată competente.
+[Art.400 al.(6) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.400 al.(6) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(6) modificat prin LP34 din 19.03.15, MO93/14.04.15 art.132]
 [Art.400 al.(6) modificat prin LP100 din 12.06.14, MO169-173/27.06.14 art.383]
@@ -4092,14 +4187,18 @@ de stat a sănătăţii publice
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni medicul-şef sanitar de stat al Republicii Moldova şi adjuncţii lui, medicii-şefi sanitari de stat ai raioanelor şi oraşelor (municipiilor).
 Articolul 407. Organele de specialitate în domeniul
 transporturilor
-(1) Contravenţiile prevăzute la art.198–200, 204, 206, 207 se constată de organele de specialitate ale administraţiei publice în domeniul transportului auto, electric, feroviar şi naval.
+(1) Contravențiile prevăzute la art.197 alin. (1)–(10), (12)–(16), (17)–(26), art. 198–200, 204, 206, 207 și art. 224 alin. (1)–(9) se constată de organele de specialitate ale administrației publice în domeniul transportului rutier, electric, feroviar și naval, cu dreptul de aplicare a măsurilor procesuale de constrîngere.
+[Art.407 al.(1) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.407 al.(1) modificat prin LP101 din 13.12.12, MO10-14/18.01.13 art.41]
-(2) Sînt în drept să constate contravenţii şi să încheie procese-verbale:
-a) în transportul auto şi electric – şefii serviciilor abilitate cu funcţii de control şi adjuncţii lor, precum şi inspectorii abilitaţi cu funcţii de control.
+(2) Sînt în drept să constate contravenţii, să aplice sancțiuni și măsuri procesuale de constrîngere:
+[Art.407 al.(2) în redacția LP70 din 14.04.16, MO128-133/13.05.16 art.270]
+a) în transportul rutier şi electric – şefii serviciilor abilitate cu funcţii de control şi adjuncţii lor, precum şi inspectorii abilitaţi cu funcţii de control.
+[Art.407 al.(2), lit.a) modificată prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.407 al.(2), lit.a) modificată prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 b) în transportul feroviar – şefii de staţii şi locţiitorii lor, şefii de gări şi locţiitorii lor, şefii de depouri de locomotive (de vagoane), şefii trenurilor de călători, controlorii-revizori ai trenurilor de călători;
 c) în transportul naval – căpitanul portului şi inspectorii căpităniei portului.
-(3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
+(3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente, cu excepția celor cu privire la contravențiile prevăzute la art. 197 alin. (1)–(10), (14)–(16), (17)–(26) și la art. 224 alin. (1)–(9), care se examinează de către organul de specialitate în domeniul transportului rutier.
+[Art.407 al.(3) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 (4) Contravenţiile prevăzute la art.208–215, 217–219 se examinează de organul de specialitate ale administraţiei publice în domeniul transportului aerian.
 [Art.407 al.(4) modificat prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 (5) Sînt în drept să examineze contravenţii şi să aplice sancţiuni:
@@ -4269,6 +4368,18 @@ Articolul 4237. Comisia Electorală Centrală
 (2) Are dreptul să constate contravenţii şi să încheie procese-verbale preşedintele Comisiei Electorale Centrale sau vicepreşedintele Comisiei, în cazul în care îl substituie pe preşedintele Comisiei.
 (3) Procesele-verbale cu privire la contravenţii se trimit pentru examinare în fond instanţei de judecată competente.
 [Art.4237 introdus prin LP36 din 09.04.15, MO93/14.04.15 art.134; în vigoare 14.04.15]
+Articolul 4238. Organele de stat cu atribuții
+în domeniul patrimoniului cultural
+(1) Contravenţiile prevăzute la art. 74 alin. (1), pentru bunurile de patrimoniu cultural – monumente de istorie şi cultură de categorie națională sau monumente de for public de categoria A, şi la art. 74 alin. (3)–(5), pentru monumentele de for public de categoria A, se constată de către Agenţia de Inspectare şi Restaurare a Monumentelor.
+(2) Contravenţiile prevăzute la art. 74 alin. (1), pentru bunurile de patrimoniu cultural – monumente de istorie şi cultură de categorie locală sau monumente de for public de categoria B, şi la art. 74 alin. (2)–(5), pentru monumentele de for public de categoria B, se constată de către direcţiile/secţiile/serviciile cultură ale autorităţilor publice locale.
+(3) Contravenţiile prevăzute la art. 74 alin. (1), pentru bunurile de patrimoniu cultural – situri arheologice, şi la art. 74 alin. (6)–(9) se constată de către Agenţia Naţională Arheologică.
+(4) Sînt în drept să constate contravenţii şi să încheie procese-verbale:
+a) directorul general al Agenţiei de Inspectare şi Restaurare a Monumentelor, directorul adjunct şi specialiştii agenţiei respective, în cazul contravenţiilor prevăzute la art. 74 alin. (1), pentru bunurile de patrimoniu cultural – monumente de istorie şi cultură de categorie naţională sau monumente de for public de categoria A, şi la art. 74 alin. (3)–(5), pentru monumentele de for public de categoria A;
+b) specialiştii direcțiilor/secțiilor/serviciilor cultură ale autorităţilor publice locale, în cazul contravenţiilor prevăzute la art. 74 alin. (1), pentru bunurile de patrimoniu cultural – monumente de istorie şi cultură de categorie locală sau monumente de for public de categoria B, şi la art. 74 alin. (2)–(5), pentru monumentele de for public de categoria B;
+c) directorul general al Agenţiei Naţionale Arheologice, directorul adjunct şi specialiştii agenţiei respective, în cazul contravenţiilor prevăzute la art. 74 alin. (1), pentru bunurile de patrimoniu cultural – situri arheologice, şi la art. 74 alin. (6)–(9);
+d) reprezentanții organelor de poliție, în cazul contravențiilor prevăzute la art. 74 alin. (1)–(8).
+(5) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
+[Art.4238 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 Articolul 424. Remiterea materialelor către procuror,
 către ofiţerul de urmărire penală
 Dacă, în procesul examinării cauzei contravenţionale, se constată că încălcarea conţine elementele constitutive ale infracţiunii, agentul constatator remite materialele procurorului sau ofiţerului de urmărire penală, după competenţă.
@@ -4348,7 +4459,9 @@ a) reţinerea;
 b) aducerea silită;
 c) înlăturarea de la conducerea vehiculului;
 d) examenul medical pentru constatarea stării de ebrietate produsă de alcool sau de alte substanţe;
-e) reţinerea vehiculului.
+e) reţinerea vehiculului;
+f) suspendarea dreptului de utilizare a vehiculului rutier.
+[Art.432 lit.f) introdusă prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 Articolul 433. Reţinerea
 (1) Reţinerea constă în limitarea de scurtă durată a libertăţii persoanei fizice şi se aplică în cazul:
 a) contravenţiilor flagrante pentru care prezentul cod prevede sancţiunea arestului contravenţional;
@@ -4424,6 +4537,11 @@ g) numele, prenumele, funcţia şi semnătura persoanei care a luat în primire 
 (9) Modul de calculare a cheltuielilor de aducere şi de staţionare a vehiculului la parcare se stabileşte de Guvern.
 (10) În caz de stabilire a sancţiunii contravenţionale prevăzute la art. 287 alin. (8) şi (9), cheltuielile de scoatere a mijlocului de transport auto, a mărfurilor, obiectelor şi a altor valori de pe teritoriul Republicii Moldova le suportă contravenientul.
 [Art.439 al.(10) introdus prin LP206 din 16.07.10, MO141-144/10.08.10 art.517]
+Articolul 4391. Suspendarea dreptului de utilizare
+a vehiculului rutier
+(1) Suspendarea dreptului de utilizare a vehiculului rutier constă în interzicerea temporară persoanei fizice și/sau persoanei juridice de a utiliza un anumit vehicul rutier prin reținerea plăcuțelor cu numărul de înmatriculare și a certificatului de înmatriculare. Suspendarea dreptului de utilizare a vehiculului rutier este aplicată în cazul în care vehiculul a fost folosit la săvîrşirea contravențiilor prevăzute la art. 197 alin. (1)–(3), (5), (6), (9), (17), (22), (23) și la art. 224 alin. (5) și (6).
+(2) Suspendarea dreptului de utilizare a vehiculului rutier se efectuează în condițiile art. 149 din Codul transporturilor rutiere.
+[Art.4391 introdus prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 Titlul II
 PARTEA SPECIALĂ
 Capitolul VI
