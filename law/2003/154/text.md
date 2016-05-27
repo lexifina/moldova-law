@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP71 din 14.04.16, MO140-149/27.05.16 art.291
 LP52 din 01.04.16, MO106-113/22.04.16 art.209
 LP205 din 20.11.15, MO340-346/18.12.15 art.658
 LP93 din 29.05.14, MO174-177/04.07.14 art.399
@@ -1260,10 +1261,19 @@ parţial plătit pentru îngrijirea copilului
 [Art.124 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (3) Concediul parţial plătit pentru îngrijirea copilului poate fi folosit integral sau pe părţi în orice timp, pînă cînd copilul va împlini vîrsta de 3 ani. Acest concediu se include în vechimea în muncă, inclusiv în vechimea în muncă specială, şi în stagiul de cotizare.
 [Art.124 al.(3) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
-(4) Concediul parţial plătit pentru îngrijirea copilului poate fi folosit opţional, în baza unei cereri scrise, şi de tatăl copilului, bunică, bunel sau altă rudă care se ocupă nemijlocit de îngrijirea copilului, precum şi de tutore.
+(4) Concediul parţial plătit pentru îngrijirea copilului se acordă, în baza unei cereri în formă scrisă, tatălui copilului ori unuia din bunici sau unei alte rude care se ocupă nemijlocit de îngrijirea copilului, precum şi tutorelui, în cazul în care persoanele indicate la alin. (1) nu utilizează concediul prevăzut la alin. (2).
+[Art.124 al.(4) în redacția LP71 din 14.04.16, MO140-149/27.05.16 art.291]
 [Art.124 al.(4) în redacția LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (5) Concediul parţial plătit pentru îngrijirea copiilor născuţi dintr-o sarcină gemelară, de tripleţi sau multipleţi se acordă, la cerere scrisă, ambilor părinţi sau altor persoane asigurate prevăzute la alin. (4)
 [Art.124 al.(5) introdus prin LP93 din 29.05.14, MO174-177/04.07.14 art.399]
+Articolul 1241. Concediul paternal
+(1) Concediul paternal se acordă în condiţiile prevăzute de prezentul articol pentru a asigura participarea efectivă a tatălui la îngrijirea copilului nou-născut.
+(2) Tatăl copilului nou-născut beneficiază de dreptul la un concediu paternal de 14 zile calendaristice.
+(3) Concediul paternal se acordă în baza unei cereri în formă scrisă, în primele 56 de zile de la naşterea copilului. La cerere se anexează o copie a certificatului de naştere al copilului.
+(4) Pe perioada concediului paternal, salariatul beneficiază de o indemnizaţie paternală care nu poate fi mai mică decît mărimea salariului mediu cuvenit pentru perioada respectivă și care este achitată din fondul de asigurări sociale.
+(5) Angajatorul este obligat să încurajeze salariaţii în vederea beneficierii de concediu paternal.
+(6) Cazurile în care angajatorul creează situații cu efect de dezavantajare a angajaţilor care iau concediu paternal sînt considerate cazuri de discriminare din partea angajatorilor şi se sancţionează conform legii.
+[Art.1241 introdus prin LP71 din 14.04.16, MO140-149/27.05.16 art.291]
 Articolul 125. Alipirea concediului de odihnă anual la
 concediul de maternitate şi la concediul
 pentru îngrijirea copilului
@@ -2440,7 +2450,8 @@ Capitolul II
 REPARAREA PREJUDICIULUI DE CĂTRE ANGAJATOR
 Articolul 329. Repararea prejudiciului material şi a
 celui moral cauzat salariatului
-(1) Angajatorul este obligat să repare integral prejudiciul material şi cel moral сauzat salariatului în legătură cu îndeplinirea de către acesta a obligaţiilor de muncă sau ca rezultat al privării ilegale de posibilitatea de a munci, dacă prezentul cod sau alte acte normative nu prevăd altfel.
+(1) Angajatorul este obligat să repare integral prejudiciul material şi cel moral сauzat salariatului în legătură cu îndeplinirea de către acesta a obligaţiilor de muncă, în cazul discriminării salariatului la locul de muncă sau ca rezultat al privării ilegale de posibilitatea de a munci, dacă prezentul cod sau alte acte normative nu prevăd altfel.
+[Art.329 al.(1) modificat prin LP71 din 14.04.16, MO140-149/27.05.16 art.291]
 (2) Prejudiciul moral se repară în formă bănească sau într-o altă formă materială determinată de părţi. Litigiile şi conflictele apărute în legătură cu repararea prejudiciului moral se soluţionează de instanţa de judecată, indiferent de mărimea prejudiciului material ce urmează a fi reparat.
 Articolul 330. Obligaţia angajatorului de a repara
 prejudiciul cauzat persoanei ca rezultat
@@ -2810,6 +2821,8 @@ h) să participe în calitate de experţi independenţi în componenţa comisiil
 i) să conteste, în modul stabilit, actele normative care lezează drepturile de muncă, profesionale, economice şi sociale ale salariaţilor, prevăzute de legislaţia în vigoare.
 (3) La efectuarea controlului asupra respectării legislaţiei muncii şi altor acte normative ce conţin norme ale dreptului muncii, sindicatele îşi pot realiza şi alte drepturi prevăzute de legislaţia în vigoare.
 (4) La depistarea în unităţi a nerespectării cerinţelor de protecţie a muncii, a tăinuirii accidentelor de muncă şi a cazurilor de contractare a bolilor profesionale ori a cercetării neobiective a acestor fapte, sindicatele sînt în drept să ceară conducătorilor acestor unităţi, autorităţilor publice competente luarea unor măsuri urgente, inclusiv întreruperea lucrărilor şi suspendarea deciziilor angajatorului care contravin legislaţiei cu privire la protecţia muncii, tragerea persoanelor vinovate la răspundere în conformitate cu legislaţia în vigoare, cu convenţiile colective şi cu contractele colective de muncă.
+(41) La depistarea în unităţi a cazurilor de discriminare după criteriul de sex şi a condiţiilor ce le favorizează, organele sindicale înaintează conducătorilor acestor unităţi, autorităţilor publice competente recomandări concrete de eliminare a acestora.
+[Art.386 al.(41) introdus prin LP71 din 14.04.16, MO140-149/27.05.16 art.291]
 (5) Angajatorii sînt obligaţi să examineze, în termen de 7 zile lucrătoare de la data înaintării (înregistrării), cerinţele sindicatelor şi să informeze în scris organul sindical despre rezultatele examinării şi măsurile întreprinse pentru înlăturarea încălcărilor depistate.
 Articolul 387. Garanţii pentru persoanele alese în organele
 sindicale şi neeliberate de la locul de muncă
