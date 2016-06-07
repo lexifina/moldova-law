@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP87 din 28.04.16, MO156/07.06.16 art.306
 LP71 din 14.04.16, MO140-149/27.05.16 art.291
 LP75 din 21.04.16, MO128-133/13.05.16 art.272
 LP70 din 14.04.16, MO128-133/13.05.16 art.270
@@ -3842,6 +3843,8 @@ Articolul 374. Procesul contravenţional
 (1) Procesul contravenţional reprezintă totalitatea de norme din prezentul cod care reglementează procedura contravenţională.
 (2) Procesul contravenţional este activitatea desfăşurată de autoritatea competentă, cu participarea părţilor şi a altor persoane titulare de drepturi şi de obligaţii, avînd ca scop constatarea contravenţiei, examinarea şi soluţionarea cauzei contravenţionale, constatarea cauzelor şi condiţiilor care au contribuit la săvîrşirea contravenţiei.
 (3) Procesul contravenţional se desfăşoară pe principii generale de drept contravenţional, în temeiul normelor dreptului internaţional şi ale tratatelor internaţionale cu privire la drepturile şi libertăţile fundamentale ale omului la care Republica Moldova este parte.
+(4) În cadrul procesului contravenţional, prelucrarea datelor cu caracter personal se efectuează conform prevederilor Legii nr. 133 din 8 iulie 2011 privind protecţia datelor cu caracter personal.
+[Art.374 al.(4) introdus prin LP87 din 28.04.16, MO156/07.06.16 art.306]
 Articolul 375. Prezumţia de nevinovăţie
 (1) Persoana acuzată de săvîrşirea unei contravenţii se consideră nevinovată atîta timp cît vinovăţia sa nu este dovedită în modul prevăzut de prezentul cod.
 (2) Nimeni nu este obligat să dovedească nevinovăţia sa.
@@ -4641,7 +4644,8 @@ interlocutorie
 (3) În decursul a 30 de zile, persoana cu funcţie de răspundere sesizată conform alin.(1) şi (2) informează instanţa de judecată, procurorul sau agentul constatator despre măsurile întreprinse de ea.
 Articolul 451. Inadmisibilitatea divulgării materialelor
 în cauza contravenţională
-Materialele în cauza contravenţională nu pot fi divulgate pînă la încheierea examinării cauzei decît cu autorizaţia agentului constatator şi numai în măsura în care consideră că este posibil, cu respectarea prezumţiei de nevinovăţie şi cu neafectarea intereselor persoanei.
+Materialele în cauza contravenţională nu pot fi divulgate pînă la încheierea examinării cauzei decît cu autorizaţia agentului constatator şi numai în măsura în care consideră că este posibil, cu respectarea prezumţiei de nevinovăţie şi cu neafectarea intereselor persoanei, în condiţiile Legii nr. 133 din 8 iulie 2011 privind protecţia datelor cu caracter personal.
+[Art.451 modificat prin LP87 din 28.04.16, MO156/07.06.16 art.306]
 Capitolul VII
 JUDECAREA CAUZEI CONTRAVENŢIONALE
 ÎN INSTANŢĂ
