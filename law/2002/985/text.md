@@ -14,6 +14,8 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP106 din 26.05.16, MO169-183/24.06.16 art.359
+LP93 din 13.05.16, MO163-168/17.06.16 art.333
 LP75 din 21.04.16, MO128-133/13.05.16 art.272
 LP60 din 07.04.16, MO123-127/06.05.16 art.246
 LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16
@@ -321,7 +323,8 @@ a minorilor
 (2) Persoanelor liberate de răspundere penală, în conformitate cu alin.(1), li se pot aplica măsurile de constrîngere cu caracter educativ, prevăzute la art.104.
 Articolul 55. Liberarea de răspundere penală cu
 tragerea la răspundere contravenţională
-(1) Persoana care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă, cu excepţia infracţiunii prevăzute la art. 326, poate fi liberată de răspundere penală şi trasă la răspundere contravenţională în cazurile în care şi-a recunoscut vina, a reparat prejudiciul cauzat prin infracţiune şi s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
+(1) Persoana care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă, cu excepţia infracțiunilor prevăzute la art. 1811, 256, 303, 314, art. 326 alin. (1) şi (11), art. 327 alin. (1), art. 328 alin. (1), art. 332 alin. (1), art. 333 alin. (1), art. 334 alin. (1) şi (2), art. 335 alin. (1) și art. 3351 alin. (1), poate fi liberată de răspundere penală şi trasă la răspundere contravenţională în cazurile în care şi-a recunoscut vina, a reparat prejudiciul cauzat prin infracţiune şi s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
+[Art.55 al.(1) modificat prin LP93 din 13.05.16, MO163-168/17.06.16 art.333]
 [Art.55 al.(1) modificat prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
 (2) Persoanelor liberate de răspundere penală în conformitate cu alin.(1) li se pot aplica următoarele sancţiuni contravenţionale:
 a) amendă în mărime de pînă la 150 unităţi convenţionale;
@@ -3449,8 +3452,10 @@ se pedepseşte cu amendă în mărime de la 500 la 800 unităţi convenţionale 
 (2) Falsificarea probelor în procesul penal de către persoana care efectuează urmărirea penală, procuror sau de către apărătorul admis în procesul penal
 se pedepseşte cu amendă în mărime de la 500 la 1.000 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 (3) - exclus
-Articolul 311. Denunţarea falsă
-(1) Denunţarea cu bună ştiinţă falsă în scopul de a-l învinui pe cineva de săvîrşirea unei infracţiuni, făcută unui organ sau unei persoane cu funcţie de răspundere, care sînt în drept de a porni urmărirea penală,
+Articolul 311. Denunţarea falsă sau plîngerea falsă
+[Art.311 titlul în redacția LP106 din 26.05.16, MO169-183/24.06.16 art.359]
+(1) Denunţarea cu bună ştiinţă falsă în scopul de a-l învinui pe cineva de săvîrşirea unei infracţiuni, sau plîngerea cu bună ştiinţă falsă despre săvîrşirea unei infracţiuni, făcută unui organ sau unei persoane cu funcţie de răspundere, care sînt în drept de a porni urmărirea penală,
+[Art.311 al.(1), dispoziția modificată prin LP106 din 26.05.16, MO169-183/24.06.16 art.359]
 se pedepseşte cu amendă în mărime de pînă la 300 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 (2) Aceeaşi acţiune:
 a) legată de învinuirea de săvîrşire a unei infracţiuni grave, deosebit de grave sau excepţional de grave;
@@ -3459,7 +3464,8 @@ c) însoţită de crearea artificială a probelor acuzatoare
 se pedepseşte cu amendă în mărime de la 200 la 800 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
 Articolul 312. Declaraţia mincinoasă, concluzia
 falsă sau traducerea incorectă
-(1) Prezentarea, cu bună-ştiinţă, a declaraţiei mincinoase de către martor sau partea vătămată, a concluziei false de către specialist sau expert, a traducerii sau a interpretării incorecte de către traducător sau interpret, dacă această acţiune a fost săvîrşită în cadrul urmăririi penale sau judecării cauzei, în instanţa de judecată naţională ori internaţională
+(1) Prezentarea, cu bună-ştiinţă, a declaraţiei mincinoase de către martor sau partea vătămată, a concluziei false de către specialist sau expert, a traducerii sau a interpretării incorecte de către traducător sau interpret, dacă această acţiune a fost săvîrşită în cadrul procesului civil, procesului penal, procesului contravenţional sau în instanţa de judecată internaţională
+[Art.312 al.(1), dispoziţia modificată prin LP106 din 26.05.16, MO169-183/24.06.16 art.359]
 [Art.312 al.(1), dispoziţia modificată prin LP64 din 04.04.13, MO115/21.05.13 art.359]
 se pedepseşte cu amendă în mărime de pînă la 300 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 2 ani.
 (2) Aceleaşi acţiuni:
@@ -3477,7 +3483,8 @@ declaraţii mincinoase, la formularea
 de concluzii false sau la efectuarea
 de traduceri incorecte
 [Art.314 titlul în redacţia LP245 din 02.12.11, MO25-28/03.02.12 art.77]
-(1) Determinarea, prin constrîngere sau prin promisiune, prin oferire sau dare de bunuri, servicii ori de alte avantaje patrimoniale sau nepatrimoniale, a martorului sau a părţii vătămate la depunerea de declaraţii mincinoase, a expertului la formularea de concluzii sau declaraţii false, a interpretului sau a traducătorului la efectuarea de interpretări sau traduceri incorecte, precum şi la eschivarea de la depunerea declaraţiilor, de la formularea concluziilor sau declaraţiilor, de la efectuarea interpretărilor sau traducerilor, în cadrul urmăririi penale ori judecării cauzei în instanţa de judecată naţională sau internaţională
+(1) Determinarea, prin constrîngere sau prin promisiune, prin oferire sau dare de bunuri, servicii ori de alte avantaje patrimoniale sau nepatrimoniale, a martorului sau a părţii vătămate la depunerea de declaraţii mincinoase, a expertului la formularea de concluzii sau declaraţii false, a interpretului sau a traducătorului la efectuarea de interpretări sau traduceri incorecte, precum şi la eschivarea de la depunerea declaraţiilor, de la formularea concluziilor sau declaraţiilor, de la efectuarea interpretărilor sau traducerilor, în cadrul procesului civil, procesului penal, procesului contravenţional sau în instanţa de judecată internaţională
+[Art.314 al.(1), dispoziţia modificată prin LP106 din 26.05.16, MO169-183/24.06.16 art.359]
 [Art.314 al.(1), dispoziţia modificată prin LP64 din 04.04.13, MO115/21.05.13 art.359]
 se pedepseşte cu amendă în mărime de la 200 la 500 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
 [Art.314 al.(1) în redacţia LP245 din 02.12.11, MO25-28/03.02.12 art.77]
