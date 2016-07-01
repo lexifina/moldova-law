@@ -15,6 +15,7 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP138 din 17.06.16, MO184-192/01.07.16 art.401
 LP241 din 29.12.15, MO20-24/29.01.16 art.46
 LP109 din 28.05.15, MO144-149/12.06.15 art.284
 LP108 din 28.05.15, MO139-143/05.06.15 art.265
@@ -109,7 +110,9 @@ LP35-XVI din 15.04.05, MO67-68/06.05.05 art.263
 LP22-XVI din 08.04.05, MO65-69/29.04.05 art.234
 LP20-XVI din 08.04.05, MO65-66/29.04.05 art.234
 NOTĂ:
+În textul codului, cuvîntul „patron” se substituie cu cuvîntul „angajator” prin LP138 din 17.06.16, MO184-192/01.07.16 art.401
 Cuvintele “hîrtii de valoare” se înlocuiesc cu cuvintele “valori mobiliare” prin LP231-XVI din 02.11.07, MO180-183/23.11.07 art.693
+În cuprinsul titlului IV, cuvîntul "(coniacurile)" se exclude, prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349
 În textul codului, termenul "dispoziţie de plată trezorerială" se înlocuieşte cu termenul "ordin de plată", termenul "dispoziţie incaso trezorerială" se înlocuieşte cu termenul "ordin incaso", iar termenul "dispoziţie" se înlocuieşte cu termenul "ordin" prin LP268 -XVI din 28.07.06, MO142-145/08.09.06 art.702
 În textul codului, termenul "dispoziţie de plată trezorerială" se înlocuieşte cu termenul "ordin de plată", termenul "dispoziţie incaso trezorerială" se înlocuieşte cu termenul "ordin incaso", iar la articolul 169 alineatul (3), termenul "dispoziţie" se înlocuieşte cu termenul "ordinului".
 În cuprinsul codului, cuvintele "valoarea (fără T.V.A)" se substituie prin cuvintele "venitul din vînzări" prin LP155-XVI din 21.07.05, MO107-109/12.08.05 art.525, în vigoare 01.01.06
