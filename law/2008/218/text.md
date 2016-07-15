@@ -15,6 +15,10 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+HCC10 din 10.05.16, MO204-205/12.07.16 art.58; în vigoare 10.05.16
+LP109 din 27.05.16, MO204-205/12.07.16 art.439
+LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16
+LP124 din 02.06.16, MO184-192/01.07.16 art.397
 LP87 din 28.04.16, MO156/07.06.16 art.306
 LP71 din 14.04.16, MO140-149/27.05.16 art.291
 LP75 din 21.04.16, MO128-133/13.05.16 art.272
@@ -1457,10 +1461,15 @@ cu tensiune pînă la 1000 de volţi
 Provocarea intenţionată a unui deranjament în reţelele electrice cu tensiune pînă la 1000 de volţi (la liniile aeriene, subterane şi subacvatice de transport de energie electrică, la instalaţiile de racord şi de distribuţie), avînd drept urmare o pană de curent în asigurarea consumatorilor cu energie electrică,
 se sancţionează cu amendă de pînă la 50 de unităţi convenţionale aplicată persoanei fizice sau cu muncă neremunerată în folosul comunităţii de pînă la 60 de ore, cu amendă de pînă la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 Articolul 163. Încălcarea Regulamentului cu privire la
-protecţia reţelelor electrice cu tensiune
-peste 1000 de volţi
-Încălcarea Regulamentului cu privire la protecţia reţelelor electrice cu tensiune peste 1000 de volţi, aprobat de Guvern, creînd pericolul unei pene de curent, o deteriorare a reţelelor electrice sau avînd drept urmare cauzarea unei daune de altă natură economiei naţionale,
-se sancţionează cu amendă de pînă la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de pînă la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+protecţia reţelelor electrice
+Încălcarea cerințelor prevăzute în Regulamentul cu privire la protecţia reţelelor electrice, care a condus la crearea unei pene de curent, la perturbarea funcţionării normale a reţelelor electrice, la deteriorarea reţelelor electrice, la provocarea unor avarii, incendii, accidente, avînd drept urmare punerea în pericol a vieţii oamenilor sau cauzarea de daune,
+se sancţionează cu amendă de la 50 la 100 de unități convenționale aplicată persoanei fizice, cu amendă de la 50 la 150 de unități convenționale aplicată persoanei cu funcție de răspundere, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei juridice.
+[Art.163 în redacția LP109 din 27.05.16, MO204-205/12.07.16 art.439]
+Articolul 1631. Neîndeplinirea prescripțiilor emise de
+Inspectoratul Energetic de Stat
+Neîndeplinirea în termen de către proprietarii și gestionarii instalațiilor electrice, rețelelor electrice a prescripțiilor în vederea excluderii abaterilor și a încălcărilor documentelor normativ-tehnice de amenajare și de exploatare a instalațiilor electrice, rețelelor electrice, care poate avea drept urmare provocarea de avarii, incendii, explozii sau punerea în pericol a vieții oamenilor,
+se sancționează cu amendă de la 25 la 50 de unități convenționale aplicată persoanei fizice, cu amendă de la 50 la 100 de unități convenționale aplicată persoanei cu funcție de răspundere, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei juridice.
+[Art.1631 introdus prin LP109 din 27.05.16, MO204-205/12.07.16 art.439]
 Articolul 164. Folosirea neautorizată în scop de profit
 a energiei electrice, a energiei termice sau
 a gazelor
@@ -1482,26 +1491,28 @@ Articolul 168. Încălcarea legislaţiei în zona de protecţie
 a gazoductelor magistrale
 Încălcarea legislaţiei în zona de protecţie a gazoductelor magistrale
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 70 la 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu demolarea construcţiilor şi defrişarea arborilor şi arbuştilor de către proprietar sau, în mod silit, de către autorităţile administraţiei publice locale din contul proprietarului.
-Articolul 169. Încălcarea normelor de desfăşurare
-a activităţilor licenţiate în domeniul
-energetic
-Încălcarea de către titularul de licenţă a normelor de desfăşurare a activităţilor licenţiate în domeniul energetic manifestată prin:
-a) refuzul de a permite efectuarea controalelor, verificărilor, inspecţiilor dispuse de către autoritatea de reglementare sau obstrucţionarea autorităţii de reglementare în efectuarea acestora;
-b) neprezentarea în termen a datelor/informaţiilor solicitate de autoritatea de reglementare sau furnizarea de date/informaţii incorecte sau incomplete;
-c) întîrzierea nejustificată în racordarea instalaţiilor noilor consumatori la reţeaua electrică/la reţeaua de gaze sau în reconectarea instalaţiilor de utilizare ale consumatorilor la reţeaua electrică/la reţeaua de gaze;
-d) aplicarea incorectă a tarifelor reglementate la energia electrică şi la gaze sau aplicarea plăţilor pentru prestarea serviciilor auxiliare care nu au fost aprobate/coordonate de către autoritatea de reglementare;
-e) refuzul nejustificat de a încheia contract de furnizare, de distribuţie sau de transport al energiei electrice sau al gazelor;
-f) nerespectarea normelor şi a regulamentelor privind extinderea reţelelor electrice sau reţelelor de gaze;
-g) neanunţarea consumatorilor sau nerespectarea termenului de anunţare a consumatorilor cu privire la întreruperile programate şi la limitările în furnizarea energiei electrice sau a gazelor;
-h) nerespectarea reglementărilor cu privire la verificarea metrologică periodică a echipamentelor de măsurare ale consumatorilor casnici;
-i) deconectarea nejustificată a instalaţiilor de utilizare ale consumatorilor de la reţeaua electrică/reţeaua de gaze sau întreruperea nejustificată a furnizării de energie electrică ori de gaze către consumatori;
-j) refuzul nejustificat de eliberare a avizului de racordare la reţeaua electrică/reţeaua de gaze;
-k) nerespectarea reglementărilor cu privire la calitate în activităţile licenţiate;
-l) încălcarea reglementărilor comerciale, practicarea fără licenţă a genurilor de activitate licenţiate sau delegarea atribuţiilor şi a funcţiilor licenţiate către un terţ care nu deţine licenţă pentru astfel de atribuţii şi funcţii;
-m) neexecutarea în termen a măsurilor dispuse, prin decizii sau hotărîri, de autoritatea de reglementare ori neîndeplinirea în termen a prevederilor prescripţiei privind lichidarea încălcărilor constatate de către autoritatea de reglementare;
-n) nerespectarea normelor tehnice de exploatare a reţelelor electrice/reţelelor de gaze, a instalaţiilor de producere a energiei şi combustibilului, a instalaţiilor de stocare şi depozitare a combustibilului, care poate avea drept rezultat diminuarea fiabilităţii şi calităţii furnizării energiei sau combustibilului consumatorilor;
-o) nerespectarea altor condiţii stabilite în licenţele eliberate pentru genuri de activitate în domeniul energetic
-se sancţionează cu amendă de la 100 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei juridice.
+Articolul 169. Încălcarea normelor de desfăşurare a
+activităţii de către participanţii la piaţa
+energiei electrice, la piaţa gazelor
+naturale şi la piaţa produselor petroliere
+Încălcarea de către participanţii la piaţa energiei electrice, la piaţa gazelor naturale şi la piaţa produselor petroliere a normelor de desfăşurare a activităţilor, stabilite în actele normative în domeniu, manifestată prin:
+a) refuzul de a permite efectuarea controalelor, a verificărilor şi a inspecţiilor dispuse de Agenţia Naţională pentru Reglementare în Energetică sau obstrucţionarea agenției în efectuarea acestora;
+b) neprezentarea în termen a datelor, a informaţiilor solicitate de Agenţia Naţională pentru Reglementare în Energetică sau furnizarea de date și informaţii incorecte sau incomplete;
+c) întîrzierea nejustificată în racordarea instalaţiilor electrice, a instalaţiilor de gaze naturale ale consumatorilor finali potenţiali la reţelele electrice, la reţelele de gaze naturale sau în reconectarea instalaţiilor electrice, a instalaţiilor de gaze naturale ale consumatorilor finali la reţelele electrice, la reţelele de gaze naturale;
+d) aplicarea incorectă a tarifelor reglementate, a preţurilor reglementate la energia electrică şi la gazele naturale sau aplicarea tarifelor pentru serviciile auxiliare prestate, care nu au fost aprobate de Agenţia Naţională pentru Reglementare în Energetică;
+e) refuzul nejustificat al furnizorilor care îndeplinesc obligaţii de serviciu public de a încheia contract de furnizare a energiei electrice, a gazelor naturale;
+f) refuzul nejustificat al operatorilor sistemelor de transport sau al operatorilor sistemelor de distribuţie de a încheia contract pentru prestarea serviciului de transport al energiei electrice, al gazelor naturale sau contract pentru prestarea serviciului de distribuţie a energiei electrice, a gazelor naturale;
+g) nerespectarea de către operatorii sistemelor de transport, de către operatorii sistemelor de distribuţie a prevederilor actelor normative de reglementare privind extinderea reţelelor electrice, a reţelelor de gaze, aprobate de Agenţia Naţională pentru Reglementare în Energetică;
+h) nerespectarea de către operatorii sistemelor de transport, de către operatorii sistemelor de distribuţie a obligaţiei privind anunţarea consumatorilor finali despre întreruperile programate în livrarea energiei electrice, a gazelor naturale în termenele şi în condiţiile stabilite în Regulamentul cu privire la calitatea serviciilor de transport şi de distribuţie a energiei electrice, în Regulamentul cu privire la calitatea serviciilor de transport şi de distribuţie a gazelor naturale;
+i) nerespectarea de către operatorii sistemelor de distribuţie a obligaţiei privind verificarea metrologică periodică a echipamentelor de măsurare ale consumatorilor casnici;
+j) deconectarea nejustificată a instalaţiilor electrice, a instalaţiilor de gaze naturale ale consumatorilor finali de la reţeaua electrică, de la reţeaua de gaze naturale sau limitarea, întreruperea nejustificată a livrării energiei electrice, a gazelor naturale către consumatori;
+k) refuzul nejustificat al operatorilor sistemelor de transport, al operatorilor sistemelor de distribuţie privind eliberarea avizului de racordare la reţeaua electrică, la reţeaua de gaze naturale;
+l) practicarea fără licenţă, fără autorizaţie a genurilor de activitate licenţiate, autorizate în conformitate cu actele normative care reglementează piaţa energiei electrice, piaţa gazelor naturale şi piaţa produselor petroliere sau delegarea atribuţiilor şi a funcţiilor licenţiate, autorizate către un terţ care nu deţine licenţă, autorizaţie pentru desfăşurarea genului de activitate respectiv;
+m) neexecutarea în termen a măsurilor dispuse, prin decizii sau prin hotărîri, de Agenţia Naţională pentru Reglementare în Energetică ori neîndeplinirea în termen a prevederilor prescripţiei privind lichidarea încălcărilor constatate de Agenţia Naţională pentru Reglementare în Energetică;
+n) nerespectarea normelor tehnice de exploatare a reţelelor electrice, a reţelelor de gaze naturale, a centralelor electrice, a instalaţiilor de producere a gazelor naturale şi a combustibilului, a instalaţiilor de stocare şi de depozitare a combustibilului, care poate avea drept rezultat diminuarea fiabilităţii şi a calităţii livrării energiei electrice, a gazelor naturale sau a combustibilului către consumatori;
+o) nerespectarea altor condiţii stabilite în licenţele, în autorizaţiile eliberate pentru desfăşurarea activităților de pe piaţa energiei electrice, a gazelor naturale sau a produselor petroliere
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 500 de unităţi convenţionale aplicată persoanei juridice.
+[Art.169 în redacția LP109 din 27.05.16, MO204-205/12.07.16 art.439]
 Articolul 170. Conectarea neautorizată la sistemul de
 alimentare cu apă şi la sistemul de canalizare
 (1) Conectarea neautorizată (fără condiţii tehnice de la furnizor) la sistemul de alimentare cu apă şi la sistemul de canalizare
@@ -1809,8 +1820,9 @@ pasagerilor în transporturi
 se sancţionează cu amendă de pînă la 15 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de pînă la 40 de ore.
 (2) Aruncarea gunoiului şi altor obiecte pe fereastra sau pe uşa troleibuzului, autobuzului, maxi-taxiului, vagonului şi peste bordul navei
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 20 la 40 de ore.
-[Art.203 al.(3) abrogat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
-[Art.203 al.(3) modificat prin LP22 din 01.03.12, MO92/15.05.12 art.290]
+[Art.203 în redacția LP124 din 02.06.16, MO184-192/01.07.16 art.397]
+[Art.203 modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
+[Art.203 modificat prin LP22 din 01.03.12, MO92/15.05.12 art.290]
 Articolul 204. Călătoria fără bilet
 (1) Admiterea pornirii în călătorie fără bilet de pe teritoriul autogării în transportul rutier regulat suburban, interurban şi internaţional de către conducătorul mijlocului de transport sau persoana responsabilă de aprobarea ieşirii în cursă a mijlocului de transport de pe teritoriul autogării
 se sancţionează cu amendă de la 40 la 60 de unităţi convenţionale.
@@ -2488,7 +2500,8 @@ se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
 (2) Comercializarea cu amănuntul a produselor petroliere principale şi/sau a gazelor lichefiate fără dispozitive de alimentare utilate cu aparate de casă şi de control cu memorie fiscală conectate la distribuitor (sistem de măsurare şi înregistrare a produselor petroliere principale şi/sau a gazelor lichefiate) ori utilizarea, în procesul de comercializare, a unor astfel de dispozitive defecte, fără verificare metrologică sau nesigilate în modul stabilit
 se sancţionează cu amendă de 500 de unităţi convenţionale.
 (3) Lipsa la staţia certificată de alimentare cu produse petroliere principale şi gaze lichefiate a documentelor de forma stabilită în actele normative în vigoare (registrul de evidenţă a produselor petroliere recepţionate, raportul de schimb, raportul privind datele înregistrate în aparatul de casă şi de control), ţinerea lor nesistematică sau înscrierea în ele a unor date neveridice
-se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere și cu amendă de 500 de unități convenționale aplicată persoanei juridice.
+[Art.277 al.(3), sancțiunea modificată prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.277 al.(3) în redacția LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (4) Recepţionarea produselor petroliere în baza documentelor însoţitoare, de transport şi de expediţie întocmite incorect fie în cazul manco al produselor petroliere, fie cu utilajele de scurgere defecte
 se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale.
@@ -2499,7 +2512,8 @@ se sancţionează cu amendă de la 150 la 500 de unităţi convenţionale.
 (7) Încălcarea regulilor de păstrare a produselor petroliere
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
 (8) Recepţionarea plăţilor pentru produsele petroliere principale şi gazele lichefiate comercializate cu amănuntul în alt loc decît la ghişeul de plată al staţiei certificate de alimentare cu produse petroliere principale şi gaze lichefiate
-se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere și cu amendă de 500 de unități convenționale aplicată persoanei juridice.
+[Art.277 al.(8), sancțiunea modificată prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.277 al.(8) introdus prin 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (9) Comercializarea pe piaţa internă a motorinei importate pentru consum propriu sau utilizarea ei în alte scopuri decît pentru consum propriu, dacă aceste acțiuni nu constituie infracțiune,
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 500 de unităţi convenţionale aplicată persoanei juridice.
@@ -2763,17 +2777,23 @@ a plăţilor în numerar
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
 Articolul 2931. Încălcarea regulilor de exploatare
 a maşinilor de casă şi control
-(1) Exploatarea maşinilor de casă şi control fără memorie fiscală, defectate, nesigilate /neînregistrate de /la organul fiscal sau în lipsa contractului valid de asistenţă tehnică cu prestatorul autorizat se sancţionează cu amendă de 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(1) Exploatarea maşinilor de casă şi control fără memorie fiscală, defectate, nesigilate /neînregistrate de /la organul fiscal sau în lipsa contractului valid de asistenţă tehnică cu prestatorul autorizat
+se sancţionează cu amendă de 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.2931 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
-(2) Deteriorarea sau distrugerea premeditată a maşinii de casă şi control ori înlocuirea premeditată a memoriei fiscale sau a programului de aplicaţie al maşinii de casă şi control se sancţionează cu amendă de 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(2) Deteriorarea sau distrugerea premeditată a maşinii de casă şi control ori înlocuirea premeditată a memoriei fiscale sau a programului de aplicaţie al maşinii de casă şi control
+se sancţionează cu amendă de 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (3) Degradarea, pierderea, nimicirea, lipsa registrului maşinii de casă şi control, legalizat în modul stabilit, pentru înregistrarea cronologică a datelor fiscale stocate în memoria fiscală ori completarea lui neregulată sau incompletă (inadecvată) se sancţionează cu amendă de 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-(4) Efectuarea decontărilor cu consumatorii fără utilizarea maşinii de casă şi control sau emiterea (perfectarea) bonului de casă (bonului de plată în cazurile prevăzute de actele normative) fără toate elementele obligatorii, sau emiterea (perfectarea) bonului de casă (bonului de plată în cazurile prevăzute de actele normative) de o valoare ce nu corespunde sumei achitate real, sau nepredarea premeditată a bonului de casă (bonului de plată în cazurile prevăzute de actele normative) consumatorului se sancţionează cu amendă de 50 de unităţi convenţionale.
+(4) Efectuarea decontărilor cu consumatorii fără utilizarea maşinii de casă şi control sau emiterea (perfectarea) bonului de casă (bonului de plată în cazurile prevăzute de actele normative) fără toate elementele obligatorii, sau emiterea (perfectarea) bonului de casă (bonului de plată în cazurile prevăzute de actele normative) de o valoare ce nu corespunde sumei achitate real, sau nepredarea premeditată a bonului de casă (bonului de plată în cazurile prevăzute de actele normative) consumatorului se sancţionează cu amendă de 50 de unităţi convenţionale, înlocuirea bonului de casă sau predarea premeditată a altui document consumatorului, precum aviz de plată în numerar, factură, bon de comandă-livrare, notă de plată, buletin de schimb valutar.
+[Art.2931 al.(4) modificat prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 (5) Existenţa excedentului sau deficitului de mijloace băneşti în caseta (sertarul) pentru bani a maşinii de casă şi control sau în alt loc special destinat primirii şi păstrării temporare a mijloacelor băneşti din activitatea curentă, ce depăşeşte o unitate convenţională, se sancţionează cu amendă de 50 de unităţi convenţionale.
 (6) Neimprimarea benzilor de control sau nimicirea lor pînă la expirarea termenului de păstrare (arhivare) se sancţionează cu amendă de 100 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-(7) Lipsa la vedere a informaţiei prin care se atenţionează consumatorul despre obligativitatea de a prezenta bonul de casă la examinarea eventualelor reclamaţii
+(7) Lipsa la vedere a anunțului prin care se atenționează consumatorul despre dreptul de a cere bonul de casă (de forma și conținutul stabilit) și obligația de a-l prezenta la examinarea eventualei reclamații
+[Art.2931 al.(7), dispoziția în redacția LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 se sancţionează cu amendă de 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (8) Degradarea, pierderea, nimicirea, lipsa cărţii tehnice (paşaportului) sau a cartelei de înregistrare, sau a registrului de evidenţă a serviciilor de asistenţă tehnică pentru maşina de casă şi control se sancţionează cu amendă de 50 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-(9) Desfăşurarea activităţilor de instalare, reparare, deservire tehnică a maşinilor de casă şi control fără a deţine autorizaţia de competenţă tehnică respectivă sau desfăşurarea activităţilor de instalare, reparare, deservire tehnică cu autorizaţia de competenţă tehnică cu termenul de valabilitate expirat, sau perfectarea incompletă (inadecvată) a registrului de evidenţă a serviciilor de asistenţă tehnică pentru maşina de casă şi control se sancţionează cu amendă de 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(9) Desfăşurarea activităţilor de instalare, reparare, deservire tehnică a maşinilor de casă şi control fără a deține certificatul de înregistrare în calitate de centru de asistență tehnică pentru mașinile de casă și de control cu memorie fiscală respectivă sau desfășurarea activităților de instalare, reparare, deservire tehnică cu certificatul de înregistrare cu termenul de valabilitate expirat, sau perfectarea incompletă (inadecvată) a registrului de evidenţă a serviciilor de asistenţă tehnică pentru maşina de casă şi control
+[Art.2931 al.(9), dispoziția în redacția LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
+se sancţionează cu amendă de 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 (10) Exploatarea (inclusiv asistenţa tehnică) a maşinilor de casă şi control excluse din Registrul unic al maşinilor de casă şi control, precum şi a celor scoase de la evidenţă (înregistrare) la organul fiscal
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei juridice.
 [Art.2931 al.(10) în redacția LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
@@ -2958,6 +2978,11 @@ Articolul 301. Evaziunea fiscală a persoanelor fizice
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
 (2) Nu se aplică sancţiune în cazul în care impozitul pe venit ce urmează a fi achitat este mai mic de 100 de unităţi convenţionale.
 [Art.301 în redacţia LP206 din 21.10.11, MO197-202/18.11.11 art.571]
+Articolul 3011. Încălcarea modului de prezentare de către
+contribuabili a dării de seamă fiscale
+Neprezentarea în termenul stabilit de legislație a dării de seamă fiscale
+se sancționează cu amendă de la 10 la 20 de unități convenționale aplicată persoanei cu funcție de răspundere.
+[Art.3011 introdus prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 Articolul 302. Încălcarea regulilor privind obligaţiile
 emitenţilor şi a deţinătorilor valorii mobiliare
 (1) Denaturarea şi/sau ascunderea premeditată a informaţiei despre activitatea economico-financiară a emitentului, altă informaţie pe care creditorii, deţinătorii valorilor mobiliare sau autorităţile publice trebuie să o primească în conformitate cu legislaţia,
@@ -3015,7 +3040,7 @@ se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale.
 Articolul 3042. Nerespectarea cerinţelor faţă
 de participanţii profesionişti
 pe piaţa financiară nebancară
-`(1) Practicarea activităţilor profesioniste pe piaţa financiară nebancară fără licenţă,
+(1) Practicarea activităţilor profesioniste pe piaţa financiară nebancară fără licenţă,
 se sancţionează cu amendă de la 100 la 500 de unităţi convenţionale.
 (2) Nerespectarea de către participantul profesionist la piaţa financiară nebancară a condiţiilor stabilite în licenţă, a regulilor prudenţiale şi de conduită, a normativelor privind capitalul propriu minim şi fondul de garanţie şi a altor normative stabilite prin lege şi prin actele normative ale Comisiei Naţionale a Pieţei Financiare,
 se sancţionează cu amendă de la 50 la 300 de unităţi convenţionale.
@@ -3601,6 +3626,7 @@ e) neasigurarea metrologică a persoanelor juridice care activează în domenii 
 [Art.345 al.(2), lit.e) modificată prin LP184 din 11.07.12, MO166-169a/16.08.12 art.571; în vigoare 16.11.12]
 f) utilizarea mijloacelor de măsurare cu caracteristici metrologice modificate premeditat sau cu indicaţii exprimate numai în unităţi de măsură nelegale, puse sub interdicţie de către inspectorul de stat
 se sancţionează cu amendă de 300 de unităţi convenţionale aplicată persoanei juridice [literele d) şi e)] şi persoanei cu funcţie de răspundere [literele a)–f)].
+[Art.345 al.(2) textul „amendă de 300 de unităţi convenţionale aplicată persoanei juridice [literele d) şi e)] şi persoanei cu funcţie de răspundere [literele a)- f)]” declarat neconstituțional prin HCC10 din 10.05.16, MO204-205/12.07.16 art.58; în vigoare 10.05.16]
 Articolul 346. Încălcarea dreptului de editare şi difuzare
 a documentelor normative din domeniul
 standardizării
@@ -4064,7 +4090,8 @@ Articolul 399. Competenţa agentului constatator
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197 alin. (1)–(4), (9)–(13), (15), (21), (22), art.201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin. (1), (4), (5), (7) și (9), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, art.77 alin.(8), art.78, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197 alin. (1)–(4), (9)–(13), (15), (21), (22), art.201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 263 alin. (1), (4)–(8), 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin. (1), (4), (5), (7) și (9), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.400 al.(1) modificat prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 [Art.400 al.(1) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.400 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
@@ -4125,7 +4152,8 @@ Articolul 402. Organele de inspectare financiară/
 control financiar şi organele fiscale
 ale Ministerului Finanţelor
 [Art.402 titlul în redacţia LP241 din 02.11.12, MO242-244/23.11.12 art.777]
-(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.273 alin. (5), art. 277 alin. (2), (3), (6), (8) și (9), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.273 alin. (5), art. 275 alin. (2), art. 277 alin. (2), (3), (6), (8) și (9), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+[Art.402 al.(1) modificat prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.402 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
 [Art.402 al.(1) modificat prin LP218 din 03.12.15, MO361-369/31.12.15 art.679; în vigoare 31.01.16]
 [Art.402 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
@@ -4142,7 +4170,8 @@ ale Ministerului Finanţelor
 [Art.402 al.(2) modificat prin LP48 din 26.03.11, MO53/04.04.11, art.114; în vigoare 04.04.11]
 [Art.402 al.(2) modificat prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 Articolul 403. Serviciul vamal
-(1) Contravenţiile prevăzute la art.79 alin.(3), art.265, 287, 2871, 2872, 2873 se examinează de Serviciul vamal.
+(1) Contravenţiile prevăzute la art.79 alin.(3), art.265, 287, 2871, 2872 se examinează de Serviciul vamal.
+[Art.403 al.(1) modificat prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.403 al.(1) modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.403 al.(1) modificat prin LP221 din 19.10.12, MO228/31.10.12 art.732; în vigoare 01.11.12]
 [Art.403 al.(1) modificat prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
@@ -4235,11 +4264,17 @@ Informaţiei
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 Articolul 411. Agenţia Naţională pentru Reglementare
 în Energetică
-(1) Contravenţiile prevăzute la art.108, 161–169 se constată de Agenţia Naţională pentru Reglementare în Energetică.
+(1) Contravenţiile prevăzute la art. 108, 161, 162, 164–169 se constată de Agenţia Naţională pentru Reglementare în Energetică.
+[Art.411 al.(1) modificat prin LP109 din 27.05.16, MO204-205/12.07.16 art.439]
 (2) Sînt în drept să constate contravenţiile prevăzute la art.108, 161–168 şi să încheie procese-verbale persoanele cu funcţie de răspundere din unităţile energetice, împuternicite de către Agenţia Naţională pentru Reglementare în Energetică.
 (3) Persoanele menţionate la alin.(2) vor remite procesele-verbale cu privire la contravenţii spre examinare comisiei administrative.
 (4) Sînt în drept să constate contravenţiile prevăzute la art.169 şi să încheie procese-verbale specialiştii şi şefii subdiviziunilor împuterniciţi de Agenţia Naţională pentru Reglementare în Energetică.
 (5) Persoanele menţionate la alin.(4) vor remite procesele-verbale cu privire la contravenţii spre examinare în fond instanţei de judecată competente.
+Articolul 4111. Inspectoratul Energetic de Stat
+(1) Contravenţiile prevăzute la art. 163 şi 1631 se constată de Inspectoratul Energetic de Stat.
+(2) Sînt în drept să constate contravenţii şi să încheie procese-verbale șeful Inspectoratului Energetic de Stat, adjuncții lui, şefii inspecțiilor energetice teritoriale, inspectorii abilitați cu funcții de control.
+(3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
+[Art.4111 introdus prin LP109 din 27.05.16, MO204-205/12.07.16 art.439]
 Articolul 412. Casa Naţională de Asigurări Sociale
 (1) Contravenţiile prevăzute la art.263 alin.(2), 294, 2941, 296, art.349 alin.(2) se constată de Casa Naţională de Asigurări Sociale.
 [Art.412 al.(1) modificat prin LP148 din 15.07.11, MO131/133/12.08.11 art.401]
@@ -4451,7 +4486,8 @@ Articolul 431. Corpurile delicte
 [Art.431 al.(41) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 [Art.431 al.(41) modificat prin LP216 din 17.09.10, MO191-193/01.10.10 art.634]
 [Art.431 al.(41) introdus prin LP206 din 16.07.10, MO141-144/10.08.10 art.517]
-(42) În cazul imposibilităţii aplicării alin. (41) din prezentul articol în partea ce ţine de art. 287 alin. (10) şi (11), agentul constatator al Serviciului Vamal confiscă contravaloarea corpului delict stabilită de către organul vamal.
+(42) În cazul imposibilităţii aplicării alin. (41) din prezentul articol în partea ce ţine de art. 287 alin. (8), (10) şi (11), agentul constatator al Serviciului Vamal confiscă contravaloarea corpului delict stabilită de către organul vamal.
+[Art.431 al.(42) modificat prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.431 al.(42) introdus prin LP275 din 15.11.13, MO291-296/13.12.13 art.801]
 Capitolul V
 MĂSURILE
