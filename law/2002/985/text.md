@@ -14,6 +14,9 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP130 din 09.06.16, MO206-214/15.07.16 art.446
+LP121 din 02.06.16, MO184-192/01.07.16 art.395
+LP105 din 26.05.16, MO184-192/01.07.16 art.391
 LP106 din 26.05.16, MO169-183/24.06.16 art.359
 LP93 din 13.05.16, MO163-168/17.06.16 art.333
 LP75 din 21.04.16, MO128-133/13.05.16 art.272
@@ -802,11 +805,12 @@ Articolul 108. Graţierea
 (5) Graţierea nu se aplică persoanelor care au săvîrşit asupra minorilor infracţiuni prevăzute la art. 171–1751, 201, 206, 208, 2081 şi 2082.
 [Art.108 al.(5) modificat prin LP43 din 22.03.13, MO82/12.04.13 art.256]
 Articolul 109. Împăcarea
-(1) Împăcarea este actul de înlăturare a răspunderii penale pentru o infracţiune uşoară sau mai puţin gravă, iar în cazul minorilor, şi pentru o infracţiune gravă infracţiuni prevăzute la capitolele II – VI din Partea specială, precum şi în cazurile prevăzute de procedura penală.
+(1) Împăcarea este actul de înlăturare a răspunderii penale pentru o infracţiune uşoară sau mai puţin gravă, iar în cazul minorilor, şi pentru o infracţiune gravă infracţiuni prevăzute la capitolele II – VI din Partea specială, precum şi în cazurile prevăzute de procedura penală, dacă persoana nu are antecedente penale pentru infracţiuni similare comise cu intenţie sau dacă în privinţa sa nu a mai fost dispusă încetarea procesului penal, ca rezultat al împăcării, pentru infracţiuni similare comise cu intenție în ultimii cinci ani.
+[Art.109 al.(1) modificat prin LP130 din 09.06.16, MO206-214/15.07.16 art.446]
 (2) Împăcarea este personală şi produce efecte juridice din momentul pornirii urmăririi penale şi pînă la retragerea completului de judecată pentru deliberare.
 (3) Pentru persoanele lipsite de capacitate de exerciţiu, împăcarea se face de reprezentanţii lor legali. Cei cu capacitate de exerciţiu restrînsă se pot împăca cu încuviinţarea persoanelor prevăzute de lege.
 (4) Împăcarea nu se aplică în cazul persoanelor care au săvîrşit asupra minorilor infracţiuni prevăzute la art. 171–1751, 201, 206, 208, 2081 şi 2082.
-[Art.109 al.(5) modificat prin LP43 din 22.03.13, MO82/12.04.13 art.256]
+[Art.109 al.(4) modificat prin LP43 din 22.03.13, MO82/12.04.13 art.256]
 Articolul 110. Noţiunea de antecedente penale
 Antecedentele penale reprezintă o stare juridică a persoanei, ce apare din momentul rămînerii definitive a sentinţei de condamnare, generînd consecinţe de drept nefavorabile pentru condamnat pînă la momentul stingerii antecedentelor penale sau reabilitării.
 Articolul 111. Stingerea antecedentelor penale
@@ -908,6 +912,9 @@ esenţiale
 (1) Se consideră proporţii deosebit de mari, proporţii mari valoarea bunurilor sustrase, dobîndite, primite, fabricate, distruse, utilizate, transportate, păstrate, comercializate, trecute peste frontiera vamală, valoarea pagubei pricinuite de o persoană sau de un grup de persoane, care, la momentul săvîrşirii infracţiunii, depăşeşte 5.000 şi, respectiv 2.500 unităţi convenţionale de amendă.
 (2) Caracterul considerabil sau esenţial al daunei cauzate se stabileşte luîndu-se în considerare valoarea, cantitatea şi însemnătatea bunurilor pentru victimă, starea materială şi venitul acesteia, existenţa persoanelor întreţinute, alte circumstanţe care influenţează esenţial asupra stării materiale a victimei, iar în cazul prejudicierii drepturilor şi intereselor ocrotite de lege – gradul lezării drepturilor şi libertăţilor fundamentale ale omului.
 (3)- exclus
+Articolul 1261. Mijloace din fonduri externe
+Prin mijloace din fonduri externe se înţeleg resursele financiare şi materiale alocate în calitate de granturi, subvenţii, credite, donaţii, împrumuturi, ajutor umanitar de către alte state, Comunitatea Europeană sau instituţii, organizaţii şi asociaţii internaţionale, persoane fizice sau juridice străine, garantate sau contractate de către stat, precum şi cele nerambursabile.
+[Art.1261 introdus prin LP105 din 26.05.16, MO184-192/01.07.16 art.391]
 Articolul 127. Timpul de război
 Prin timp de război se înţelege intervalul de la data declarării mobilizării sau a începerii operaţiilor de război pînă la data trecerii armatei la starea de pace.
 Articolul 1271. Persoana protejată de dreptul
@@ -1533,8 +1540,15 @@ Articolul 175. Acţiuni perverse
 Acţiunile perverse săvîrşite faţă de o persoană despre care se ştia cu certitudine că nu a împlinit vîrsta de 16 ani, constînd în exhibare, atingeri indecente, discuţii cu caracter obscen sau cinic purtate cu victima referitor la raporturile sexuale, determinarea victimei să participe ori să asiste la spectacole pornografice, punerea la dispoziţia victimei a materialelor cu caracter pornografic, precum şi în alte acţiuni cu caracter sexual,
 se pedepsesc cu închisoare de la 3 la 7 ani.
 [Art.175 în redacţia LP73 din 12.04.12, MO99-102/25.05.12 art.332]
-Articolul 1751. Acostarea copiilor în scopuri sexuale
-Propunerea, inclusiv prin intermediul tehnologiilor de informare şi de comunicare, a unei întîlniri cu un copil în scopul săvîrşirii împotriva acestuia a oricărei infracţiuni cu caracter sexual, dacă propunerea a fost urmată de fapte materiale care conduc la o astfel de întîlnire, se pedepseşte cu închisoare de la 1 la 5 ani.
+Articolul 1751. Ademenirea minorului în scopuri sexuale
+(1) Propunerea, convingerea, manipularea, amenințarea, promisiunea de a oferi avantaje sub orice formă, efectuate inclusiv prin intermediul tehnologiilor informaţionale sau comunicaţiilor electronice, în vederea stabilirii unei întîlniri cu un minor, cu scopul săvîrşirii împotriva acestuia a oricărei infracţiuni privind viața sexuală, dacă aceste acțiuni au fost urmate de fapte materiale care conduc la o astfel de întîlnire,
+se pedepsesc cu închisoare de la 2 la 6 ani.
+(2) Aceleași acțiuni săvîrșite:
+a) împotriva unui minor aflat într-o situație de neputinţă, care se datorează unei boli sau dizabilități;
+b) de către un membru al familiei minorului, de către o persoană care locuia cu minorul sau de către persoana în a cărei îngrijire, sub a cărei protecție sau la a cărei educare ori tratament se află minorul;
+c) de către o persoană care anterior a fost condamnată pentru o infracțiune cu caracter sexual sau pentru alte fapte care au relevanță pentru cauză
+se pedepsesc cu închisoare de la 3 la 8 ani.
+[Art.1751 în redacția LP121 din 02.06.16, MO184-192/01.07.16 art.395]
 [Art.1751 introdus prin LP73 din 12.04.12, MO99-102/25.05.12 art.332]
 Capitolul V
 INFRACŢIUNI CONTRA DREPTURILOR
@@ -2519,15 +2533,20 @@ d) obstrucţionează în orice alt mod exercitarea supravegherii de către Banca
 se pedepseşte cu amendă de la 400 la 800 unităţi convenţionale sau cu închisoare de la 6 luni la 1 an.
 [Art.2392 în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 240. Utilizarea contrar destinaţiei a mijloacelor
-din împrumuturile interne sau externe
-garantate de stat
-(1) Utilizarea contrar destinaţiei a mijloacelor din împrumuturile interne sau externe garantate de stat, dacă aceasta a cauzat daune în proporţii mari,
-se pedepseşte cu amendă in mărime de la 1000 la 2000 unităţi convenţionale sau cu închisoare de pînă la 2 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 1.000 la 3.000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
-(2) Aceeaşi acţiune:
-a) - exclusă
-b) săvîrşită de două sau mai multe persoane;
-c) soldată cu daune în proporţii deosebit de mari
-se pedepseşte cu amendă în mărime de la 2000 la 3000 unităţi convenţionale sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 3.000 la 6.000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+din împrumuturile interne sau din fondurile
+externe
+(1) Utilizarea contrar destinaţiei a mijloacelor din împrumuturile interne sau din fondurile externe, dacă fapta nu constituie o însuşire,
+se pedepseşte cu amendă în mărime de la 3000 la 4000 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 5000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
+(2) Utilizarea contrar destinaţiei a subvenţiilor, donaţiilor sau ajutoarelor umanitare în proporţii mari, dacă fapta nu constituie o însuşire,
+se pedepseşte cu amendă în mărime de la 4000 la 5000 de unităţi convenţionale sau cu închisoare de la 2 la 6 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5000 la 6000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
+(3) Utilizarea contrar destinaţiei a împrumuturilor interne, a granturilor, creditelor, precum şi a împrumuturilor externe, în proporţii mari, dacă fapta nu constituie o însuşire,
+se pedepseşte cu amendă în mărime de la 5000 la 6000 de unităţi convenţionale sau cu închisoare de la 3 la 6 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 3 la 6 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 7000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 3 la 5 ani sau cu lichidarea persoanei juridice.
+(4) Acţiunile prevăzute la alin. (2) şi (3) săvîrşite:
+a) de două sau mai multe persoane;
+b) în proporţii deosebit de mari;
+c) de o persoană publică, de o persoană cu funcţie de răspundere, de o persoană cu funcţie de demnitate publică, de o persoană publică străină sau de un funcţionar internaţional
+se pedepsesc cu amendă în mărime de la 6000 la 8000 de unităţi convenţionale sau cu închisoare de la 6 la 10 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 4 la 7 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 7000 la 9000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 4 la 5 ani sau cu lichidarea persoanei juridice.
+[Art.240 în redacția LP105 din 26.05.16, MO184-192/01.07.16 art.391]
 Articolul 2401. Comercializarea motorinei importate pentru
 consum propriu sau utilizarea acesteia contrar
 destinației
@@ -3710,6 +3729,33 @@ b) de o persoană cu funcţie de demnitate publică;
 c) în interesul unui grup criminal organizat sau al unei organizaţii criminale
 se pedepsesc cu amendă în mărime de la 1000 la 2000 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 5 la 10 ani.
 [Art.332 al.(2), sancţiunea modificată prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
+Articolul 3321. Obţinerea frauduloasă a mijloacelor
+din fonduri externe
+(1) Folosirea ori prezentarea de documente, înscrisuri sau date vădit false, inexacte ori incomplete pentru primirea aprobărilor sau garanţiilor necesare acordării finanţărilor obţinute sau garantate din fonduri externe, precum şi omisiunea de a furniza datele cerute potrivit legii pentru obţinerea de mijloace din fonduri externe, dacă fapta are ca rezultat obţinerea frauduloasă a acestor mijloace financiare,
+se pedepsesc cu amendă în mărime de la 4000 la 5000 de unităţi convenţionale sau cu închisoare de la 2 la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5000 la 6000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
+(2) Aceleaşi acţiuni:
+a) săvîrşite de două sau mai multe persoane;
+b) care au cauzat daune în proporţii mari;
+c) săvîrşite de o persoană publică, de o persoană cu funcţie de răspundere, de o persoană cu funcţie de demnitate publică, de o persoană publică străină sau de un funcţionar internaţional
+se pedepsesc cu amendă în mărime de la 4000 la 6000 de unităţi convenţionale sau cu închisoare de la 3 la 7 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 3 la 7 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 8000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 3 la 5 ani sau cu lichidarea persoanei juridice.
+(3) Acţiunile prevăzute la alin. (1) şi (2) care au cauzat daune în proporţii deosebit de mari
+se pedepsesc cu amendă în mărime de la 7000 la 9000 de unităţi convenţionale sau cu închisoare de la 4 la 8 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 5 la 8 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 8000 la 10000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 3 la 5 ani sau cu lichidarea persoanei juridice.
+[Art.3321 introdus prin LP105 din 26.05.16, MO184-192/01.07.16 art.391]
+Articolul 3322. Delapidarea mijloacelor din fondurile
+externe
+(1) Delapidarea mijloacelor din fondurile externe
+se pedepseşte cu amendă în mărime de la 3000 la 4000 de unităţi convenţionale sau cu închisoare de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 5000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
+(2) Aceeaşi acţiune săvîrşită:
+a) de două sau mai multe persoane;
+b) în proporţii mari;
+c) de o persoană publică, de o persoană cu funcţie de răspundere, de o persoană publică străină sau de un funcţionar internaţional
+se pedepsește cu amendă în mărime de la 4000 la 6000 de unităţi convenţionale sau cu închisoare de la 7 la 10 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 3 la 6 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5000 la 7000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
+(3) Acţiunile prevăzute la alin. (1) și (2) săvîrşite:
+a) de o persoană cu funcţie de demnitate publică;
+b) în proporţii deosebit de mari;
+c) în interesul unui grup criminal organizat sau al unei organizaţii criminale
+se pedepsesc cu amendă în mărime de la 6000 la 8000 de unităţi convenţionale sau cu închisoare de la 10 la 15 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 6 la 8 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 7000 la 9000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
+[Art.3322 introdus prin LP105 din 26.05.16, MO184-192/01.07.16 art.391]
 Capitolul XVI
 INFRACŢIUNI DE CORUPŢIE ÎN SECTORUL PRIVAT
 [Capitolului XVI titlul în redacţia LP78 din 12.04.12, MO99-102/25.05.12 art.334]
