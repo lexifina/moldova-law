@@ -13,6 +13,7 @@ Publicat : 26.04.2001
 Nr. 47-48
 art Nr : 210
 MODIFICAT
+LP150 din 01.07.16, MO206-214/15.07.16 art.452
 LP140 din 14.06.13, MO167-172/02.08.13 art.534; în vigoare 01.01.14
 LP107 din 11.05.12, MO120-125/15.06.12 art.396
 LP73 din 12.04.12, MO99-102/25.05.12 art.332
@@ -21,6 +22,8 @@ LP99 din 28.05.10, MO131-134/30.07.10 art.441; în vigoare 30.01.11
 LP120-XVI din 29.05.08, MO125-126/15.07.08 art.489
 LP64-XVI din 30.03.06, MO66-69/28.04.06 art.273
 LP134-XVI din 30.07.05, MO107-109/12.08.05 art.519
+NOTĂ:
+În textul codului, sintagma „oficiul de stare civilă” se substituie cu sintagma „oficiul stare civilă” prin LP150 din 01.07.16, MO206-214/15.07.16 art.452
 Parlamentul adoptă prezentul cod.
 TITLUL I
 DISPOZIŢII GENERALE
@@ -47,8 +50,10 @@ Articolul 5. Egalitatea în relaţiile familiale
 (2) Drepturile şi obligaţiile familiale sînt legate de titularii lor şi nu pot fi cedate persoanelor terţe.
 Articolul 6. Realizarea drepturilor şi îndeplinirea
 obligaţiilor familiale
-(1) Cetăţenii îşi realizează de sine stătător drepturile ce le aparţin şi iau naştere din relaţiile familiale, dacă prezentul cod nu prevede altfel.
-(2) Realizarea drepturilor şi îndeplinirea obligaţiilor familiale nu trebuie să lezeze drepturile, obligaţiile, libertăţile şi interesele legitime ale altor membri ai familiei şi ale altor cetăţeni.
+(1) Persoanele fizice îşi realizează de sine stătător drepturile ce le aparţin şi iau naştere din relaţiile familiale, dacă prezentul cod nu prevede altfel.
+[Art.6 al.(1) modificat prin LP150 din 01.07.16, MO206-214/15.07.16 art.452]
+(2) Realizarea drepturilor şi îndeplinirea obligaţiilor familiale nu trebuie să lezeze drepturile, obligaţiile, libertăţile şi interesele legitime ale altor membri ai familiei şi ale altor persoane.
+[Art.6 al.(2) modificat prin LP150 din 01.07.16, MO206-214/15.07.16 art.452]
 Articolul 7. Ocrotirea drepturilor familiale
 (1) Drepturile familiale sînt ocrotite de lege, cu excepţia cazurilor cînd acestea sînt realizate contrar destinaţiei sau contrar prevederilor legale.
 (2) Drepturile familiale sînt ocrotite de autorităţile abilitate ale administraţiei publice, iar în anumite cazuri şi de instanţele judecătoreşti.
@@ -62,10 +67,12 @@ Capitolul 3
 CONDIŢIILE ŞI MODALITATEA DE ÎNCHEIERE
 A CĂSĂTORIEI
 Articolul 9. Încheierea căsătoriei
-(1) Încheierea căsătoriei are loc la organele de stare civilă.
+(1) Încheierea căsătoriei are loc la organele de stare civilă, precum și la alte organe abilitate prin lege.
+[Art.9 al.(1) modificat prin LP150 din 01.07.16, MO206-214/15.07.16 art.452]
 (2) Drepturile şi obligaţiile juridice ale soţilor iau naştere din ziua înregistrării căsătoriei la organele de stare civilă.
 Articolul 10. Declaraţia de căsătorie
-(1) Declaraţia de căsătorie se depune personal de cetăţenii care doresc să se căsătorească la organul de stare civilă în a cărui rază teritorială se află domiciliul unuia dintre ei sau al părinţilor unuia dintre ei.
+(1) Declaraţia de căsătorie se depune personal de persoanele care doresc să se căsătorească la organul de stare civilă în a cărui rază teritorială se află domiciliul unuia dintre ei sau al părinţilor unuia dintre ei.
+[Art.10 al.(1) modificat prin LP150 din 01.07.16, MO206-214/15.07.16 art.452]
 (2) În declaraţia de căsătorie, viitorii soţi trebuie să indice că nu există nici un impediment legal la căsătorie.
 (3) Depunerea declaraţiei de căsătorie şi înregistrarea căsătoriei au loc în modul stabilit pentru înregistrarea de stat a actelor de stare civilă.
 Articolul 11. Condiţiile de încheiere a căsătoriei
@@ -200,20 +207,20 @@ Articolul 34. Limitarea dreptului soţului de a cere desfacerea
 căsătoriei
 În lipsa acordului soţiei, soţul nu poate cere desfacerea căsătoriei în timpul gravidităţii acesteia şi timp de un an după naşterea copilului dacă acesta s-a născut viu şi trăieşte.
 Articolul 35. Modalitatea de desfacere a căsătoriei
-În cazurile prevăzute la art.36 alin.(1) şi (2), căsătoria se desface de către oficiul de stare civilă, iar în cazurile prevăzute la art.36 alin.(4) şi (5) şi la art.37 - pe cale judecătorească.
-Articolul 36. Desfacerea căsătoriei la oficiul de stare civilă
-(1) În baza acordului comun al soţilor care nu au copii minori comuni sau înfiaţi de ambii soţi, în cazurile cînd între aceştia nu există litigii referitoare la partaj sau la întreţinerea soţului inapt de muncă, căsătoria poate fi desfăcută de către oficiul de stare civilă în a cărui rază teritorială se află domiciliul unuia dintre soţi, cu participarea obligatorie a ambilor soţi.
-(2) La cererea unuia dintre soţi, căsătoria poate fi desfăcută la oficiul de stare civilă dacă celălalt soţ:
+În cazurile prevăzute la art.36 alin.(1) şi (2), căsătoria se desface de către oficiul stare civilă, iar în cazurile prevăzute la art.36 alin.(4) şi (5) şi la art.37 - pe cale judecătorească.
+Articolul 36. Desfacerea căsătoriei la oficiul stare civilă
+(1) În baza acordului comun al soţilor care nu au copii minori comuni sau înfiaţi de ambii soţi, în cazurile cînd între aceştia nu există litigii referitoare la partaj sau la întreţinerea soţului inapt de muncă, căsătoria poate fi desfăcută de către oficiul stare civilă în a cărui rază teritorială se află domiciliul unuia dintre soţi, cu participarea obligatorie a ambilor soţi.
+(2) La cererea unuia dintre soţi, căsătoria poate fi desfăcută la oficiul stare civilă dacă celălalt soţ:
 a) a fost declarat incapabil;
 b) a fost declarat dispărut;
 c) a fost condamnat la privaţiune de libertate pe un termen mai mare de 3 ani.
 (3) Desfacerea căsătoriei şi eliberarea certificatului de divorţ au loc după expirarea termenului de o lună din ziua depunerii cererii de divorţ.
 (4) În cazul apariţiei litigiilor între soţi cu privire la copii, la partaj sau la întreţinerea soţului inapt de muncă care necesită sprijin material, desfacerea căsătoriei se face pe cale judecătorească.
-(5) Dacă, după desfacerea căsătoriei de către oficiul de stare civilă, între soţi apar litigii referitoare la partaj, la întreţinerea copiilor minori sau a soţului inapt de muncă, acestea se vor soluţiona pe cale judecătorească.
+(5) Dacă, după desfacerea căsătoriei de către oficiul stare civilă, între soţi apar litigii referitoare la partaj, la întreţinerea copiilor minori sau a soţului inapt de muncă, acestea se vor soluţiona pe cale judecătorească.
 Articolul 37. Desfacerea căsătoriei de către instanţa
 judecătorească
 (1) Dacă soţii au copii minori comuni, cu excepţia cazurilor prevăzute la art.36 alin.(2), sau în lipsa acordului la divorţ al unuia dintre soţi, desfacerea căsătoriei are loc pe cale judecătorească.
-(2) Desfacerea căsătoriei are loc pe cale judecătorească şi în cazurile cînd există acordul la divorţ al ambilor soţi, însă unul dintre ei refuză să se prezinte la oficiul de stare civilă pentru soluţionarea problemei.
+(2) Desfacerea căsătoriei are loc pe cale judecătorească şi în cazurile cînd există acordul la divorţ al ambilor soţi, însă unul dintre ei refuză să se prezinte la oficiul stare civilă pentru soluţionarea problemei.
 (3) Instanţa judecătorească va desface căsătoria dacă va constata că convieţuirea soţilor şi păstrarea familiei în continuare sînt imposibile.
 (4) Dacă, în procesul examinării cererii de desfacere a căsătoriei, unul dintre soţi nu-şi dă acordul la divorţ, instanţa judecătorească va amîna examinarea cauzei, stabilind un termen de împăcare de la o lună la 6 luni, cu excepţia cauzelor de divorţ pornite pe motivul violenţei în familie confirmate prin probe.
 [Art.37 al.(4) modificat prin LP167 din 09.07.10, MO155-158/03.09.10 art.551]
@@ -230,12 +237,12 @@ d) să stabilească cu cine dintre părinţi vor locui copiii minori după divor
 (3) Litigiile, altele decît cele expuse în prezentul articol, nu pot fi soluţionate în procesul de desfacere a căsătoriei, cu excepţia acţiunii de contestare a paternităţii la cererea soţului.
 (4) Dacă, la împărţirea bunurilor proprietate în devălmăşie a soţilor, vor fi atinse interesele persoanelor terţe, instanţa judecătorească va dispune examinarea cererii respective într-un proces aparte.
 Articolul 39. Momentul încetării căsătoriei
-(1) În cazul desfacerii căsătoriei la oficiul de stare civilă, aceasta încetează din ziua înregistrării divorţului, iar în cazul desfacerii căsătoriei pe cale judecătorească - din ziua cînd hotărîrea instanţei judecătoreşti a rămas definitivă.
-(2) Dacă problema divorţului a fost soluţionată pe cale judecătorească, acesta urmează a fi înregistrat în modul prevăzut pentru înregistrarea de stat a actelor de stare civilă. Soţii nu au dreptul să încheie o nouă căsătorie pînă la obţinerea certificatului de divorţ de la oficiul de stare civilă în a cărui rază teritorială se află domiciliul acestora.
+(1) În cazul desfacerii căsătoriei la oficiul stare civilă, aceasta încetează din ziua înregistrării divorţului, iar în cazul desfacerii căsătoriei pe cale judecătorească - din ziua cînd hotărîrea instanţei judecătoreşti a rămas definitivă.
+(2) Dacă problema divorţului a fost soluţionată pe cale judecătorească, acesta urmează a fi înregistrat în modul prevăzut pentru înregistrarea de stat a actelor de stare civilă. Soţii nu au dreptul să încheie o nouă căsătorie pînă la obţinerea certificatului de divorţ de la oficiul stare civilă în a cărui rază teritorială se află domiciliul acestora.
 (3) Instanţa judecătorească este obligată să transmită, în termen de 3 zile de la data cînd hotărîrea privind desfacerea căsătoriei a rămas definitivă, o copie a acesteia oficiului de stare civilă din raza ei teritorială.
 Articolul 40. Restabilirea căsătoriei în cazul apariţiei
 soţului declarat decedat sau dispărut
-(1) În cazul apariţiei soţului declarat, în modul stabilit de lege, decedat sau dispărut şi anulării hotărîrii respective a instanţei judecătoreşti, oficiul de stare civilă poate restabili căsătoria respectivă, la cererea comună a soţilor, dacă celălalt soţ nu a încheiat o nouă căsătorie.
+(1) În cazul apariţiei soţului declarat, în modul stabilit de lege, decedat sau dispărut şi anulării hotărîrii respective a instanţei judecătoreşti, oficiul stare civilă poate restabili căsătoria respectivă, la cererea comună a soţilor, dacă celălalt soţ nu a încheiat o nouă căsătorie.
 (2) În cazul restabilirii căsătoriei, se consideră că aceasta nu a fost întreruptă. Bunurile dobîndite în perioada de absenţă a unuia dintre soţi aparţin soţului care le-a dobîndit.
 Capitolul 8
 DECLARAREA NULITĂŢII CĂSĂTORIEI
@@ -286,7 +293,7 @@ Articolul 47. Stabilirea provenienţei copilului
 (4) Prezumţia de paternitate a soţului (fostului soţ) poate fi înlăturată printr-o declaraţie a soţilor (foştilor soţi) depusă personal. În cazul în care soţii (unul din ei) nu se pot prezenta personal, declaraţia se autentifică notarial şi se expediază la organul de stare civlă.
 (5) Paternitatea copilului născut în afara căsătoriei poate fi recunoscută de către tatăl său printr-o declaraţie comună a acestuia şi a mamei copilului, depusă la organul de stare civilă.
 (6) În cazurile cînd mama este decedată, declarată decedată, incapabilă sau dispărută ori cînd nu i se cunoaşte locul aflării, precum şi în cazul decăderii ei din drepturile părinteşti, paternitatea se stabileşte în baza declaraţiei tatălui şi a acordului scris al autorităţii tutelare sau prin hotărîrea instanţei judecătoreşti dacă lipseşte un astfel de acord.
-(7) Declaraţia comună a mamei şi tatălui copilului privind paternitatea poate fi depusă la oficiul de stare civilă şi pînă la naşterea copilului.
+(7) Declaraţia comună a mamei şi tatălui copilului privind paternitatea poate fi depusă la oficiul stare civilă şi pînă la naşterea copilului.
 Articolul 48. Stabilirea paternităţii în instanţa judecătorească
 Dacă copilul este născut din părinţi necăsătoriţi între ei şi în lipsa declaraţiei comune a părinţilor sau a tatălui copilului, paternitatea se stabileşte de către instanţa judecătorească în baza declaraţiei unuia dintre părinţi, a tutorelui (curatorului) copilului sau a copilului însuşi la atingerea majoratului.
 Articolul 49. Contestarea paternităţii (maternităţii)
@@ -317,7 +324,8 @@ Articolul 53. Dreptul copilului de a fi protejat
 (4) Copilul are dreptul la protecţie contra abuzurilor, inclusiv contra pedepsei corporale din partea părinţilor sau a persoanelor care îi înlocuiesc.
 [Art.53 al.(4) modificat prin LP120-XVI din 29.05.08, MO125-126/15.07.08 art.489]
 (5) În cazul încălcării drepturilor şi intereselor legitime ale copilului, inclusiv prin neîndeplinirea sau îndeplinirea necorespunzătoare de către părinţi (a unuia dintre ei) a obligaţiilor de întreţinere, educaţie şi instruire, sau în cazul abuzului de drepturile părinteşti, copilul poate să se adreseze de sine stătător autorităţii tutelare pentru apărarea drepturilor şi intereselor sale legitime, iar de la vîrsta de 14 ani - instanţei judecătoreşti.
-(6) Persoanele cu funcţii de răspundere şi alţi cetăţeni care ştiu despre existenţa unui pericol pentru viaţa sau sănătatea copilului, despre încălcarea drepturilor şi intereselor lui legitime sînt obligaţi să comunice acest fapt autorităţii tutelare, făcînd tot posibilul pentru a proteja drepturile şi interesele legitime ale copilului.
+(6) Persoanele cu funcţii de răspundere şi alte persoane care ştiu despre existenţa unui pericol pentru viaţa sau sănătatea copilului, despre încălcarea drepturilor şi intereselor lui legitime sînt obligate să comunice acest fapt autorităţii tutelare, făcînd tot posibilul pentru a proteja drepturile şi interesele legitime ale copilului.
+[Art.53 al.(6) modificat prin LP150 din 01.07.16, MO206-214/15.07.16 art.452]
 Articolul 54. Dreptul copilului la exprimarea opiniei
 Copilul are dreptul să-şi exprime opinia la soluţionarea în familie a problemelor care îi ating interesele şi să fie audiat în cursul dezbaterilor judiciare sau administrative. De opinia copilului care a atins vîrsta de 10 ani se va ţine cont în mod obligatoriu dacă aceasta nu contravine intereselor lui.
 Articolul 55. Dreptul copilului la nume de familie şi
@@ -328,8 +336,8 @@ prenume
 (4) În caz de litigiu între părinţi privind numele de familie şi/sau prenumele copilului, decide autoritatea tutelară.
 Articolul 56. Schimbarea numelui de familie
 şi prenumelui copilului
-(1) În baza cererii comune a părinţilor (sau a unuia dintre ei), oficiul de stare civilă poate schimba numele de familie şi/sau prenumele copilului care nu a atins vîrsta de 16 ani.
-(2) În caz de litigiu între părinţi, problema privind schimbarea numelui de familie şi/sau a prenumelui copilului este soluţionată de către oficiul de stare civilă, cu concursul autorităţii tutelare în a cărei rază teritorială îşi are domiciliul minorul, ţinîndu-se cont în exclusivitate de interesele copilului.
+(1) În baza cererii comune a părinţilor (sau a unuia dintre ei), oficiul stare civilă poate schimba numele de familie şi/sau prenumele copilului care nu a atins vîrsta de 16 ani.
+(2) În caz de litigiu între părinţi, problema privind schimbarea numelui de familie şi/sau a prenumelui copilului este soluţionată de către oficiul stare civilă, cu concursul autorităţii tutelare în a cărei rază teritorială îşi are domiciliul minorul, ţinîndu-se cont în exclusivitate de interesele copilului.
 (3) Schimbarea numelui de familie al ambilor părinţi atrage după sine schimbarea numelui de familie al copilului, iar în cazul schimbării numelui de familie al unuia dintre părinţi, numele de familie al copilului poate fi schimbat în baza acordului comun al părinţilor. În lipsa unui atare acord, decide autoritatea tutelară.
 (4) Schimbarea numelui de familie şi/sau a prenumelui copilului care a atins vîrsta de 10 ani se face, în toate cazurile, cu acordul acestuia.
 Articolul 57. Drepturile patrimoniale ale copilului
@@ -738,7 +746,7 @@ Articolul 157. Relaţiile personale nepatrimoniale
 Articolul 158. Desfacerea căsătoriei
 (1) Desfacerea căsătoriei cu elemente de extraneitate pe teritoriul Republicii Moldova are loc conform legislaţiei Republicii Moldova.
 (2) Cetăţenii Republicii Moldova care locuiesc în afara ţării au dreptul la desfacerea căsătoriei în instanţele judecătoreşti ale Republicii Moldova, indiferent de cetăţenia şi domiciliul celuilalt soţ.
-(3) Dacă, conform legislaţiei Republicii Moldova, căsătoria poate fi desfăcută de oficiul de stare civilă, această problemă poate fi soluţionată de misiunile diplomatice sau oficiile consulare ale Republicii Moldova.
+(3) Dacă, conform legislaţiei Republicii Moldova, căsătoria poate fi desfăcută de oficiul stare civilă, această problemă poate fi soluţionată de misiunile diplomatice sau oficiile consulare ale Republicii Moldova.
 (4) Este recunoscută valabilă desfacerea căsătoriei în afara Republicii Moldova dacă, la soluţionarea acestei probleme, au fost respectate cerinţele legislaţiei statului corespunzător privind competenţa organelor care au adoptat hotărîrea şi privind desfacerea căsătoriei.
 Articolul 159. Stabilirea şi contestarea paternităţii
 (maternităţii)
@@ -768,7 +776,7 @@ Articolul 166
 (3) Reglementările referitoare la recunoaşterea ca valabilă a căsătoriei a cărei înregistrare de stat a fost efectuată la organele de stare civilă (art.2) nu se aplică căsătoriilor încheiate de cetăţenii Republicii Moldova cu respectarea ritualurilor religioase pe teritoriile ocupate care intrau în componenţa fostei U.R.S.S. în perioada celui de al doilea război mondial, pînă la constituirea sau reconstituirea organelor de stare civilă pe teritoriul Republicii Moldova.
 (4) Reglementările privind proprietatea în devălmăşie a soţilor şi privind proprietatea personală a fiecăruia dintre soţi, prevăzute la art.20-23, se vor aplica proprietăţii obţinute de către soţi (unul dintre soţi) după intrarea în vigoare a prezentului cod.
 (5) Condiţiile şi modul încheierii contractelor matrimoniale şi a contractelor cu privire la plata pensiei de întreţinere, reglementate la cap.6 şi 15, se aplică contractelor respective încheiate după intrarea în vigoare a prezentului cod. Contractele matrimoniale şi contractele cu privire la plata pensiei de întreţinere încheiate pînă la intrarea în vigoare a prezentului cod se vor aplica în măsura în care nu contravin acestuia.
-(6) Căsătoria desfăcută pe cale judecătorească pînă la intrarea în vigoare a prezentului cod se consideră desfăcută de la data înregistrării divorţului la oficiul de stare civilă.
+(6) Căsătoria desfăcută pe cale judecătorească pînă la intrarea în vigoare a prezentului cod se consideră desfăcută de la data înregistrării divorţului la oficiul stare civilă.
 (7) Stabilirea paternităţii (maternităţii), contestarea paternităţii (maternităţii) sau orice altă acţiune privitoare la starea civilă cade sub incidenţa Codului familiei şi produce efectele prevăzute de acesta şi în cazul copiilor născuţi înainte de intrarea lui în vigoare, chiar dacă cererea se află în fază de judecată.
 (8) Cererile cu privire la orice măsuri de ocrotire, acceptate în baza legilor abrogate şi aflate în fază de judecată la intrarea în vigoare a prezentului cod, vor fi soluţionate de instanţele judecătoreşti potrivit dispoziţiilor acestui cod.
 Articolul 167
