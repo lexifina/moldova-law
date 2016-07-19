@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16
 HCC10 din 10.05.16, MO204-205/12.07.16 art.58; în vigoare 10.05.16
 LP109 din 27.05.16, MO204-205/12.07.16 art.439
 LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16
@@ -789,11 +790,13 @@ Prepararea, comercializarea sau distribuirea produselor alimentare interzise pre
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice, cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura activitate pe un termen de la 3 luni la un an.
 [Art.801 introdus prin LP93 din 26.04.12, MO149-154/20.07.12 art.482; în vigoare 20.09.12]
 Articolul 81. Angajarea în întreprinderile din sectorul
-alimentar a personalului fără examen
+alimentar sau în întreprinderile care desfăşoară activităţi de întreţinere corporală a personalului fără examen
 medical şi/sau fără instruire igienică,
 şi/sau fără calificarea necesară în materie
 de igienă
-Angajarea în întreprinderile din sectorul alimentar a personalului fără examen medical şi/sau fără instruire igienică, şi/sau fără calificarea necesară în materie de igienă
+[Art.81 denumirea modificată prin LP153 din 01.07.16, MO215-216/19.07.16 art.475]
+Angajarea în întreprinderile din sectorul alimentar sau în întreprinderile care desfăşoară activităţi de întreţinere corporală a personalului fără examen medical şi/sau fără instruire igienică, şi/sau fără calificarea necesară în materie de igienă
+[Art.81 dispoziția, modificată prin LP153 din 01.07.16, MO215-216/19.07.16 art.475]
 se sancţionează cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 250 de unităţi convenţionale aplicată persoanei juridice.
 Articolul 82. Plasarea pe piaţă a noi tipuri de produse
 alimentare şi de materiale neaprobate
@@ -2436,19 +2439,23 @@ se sancționează, comerciantul, cu amendă de la 50 la 100 de unități conven�
 [Art.273 pct.5) în redacţia LP218 din 03.12.15, MO361-369/31.12.15 art.679; în vigoare 31.01.16]
 [Art.273 pct.5) modificat prin LP41 din 21.03.13, MO75-81/12.04.13 art.235]
 [Art.273 pct.5) în redacţia LP101 din 13.12.12, MO10-14/18.01.13 art.41]
+51) solicitarea/încasarea de la furnizor a plăţilor pentru serviciile care nu sînt incluse în costul de achiziţie al produselor (taxe de raft, costuri pentru extinderea reţelei de distribuţie/amenajare a suprafeţei de vînzare, costuri pentru publicitate şi pentru promovarea produselor)
+se sancționează, comerciantul, cu amendă de la 50 la 100 de unități convenționale în cazul persoanei fizice, cu amendă de la 200 la 400 de unități convenționale în cazul persoanei juridice;
+[Art.273 pct.51) introdus prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 6) lipsa indicatoarelor de preţuri sau a meniurilor la mărfurile destinate comercializării ori întocmirea lor cu încălcarea regulilor stabilite
 se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale;
 7) încălcarea modului de recepţionare, de întocmire a documentelor sau de decontare la mărfurile primite în consignaţie de la populaţie
 se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale;
 8) comercializarea mărfurilor de folosinţă îndelungată fără indicarea în documentele de însoţire a termenelor de garanţie, fără paşaport tehnic sau alt document de un model stabilit care îl înlocuieşte, precum şi fără traducerea în limba moldovenească sau în alte limbi, în modul stabilit de legislaţie, a informaţiei privind condiţiile de folosire eficientă şi inofensivă a mărfurilor de import,
 se sancţionează cu amendă de 200 de unităţi convenţionale;
-9) desfăşurarea oricărui exerciţiu comercial fără autorizaţia de funcţionare
+9) desfășurarea activităţii de comerţ fără notificarea autorităţii administraţiei publice locale
 se sancţionează cu aplicarea următoarelor amenzi:
 a) în unităţi ale comerţului ambulant, de la 50 la 100 de unităţi convenţionale;
 b) în unităţi comerciale şi/sau de prestări servicii cu suprafaţa comercială de pînă la 100 m2, de la 100 la 200 de unităţi convenţionale;
 c) în unităţi comerciale şi/sau de prestări servicii cu suprafaţa comercială de la 100 la 250 m2, de la 200 la 300 de unităţi convenţionale;
 d) în unităţi comerciale şi/sau de prestări servicii cu suprafaţa comercială de la 250 la 500 m2, de la 300 la 400 de unităţi convenţionale;
 e) în supermagazine, hipermagazine, magazine universale, centre comerciale, în pieţe, de la 400 la 500 de unităţi convenţionale;
+[Art.273 pct.9) modificat prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 10) comercializarea prin înşelăciune a unui produs neprevăzut în contract, precum şi refuzul nejustificat de a vinde un produs sau de a presta un serviciu
 se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale;
 11) desfăşurarea oricărei activităţi comerciale în perioada suspendării activităţii comerciale
@@ -2466,7 +2473,16 @@ se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale;
 c) neafişarea la loc vizibil a certificatului de clasificare a subiectului activităţii comerciale la categoria respectivă
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale;
 13) achiziţionarea de mărfuri şi de produse din reţeaua de comerţ cu amănuntul, de la întreprinderi de alimentaţie publică şi din unităţi farmaceutice şi revinderea lor la întreprinderi şi în unităţi similare din raza aceleiaşi localităţi avînd ca urmare majorarea preţurilor la aceste mărfuri şi produse
-se sancţionează cu amendă de la 200 la 300 de unităţi convenţionale.
+se sancţionează cu amendă de la 200 la 300 de unităţi convenţionale;
+14) depăşirea normativelor admise de emitere a zgomotului şi a vibraţiei
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice;
+[Art.273 pct.14) introdus prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
+15) desfăşurarea activităţii de comerţ în locuri sau în zone în cadrul cărora, conform legislaţiei şi/sau regulamentului de desfăşurare a activităţilor de comerţ în localitatea respectivă, aprobat de consiliul local, aceasta este interzisă
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei juridice;
+[Art.273 pct.15) introdus prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
+16) necorespunderea unității comerciale cu datele indicate în notificarea depusă privind inițierea activității de comerț
+se sancţionează cu amendă de la 100 la 200 de unităţi convenţionale.
+[Art.273 pct.16) introdus prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 Articolul 274. Încălcarea regulilor de comerţ în piaţă
 (1) Comercializarea fără achitarea taxei de piaţă, a taxei pentru amplasarea unităţilor comerciale, precum şi a taxelor pentru serviciile prestate,
 se sancţionează cu amendă de la 50 la 70 de unităţi convenţionale.
@@ -4152,7 +4168,8 @@ Articolul 402. Organele de inspectare financiară/
 control financiar şi organele fiscale
 ale Ministerului Finanţelor
 [Art.402 titlul în redacţia LP241 din 02.11.12, MO242-244/23.11.12 art.777]
-(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art.273 alin. (5), art. 275 alin. (2), art. 277 alin. (2), (3), (6), (8) și (9), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art. 273 pct. 5) și 51), art. 275 alin. (2), art. 277 alin. (2), (3), (6), (8) și (9), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+[Art.402 al.(1) modificat prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 [Art.402 al.(1) modificat prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.402 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
 [Art.402 al.(1) modificat prin LP218 din 03.12.15, MO361-369/31.12.15 art.679; în vigoare 31.01.16]
@@ -4213,7 +4230,8 @@ pentru control geologic şi supraveghere minieră
 Articolul 406. Organele supravegherii supravegherii
 de stat a sănătăţii publice
 [Art.406 titlul modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
-(1) Contravențiile prevăzute la art. 80–83, art. 911 alin. (1)–(15) şi (17), art. 115 alin. (1), (2) și (4), art. 155, 268–271, 276 şi 3641 se examinează de organele supravegherii de stat a sănătății publice.
+(1) Contravențiile prevăzute la art. 80–83, art. 911 alin. (1)–(15) şi (17), art. 115 alin. (1), (2) și (4), art. 155, 273 pct. 14), art. 276 şi 3641 se examinează de organele supravegherii de stat a sănătății publice.
+[Art.406 al.(1) modificat prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 [Art.406 al.(1) în redacția LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.406 al.(1) modificat prin LP198 din 12.07.12, MO190-192/14.09.12 art.648]
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni medicul-şef sanitar de stat al Republicii Moldova şi adjuncţii lui, medicii-şefi sanitari de stat ai raioanelor şi oraşelor (municipiilor).
@@ -4238,7 +4256,8 @@ a) conducătorul organului de specialitate al administraţiei publice în domeni
 [Art.407 al.(5), lit.a) modificată prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
 b) comandanţii aeronavelor civile în perioada de îndeplinire a misiunii de zbor, pentru contravenţiile prevăzute la art.210.
 Articolul 408. Agenţia pentru Protecţia Consumatorilor
-(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–13), 274 alin. (2)–(4), (6), (7), 971–972, 278–281, 2932 alin. (4) şi (5), 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
+(1) Contravenţiile specificate la art. 84, 273 pct. 1)–4), 6)–8), 10), 12), 13), 274 alin. (2)–(4), (6), (7), 971–972, 278–281, 2932 alin. (4) şi (5), 344–348, art. 349 alin. (4) se constată şi se examinează de Agenţia pentru Protecţia Consumatorilor.
+[Art.408 al.(1) modificat prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 [Art.408 al.(1) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.408 al.(1) modificat prin LP43 din 27.03.14, MO99-102/25.04.14 art.247]
 [Art.408 al.(1) modificat prin LP321 din 23.12.13, MO27-34/07.02.14 art.67; în vigoare 07.08.14]
@@ -4418,6 +4437,11 @@ c) directorul general al Agenţiei Naţionale Arheologice, directorul adjunct ş
 d) reprezentanții organelor de poliție, în cazul contravențiilor prevăzute la art. 74 alin. (1)–(8).
 (5) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 [Art.4238 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
+Articolul 4239. Administrația publică locală
+(1) Contravențiile prevăzute la art. 273 pct. 9), 11), 15) și 16) se constată de serviciile administrației publice locale.
+(2) Au dreptul să constate contravenții și să încheie procese-verbale reprezentanții autorității administrației publice locale în limitele competenței sau agentul constatator desemnat de către primar.
+(3) Procesele-verbale cu privire la contravenții se remit spre examinare comisiilor administrative.
+[Art.4239 introdus prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 Articolul 424. Remiterea materialelor către procuror,
 către ofiţerul de urmărire penală
 Dacă, în procesul examinării cauzei contravenţionale, se constată că încălcarea conţine elementele constitutive ale infracţiunii, agentul constatator remite materialele procurorului sau ofiţerului de urmărire penală, după competenţă.
