@@ -13,6 +13,7 @@ Publicat : 26.04.2001
 Nr. 47-48
 art Nr : 210
 MODIFICAT
+LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
 LP150 din 01.07.16, MO206-214/15.07.16 art.452
 LP140 din 14.06.13, MO167-172/02.08.13 art.534; în vigoare 01.01.14
 LP107 din 11.05.12, MO120-125/15.06.12 art.396
@@ -192,7 +193,8 @@ Articolul 31. Încetarea şi declararea nulităţii contractului
 matrimonial
 (1) Clauzele contractului matrimonial se sting din momentul încetării căsătoriei, cu excepţia celor care au fost stipulate pentru perioada de după încetarea căsătoriei.
 (2) Contractul matrimonial, în baza temeiurilor prevăzute de Codul civil, poate fi declarat nul, total sau parţial, de către instanţa judecătorească.
-(3) La cererea unuia dintre soţi sau a procurorului, instanţa judecătorească este în drept să declare nulitatea, totală sau parţială, a contractului matrimonial dacă acesta conţine clauze care lezează drepturile şi interesele unuia dintre soţi, ale copiilor minori ori ale altor persoane ocrotite prin lege.
+(3) La cererea unuia dintre soţi sau a autorităţii tutelare, instanţa judecătorească este în drept să declare nulitatea, totală sau parţială, a contractului matrimonial dacă acesta conţine clauze care lezează drepturile şi interesele unuia dintre soţi, ale copiilor minori ori ale altor persoane ocrotite prin lege.
+[Art.31 al.(3) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 Articolul 32. Garanţiile drepturilor creditorilor la încheierea,
 modificarea şi rezilierea contractului
 matrimonial
@@ -255,10 +257,14 @@ b) a fost încheiată cînd soţii sau unul dintre ei nu a avut intenţia de a c
 Articolul 42. Persoanele care au dreptul să ceară
 declararea nulităţii căsătoriei
 (1) Dreptul de a cere declararea nulităţii căsătoriei îl au următoarele persoane:
-a) soţul minor, părinţii lui (tutorii), autoritatea tutelară sau procurorul, dacă căsătoria a fost încheiată de o persoană care nu a atins vîrsta matrimonială şi această vîrstă nu a fost redusă în modul stabilit. După atingerea de către soţul minor a vîrstei de 18 ani, dreptul de a cere declararea nulităţii căsătoriei îi aparţine numai lui;
-b) soţul ale cărui drepturi au fost încălcate prin încheierea căsătoriei, precum şi procurorul în cazurile viciului de consimţămînt;
-c) soţul care nu a ştiut despre existenţa impedimentelor la căsătorie, tutorele soţului declarat incapabil, soţul din căsătoria precedentă nedesfăcută, alte persoane ale căror drepturi şi interese au fost lezate în urma căsătoriei încheiate cu încălcarea prevederilor art.15, precum şi autoritatea tutelară sau procurorul, în cazurile menţionate mai sus;
-d) soţul de bună-credinţă şi procurorul, în cazul în care a fost încheiată o căsătorie fictivă.
+a) soţul minor, părinţii lui (tutorii) sau autoritatea tutelară, dacă căsătoria a fost încheiată de o persoană care nu a atins vîrsta matrimonială şi această vîrstă nu a fost redusă în modul stabilit. După atingerea de către soţul minor a vîrstei de 18 ani, dreptul de a cere declararea nulităţii căsătoriei îi aparţine numai lui;
+[Art.42 al.(1), lit.a) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
+b) soţul ale cărui drepturi au fost încălcate prin încheierea căsătoriei;
+[Art.42 al.(1), lit.b) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
+c) soţul care nu a ştiut despre existenţa impedimentelor la căsătorie, tutorele soţului declarat incapabil, soţul din căsătoria precedentă nedesfăcută, alte persoane ale căror drepturi şi interese au fost lezate în urma căsătoriei încheiate cu încălcarea prevederilor art.15, precum şi autoritatea tutelară, în cazurile menţionate mai sus;
+[Art.42 al.(1), lit.c) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
+d) soţul de bună-credinţă, în cazul în care a fost încheiată o căsătorie fictivă.
+[Art.42 al.(1), lit.d) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 (2) Examinarea cererii privind declararea nulităţii căsătoriei încheiate cu un minor care nu a atins vîrsta matrimonială sau cu o persoană declarată incapabilă are loc cu participarea obligatorie a reprezentantului autorităţii tutelare.
 Articolul 43. Îmrejurările care înlătură nulitatea
 căsătoriei
@@ -319,7 +325,8 @@ Articolul 52. Dreptul copilului de a comunica cu părinţii
 (2) Copilul aflat în situaţii extreme (reţinere, arest etc.) are dreptul să ia legătura cu părinţii sau cu alte rude în modul stabilit. Dacă nu este posibil de a contacta părinţii sau rudele copilului, va fi anunţată imediat autoritatea tutelară.
 Articolul 53. Dreptul copilului de a fi protejat
 (1) Copilului i se garantează apărarea drepturilor şi intereselor sale legitime.
-(2) Apărarea drepturilor şi intereselor legitime ale copilului se asigură de părinţi sau persoanele care îi înlocuiesc, iar în cazurile prevăzute de lege - de procuror, autoritatea tutelară sau de alte organe abilitate.
+(2) Apărarea drepturilor şi intereselor legitime ale copilului se asigură de părinţi sau persoanele care îi înlocuiesc, iar în cazurile prevăzute de lege - de autoritatea tutelară sau de alte organe abilitate.
+[Art.53 al.(2) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 (3) Minorul care a căpătat capacitatea deplină de exerciţiu pînă la atingerea majoratului îşi apără drepturile şi interesele legitime de sine stătător.
 (4) Copilul are dreptul la protecţie contra abuzurilor, inclusiv contra pedepsei corporale din partea părinţilor sau a persoanelor care îi înlocuiesc.
 [Art.53 al.(4) modificat prin LP120-XVI din 29.05.08, MO125-126/15.07.08 art.489]
@@ -402,7 +409,8 @@ h) în alte cazuri cînd aceasta o cer interesele copilului.
 Articolul 68. Modalitatea de decădere din drepturile
 părinteşti
 (1) Decăderea din drepturile părinteşti are loc numai pe cale judecătorească.
-(2) Acţiunea privind decăderea din drepturile părinteşti poate fi pornită de celălalt părinte, tutorele copilului, autoritatea tutelară sau procurorul.
+(2) Acţiunea privind decăderea din drepturile părinteşti poate fi pornită de celălalt părinte, tutorele copilului, autoritatea tutelară.
+[Art.68 al.(2) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 (3) Cererea privind decăderea din drepturile părinteşti se examinează cu participarea obligatorie a autorităţii tutelare.
 (4) Instanţa judecătorească este obligată să transmită, în termen de 3 zile din momentul cînd hotărîrea privind decăderea din drepturile părinteşti a rămas definitivă, o copie a acesteia oficiului de stare civilă din raza teritorială a instanţei.
 Articolul 69. Efectele decăderii din drepturile părinteşti
@@ -542,7 +550,8 @@ privind plata pensiei de întreţinere
 (2) Contractul privind plata pensiei de întreţinere poate fi, în orice moment, modificat sau reziliat în baza acordului dintre părţi. Modificarea sau rezilierea contractului se perfectează în scris şi se autentifică notarial.
 (3) Modificarea unilaterală a contractului privind plata pensiei de întreţinere sau refuzul unilateral de a-l executa sînt inadmisibile.
 (4) În caz de modificare esenţială a situaţiei materiale sau familiale a părţilor, dacă acestea nu pot ajunge la o înţelegere referitoare la modificarea sau rezilierea contractului privind plata pensiei de întreţinere, partea interesată poate porni în instanţa judecătorească o acţiune privind modificarea sau rezilierea acestuia. Instanţa judecătorească soluţionează litigiul ţinînd cont de starea materială şi familială a părţilor, de alte circumstanţe importante.
-(5) Dacă contractul privind plata pensiei de întreţinere contravine intereselor copilului minor sau major incapabil, acesta poate fi declarat nul de către instanţa judecătorească la cererea reprezentanţilor legali ai copilului, a autorităţii tutelare sau a procurorului.
+(5) Dacă contractul privind plata pensiei de întreţinere contravine intereselor copilului minor sau major incapabil, acesta poate fi declarat nul de către instanţa judecătorească la cererea reprezentanţilor legali ai copiluluisau a autorităţii tutelare.
+[Art.94 al.(5) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 Articolul 95. Cuantumul pensiei de întreţinere stabilite
 prin contract
 (1) Cuantumul pensiei de întreţinere stabilite prin contract se determină de către părţi la încheierea contractului corespunzător.
