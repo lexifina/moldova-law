@@ -14,6 +14,8 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP102 din 21.07.16, MO256-267/12.08.16 art.547; în vigoare 12.11.16
+LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
 LP71 din 14.04.16, MO140-149/27.05.16 art.291
 LP52 din 01.04.16, MO106-113/22.04.16 art.209
 LP205 din 20.11.15, MO340-346/18.12.15 art.658
@@ -607,7 +609,9 @@ a) buletinul de identitate sau un alt act de identitate;
 b) carnetul de muncă, cu excepţia cazurilor cînd persoana se încadrează în cîmpul muncii pentru prima dată sau se angajează la o muncă prin cumul;
 c) documentele de evidenţă militară – pentru recruţi şi rezervişti;
 d) diploma de studii, certificatul de calificare ce confirmă pregătirea specială – pentru profesiile care cer cunoştinţe sau calităţi speciale;
-e) certificatul medical, în cazurile prevăzute de legislaţia în vigoare.
+e) certificatul medical, în cazurile prevăzute de legislaţia în vigoare;
+f) declaraţia pe propria răspundere cu privire la faptul că, pe durata activităţii la locurile de muncă precedente, nu a încălcat prevederile art. 6 alin. (2) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituționale, cu excepţia cazurilor cînd persoana se încadrează în cîmpul muncii pentru prima dată.
+[Art.57 al.(1), lit.f) introdusă prin LP102 din 21.07.16, MO256-267/12.08.16 art.547; în vigoare 12.11.16]
 (2) Se interzice angajatorilor să ceară de la persoanele care se angajează alte documente decît cele prevăzute la alin.(1), precum şi de alte acte legislative.
 [Art.57 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 58. Forma şi începutul acţiunii contractului
@@ -883,6 +887,8 @@ h) absenţa repetată fără motive întemeiate de la lucru timp de 4 ore consec
 i) prezentarea la lucru în stare de ebrietate alcoolică, narcotică sau toxică, stabilită în modul prevăzut la art.76 lit.k);
 j) săvîrşirea la locul de muncă a unei sustrageri (inclusiv în proporţii mici) din patrimoniul unităţii, stabilite prin hotărîre a instanţei de judecată sau a organului de competenţa căruia ţine aplicarea sancţiunilor administrative;
 k) comiterea de către salariatul care mînuieşte nemijlocit valori băneşti sau materiale a unor acţiuni culpabile dacă aceste acţiuni pot servi temei pentru pierderea încrederii angajatorului faţă de salariatul respectiv;
+k1) încălcarea obligației prevăzute la art. 6 alin. (2) lit. a) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale;
+[Art.86 al.(1), lit.k1) introdusă prin LP102 din 21.07.16, MO256-267/12.08.16 art.547; în vigoare 12.11.16]
 l) încălcarea gravă repetată, pe parcursul unui an, a statutului instituţiei de învăţămînt de către un cadru didactic (art.301);
 m) comiterea de către salariatul care îndeplineşte funcţii educative a unei fapte imorale incompatibile cu funcţia deţinută;
 n) aplicarea, chiar şi o singură dată, de către un cadru didactic a violenţei fizice sau psihice faţă de discipoli (art.301);
@@ -2575,8 +2581,8 @@ a) salariaţii, precum şi orice alte persoane titulare ale unor drepturi şi/sa
 b) angajatorii persoane fizice şi juridice;
 c) sindicatele şi alţi reprezentanţi ai salariaţilor;
 d) patronatele;
-e) autorităţile publice centrale şi locale, după caz;
-f) procurorul, conform legislaţiei în vigoare.
+e) autorităţile publice centrale şi locale, după caz.
+[Art.349 lit.f) abrogată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 Articolul 350. Principiile jurisdicţiei muncii
 Principiile jurisdicţiei muncii sînt:
 a) concilierea intereselor divergente ale părţilor, ce decurg din raporturile prevăzute la art.348;
