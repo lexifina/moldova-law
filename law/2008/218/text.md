@@ -15,6 +15,8 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
+LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16
 LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16
 HCC10 din 10.05.16, MO204-205/12.07.16 art.58; în vigoare 10.05.16
 LP109 din 27.05.16, MO204-205/12.07.16 art.439
@@ -268,9 +270,10 @@ Articolul 29. Împăcarea victimei cu făptuitorul
 Procesul contravenţional pornit încetează în cazul împăcării victimei cu făptuitorul în contravenţiile prevăzute la art.78, art.96 alin.(1), (2), art.100, 101, 103, 105, 242. Împăcarea este personală. Pentru persoanele lipsite de capacitate de exerciţiu, împăcarea se face de reprezentanţii lor legali. Persoanele cu capacitate de exerciţiu limitată se pot împăca cu încuviinţarea reprezentanţilor lor legali.
 Articolul 30. Prescripţia răspunderii contravenţionale
 (1) Prescripţia înlătură răspunderea contravenţională.
-(2) Termenul general de prescripţie a răspunderii contravenţionale este de 3 luni.
+(2) Termenul general de prescripţie a răspunderii contravenţionale este de 12 luni.
+[Art.30 al.(2) modificat prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 [Art.30 al.(2) modificat prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
-(21) Termenul special de prescripţie pentru contravenţiile prevăzute în capitolul XV al cărţii întîi este de 12 luni.
+[Art.30 al.(21) abrogat prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 [Art.30 al.(21) introdus prin LP178 din 11.07.12, MO190-192/14.09.12 art.644; în vigoare 14.09.12]
 (3) Termenul de prescripţie curge de la data săvîrşirii contravenţiei.
 (4) În cazul contravenţiei continue şi contravenţiei prelungite, termenul de prescripţie curge de la data săvîrşirii ultimei acţiuni sau a inacţiunii.
@@ -3212,9 +3215,13 @@ se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale cu priv
 Articolul 3131. Protecţionismul
 Protecţionismul, adică sprijinul la soluţionarea problemelor persoanelor fizice sau juridice neprevăzut de actele normative, indiferent de motive, care nu conţine elemente de infracţiune, acordat în exerciţiul funcţiunii de către persoana care activează în cadrul unei autorităţi publice, instituţii publice, întreprinderi de stat sau municipale ori în cadrul unei societăţi comerciale cu capital majoritar de stat, se sancţionează cu amendă de la 100 la 300 de unităţi convenţionale.
 [Art.3131 introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
-Articolul 3132. Nedeclararea conflictului de interese
-Nedeclararea conflictului de interese de către persoana care activează în cadrul unei autorităţi publice, instituţii publice, întreprinderi de stat sau municipale ori în cadrul unei societăţi comerciale cu capital majoritar de stat
-se sancţionează cu amendă de la 100 la 300 de unităţi convenţionale.
+Articolul 3132. Nedeclararea sau nesoluționarea
+conflictului de interese
+(1) Nedeclararea conflictului de interese de către persoana care activează în cadrul unei organizații publice în sensul Legii nr. 133 din 17 iunie 2016 privind declararea averii și intereselor personale
+se sancţionează cu amendă de la 75 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
+(2) Nesoluționarea conflictului de interese în conformitate cu prevederile Legii privind declararea averii și intereselor personale
+se sancționează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere cu privarea, în ambele cazuri, de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an.
+[Art.3132 în redacția LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 [Art.3132 introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
 Articolul 3133. Excesul de putere privind actele permisive
 (1) Tergiversarea nemotivată şi/sau depăşirea perioadei de timp stabilite de lege pentru eliberarea actului permisiv, precum şi eliberarea actului permisiv pe un termen de valabilitate mai mic decît termenul prevăzut de Nomenclatorul actelor permisive
@@ -3222,6 +3229,12 @@ se sancţionează cu amendă de la 50 la 75 de unităţi convenţionale aplicat�
 (2) Cererea de a deţine şi/sau eliberarea unui act permisiv care nu este inclus în Nomenclatorul actelor permisive, stabilirea şi/sau aplicarea unei plăţi pentru eliberarea actului permisiv într-un cuantum mai mare decît plata prevăzută de Nomenclatorul actelor permisive, refuzul nemotivat de eliberare a actului permisiv, invocarea şi aplicarea unor cerinţe şi proceduri de eliberare a actelor permisive care nu corespund legii, precum şi retragerea nemotivată a actului permisiv
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei cu funcţii de răspundere, cu sau fără privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an
 [Art.3133 introdus prin LP162 din 22.07.11, MO170-175/14.10.11 art.498]
+Articolul 3134. Încălcarea regimului juridic al restricțiilor
+aplicabile funcției publice sau de demnitate
+publică
+Angajarea subiectului declarării averii și intereselor personale cu încălcarea regimului juridic al restricțiilor
+se sancţionează cu amendă de la 75 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 300 de unităţi convenţionale aplicată persoanei cu funcţii de răspundere, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei juridice.
+[Art.3134 introdus prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 Articolul 314. Tăinuirea unui act de corupţie ori
 a unui act conex acestuia sau
 neluarea măsurilor de rigoare
@@ -3266,11 +3279,13 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale.
 (3) Efectuarea actelor de executare silită de către altă persoană decît executorul judecătoresc
 se sancţionează cu amendă de la 75 la 150 de unităţi convenţionale.
 [Art.319 în redacţia LP37 din 07.03.12, MO60-62/30.03.12 art.195]
-Articolul 3191. Neexecutarea solicitărilor Comisiei
-Naţionale de Integritate
-(1) Neprezentarea datelor, a informaţiilor, a înscrisurilor sau a documentelor solicitate de Comisia Naţională de Integritate în condiţiile art. 11 alin. (3) din Legea nr. 1264-XV din 19 iulie 2002 privind declararea şi controlul veniturilor şi al proprietăţii persoanelor cu funcţii de demnitate publică, judecătorilor, procurorilor, funcţionarilor publici şi a unor persoane cu funcţie de conducere se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 200 la 350 de unităţi convenţionale aplicată persoanei juridice.
-(2) Neaplicarea sancţiunii disciplinare sau neemiterea actului privind încetarea mandatului, a raporturilor de muncă ori de serviciu, dacă actul de constatare al Comisiei Naţionale de Integritate a rămas definitiv,
-se sancţionează cu amendă de la 100 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+Articolul 3191. Împiedicarea activităţii Autorității
+Naționale de Integritate
+(1) Neprezentarea, prezentarea tardivă a datelor, a informaţiilor, a înscrisurilor sau a documentelor solicitate de Autoritatea Națională de Integritate în condiţiile Legii nr. 132 din 17 iunie 2016 cu privire la Autoritatea Națională de Integritate şi/sau prezentarea unor date, informaţii, înscrisuri sau documente neautentice
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 300 la 400 de unităţi convenţionale aplicată persoanei juridice.
+(2) Neexecutarea actului de constatare al Autorității Naționale de Integritate rămas definitiv
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 300 la 450 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 350 la 500 de unităţi convenţionale aplicată persoanei juridice.
+[Art.3191 în redacția LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 [Art.3191 introdus prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
 Articolul 3192. Neexecutarea hotărîrilor Curţii
 de Conturi
@@ -3398,11 +3413,15 @@ se sancţionează cu amendă de la 30 la 100 de unităţi convenţionale aplicat
 se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 150 la 300 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
 [Art.3301 modificat prin LP38 din 27.03.14, MO92-98/18.04.14 art.228]
 [Art.3301 introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
-Articolul 3302. Încălcarea termenelor de declarare
-a veniturilor şi a proprietăţii sau
-a intereselor personale
-Nedepunerea declaraţiei cu privire la venituri şi proprietate sau a declaraţiei de interese personale, în termenele stabilite de legislaţie, de către persoana obligată să o depună
-se sancţionează cu amendă de la 75 la 150 de unităţi convenţionale.
+Articolul 3302. Încălcarea regulilor de declarare
+a averii și intereselor personale
+(1) Depunerea tardivă a declarației de avere și interese personale de către persoana obligată să o depună în condiţiile Legii nr. 133 din 17 iunie 2016 privind declararea averii și intereselor personale
+se sancționează cu amendă de la 50 la 100 de unități convenționale.
+(2) Nedepunerea declarației de avere și interese personale de către persoana obligată să o depună
+se sancționează cu amendă de la 100 la 150 de unități convenționale.
+(3) Neprezentarea sau refuzul prezentării informației privind averea și veniturile de către membrii familiei și/sau concubinul/concubina
+se sancționează cu amendă de la 100 la 150 de unități convenționale.
+[Art.3302 în redacția LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 [Art.3302 introdus prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
 Articolul 3303. Încălcarea legislaţiei şi a reglementărilor
 din domeniul ajutorului de stat
@@ -3989,10 +4008,12 @@ a) să pornească procesul contravenţional;
 b) să aplice în cazurile prevăzute de lege sancţiune contravenţională;
 c) să solicite aplicarea de către instanţa de judecată a unei sancţiuni contravenţionale;
 d) să participe la examinarea cauzei în instanţă de judecată atunci cînd procesul contravenţional a fost pornit de el;
-e) să verifice legalitatea acţiunilor agentului constatator;
-f) să atace decizia agentului constatator sau a instanţei de judecată;
+e) să verifice legalitatea acţiunilor agentului constatator, conform prevederilor art. 396 alin. (4);
+[Art.386 al.(2), lit.e) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
+f) să atace decizia agentului constatator sau a instanţei de judecată, conform prevederilor art. 396 alin. (4);
+[Art.386 al.(2), lit.f) modificată prinLP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 g) să exercite alte drepturi prevăzute de lege.
-(3) Procurorul este în drept, în termen de 15 zile, să atace decizia agentului constatator emisă în cazul contravenţional. Contestaţia se declară şi se examinează în conformitate cu prevederile art.448 şi ale capitolului VII din cartea a doua.
+[Art.386 al.(3) abrogat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 Articolul 387. Victima
 (1) Este victimă persoana fizică sau persoana juridică căreia, prin contravenţie, i-au fost cauzate prejudicii morale, fizice sau materiale.
 (2) Victima îşi realizează drepturile şi îşi execută obligaţiile personal ori prin reprezentanţi, în condiţiile legii. Dacă victima este un minor sau o persoană în stare de iresponsabilitate, drepturile ei sînt realizate de reprezentanţii săi legali în modul stabilit de prezentul cod.
@@ -4086,14 +4107,17 @@ c) cauzele contravenţionale în care agentul constatator, procurorul propun apl
 2) contestaţiile împotriva hotărîrilor autorităţilor competente să soluţioneze cauzele contravenţionale, procurorului.
 (2) Instanţa de judecată este competentă să aplice măsuri de siguranţă şi amendă judiciară.
 (3) Instanţa de recurs judecă recursul pronunţîndu-se prin decizie.
-Articolul 396. Competenţa procurorului
-(1) Procurorul examinează contravenţiile prevăzute la art. 541, 63–68, 88, art.197 alin. (27), art.312, 313, 3133, 316, 317, 320, 323, 324, 335–337, 351–353 şi cele pe care le-a depistat în exerciţiul funcţiunii.
-[Art.396 al.(1) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
-[Art.396 al.(1) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
-[Art.396 al.(1) modificat prin LP162 din 22.07.11, MO170-175/14.10.11 art.498]
-[Art.396 al.(1) modificat prin LP102 din 28.05.10, MO135-137/03.08.10; în vigoare 01.01.12]
-(2) În cazul refuzului începerii urmăririi penale, încetării urmăririi penale din cauza că fapta constituie o contravenţie, precum şi în cazul liberării de răspundere penală a persoanei cu tragerea la răspundere contravenţională, procurorul dispune pornirea procesului contravenţional şi ori examinează cauza în limitele competenţei sale, ori expediază materialele acumulate, conform competenţei, altor organe pentru examinare.
-(3) Prin ordonanţă motivată, procurorul poate aplica orice sancţiune contravenţională, cu excepţia sancţiunii a cărei aplicare este de competenţa instanţei de judecată.
+Articolul 396. Competența procurorului
+(1) Procurorul emite ordonanța cu privire la contravenţia pe care a constatat-o în exerciţiul funcţiunii şi o transmite autorității publice cu competență de examinare a contravențiilor.
+(2) Procurorul constată şi examinează contravenţiile prevăzute la art. 336.
+(3) În cazul refuzului începerii urmăririi penale, încetării urmăririi penale din cauza că fapta constituie o contravenţie, procurorul dispune, prin ordonanță motivată, pornirea procesului contravenţional şi, prin derogare de la alin. (1), examinează cauza.
+(4) În cadrul controlului respectării legislației la înregistrarea de către subdiviziunile competente subordonate Ministerului Afacerilor Interne, de către Centrul Naţional Anticorupţie, Serviciul Vamal a sesizărilor despre săvîrșirea contravențiilor și infracțiunilor, procurorul este în drept să verifice legalitatea acțiunilor agentului constatator, să pornească procesul contravențional, să atace decizia agentului constatator în instanța de judecată.
+(5) Decizia procurorului poate fi contestată în termen de 15 zile de la emitere și se examinează în conformitate cu prevederile art. 448 şi ale capitolului VII din cartea a doua.
+[Art.396 în redacția LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
+[Art.396 modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
+[Art.396 modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
+[Art.396 modificat prin LP162 din 22.07.11, MO170-175/14.10.11 art.498]
+[Art.396 modificat prin LP102 din 28.05.10, MO135-137/03.08.10; în vigoare 01.01.12]
 Articolul 397. Modul de formare a comisiei administrative
 (1) Comisia administrativă de pe lîngă autoritatea publică locală executivă se formează de către consiliul local (sătesc, comunal, orăşenesc, municipal) în componenţa preşedintelui, vicepreşedintelui, secretarului responsabil şi a 4–7 membri.
 (2) Obligaţiile preşedintelui, vicepreşedintelui, secretarului responsabil ai comisiei administrative se stabilesc prin regulament.
@@ -4133,7 +4157,8 @@ Articolul 400. Ministerul Afacerilor Interne
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni în limitele competenţei şefii de direcţii şi adjuncţii lor, şefii inspectoratelor de poliţie şi adjuncţii lor, şefii secţiilor de poliţie, şefii sectoarelor de poliţie, şefii posturilor de poliţie, ofiţerii principali de sector, ofiţerii superiori de sector, ofiţerii de sector, angajaţii secţiilor securitate publică, angajaţii serviciilor patrulare, angajaţii secţiilor supraveghere transport şi circulaţie rutieră, angajaţii serviciilor supraveghere tehnică şi accidente rutiere ale inspectoratelor de poliţie, angajaţii Inspectoratului naţional de patrulare şi ai Inspectoratului naţional de investigaţii din cadrul Inspectoratului General al Poliţiei.
 [Art.400 al.(2) în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 (3) Sînt în drept să examineze cauzele privind încălcarea regulilor de apărare împotriva incendiilor şi să aplice sancţiuni şeful Direcţiei salvatori şi pompieri şi adjuncţii lui, şefii detaşamentelor, unităţilor, posturilor paramilitare şi militare de salvatori şi pompieri din subordinea direcţiei, şefii subunităţilor specializate.
-(4) Contravenţiile prevăzute la art.62, 75, 76, 92, 181, 227, 233, 237, 243, 322, 3304, 3321 alin. (1), art. 3341, art.2771 alin.(3) se constată de poliţie.
+(4) Contravenţiile prevăzute la art.541, 62–68, 75, 76, 88, 92, 181, 227, 233, 237, 243, 317, 320, 322–324, 3304, 3321 alin. (1), art. 3341, art.2771 alin.(3), art. 335–337, 351–353 se constată de poliţie.
+[Art.400 al.(4) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 [Art.400 al.(4) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.400 al.(4) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(4) modificat prin LP34 din 19.03.15, MO93/14.04.15 art.132]
@@ -4148,7 +4173,8 @@ Articolul 400. Ministerul Afacerilor Interne
 [Art.400 al.(5) în redacția LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(5) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(5) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
-(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art.233, 237, 243, 322, 3304, art.2771 alin.(3) se remit spre examinare în fond instanţei de judecată competente.
+(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art.541, 62–68, 88, 233, 237, 243, 317, 320, 322–324, 3304, art.2771 alin.(3), art. 335–337, 351–353 se remit spre examinare în fond instanţei de judecată competente.
+[Art.400 al.(6) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 [Art.400 al.(6) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
 [Art.400 al.(6) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 [Art.400 al.(6) modificat prin LP34 din 19.03.15, MO93/14.04.15 art.132]
@@ -4157,7 +4183,9 @@ Articolul 400. Ministerul Afacerilor Interne
 [Art.400 al.(6) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(6) introdus prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
 Articolul 401. Centrul Naţional Anticorupţie
-(1) Contravenţiile prevăzute la art. 264, 3131, 3132, 314, 3141 şi 315 se examinează de Centrul Naţional Anticorupţie. Contravenţiile prevăzute la art. 2912–2919 se examinează de Serviciul Prevenirea şi Combaterea Spălării Banilor al Centrului Naţional Anticorupţie.
+(1) Contravenţiile prevăzute la art. 264, 312, 313, 3131, 3133, 314, 3141, 315 şi 316 se examinează de Centrul Naţional Anticorupţie. Contravenţiile prevăzute la art. 2912–2919 se examinează de Serviciul Prevenirea şi Combaterea Spălării Banilor al Centrului Naţional Anticorupţie.
+[Art.401 al.(1) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
+[Art.401 al.(1) modificat prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni directorul, directorii adjuncţi ai Centrului Naţional Anticorupţie, şefii subdiviziunilor teritoriale ale acestuia şi adjuncţii lor, precum şi şeful şi şeful adjunct al Serviciului Prevenirea şi Combaterea Spălării Banilor al Centrului Naţional Anticorupţie, iar în cazul contravenţiilor prevăzute la art. 2912–2919 – doar şeful şi şeful adjunct al Serviciului Prevenirea şi Combaterea Spălării Banilor.
 [Art.401 în redacţia LP287 din 05.12.13, MO27-34/07.02.14 art.63]
 [Art.401 modificat prin LP120 din 25.05.12, MO103/29.05.12 art.353; în vigoare 01.10.12]
@@ -4396,10 +4424,13 @@ a Activităţilor Nucleare şi Radiologice
 (2) Sînt în drept să constate contravenţii şi să încheie procese-verbale inspectorul principal de stat în domeniul reglementării activităţilor nucleare şi radiologice şi adjunctul lui, colaboratorii Secţiei inspectorat din cadrul Agenţiei Naţionale de Reglementare a Activităţilor Nucleare şi Radiologice.
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 [Art.4232 introdus prin LP147 din 15.07.11, MO131-133/12.08.11 art.399]
-Articolul 4233. Comisia Naţională de Integritate
-(1) Contravenţiile prevăzute la art. 3191 şi 3302 se constată de Comisia Naţională de Integritate.
-(2) Sînt în drept să constate contravenţii şi să încheie procese-verbale preşedintele, vicepreşedintele şi membrii Comisiei Naţionale de Integritate.
-(3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
+Articolul 4233. Autoritatea Națională de Integritate
+(1) Contravenţiile prevăzute la art. 3133, 3191 şi 3302 se examinează de Autoritatea Națională de Integritate, ținîndu-se cont de prevederile art. 4239 alin. (1).
+(2) Sînt în drept să examineze cauzele contravenţionale prevăzute la alin. (1) şi să aplice sancţiuni inspectorii de integritate ai Autorității Naționale de Integritate.
+(3) Contravenţiile prevăzute la art. 3132 se constată de Autoritatea Națională de Integritate.
+(4) Sînt în drept să constate contravenţiile menţionate la alin. (3) și să încheie procese-verbale inspectorii de integritate ai Autorității Naționale de Integritate.
+(5) Procesele-verbale cu privire la contravenţiile prevăzute la alin. (3) se remit spre examinare în fond instanţei de judecată competente.
+[Art.4233 în redacția LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 [Art.4233 introdus prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
 Articolul 4234. Centrul Naţional pentru Protecţia
 Datelor cu Caracter Personal
@@ -4437,6 +4468,11 @@ c) directorul general al Agenţiei Naţionale Arheologice, directorul adjunct ş
 d) reprezentanții organelor de poliție, în cazul contravențiilor prevăzute la art. 74 alin. (1)–(8).
 (5) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 [Art.4238 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
+Articolul 4239. Consiliul de Integritate
+(1) Contravenţiile prevăzute la art. 3132, 3133, 3191 şi 3302 se constată de Consiliul de Integritate în privința președintelui și vicepreședintelui Autorității Naționale de Integritate.
+(2) Este în drept să constate contravenţiile menţionate la alin. (1) și să încheie procese-verbale președintele Consiliului de Integritate.
+(3) Procesele-verbale cu privire la contravenţiile prevăzute la alin. (1) se remit spre examinare în fond instanţei de judecată competente.
+[Art.4239 introdus prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 Articolul 4239. Administrația publică locală
 (1) Contravențiile prevăzute la art. 273 pct. 9), 11), 15) și 16) se constată de serviciile administrației publice locale.
 (2) Au dreptul să constate contravenții și să încheie procese-verbale reprezentanții autorității administrației publice locale în limitele competenței sau agentul constatator desemnat de către primar.
