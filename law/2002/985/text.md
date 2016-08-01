@@ -14,6 +14,9 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
+LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16
+LP123 din 02.06.16, MO232-244/29.07.16 art.492
 LP130 din 09.06.16, MO206-214/15.07.16 art.446
 LP121 din 02.06.16, MO184-192/01.07.16 art.395
 LP105 din 26.05.16, MO184-192/01.07.16 art.391
@@ -323,7 +326,8 @@ g) prescripţiei de tragere la răspundere penală.
 Articolul 54. Liberarea de răspundere penală
 a minorilor
 (1) Persoana în vîrstă de pînă la 18 ani care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă poate fi liberată de răspundere penală în conformitate cu prevederile procedurii penale dacă s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
-(2) Persoanelor liberate de răspundere penală, în conformitate cu alin.(1), li se pot aplica măsurile de constrîngere cu caracter educativ, prevăzute la art.104.
+(2) Persoanelor liberate de răspundere penală, în conformitate cu alin.(1), li se aplică măsurile de constrîngere cu caracter educativ, prevăzute la art.104.
+[Art.54 al.(2) modificat prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
 Articolul 55. Liberarea de răspundere penală cu
 tragerea la răspundere contravenţională
 (1) Persoana care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă, cu excepţia infracțiunilor prevăzute la art. 1811, 256, 303, 314, art. 326 alin. (1) şi (11), art. 327 alin. (1), art. 328 alin. (1), art. 332 alin. (1), art. 333 alin. (1), art. 334 alin. (1) şi (2), art. 335 alin. (1) și art. 3351 alin. (1), poate fi liberată de răspundere penală şi trasă la răspundere contravenţională în cazurile în care şi-a recunoscut vina, a reparat prejudiciul cauzat prin infracţiune şi s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
@@ -657,8 +661,8 @@ cu o pedeapsă mai blîndă
 [Art.92 al.(2) în redacția LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (3) La înlocuirea părţii neexecutate a pedepsei cu o pedeapsă mai blîndă, instanţa de judecată poate alege orice pedeapsă mai blîndă, din cele specificate la art.62, în limitele prevăzute pentru fiecare categorie de pedepse.
 Articolul 93. Liberarea de pedeapsă a minorilor
-(1) Minorii condamnaţi pentru săvîrşirea unei infracţiuni uşoare, mai puţin grave sau grave pot fi liberaţi de pedeapsă de către instanţa de judecată dacă se va constata că scopurile pedepsei pot fi atinse prin internarea lor într-o instituţie specială de învăţămînt şi de reeducare sau într-o instituţie curativă şi de reeducare, precum şi prin aplicarea altor măsuri de constrîngere cu caracter educativ, prevăzute la art.104.
-(2) Internarea minorilor într-o instituţie specială de învăţămînt şi de reeducare sau într-o instituţie curativă şi de reeducare se stabileşte de către instanţa de judecată pe un termen de pînă la atingerea majoratului. Prelungirea termenului de aflare a persoanei în aceste instituţii după atingerea vîrstei de 18 ani este permisă numai pînă la absolvirea unei şcoli de cultură generală sau de meserii.
+Minorii condamnaţi pentru săvîrşirea unei infracţiuni uşoare, mai puţin grave sau grave sînt liberaţi de pedeapsă de către instanţa de judecată dacă se constată că scopurile pedepsei pot fi atinse prin aplicarea măsurilor de constrîngere cu caracter educativ prevăzute la art. 104.
+[Art.93 în redacția LP123 din 02.06.16, MO232-244/29.07.16 art.492]
 Articolul 94. Liberarea de pedeapsă datorită
 schimbării situaţiei
 Persoana care a săvîrşit o infracţiune uşoară sau mai puţin gravă poate fi liberată de pedeapsă dacă se va constata că, la data judecării cauzei, datorită schimbării situaţiei, fapta săvîrşită şi-a pierdut caracterul prejudiciabil şi, în virtutea comportării ireproşabile după săvîrşirea infracţiunii, persoana respectivă poate fi corectată fără executarea pedepsei.
@@ -739,15 +743,23 @@ curatelă
 (5) Dacă infracţiunea a fost săvîrşită de o persoană care abuzează de alcool şi prin aceasta îşi pune familia într-o situaţie materială grea, instanţa de judecată, concomitent cu aplicarea pedepsei neprivative de libertate pentru infracţiunea săvîrşită, este în drept, la cererea colectivului de muncă sau a rudelor apropiate ale persoanei în cauză, să o pună sub curatelă.
 Articolul 104. Aplicarea măsurilor de constrîngere
 cu caracter educativ
-(1) Persoanelor liberate de răspundere penală în conformitate cu art.54, le pot fi aplicate următoarele măsuri de constrîngere cu caracter educativ:
+(1) Persoanelor liberate de răspundere penală în conformitate cu art. 54 sau de pedeapsă penală în conformitate cu art. 93 li se aplică următoarele măsuri de constrîngere cu caracter educativ:
+[Art.104 al.(1) modificat prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
 a) avertismentul;
 b) încredinţarea minorului pentru supraveghere părinţilor, persoanelor care îi înlocuiesc sau organelor specializate de stat;
 c) obligarea minorului să repare daunele cauzate. La aplicarea acestei măsuri se ia în considerare starea materială a minorului;
-d) obligarea minorului de a urma un curs de tratament medical de reabilitare psihologică;
-e) internarea minorului,de către instanţa de judecată, într-o instituţie specială de învăţămînt şi de reeducare sau într-o instituţie curativă şi de reeducare.
+d) obligarea minorului de a urma un curs de reabilitare psihologică;
+[Art.104 al.(1), lit.d) modificată prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
+e) obligarea minorului de a urma cursul de învăţămînt obligatoriu;
+[Art.104 al.(1), lit.e) în redacția LP123 din 02.06.16, MO232-244/29.07.16 art.492]
+f) obligarea minorului de a participa la un program probaţional.
+[Art.104 al.(1), lit.f) introdusă prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
 (2) Enumerarea de la alin.(1) are un caracter exhaustiv.
 (3) Minorului îi pot fi aplicate concomitent cîteva măsuri de constrîngere cu caracter educativ.
-(4) În cazul eschivării sistematice de la măsurile de constrîngere cu caracter educativ de către minor, instanţa de judecată, la propunerea organelor de stat specializate, anulează măsurile aplicate şi decide trimiterea cauzei penale procurorului sau stabileşte pedeapsa conform legii în baza căreia persoana a fost condamnată, după caz.
+(4) În cazul eschivării sistematice a minorului de la măsurile de constrîngere cu caracter educativ, la propunerea organului de stat specializat, procurorul anulează măsurile aplicate și trimite cauza în instanța de judecată, iar în cazul în care măsurile respective au fost stabilite de către instanţa de judecată, aceasta le anulează şi dispune trimiterea cauzei penale la procuror sau, după caz, stabileşte o pedeapsă prevăzută de lege pentru fapta săvîrșită.
+[Art.104 al.(4) în redacția LP123 din 02.06.16, MO232-244/29.07.16 art.492]
+(5) Măsurile de constrîngere cu caracter educativ se aplică minorilor pînă la atingerea majoratului, în funcţie de caracterul şi gradul prejudiciabil al faptei săvîrşite.
+[Art.104 al.(5) introdus prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
 [Art.1041 abrogat prin LP315 din 20.12.13, MO17-23/24.01.14 art.42]
 [Art.1041 declarat neconstituţional prin HCC18 din 23.08.13, MO182-185/23.08.13 art.27; în vigoare 04.07.13]
 [Art.1041 introdus prin LP34 din 24.05.12, MO126-129/22.06.12 art.405; în vigoare 01.07.12]
@@ -887,7 +899,8 @@ de demnitate publică
 (1) Prin persoană cu funcţie de răspundere se înţelege persoana căreia, într-o întreprindere, instituţie, organizaţie de stat sau a administraţiei publice locale ori într-o subdiviziune a lor, i se acordă, permanent sau provizoriu, prin stipularea legii, prin numire, alegere sau în virtutea unei însărcinări, anumite drepturi şi obligaţii în vederea exercitării funcţiilor autorităţii publice sau a acţiunilor administrative de dispoziţie ori organizatorico-economice.
 (2) Prin persoană publică se înţelege: funcţionarul public, inclusiv funcţionarul public cu statut special (colaboratorul serviciului diplomatic, al serviciului vamal, al organelor apărării, securităţii naţionale şi ordinii publice, altă persoană care deţine grade speciale sau militare); angajatul autorităţilor publice autonome sau de reglementare, al întreprinderilor de stat sau municipale, al altor persoane juridice de drept public; angajatul din cabinetul persoanelor cu funcţii de demnitate publică; persoana autorizată sau învestită de stat să presteze în numele acestuia servicii publice sau să îndeplinească activităţi de interes public.
 [Art.123 al.(2) în redacţia LP245 din 02.12.11, MO25-28/03.02.12 art.77]
-(3) Prin persoană cu funcţie de demnitate publică se înţelege: persoana al cărei mod de numire sau de alegere este reglementat de Constituţia Republicii Moldova sau care este învestită în funcţie, prin numire sau prin alegere, de către Parlament, Preşedintele Republicii Moldova sau Guvern, în condiţiile legii; persoana căreia persoana cu funcţie de demnitate publică i-a delegat împuternicirile sale.
+(3) Prin persoană cu funcţie de demnitate publică se înţelege: persoana al cărei mod de numire sau de alegere este reglementat de Constituţia Republicii Moldova sau care este învestită în funcţie, prin numire sau prin alegere, de către Parlament, Preşedintele Republicii Moldova sau Guvern, altă persoană cu funcție de demnitate publică stabilită prin lege; persoana căreia persoana cu funcţie de demnitate publică i-a delegat împuternicirile sale.
+[Art.123 al.(3) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 [Art.123 al.(3) modificat prin LP318 din 20.12.13, MO17-23/24.01.14 art.48]
 [Art.123 al.(3) introdus prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
 Articolul 1231. Persoana publică străină şi funcţionarul
@@ -3704,12 +3717,14 @@ se pedepsesc cu închisoare de la 2 la 6 ani cu privarea de dreptul de a ocupa a
 [Art.330 abrogat prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
 Articolul 3301. Încălcarea regimului de confidenţia
 litate a informaţiilor din declaraţiile
-cu privire la venituri şi proprietate
+de avere și interese personale
+[Art.3301 titlul modificat prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 [Art.3301 titlul în redacţia LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
 [Art.3301 al.(1) abrogat prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
 [Art.3301 al.(2) abrogat prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
-(3) Divulgarea sau publicarea intenţionată a informaţiilor din declaraţiile cu privire la venituri şi proprietate de către persoanele cărora aceste informaţii le-au devenit cunoscute în procesul îndeplinirii atribuţiilor de serviciu sau al exercitării controlului
+(3) Divulgarea sau publicarea intenţionată a informaţiilor din declaraţiile de avere și interese personale de către persoanele cărora aceste informaţii le-au devenit cunoscute în procesul îndeplinirii atribuţiilor de serviciu sau al exercitării controlului
 se pedepseşte cu amendă în mărime de la 150 la 300 unităţi convenţionale, cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 1 la 5 ani.
+[Art.3301 modificat prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 Articolul 3302. Îmbogăţirea ilicită
 (1) Deţinerea de către o persoană cu funcţie de răspundere sau de către o persoană publică, personal sau prin intermediul unor terţi, a bunurilor în cazul în care valoarea acestora depăşeşte substanţial mijloacele dobîndite şi s-a constatat, în baza probelor, că acestea nu aveau cum să fie obţinute licit
 se pedepseşte cu amendă în mărime de la 6000 la 8000 unităţi convenţionale sau cu închisoare de la 3 la 7 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 10 la 15 ani.
@@ -3932,9 +3947,12 @@ d) soldate cu daune în proporţii deosebit de mari;
 e) soldate cu alte urmări grave,
 se pedepsesc cu închisoare de la 3 la 8 ani.
 Articolul 3521. Falsul în declaraţii
-Declaraţia necorespunzătoare adevărului, făcută unui organ competent în vederea producerii unor consecinţe juridice, pentru sine sau pentru o terţă persoană, atunci cînd, potrivit legii sau împrejurărilor, declaraţia serveşte pentru producerea acestor consecinţe,
+(1) Declaraţia necorespunzătoare adevărului, făcută unui organ competent în vederea producerii unor consecinţe juridice, pentru sine sau pentru o terţă persoană, atunci cînd, potrivit legii sau împrejurărilor, declaraţia serveşte pentru producerea acestor consecinţe,
 se pedepseşte cu amendă în mărime de pînă la 600 unităţi convenţionale sau cu închisoare de pînă la 1 an cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.3521 sancţiunea modificată prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
+(2) Includerea intenționată a unor date incomplete sau false, neincluderea intenționată a unor date în declarația de avere și interese personale
+se pedepsesc cu amendă în mărime de la 400 la 600 unităţi convenţionale sau cu închisoare de pînă la 1 an, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
+[Art.3521 al.(2) introdus prin LP134 din 17.06.16, MO245-246/30.07.16 art.515, alineatul unic devine al.(1); în vigoare 01.08.16]
 Articolul 353. Eschivarea de la serviciul militar
 în termen, de la serviciul militar
 cu termen redus sau de la serviciul
