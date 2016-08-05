@@ -15,6 +15,8 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+RMO247 din 05.08.16, MO247-255/05.08.16 pag.18
+LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16
 LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
 LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16
 LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16
@@ -2018,7 +2020,8 @@ se sancţionează cu amendă de la 5 la 10 unităţi convenţionale cu aplicarea
 (2) Conducerea unui vehicul fără număr de înmatriculare
 se sancţionează cu amendă de la 25 la 30 de unităţi convenţionale cu aplicarea a 4 puncte de penalizare.
 (3) Atribuirea unui număr de înmatriculare fals şi conducerea cu bună ştiinţă a vehiculului cu un astfel de număr
-se sancţionează cu privarea de dreptul de a conduce un vehicul pe un termen de un an.
+se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale cu privarea de dreptul de a conduce un vehicul pe un termen de un an.
+[Art.230 al.(3), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 (4) Nesemnalizarea vehiculului cu semnul distinctiv conform Regulamentului circulaţiei rutiere
 se sancţionează cu amendă de la 5 la 10 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
 (5) Nemenţinerea în stare curată a dispozitivelor de iluminare, de semnalizare, a numărului de înmatriculare, a seturilor reflectorizante, a sticlelor de la portierele din faţă şi a parbrizului vehiculului
@@ -2026,7 +2029,8 @@ se sancţionează cu avertisment sau cu amendă de la o unitate la 3 unităţi c
 Articolul 231. Conducerea vehiculului cu încălcarea
 regulilor privind permisul de conducere
 (1) Conducerea vehiculului cu permis de conducere de o categorie necorespunzătoare
-se sancţionează cu amendă de 50 de unităţi convenţionale.
+se sancţionează cu amendă de la 30 la 50 de unităţi convenţionale.
+[Art.231 al.(1), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 (2) Conducerea vehiculului fără permis de conducere (cu excepţia conducerii în cazul instruirii, în prezenţa instructorului)
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale.
 (3) Conducerea vehiculului de către o persoană privată de dreptul de a conduce vehicule
@@ -2041,9 +2045,11 @@ de conducere
 [Art.232 titlul modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.232 titlul modificat prin LP221 din 19.10.21, MO228/31.10.12 art.732; în vigoare 01.11.12]
 (1) Conducerea vehiculului de către o persoană care nu are asupra sa permis de conducere sau actul de înmatriculare de stat a vehiculului, sau poliţa de asigurare obligatorie de răspundere civilă
-se sancţionează cu amendă de 5 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
+se sancţionează cu amendă de la 5 la 10 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
+[Art.232 al.(1), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 (2) Predarea conducerii vehiculului către o persoană care nu are asupra sa permis de conducere
-se sancţionează cu avertisment sau cu amendă de 5 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
+se sancţionează cu amendă de la 5 la 10 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
+[Art.232 al.(2), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 [Art.232 al.(3) abrogat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 [Art.232 al.(3) introdus prin LP221 din 19.10.21, MO228/31.10.12 art.732; în vigoare 01.11.12]
 [Art.232 al.(4) abrogat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
@@ -2093,11 +2099,14 @@ se sancţionează cu amendă de la 15 la 20 de unităţi convenţionale cu aplic
 Articolul 236. Depăşirea vitezei de circulaţie stabilită
 pe sectorul respectiv de drum
 (1) Depăşirea vitezei de circulaţie stabilită pe sectorul respectiv de drum de la 10 la 20 km/oră
-se sancţionează cu amendă de 20 de unităţi convenţionale cu aplicarea a 3 puncte de penalizare.
+se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale cu aplicarea a 3 puncte de penalizare.
+[Art.236 al.(1), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 (2) Depăşirea vitezei de circulaţie stabilită pe sectorul respectiv de drum de la 20 la 40 km/oră
-se sancţionează cu amendă de 30 de unităţi convenţionale cu aplicarea a 4 puncte de penalizare.
+se sancţionează cu amendă de la 20 la 30 de unităţi convenţionale cu aplicarea a 4 puncte de penalizare.
+[Art.236 al.(2), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 (3) Depăşirea vitezei de circulaţie stabilită pe sectorul respectiv de drum mai mult de 40 km/oră
-se sancţionează cu amendă de 50 de unităţi convenţionale cu aplicarea a 5 puncte de penalizare.
+se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale cu aplicarea a 5 puncte de penalizare.
+[Art.236 al.(3), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 Articolul 237. Încălcarea regulilor de traversare
 a liniei de cale ferată
 (1) Traversarea de către conducătorul de vehicul a liniei de cale ferată în afara pasajului de nivel
@@ -2111,11 +2120,14 @@ Articolul 238. Încălcarea regulilor de oprire şi neacordarea
 de prioritate pietonilor şi altor participanţi
 la traficul rutier
 (1) Oprirea în locuri interzise
-se sancţionează cu avertisment sau cu amendă de 5 unităţi convenţionale.
+se sancţionează cu avertisment sau cu amendă de la 5 la 10 unităţi convenţionale.
+[Art.238 al.(1), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 (2) Staţionarea sau parcarea în locuri interzise
-se sancţionează cu amendă de pînă la 10 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
+se sancţionează cu amendă de la 5 la 10 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
+[Art.238 al.(2), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 (3) Neacordarea de prioritate legală pietonilor sau cicliştilor
-se sancţionează cu amendă de pînă la 10 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
+se sancţionează cu amendă de la 5 la 10 unităţi convenţionale cu aplicarea a 2 puncte de penalizare.
+[Art.238 al.(3), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 Articolul 239. Nerespectarea regulilor de circulaţie
 în zonele rezidenţiale
 Nerespectarea regulilor de circulaţie în zonele rezidenţiale
@@ -2143,9 +2155,11 @@ rutieră soldată cu deteriorarea
 bunurilor materiale ori cu cauzarea
 de leziuni corporale uşoare
 (1) Încălcarea de către conducătorul de vehicul a regulilor de circulaţie rutieră soldată cu deteriorarea neînsemnată a vehiculelor, a încărcăturilor, a drumurilor, a instalaţiilor rutiere, a altor instalaţii sau a altor bunuri
-se sancţionează cu amendă de 40 de unităţi convenţionale cu aplicarea a 5 puncte de penalizare.
+se sancţionează cu amendă de la 30 la 40 de unităţi convenţionale cu aplicarea a 5 puncte de penalizare.
+[Art.242 al.(1), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 (2) Încălcarea de către conducătorul de vehicul a regulilor de circulaţie rutieră soldată cu cauzarea de leziuni corporale uşoare victimei sau cu deteriorarea considerabilă a vehiculelor, a încărcăturilor, a drumurilor, a instalaţiilor rutiere, a altor instalaţii sau a altor bunuri
-se sancţionează cu amendă de 50 de unităţi convenţionale cu aplicarea a 6 puncte de penalizare.
+se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale cu aplicarea a 6 puncte de penalizare.
+[Art.242 al.(2), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 Articolul 243. Părăsirea locului în care
 s-a produs accidentul rutier
 Părăsirea de către vinovat a locului în care s-a produs accidentul rutier
@@ -4098,6 +4112,8 @@ Articolul 395. Competenţa instanţei de judecată
 1) toate cazurile cu privire la contravenţii, cu excepţia celor atribuite de prezentul cod competenţei unor alte organe, precum şi:
 a) cauzele contravenţionale în privinţa minorilor;
 b) cauzele contravenţionale prevăzute la art.61, 63–66, 316–318, 320, 336;
+b1) cauzele contravenţionale în cadrul cărora au fost dispuse măsurile procesuale de constrîngere prevăzute la art. 432 lit. a) și e);
+[Art.395 al.(1), lit.b1) introdusă prin LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 c) cauzele contravenţionale în care agentul constatator, procurorul propun aplicarea unei sancţiuni dintre cele care urmează:
 - privarea de dreptul de a desfăşura o anumită activitate;
 - privarea de dreptul de a deţine anumite funcţii;
@@ -4473,10 +4489,11 @@ Articolul 4239. Consiliul de Integritate
 (2) Este în drept să constate contravenţiile menţionate la alin. (1) și să încheie procese-verbale președintele Consiliului de Integritate.
 (3) Procesele-verbale cu privire la contravenţiile prevăzute la alin. (1) se remit spre examinare în fond instanţei de judecată competente.
 [Art.4239 introdus prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
-Articolul 4239. Administrația publică locală
+Articolul 42310. Administrația publică locală
 (1) Contravențiile prevăzute la art. 273 pct. 9), 11), 15) și 16) se constată de serviciile administrației publice locale.
 (2) Au dreptul să constate contravenții și să încheie procese-verbale reprezentanții autorității administrației publice locale în limitele competenței sau agentul constatator desemnat de către primar.
 (3) Procesele-verbale cu privire la contravenții se remit spre examinare comisiilor administrative.
+[Art.42310 modificat prin RMO247 din 05.08.16, MO247-255/05.08.16 pag.18]
 [Art.4239 introdus prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 Articolul 424. Remiterea materialelor către procuror,
 către ofiţerul de urmărire penală
@@ -4668,10 +4685,13 @@ e) pentru acelaşi fapt este pornită urmărire penală.
 Articolul 442. Procesul-verbal cu privire la contravenţie
 (1) Procesul-verbal cu privire la contravenţie este un act prin care se individualizează fapta ilicită şi se identifică făptuitorul. Procesul-verbal se încheie de agentul constatator pe baza constatărilor personale şi a probelor acumulate, în prezenţa făptuitorului sau în absenţa lui.
 (2) În cel mult 24 de ore de la data încheierii, procesul-verbal cu privire la contravenţie se înscrie într-un registru de evidenţă în ordinea întocmirii şi depunerii lui la autoritatea din care face parte agentul constatator.
+(3) Conținutul Registrului de evidenţă a proceselor-verbale cu privire la contravenţii și modul de ținere a acestuia se aprobă de către Guvern și sînt obligatorii pentru toate autoritățile din care fac parte agenții constatatori.
+[Art.442 al.(3) introdus prin LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 Articolul 443. Conţinutul procesului-verbal cu privire
 la contravenţie
 (1) Procesul-verbal cu privire la contravenţie va cuprinde:
-a) data (ziua, luna, anul) şi locul încheierii;
+a) data (ziua, luna, anul), ora şi locul încheierii;
+[Art.443 al.(1), lit.a) în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 b) calitatea, numele şi prenumele agentului constatator, denumirea autorităţii pe care o reprezintă;
 c) numele, prenumele, domiciliul, ocupaţia contravenientului, datele din buletinul lui de identitate, iar în cazul persoanei juridice, denumirea, sediul, codul ei fiscal, datele persoanei fizice care o reprezintă;
 d) fapta contravenţională, locul şi timpul săvîrşirii ei, circumstanţele cauzei care au importanţă pentru stabilirea faptelor şi consecinţelor lor juridice, evaluarea eventualelor pagube cauzate de contravenţie;
@@ -4728,6 +4748,10 @@ cu privire la contravenţie
 (3) Contestaţia suspendă executarea sancţiunii contravenţionale aplicată prin proces-verbal.
 (4) Persoana care face contestaţie împotriva deciziei de aplicare a sancţiunii contravenţionale nu plăteşte taxă de stat.
 (5) Contestaţia împotrivă hotărîrii cu privire la contravenţie poate fi depusă în decursul a 15 zile de la data pronunţării hotărîrii sau de la data aducerii ei la cunoştinţă, după caz. În cazul omiterii acestui termen din motive întemeiate, persoana faţă de care a fost pronunţată hotărîrea poate fi repusă în termen, la cerere, de către autoritatea (persoana cu funcţie de răspundere) împuternicită să examineze contestaţia.
+(51) La examinarea contestaţiei depuse împotriva procesului-verbal cu privire la contravenţie, instanţa de judecată:
+a) admite contestaţia şi o examinează;
+b) respinge contestaţia, indicînd temeiurile respingerii.
+[Art.448 al.(51) introdus prin LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
 Articolul 449. Sesizarea procurorului în soluţionarea
 cauzei contravenţionale
 (1) Dacă în procesul contravenţional se constată că fapta considerată contravenţie a fost săvîrşită în condiţii care o plasează sub incidenţa legii penale, dosarul se remite neîntîrziat, prin încheiere motivată, procurorului, după competenţă.
