@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP195 din 28.07.16, MO277-287/26.08.16 art.598
 RMO247 din 05.08.16, MO247-255/05.08.16 pag.18
 LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16
 LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
@@ -785,14 +786,15 @@ se sancţionează cu amendă de la 200 la 250 de unităţi convenţionale aplica
 se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale.
 (5) Producerea, depozitarea, transportarea şi distribuirea a noi tipuri de produse alimentare şi de materiale neaprobate care vin în contact cu produse alimentare în spaţii şi în condiţii necorespunzătoare regulilor sanitare
 se sancţionează cu amendă de la 50 la 80 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de 200 de unităţi convenţionale aplicată persoanei juridice.
-Articolul 801. Prepararea, comercializarea sau
-distribuirea produselor alimentare
-interzise preşcolarilor şi elevilor
-în instituţiile de învăţămînt preşcolare
-şi preuniversitare sau în apropierea
-acestora
-Prepararea, comercializarea sau distribuirea produselor alimentare interzise preşcolarilor şi elevilor în instituţiile de învăţămînt preşcolare şi preuniversitare, indiferent de tipul de proprietate şi de forma juridică de organizare a lor, şi pe o rază de pînă la 100 de metri de la acestea
-se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice, cu sau fără privarea, în ambele cazuri, de dreptul de a desfăşura activitate pe un termen de la 3 luni la un an.
+Articolul 801. Prepararea, comercializarea sau distribuirea
+produselor alimentare nereco mandate
+preşcolarilor şi elevilor în instituţiile de învățămînt
+general şi profesional tehnic, precum şi în taberele
+de odihnă şi întremare a sănătăţii copiilor
+şi adolescenţilor
+Prepararea, comercializarea sau distribuirea produselor alimentare nerecomandate preşcolarilor şi elevilor în instituţiile de învățămînt general şi profesional tehnic, precum şi în taberele de odihnă şi întremare a sănătăţii copiilor şi adolescenţilor, indiferent de tipul de proprietate şi de forma juridică de organizare a lor,
+se sancționează cu amendă de la 10 la 20 de unități convenționale aplicată persoanei fizice, cu amendă de la 100 la 150 de unități convenționale aplicată persoanei juridice cu sau fără privarea, în ambele cazuri, de dreptul de a desfășura o anumită activitate pe un termen de la 3 luni la un an.
+[Art.801 în redacția LP195 din 28.07.16, MO277-287/26.08.16 art.598]
 [Art.801 introdus prin LP93 din 26.04.12, MO149-154/20.07.12 art.482; în vigoare 20.09.12]
 Articolul 81. Angajarea în întreprinderile din sectorul
 alimentar sau în întreprinderile care desfăşoară activităţi de întreţinere corporală a personalului fără examen
@@ -3828,6 +3830,12 @@ se sancţionează cu amendă de la 20 la 150 de unităţi convenţionale aplicat
 se sancţionează cu amendă de la 30 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 400 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 400 la 500 de unităţi convenţionale aplicată persoanei juridice.
 [Art.364 al.(6) modificat prin LP71 din 14.04.16, MO140-149/27.05.16 art.291]
 [Art.364 al.(6) introdus prin LP126 din 07.07.11, MO131-133/12.08.11 art.397]
+(7) Prezentarea, producerea ori difuzarea publicității cu implicarea și participarea persoanelor care nu au atins vîrsta de 18 ani, precum şi utilizarea imaginilor cu chipurile acestora în scopuri de publicitate şi promovare a produselor alimentare nerecomandate preșcolarilor și elevilor
+se sancționează cu amendă de la 30 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 200 la 400 de unități convenționale aplicată persoanei cu funcție de răspundere, cu amendă de la 400 la 500 de unități convenționale aplicată persoanei juridice.
+[Art.364 al.(7) introdus prin LP195 din 28.07.16, MO277-287/26.08.16 art.598]
+(8) Prezentarea ori difuzarea publicității produselor alimentare nerecomandate preşcolarilor şi elevilor şi promovarea acestora în instituţiile de învățămînt general şi profesional tehnic, precum și în taberele de odihnă şi întremare a sănătăţii copiilor şi adolescenţilor, indiferent de tipul de proprietate şi de forma juridică de organizare a lor,
+se sancționează cu amendă de la 30 la 150 de unități convenționale aplicată persoanei fizice, cu amendă de la 200 la 400 de unități convenționale aplicată persoanei cu funcție de răspundere, cu amendă de la 400 la 500 de unități convenționale aplicată persoanei juridice.
+[Art.364 al.(8) introdus prin LP195 din 28.07.16, MO277-287/26.08.16 art.598]
 Articolul 3641. Încălcarea legislaţiei cu privire
 la publicitatea şi sponsorizarea
 produselor din tutun
@@ -4274,7 +4282,8 @@ pentru control geologic şi supraveghere minieră
 Articolul 406. Organele supravegherii supravegherii
 de stat a sănătăţii publice
 [Art.406 titlul modificat prin LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
-(1) Contravențiile prevăzute la art. 80–83, art. 911 alin. (1)–(15) şi (17), art. 115 alin. (1), (2) și (4), art. 155, 273 pct. 14), art. 276 şi 3641 se examinează de organele supravegherii de stat a sănătății publice.
+(1) Contravențiile prevăzute la art. 80–83, art. 911 alin. (1)–(15) şi (17), art. 115 alin. (1), (2) și (4), art. 155, 273 pct. 14), art. 276, 364 alin. (7) și (8) şi 3641 se examinează de organele supravegherii de stat a sănătății publice.
+[Art.406 al.(1) modificat prin LP195 din 28.07.16, MO277-287/26.08.16 art.598]
 [Art.406 al.(1) modificat prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 [Art.406 al.(1) în redacția LP124 din 29.05.15, MO185-189/17.07.15; în vigoare 17.09.15]
 [Art.406 al.(1) modificat prin LP198 din 12.07.12, MO190-192/14.09.12 art.648]
