@@ -14,6 +14,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
 LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
 LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16
 LP123 din 02.06.16, MO232-244/29.07.16 art.492
@@ -71,6 +72,7 @@ LP108 din 04.06.10, MO117-118/09.07.10 art.363
 LP82 din 07.05.10, MO87-90/04.06.10 art.252
 LP131-XVIII din 23.12.09, MO23-24/12.02.10 art.35
 NOTĂ:
+În cuprinsul codului, cuvintele „handicapului fizic sau psihic” se substituie cu cuvîntul „dizabilităţii” prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
 În cuprinsul codului, sintagmele „răspundere administrativă” şi „sancţiune administrativă” se substituie, respectiv, prin sintagmele „răspundere contravenţională” şi „sancţiune contravenţională” prin LP131-XVIII din 23.12.09, MO23-24/12.02.10 art.35
 _________________________________
 ∗ Republicat în temeiul articolului III lit. c) al Legii nr. 277-XVI din 18 decembrie 2008, Monitorul Oficial al Republicii Moldova, 2009, nr. 41- 44, art.120.
@@ -431,7 +433,8 @@ comunităţii
 (2) Munca neremunerată în folosul comunităţii se stabileşte pe un termen de la 60 la 240 de ore şi este executată de la 2 la 4 ore pe zi, iar în cazul condamnatului care nu este antrenat în activităţi de bază sau de studii, la solicitarea sau la acordul acestuia – pînă la 8 ore pe zi.
 [Art.67 al.(2) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (3) În caz de eschivare cu rea-voinţă a condamnatului de la munca neremunerată în folosul comunităţii, ea se înlocuieşte cu închisoare, calculîndu-se o zi de închisoare pentru 2 ore de muncă neremunerată în folosul comunităţii. În acest caz, termenul închisorii poate fi mai mic de 6 luni.
-(4) Munca neremunerată în folosul comunităţii nu poate fi aplicată persoanelor recunoscute ca invalizi de gradele I şi II, militarilor prin contract, femeilor gravide, femeilor care au copii în vîrstă de pînă la 8 ani, persoanelor care nu au atins vîrsta de 16 ani şi persoanelor care au atins vîrsta de pensionare.
+(4) Munca neremunerată în folosul comunităţii nu poate fi aplicată persoanelor cu dizabilităţi severe şi accentuate, militarilor prin contract, femeilor gravide, femeilor care au copii în vîrstă de pînă la 8 ani, persoanelor care nu au atins vîrsta de 16 ani şi persoanelor care au atins vîrsta de pensionare.
+[Art.67 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (5) Munca neremunerată în folosul comunităţii va fi prestată timp de cel mult 18 luni, timp care se calculează de la data rămînerii definitive a hotărîrii judecătoreşti.
 (6) Militarii în termen şi militarii cu termen redus condamnaţi la muncă neremunerată în folosul comunităţii execută această pedeapsă în unitatea militară.
 Articolul 68 - exclus
@@ -494,7 +497,7 @@ a) săvîrşirea infracţiunii de către o persoană care anterior a fost condam
 b) provocarea prin infracţiune a unor urmări grave;
 c) săvîrşirea infracţiunii prin orice formă de participaţie;
 d) săvîrşirea infracţiunii din motive de ură socială, naţională, rasială sau religioasă;
-e) săvîrşirea infracţiunii cu bună ştiinţă împotriva unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+e) săvîrşirea infracţiunii cu bună ştiinţă împotriva unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 f) săvîrşirea infracţiunii asupra unei persoane în legătură cu îndeplinirea de către ea a obligaţiilor de serviciu sau obşteşti;
 g) săvîrşirea infracţiunii prin intermediul minorilor, persoanelor aflate în dificultate, persoanelor retardate mintal sau dependente de făptuitor;
 h) săvîrşirea infracţiunii prin acte de o deosebită cruzime sau prin batjocorirea victimei;
@@ -1200,7 +1203,7 @@ a) cu premeditare;
 b) din interes material;
 c)- exclusă
 d) în legătură cu îndeplinirea de către victimă a obligaţiilor de serviciu sau obşteşti;
-e) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+e) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 f) cu răpirea sau luarea persoanei în calitate de ostatic;
 g) asupra a două sau mai multor persoane;
 h) asupra unui reprezentant al autorităţii publice ori a unui militar, ori a rudelor apropiate ale acestora, în timpul sau în legătură cu îndeplinirea de către reprezentantul autorităţii publice sau militar a obligaţiilor de serviciu;
@@ -1247,7 +1250,7 @@ se pedepseşte cu închisoare de la 5 la 10 ani.
 [Art.151 al.(1), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (2) Aceeaşi acţiune săvîrşită:
 a)- exclusă
-b) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+b) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 c) asupra unei persoane în legătură cu îndeplinirea de către ea a obligaţiilor de serviciu sau obşteşti;
 d) de două sau mai multe persoane;
 e) cu deosebită cruzime, precum şi din motive sadice;
@@ -1275,7 +1278,7 @@ se pedepseşte cu muncă neremunerată în folosul comunităţii de la 200 la 24
 a)- exclusă
 b) asupra a două sau mai multor persoane;
 c)- exclusă
-c1) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+c1) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 d) asupra unei persoane în legătură cu îndeplinirea de către ea a obligaţiilor de serviciu sau obşteşti;
 e) de două sau mai multe persoane;
 f) cu deosebită cruzime, precum şi din motive sadice;
@@ -1375,7 +1378,7 @@ se pedepseşte cu închisoare de la 3 la 6 ani.
 [Art.164 al.(1) sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (2) Aceeaşi acţiune săvîrşită:
 b) asupra a două sau mai multor persoane;
-c) cu bună-ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+c) cu bună-ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 e) de două sau mai multe persoane;
 f) din interes material;
 g) cu aplicarea armei sau altor obiecte folosite în calitate de armă
@@ -1430,7 +1433,7 @@ se pedepseşte cu muncă neremunerată în folosul comunităţii de la 120 la 24
 (2) Aceeaşi acţiune săvîrşită:
 a)- exclusă
 b) asupra a două sau mai multor persoane;
-c) cu bună-ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+c) cu bună-ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 d) de două sau mai multe persoane;
 e) cu aplicarea violenţei periculoase pentru viaţa sau sănătatea persoanei;
 f) cu aplicarea armei sau altor obiecte folosite în calitate de armă
@@ -1444,7 +1447,7 @@ sau degradant
 (1) Cauzarea intenţionată a unei dureri sau a suferinţei fizice ori psihice, care reprezintă tratament inuman ori degradant, de către o persoană publică sau de către o persoană care, de facto, exercită atribuţiile unei autorităţi publice, sau de către orice altă persoană care acţionează cu titlu oficial sau cu consimţămîntul expres ori tacit al unei asemenea persoane
 se pedepseşte cu închisoare de la 2 la 6 ani sau cu amendă în mărime de la 800 la 1000 de unităţi convenţionale, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani.
 (2) Acţiunile prevăzute la alin. (1):
-a) săvîrşite cu bună ştiinţă asupra unui minor sau asupra unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+a) săvîrşite cu bună ştiinţă asupra unui minor sau asupra unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 b) săvîrşite asupra a 2 sau a mai multor persoane;
 c) săvîrşite de 2 sau de mai multe persoane;
 d) săvîrşite prin folosirea armei, instrumentelor speciale sau a altor obiecte adaptate acestui scop;
@@ -1455,7 +1458,7 @@ se pedepsesc cu închisoare de la 3 la 8 ani sau cu amendă în mărime de la 80
 (3) Tortura, adică orice faptă intenţionată prin care se provoacă unei persoane o durere sau suferinţe fizice sau psihice puternice cu scopul de a obţine de la această persoană sau de la o persoană terţă informaţii sau mărturisiri, de a o pedepsi pentru un act pe care aceasta sau o terţă persoană l-a comis ori este bănuită că l-a comis, de a o intimida sau de a exercita presiune asupra ei sau asupra unei terţe persoane, sau din orice alt motiv, bazat pe o formă de discriminare, oricare ar fi ea, atunci cînd o asemenea durere sau suferinţă este provocată de către o persoană publică sau de către o persoană care, de facto, exercită atribuţiile unei autorităţi publice, sau de către orice altă persoană care acţionează cu titlu oficial sau cu consimţămîntul expres sau tacit al unei asemenea persoane
 se pedepseşte cu închisoare de la 6 la 10 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 8 la 12 ani.
 (4) Acţiunile prevăzute la alin. (3):
-a) săvîrşite cu bună ştiinţă asupra unui minor sau asupra unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+a) săvîrşite cu bună ştiinţă asupra unui minor sau asupra unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 b) săvîrşite asupra a 2 sau a mai multor persoane;
 c) săvîrşite de 2 sau de mai multe persoane;
 d) săvîrşite prin folosirea armei, instrumentelor speciale sau a altor obiecte adaptate acestui scop;
@@ -2332,7 +2335,7 @@ se pedepseşte cu amendă în mărime de la 400 la 700 unităţi convenţionale 
 (2) Aceeaşi acţiune săvîrşită:
 a) - exclusă
 b) faţă de două sau mai multe persoane;
-c) cu bună ştiinţă faţă de un minor sau de o femeie gravidă ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+c) cu bună ştiinţă faţă de un minor sau de o femeie gravidă ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 d) - exclusă
 e) cu substanţe narcotice sau psihotrope a căror circulaţie în scopuri medicinale este interzisă
 se pedepseşte cu închisoare de la 2 la 7 ani.
@@ -3176,7 +3179,7 @@ se pedepseşte cu închisoare de la 5 la 10 ani.
 (2) Luarea de ostatici săvîrşită:
 a) - exclusă
 b) asupra a două sau mai multor persoane;
-c) cu bună ştiinţă în privinţa unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, handicapului fizic sau psihic ori altui factor;
+c) cu bună ştiinţă în privinţa unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 d) - exclusă
 e) din interes material;
 f) cu aplicarea violenţei periculoase pentru viaţa sau sănătatea persoanei,
