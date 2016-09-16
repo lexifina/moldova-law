@@ -14,6 +14,8 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP160 din 07.07.16, MO306-313/16.09.16 art.647
+LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
 LP102 din 21.07.16, MO256-267/12.08.16 art.547; în vigoare 12.11.16
 LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
 LP71 din 14.04.16, MO140-149/27.05.16 art.291
@@ -146,7 +148,8 @@ Articolul 71. Interzicerea muncii nedeclarate
 (2) Prin muncă nedeclarată se înţelege orice muncă prestată de o persoană fizică pentru şi sub autoritatea unui angajator fără a fi respectate prevederile prezentului cod referitoare la încheierea contractului individual de muncă.
 [Art.71 introdus prin LP169 din 11.07.12, MO160-164/03.08.12 art.545]
 Articolul 8. Interzicerea discriminării în sfera muncii
-(1) În cadrul raporturilor de muncă acţionează principiul egalităţii în drepturi a tuturor salariaţilor. Orice discriminare, directă sau indirectă, a salariatului pe criterii de sex, vîrstă, rasă, culoare a pielii, etnie, religie, opţiune politică, origine socială, domiciliu, handicap, infectare cu HIV/SIDA, apartenenţă sau activitate sindicală, precum şi pe alte criterii nelegate de calităţile sale profesionale, este interzisă.
+(1) În cadrul raporturilor de muncă acţionează principiul egalităţii în drepturi a tuturor salariaţilor. Orice discriminare, directă sau indirectă, a salariatului pe criterii de sex, vîrstă, rasă, culoare a pielii, etnie, religie, opţiune politică, origine socială, domiciliu, dizabilitate, infectare cu HIV/SIDA, apartenenţă sau activitate sindicală, precum şi pe alte criterii nelegate de calităţile sale profesionale, este interzisă.
+[Art.8 al.(1) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.8 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (2) Nu constituie discriminare stabilirea unor diferenţieri, excepţii, preferinţe sau drepturi ale salariaţilor, care sînt determinate de cerinţele specifice unei munci, stabilite de legislaţia în vigoare, sau de grija deosebită a statului faţă de persoanele care necesită o protecţie socială şi juridică sporită.
 Articolul 9. Drepturile şi obligaţiile de bază ale salariatului
@@ -361,7 +364,8 @@ a) formele, sistemele şi cuantumul retribuirii muncii;
 b) plata indemnizaţiilor şi compensaţiilor;
 c) mecanismul de reglementare a retribuirii muncii, ţinîndu-se cont de nivelul inflaţiei şi de atingerea indicilor economici prevăzuţi de contractul colectiv de muncă;
 d) timpul de muncă şi cel de odihnă, precum şi chestiunile ce ţin de modul acordării şi de durata concediilor;
-e) îmbunătăţirea condiţiilor de muncă şi a protecţiei muncii salariaţilor, inclusiv a femeilor, a tineretului şi a invalizilor;
+e) îmbunătăţirea condiţiilor de muncă şi a protecţiei muncii salariaţilor, inclusiv a femeilor, a tineretului şi a persoanelor cu dizabilităţi;
+[Art.31 al.(2), lit.e) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.31 al.(2), lit.e) modificată prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 f) respectarea intereselor salariaţilor în cazul privatizării unităţii şi a fondului locativ aflat la balanţa acesteia;
 g) securitatea ecologică şi ocrotirea sănătăţii salariaţilor în procesul de producţie;
@@ -601,7 +605,8 @@ INDIVIDUAL DE MUNCĂ
 Articolul 56. Încheierea contractului individual de muncă
 (1) Contractul individual de muncă se încheie în baza negocierilor dintre salariat şi angajator. Încheierea contractului individual de muncă poate fi precedată de circumstanţe specifice (susţinerea unui concurs, alegerea în funcţie etc.).
 (2) Salariatul are dreptul să încheie contracte individuale de muncă, concomitent, şi cu alţi angajatori (munca prin cumul), dacă acest lucru nu este interzis de legislaţia în vigoare.
-(3) Contractul individual de muncă se întocmeşte în două exemplare, se semnează de către părţi şi i se atribuie un număr din registrul unităţii, aplicîndu-i-se ştampila unităţii. Un exemplar al contractului individual de muncă se înmînează salariatului, iar celălalt se păstrează la angajator.
+(3) Contractul individual de muncă se întocmeşte în două exemplare şi se semnează de către părţi, atribuindu-i-se un număr din registrul unităţii. În cazul în care angajatorul este autoritate publică, pe contractul individual de muncă se aplică ștampila acesteia. Un exemplar al contractului individual de muncă se înmînează salariatului, iar celălalt se păstrează la angajator.
+[Art.56 al.(3) în redacția LP160 din 07.07.16, MO306-313/16.09.16 art.647]
 Articolul 57. Documentele care se prezintă la încheierea
 contractului individual de muncă
 (1) La încheierea contractului individual de muncă, persoana care se angajează prezintă angajatorului următoarele documente:
@@ -646,7 +651,8 @@ b) persoanele în vîrstă de pînă 18 ani;
 c) persoanele angajate prin concurs;
 d) persoanele care au fost transferate de la o unitate la alta;
 e) femeile gravide;
-f) invalizii;
+f) persoanele cu dizabilități;
+[Art.62 lit.f) în redacția LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 g) persoanele alese în funcţii elective;
 h) persoanele angajate în baza unui contract individual de muncă cu o durată de pînă la 3 luni;
 [Art.62 lit.i) exclusă prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
@@ -744,7 +750,8 @@ i) depistare, conform certificatului medical, a contraindicaţiilor care nu perm
 j) cerere a organelor de control sau de drept, conform legislaţiei în vigoare;
 k) prezentare la locul de muncă în stare de ebrietate alcoolică, narcotică sau toxică, constatată prin certificatul eliberat de instituţia medicală competentă sau prin actul comisiei formate dintr-un număr egal de reprezentanţi ai angajatorului şi ai salariaţilor;
 l) aflare în grevă, declаrată conform prezentului cod;
-m) stabilire pe termen determinat a gradului de invaliditate ca urmare a unui accident de muncă sau a unei boli profesionale; precum şi
+m) stabilire pe termen determinat a gradului de dizabilitate ca urmare a unui accident de muncă sau a unei boli profesionale; precum şi
+[Art.76 lit.m) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 n) în alte cazuri prevăzute de legislaţia în vigoare.
 Articolul 77. Suspendarea contractului individual de muncă
 prin acordul părţilor
@@ -754,9 +761,10 @@ b) urmare a unui curs de formare profesională sau de stagiere cu scoaterea din 
 c) şomaj tehnic;
 d) îngrijire a copilului bolnav în vîrstă de pînă la 10 ani;
 [Art.77 lit.d) modificată prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-e) îngrijire a copilului invalid;
+e) îngrijire a copilului cu dizabilităţi;
+[Art.77 lit.e) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.77 lit.e) modificată prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-[Art.76 lit.e) modificată prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
+[Art.77 lit.e) modificată prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 e1) detaşare;
 [Art.76 lit.e1) introdus prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 f) în alte cazuri prevăzute de legislaţia în vigoare.
@@ -862,7 +870,8 @@ muncă
 Articolul 85. Demisia
 (1) Salariatul are dreptul la demisie - desfacere a contractului individual de muncă, cu excepţia prevederii alin.(41), din proprie iniţiativă, anunţînd despre aceasta angajatorul, prin cerere scrisă, cu 14 zile calendaristice înainte. Curgerea termenului menţionat începe în ziua imediat următoare zilei în care a fost înregistrată cererea.
 [Art.85 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(2) În caz de demisie a salariatului în legătură cu pensionarea, cu stabilirea gradului de invaliditate, cu concediul pentru îngrijirea copilului, cu înmatricularea într-o instituţie de învăţămînt, cu trecerea cu traiul în altă localitate, cu îngrijirea copilului pînă la vîrsta de 14 ani sau a copilului invalid, cu alegerea într-o funcţie electivă, cu angajarea prin concurs la o altă unitate, cu încălcarea de către angajator a contractului individual şi/sau colectiv de muncă, a legislaţiei muncii în vigoare, angajatorul este obligat să accepte demisia în termenul redus indicat în cererea depusă şi înregistrată, la care se anexează documentul respectiv ce confirmă acest drept.
+(2) În caz de demisie a salariatului în legătură cu pensionarea, cu stabilirea gradului de dizabilitate, cu concediul pentru îngrijirea copilului, cu înmatricularea într-o instituţie de învăţămînt, cu trecerea cu traiul în altă localitate, cu îngrijirea copilului pînă la vîrsta de 14 ani sau a copilului cu dizabilităţi, cu alegerea într-o funcţie electivă, cu angajarea prin concurs la o altă unitate, cu încălcarea de către angajator a contractului individual şi/sau colectiv de muncă, a legislaţiei muncii în vigoare, angajatorul este obligat să accepte demisia în termenul redus indicat în cererea depusă şi înregistrată, la care se anexează documentul respectiv ce confirmă acest drept.
+[Art.85 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.85 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (3) După expirarea termenelor indicate la alin.(1), (2) şi (41), salariatul are dreptul să înceteze lucrul, iar angajatorul este obligat să efectueze achitarea deplină a drepturilor salariale ce i se cuvin salariatului şi să-i elibereze carnetul de muncă şi alte documente legate de activitatea acestuia în unitate.
 (31) Contractul individual de muncă poate fi desfăcut, prin acordul scris al părţilor, înainte de expirarea termenelor indicate la alin.(1), (2) şi (41).
@@ -1022,10 +1031,12 @@ a) 24 de ore pentru salariaţii în vîrstă de la 15 la 16 ani ;
 b) 35 de ore pentru salariaţii în vîrstă de la 16 la 18 ani;
 c) 35 de ore pentru salariaţii care activează în condiţii de muncă vătămătoare, conform nomenclatorului aprobat de Guvern.
 (3) Pentru anumite categorii de salariaţi a căror muncă implică un efort intelectual şi psiho-emoţional sporit, durata timpului de muncă se stabileşte de Guvern şi nu poate depăşi 35 de ore pe săptămînă.
-(4) Pentru invalizii de gradul I şi II (dacă aceştia nu beneficiază de înlesniri mai mari) se stabileşte o durată redusă a timpului de muncă de 30 de ore pe săptămînă, fără diminuarea drepturilor salariale şi a altor drepturi prevăzute de legislaţia în vigoare.
+(4) Pentru persoanele cu dizabilităţi severe şi accentuate (dacă aceştia nu beneficiază de înlesniri mai mari) se stabileşte o durată redusă a timpului de muncă de 30 de ore pe săptămînă, fără diminuarea drepturilor salariale şi a altor drepturi prevăzute de legislaţia în vigoare.
+[Art.96 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.96 al.(4) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 97. Timpul de muncă parţial
-(1) Prin acordul dintre salariat şi angajator se poate stabili, atît la momentul angajării la lucru, cît şi mai tîrziu, ziua de muncă parţială sau săptămîna de muncă parţială. La rugămintea femeii gravide, a salariatului care are copii în vîrstă de pînă la 14 ani sau copii invalizi (inclusiv aflaţi sub tutela/curatela sa) ori a salariatului care îngrijeşte de un membru al familiei bolnav, în conformitate cu certificatul medical, angajatorul este obligat să le stabilească ziua sau săptămîna de muncă parţială.
+(1) Prin acordul dintre salariat şi angajator se poate stabili, atît la momentul angajării la lucru, cît şi mai tîrziu, ziua de muncă parţială sau săptămîna de muncă parţială. La rugămintea femeii gravide, a salariatului care are copii în vîrstă de pînă la 14 ani sau copii cu dizabilităţi (inclusiv aflaţi sub tutela/curatela sa) ori a salariatului care îngrijeşte de un membru al familiei bolnav, în conformitate cu certificatul medical, angajatorul este obligat să le stabilească ziua sau săptămîna de muncă parţială.
+[Art.97 al.(1) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.97 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (2) Retribuirea muncii în cazurile prevăzute la alin. (1) se efectuează proporţional timpului lucrat sau în funcţie de volumul lucrului făcut.
 (3) Activitatea în condiţiile timpului de muncă parţial nu implică limitarea drepturilor salariatului privind calcularea vechimii în muncă, inclusiv a stagiului de cotizare, cu excepţia cazurilor prevăzute de legislaţia în vigoare, durata concediului de odihnă anual sau a altor drepturi de muncă.
@@ -1045,7 +1056,8 @@ Articolul 100. Durata zilnică a timpului de muncă
 (1) Durata zilnică normală a timpului de muncă constituie 8 ore.
 (2) Pentru salariaţii în vîrstă de pînă la 16 ani, durata zilnică a timpului de muncă nu poate depăşi 5 ore.
 (3) Pentru salariaţii în vîrstă de la 16 la 18 ani şi salariaţii care lucrează în condiţii de muncă vătămătoare, durata zilnică a timpului de muncă nu poate depăşi 7 ore.
-(4) Pentru invalizi, durata zilnică a timpului de muncă se stabileşte conform certificatului medical, în limitele duratei zilnice normale a timpului de muncă.
+(4) Pentru persoanele cu dizabilităţi, durata zilnică a timpului de muncă se stabileşte conform certificatului medical, în limitele duratei zilnice normale a timpului de muncă.
+[Art.100 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (5) Durata zilnică maximă a timpului de muncă nu poate depăşi 10 ore în limitele duratei normale a timpului de muncă de 40 de ore pe săptămînă.
 (6) Pentru anumite genuri de activitate, unităţi sau profesii se poate stabili, prin convenţie colectivă, o durată zilnică a timpului de muncă de 12 ore, urmată de o perioadă de repaus de cel puţin 24 de ore.
 (7) Angajatorul poate stabili, cu acordul scris al salariatului, programe individualizate de muncă, cu un regim flexibil al timpului de muncă, dacă această posibilitate este prevăzută de regulamentul intern al unităţii sau de contractul colectiv ori de cel individual de muncă.
@@ -1074,7 +1086,8 @@ Articolu 103. Munca de noapte
 (4) Orice salariat care, într-o perioadă de 6 luni, prestează cel puţin 120 de ore de muncă de noapte va fi supus unui examen medical din contul angajatorului.
 (5) Nu se admite atragerea la munca de noapte a salariaţilor în vîrstă de pînă la 18 ani, a femeilor gravide, a femeilor aflate în concediul postnatal, precum şi a persoanelor cărora munca de noapte le este contraindicată conform certificatului medical.
 [Art.103 al.(5) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(6) Invalizii de gradul I şi II, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii invalizi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav în baza certificatului medical pot presta muncă de noapte numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca de noapte.
+(6) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav în baza certificatului medical pot presta muncă de noapte numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca de noapte.
+[Art.103 al.(6) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.103 al.(6) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 104. Munca suplimentară
 (1) Se consideră muncă suplimentară munca prestată în afara duratei normale a timpului de muncă prevăzute la art.95 alin.(2), la art.96 alin.(2)-(4), la art.98 alin.(3) şi la art.99 alin.(1).
@@ -1096,7 +1109,8 @@ d) pentru continuarea muncii în caz de neprezentare a lucrătorului de schimb, 
 Articolul 105. Limitarea muncii suplimentare
 (1) Nu se admite atragerea la muncă suplimentară a salariaţilor în vîrstă de pînă la 18 ani, a femeilor gravide, a femeilor aflate în concediul post natal, precum şi a persoanelor cărora munca suplimentară le este contraindicată conform certificatului medical.
 [Art.105 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(2) Invalizii de gradul I şi II, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii invalizi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute de art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta muncă suplimentară numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca suplimentară.
+(2) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute de art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta muncă suplimentară numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca suplimentară.
+[Art.105 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.105 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (3) Efectuarea muncii suplimentare nu poate avea ca efect majorarea duratei zilnice a timpului de muncă peste 12 ore.
 Articolul 106. Evidenţa timpului de muncă
@@ -1128,7 +1142,8 @@ Articolul 110. Munca în zilele de repaus
 (2) Prin derogare de la dispoziţiile alin.(1), atragerea salariaţilor la muncă în zilele de repaus se admite în modul şi în cazurile prevăzute la art.104 alin.(2) şi (3).
 (3) Nu se admite atragerea la muncă în zilele de repaus a salariaţilor în vîrstă de pînă la 18 ani, a femeilor gravide, a femeilor aflate în concediul postnatal.
 [Art.110 al.(3) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(4) Invalizii de gradul I şi II, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii invalizi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de repaus numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de repaus.
+(4) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de repaus numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de repaus.
+[Art.110 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.110 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 111. Zilele de sărbătoare nelucrătoare
 (1) În Republica Moldova, zile de sărbătoare nelucrătoare, cu plata salariului mediu (pentru salariaţii care sînt remuneraţi în acord sau pe unitate de timp – oră sau zi), sînt:
@@ -1152,7 +1167,8 @@ j) ziua Hramului bisericii din localitatea respectivă, declarată în modul sta
 (2) În zilele de sărbătoare nelucrătoare se admit lucrările în unităţile a căror oprire nu este posibilă în legătură cu condiţiile tehnice şi de producţie (unităţile cu flux continuu), lucrările determinate de necesitatea deservirii populaţiei, precum şi lucrările urgente de reparaţie şi de încărcare-descărcare.
 (3) Nu se admite atragerea la muncă în zilele de sărbătoare nelucrătoare a salariaţilor în vîrstă de pînă la 18 ani, a femeilor gravide, a femeilor aflate în concediul postnatal.
 [Art.111 al.(3) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(4) Invalizii de gradul I şi II, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii invaliz, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin. (2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de sărbătoare nelucrătoare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de sărbătoare nelucrătoare.
+(4) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin. (2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de sărbătoare nelucrătoare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de sărbătoare nelucrătoare.
+[Art.111 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.111 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (5) În scopul utilizării optime de către salariaţi a zilelor de repaus şi de sărbătoare nelucrătoare, Guvernul este în drept să transfere zilele de repaus (de lucru) în alte zile. Salariaţii care în ziua declarată zi de odihnă încă nu se aflau în raporturi de muncă cu unitatea în cauză, salariaţii ale căror contracte individuale de muncă erau suspendate la data respectivă, precum şi salariaţii care în ziua respectivă s-au aflat în concediu medical, în concediu de maternitate, în concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, în concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 6 ani, în concediu de odihnă anual, în concediu neplătit şi în concediu de studii nu au obligaţia de a se prezenta la serviciu în ziua declarată zi lucrătoare.
 [Art.111 al.(5) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
@@ -1201,7 +1217,8 @@ Articolul 116. Programarea concediilor de odihnă anuale
 (1) Programarea concediilor de odihnă anuale pentru anul următor se face de angajator, de comun acord cu reprezentanţii salariaţilor, cu cel puţin 2 săptămîni înainte de sfîrşitul fiecărui an calendaristic.
 (2) La programarea concediilor de odihnă anuale se ţine cont atît de dorinţa salariaţilor, cît şi de necesitatea asigurării bunei funcţionări a unităţii.
 (3) Salariaţilor ale căror soţii se află în concediu de maternitate li se acordă, în baza unei cereri scrise, concediul de odihnă anual concomitent cu concediul soţiilor.
-(4) Salariaţilor în vîrstă de pînă la 18 ani, părinţilor care au 2 şi mai mulţi copii în vîrstă de pînă la 16 ani sau un copil invalid şi părinţilor singuri care au un copil în vîrstă de pînă la 16 ani concediile de odihnă anuale li se acordă în perioada de vară sau, în baza unei cereri scrise, în orice altă perioadă a anului.
+(4) Salariaţilor în vîrstă de pînă la 18 ani, părinţilor care au 2 şi mai mulţi copii în vîrstă de pînă la 16 ani sau un copil cu dizabilităţi şi părinţilor singuri care au un copil în vîrstă de pînă la 16 ani concediile de odihnă anuale li se acordă în perioada de vară sau, în baza unei cereri scrise, în orice altă perioadă a anului.
+[Art.116 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.116 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (5) Programarea concediilor de odihnă anuale este obligatorie atît pentru angajator, cît şi pentru salariat. Salariatul trebuie să fie prevenit, în formă scrisă, despre data începerii concediului cu cel puţin 2 săptămîni înainte.
 [Art.116 al.(5) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
@@ -1233,14 +1250,17 @@ anuale nefolosite
 Articolul 120. Concediul neplătit
 (1) Din motive familiale şi din alte motive întemeiate, în baza unei cereri scrise, salariatului i se poate acorda, cu consimţămîntul angajatorului, un concediu neplătit cu o durată de pînă la 120 de zile calendaristice, în care scop se emite un ordin (dispoziţie, decizie, hotărîre).
 [Art.120 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
-(2) Unuia dintre părinţii care au 2 şi mai mulţi copii în vîrstă de pînă la 14 ani (sau un copil invalid), părinţilor singuri necăsătoriţi care au un copil de aceeaşi vîrstă li se acordă anual, în baza unei cereri scrise, un concediu neplătit cu o durată de cel puţin 14 zile calendaristice. Acest concediu poate fi alipit la concediul de odihnă anual sau poate fi folosit aparte (în întregime sau divizat) în perioadele stabilite de comun acord cu angajatorul.
+(2) Unuia dintre părinţii care au 2 şi mai mulţi copii în vîrstă de pînă la 14 ani (sau un copil cu dizabilităţi), părinţilor singuri necăsătoriţi care au un copil de aceeaşi vîrstă li se acordă anual, în baza unei cereri scrise, un concediu neplătit cu o durată de cel puţin 14 zile calendaristice. Acest concediu poate fi alipit la concediul de odihnă anual sau poate fi folosit aparte (în întregime sau divizat) în perioadele stabilite de comun acord cu angajatorul.
+[Art.120 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.120 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.120 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 121. Concediile de odihnă anuale suplimentare
-(1) Salariaţii care lucrează în condiţii vătămătoare, nevăzătorii şi tinerii în vîrstă de pînă la 18 ani beneficiază de un concediu de odihnă anual suplimentar plătit cu durata de cel puţin 4 zile calendaristice.
+(1) Salariaţii care lucrează în condiţii vătămătoare, persoanele cu dizabilităţi de vedere severe şi tinerii în vîrstă de pînă la 18 ani beneficiază de un concediu de odihnă anual suplimentar plătit cu durata de cel puţin 4 zile calendaristice.
+[Art.121 al.(1) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (2) Pentru salariaţii care lucrează în condiţii vătămătoare, durata concretă a concediului de odihnă anual suplimentar plătit este stabilită prin contractul colectiv de muncă, în baza nomenclatorului respectiv aprobat de Guvern.
 (3) Salariaţilor din unele ramuri ale economiei naţionale (industrie, transporturi, construcţii etc.) li se acordă concedii de odihnă anuale suplimentare plătite pentru vechime în muncă în unitate şi pentru munca în schimburi, conform legislaţiei în vigoare.
-(4) Unuia dintre părinţii care au 2 şi mai mulţi copii în vîrstă de pînă la 14 ani (sau un copil invalid) li se acordă un concediu de odihnă anual suplimentar plătit cu durata de 4 zile calendaristice.
+(4) Unuia dintre părinţii care au 2 şi mai mulţi copii în vîrstă de pînă la 14 ani (sau un copil cu dizabilităţi) li se acordă un concediu de odihnă anual suplimentar plătit cu durata de 4 zile calendaristice.
+[Art.121 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.121 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.121 al.(4) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (5) În convenţiile colective, în contractele colective sau în cele individuale de muncă pot fi prevăzute şi alte categorii de salariaţi cărora li se acordă concedii de odihnă anuale suplimentare plătite, precum şi alte durate (mai mari) ale concediilor decît cele specificate la alin.(1), (3) şi (4).
@@ -1306,7 +1326,8 @@ Capitolul I
 DISPOZIŢII GENERALE
 Articolul 128. Salariul
 (1) Salariul reprezintă orice recompensă sau cîştig evaluat în bani, plătit salariatului de către angajator în temeiul contractului individual de muncă, pentru munca prestată sau care urmează a fi prestată.
-(2) La stabilirea şi achitarea salariului nu se admite nici o discriminare pe criterii de sex, vîrstă, handicap, origine socială, situaţie familială, apartenenţă la o etnie, rasă sau naţionalitate, opţiuni politice sau convingeri religioase, apartenenţă sau activitate sindicală.
+(2) La stabilirea şi achitarea salariului nu se admite nici o discriminare pe criterii de sex, vîrstă, dizabilitate, origine socială, situaţie familială, apartenenţă la o etnie, rasă sau naţionalitate, opţiuni politice sau convingeri religioase, apartenenţă sau activitate sindicală.
+[Art.128 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (3) Salariul este confidenţial şi garantat.
 Articolul 129. Garanţiile de stat în domeniul salarizării
 Garanţiile de stat în domeniul salarizării cuprind salariul minim stabilit de stat, tarifele de stat de salarizare în sectorul bugetar, cuantumul minim garantat al salariului în sectorul real, precum şi adaosurile şi sporurile cu caracter de compensare, garantate de stat şi reglementate de legislaţia în vigoare.
@@ -1660,17 +1681,20 @@ Articolul 183. Dreptul preferenţial la menţinerea la lucru
 de personal
 (1) În caz de reducere a numărului sau a statelor de personal, de dreptul preferenţial de a fi lăsaţi la lucru beneficiază salariaţii cu o calificare şi productivitate a muncii mai înaltă.
 (2) În cazul unei egale calificări şi productivităţi a muncii, de dreptul preferenţial de a fi lăsaţi la lucru au:
-a) salariaţii cu obligaţii familiale, care întreţin două sau mai multe persoane şi/sau un invalid;
+a) salariaţii cu obligaţii familiale, care întreţin două sau mai multe persoane şi/sau o persoană cu dizabilităţi;
+[Art.183 al.(2), lit.a) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.183 al.(2), lit.a) modificată prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 b) salariaţii în a căror familie nu sînt alte persoane cu venit de sine stătător;
 c) salariaţii care au o mai mare vechime în muncă în unitatea respectivă;
 d) salariaţii care au suferit în unitatea respectivă un accident de muncă sau au contractat o boală profesională;
 e) salariaţii care îşi ridică calificarea în instituţiile de învăţămînt superior şi mediu de specialitate, fără scoatere din activitate;
-f) invalizii de război şi membrii familiilor militarilor căzuţi sau dispăruţi fără urmă;
+f) persoanele cu dizabilităţi de pe urma războiului şi membrii familiilor militarilor căzuţi sau dispăruţi fără urmă;
+[Art.183 al.(2), lit.f) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 g) participanţii la acţiunile de luptă pentru apărarea integrităţii teritoriale şi independenţei Republicii Moldova;
 h) inventatorii;
 i) persoanele care s-au îmbolnăvit sau au suferit de boală actinică şi de alte boli provocate de radiaţie în urma avariei de la Cernobîl;
-j) invalizii în privinţa cărora este stabilit raportul de cauzalitate dintre survenirea invalidităţii şi avaria de la C.A.E. Cernobîl, participanţii la lichidarea consecinţelor avariei de la C.A.E. Cernobîl în zona de înstrăinare în anii 1986-1990;
+j) persoanele cu dizabilităţi în privinţa cărora este stabilit raportul de cauzalitate dintre survenirea dizabilităţii şi avaria de la C.A.E. Cernobîl, participanţii la lichidarea consecinţelor avariei de la C.A.E. Cernobîl în zona de înstrăinare în anii 1986-1990;
+[Art.183 al.(2), lit.j) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 k) salariaţii care au mai multe stimulări pentru succese în muncă şi nu au sancţiuni disciplinare (art.211);
 l) salariaţii cărora le-au rămas cel mult 5 ani pînă la stabilirea pensiei pentru limită de vîrstă.
 [Art.183 al.(2), lit.l) modificată prin LP62 din 11.04.14, MO110-114/09.05.14 art.282]
@@ -2016,7 +2040,8 @@ muncii femeilor
 Articolul 249. Limitarea trimiterii în deplasare
 (1) Nu se admite trimiterea în deplasare în interes de serviciu a persoanelor cărora deplasarea le este contraindicată conform certificatului medical.
 [Art.249 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(2) Invalizii de gradul I şi II, femeile gravide, femeile aflate în concediul postnatal, părinţii singuri care au copii în vîrstă de pînă la 14 ani, salariaţii care au copii în vîrstă de pînă la 6 ani sau copii invalizi, persoanele care îmbină concediile pentru îngrijirea copilului, prevăzute la art.126 şi 127 alin.(2), cu munca, precum şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot fi trimişi în deplasare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza plecarea în deplasare.
+(2) Persoanele cu dizabilităţi severe şi accentuate, femeile gravide, femeile aflate în concediul postnatal, părinţii singuri care au copii în vîrstă de pînă la 14 ani, salariaţii care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului, prevăzute la art.126 şi 127 alin.(2), cu munca, precum şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot fi trimişi în deplasare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza plecarea în deplasare.
+[Art.249 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.249 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 250. Transferul la o muncă mai uşoară al
 femeilor gravide şi al femeilor care au
@@ -2386,7 +2411,8 @@ Articolul 317. Dispoziţii generale
 Articolul 318. Limitarea muncii în tură continuă
 (1) Nu se admite atragerea la munca în tură continuă a persoanelor în vîrstă de pînă la 18 ani, a femeilor gravide, a femeilor aflate în concediul postnatal, precum şi a persoanelor cărora munca în tură continuă le este contraindicată conform certificatului medical.
 [Art.318 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(2) Invalizii de gradul I şi II, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii invalizi, persoanele care îmbină concediile pentru îngrijirea copilului, prevăzute la art.126 şi 127 alin.(2), cu munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în tură continuă numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în tură continuă.
+(2) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului, prevăzute la art.126 şi 127 alin.(2), cu munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în tură continuă numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în tură continuă.
+[Art.318 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.318 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 319. Durata turei continue
 (1) Durata turei continue reprezintă perioada care include timpul îndeplinirii lucrărilor şi timpul de odihnă între schimburi în orăşelele speciale menţionate la art.317 alin.(3).
