@@ -14,6 +14,8 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP193 din 28.07.16, MO315-328/23.09.16 art.686
+LP196 din 28.07.16, MO306-313/16.09.16 art.661
 LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
 LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
 LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16
@@ -499,7 +501,8 @@ c) săvîrşirea infracţiunii prin orice formă de participaţie;
 d) săvîrşirea infracţiunii din motive de ură socială, naţională, rasială sau religioasă;
 e) săvîrşirea infracţiunii cu bună ştiinţă împotriva unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 f) săvîrşirea infracţiunii asupra unei persoane în legătură cu îndeplinirea de către ea a obligaţiilor de serviciu sau obşteşti;
-g) săvîrşirea infracţiunii prin intermediul minorilor, persoanelor aflate în dificultate, persoanelor retardate mintal sau dependente de făptuitor;
+g) săvîrşirea infracţiunii prin intermediul sau în prezenţa minorilor, persoanelor aflate în dificultate, persoanelor retardate mintal sau dependente de făptuitor;
+[Art.77 al.(1), lit.g) modificată prin LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 h) săvîrşirea infracţiunii prin acte de o deosebită cruzime sau prin batjocorirea victimei;
 i) săvîrşirea infracţiunii prin mijloace care prezintă un pericol social sporit;
 j) săvîrşirea infracţiunii de către o persoană în stare de ebrietate, provocată de consumarea substanţelor menţionate la art.24. Instanţa de judecată este în drept, în funcţie de caracterul infracţiunii, să nu considere aceasta ca o circumstanţă agravantă;
@@ -965,21 +968,27 @@ Articolul 133. Valori culturale
 Prin valori culturale cu caracter religios sau laic se înţeleg valorile indicate în Convenţia Organizaţiei Naţiunilor Unite pentru Educaţie, Ştiinţă şi Cultură din 14 noiembrie 1970 privind măsurile îndreptate spre interzicerea şi prevenirea introducerii, scoaterii şi transmiterii ilicite a dreptului de proprietate asupra valorilor culturale.
 Articolul 1331. Membru de familie
 Prin membru de familie se înţelege:
-a) în condiţia conlocuirii: persoanele aflate în relaţii de căsătorie, de concubinaj, persoanele divorţate, persoanele aflate în relaţii de tutelă şi curatelă, rudele lor pe linie dreaptă sau colaterală, soţii rudelor;
-b) în condiţia locuirii separate: persoanele aflate în relaţii de căsătorie, copiii lor, inclusiv cei adoptivi, cei născuţi în afara căsătoriei, cei aflaţi sub curatelă.
+a) în condiţia de conlocuire: persoanele aflate în căsătorie, în divorţ, sub tutelă şi curatelă, rudele, afinii lor, soţii rudelor, persoanele aflate în relaţii asemănătoare celora dintre soţi (concubinaj) sau dintre părinţi şi copii;
+b) în condiţia de locuire separată: persoanele aflate în căsătorie, în divorț, rudele, afinii lor, copiii adoptivi, persoanele aflate sub curatelă, persoanele care se află ori s-au aflat în relaţii asemănătoare celora dintre soţi (concubinaj).
+[Art.1331 în redacția LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 [Art.1331 introdus prin LP167 din 09.07.10, MO155-158/03.09.10 art.551]
 Articolul 134. Rudenia
 (1) Prin rudenie se înţelege legătura bazată pe descendenţa unei persoane dintr-o altă persoană sau pe faptul că mai multe persoane au un ascendent comun. În primul caz, rudenia este în linie dreaptă, iar în al doilea caz – în linie colaterală.
 (2) Gradul de rudenie se stabileşte prin numărul de naşteri.
 (3) Rudele unuia dintre soţi sînt afinii celuilalt soţ. Linia şi gradul de afinitate sînt asimilate liniei şi gradului de rudenie.
 (4) Rude apropiate sînt părinţii, copiii, înfietorii, copiii înfiaţi, fraţii şi surorile, bunicii şi nepoţii lor.
-Articolul 1341. Substanţe narcotice, psihotrope
-şi precursori
-(1) Prin substanţă narcotică sau psihotropă se înţelege substanţa de origine naturală sau sintetică şi preparatul conţinînd o astfel de substanţă, care provoacă dereglări psihice şi dependenţă fizică la consumul lor abuziv.
-(2) Prin analog al substanţei narcotice sau psihotrope se înţelege substanţa care, conform componenţei sale şi efectului pe care îl produce, se asimilează cu substanţa narcotică sau psihotropă.
-(3) Prin precursor se înţelege substanţa de origine naturală sau sintetică utilizată ca materie primă la producerea de substanţe narcotice sau psihotrope.
-(4) Listele substanţelor narcotice, psihotrope şi precursorilor se aprobă de Guvern.
-(5) În cazul sustragerii, însuşirii, extorcării sau altor acţiuni ilegale cu substanţe narcotice, psihotrope, cu analoage ale acestora şi cu plantele care conţin substanţe narcotice sau psihotrope, proporţiile mici, mari sau deosebit de mari se determină conform cantităţilor mici, mari sau deosebit de mari ale substanţelor narcotice, psihotrope şi ale plantelor care conţin substanţe narcotice sau psihotrope.
+Articolul 1341. Droguri, precursori, etnobotanice
+şi analogii acestora
+(1) Prin droguri se înţeleg plantele sau substanţele stupefiante ori psihotrope, sau amestecurile ce conţin asemenea plante ori substanţe, stabilite de Guvern.
+(2) Prin stupefiante se înţeleg substanţele înscrise în anexele la Convenţia unică a Naţiunilor Unite asupra substanțelor stupefiante din 1961, modificată prin Protocolul din 1972, şi prevăzute în actele normative ale Guvernului.
+(3) Prin substanţe psihotrope se înţeleg substanţele înscrise în anexele la Convenţia asupra substanţelor psihotrope din 1971 şi prevăzute în actele normative ale Guvernului.
+(4) Prin precursor se înţelege substanţa de origine naturală sau sintetică utilizată ca materie primă la producerea de substanțe stupefiante sau psihotrope.
+(5) Prin produse etnobotanice (etnobotanice) se înţeleg amestecurile de prafuri şi/sau plante sau amestecurile de ierburi şi diverse părţi de plante stropite cu substanțe chimice, care produc schimbări ce induc efecte fiziologice şi/sau mentale, halucinogene şi/sau acţiuni psihoactive.
+(6) Prin analog al substanţei stupefiante sau psihotrope se înţelege orice substanţă sau asociere de substanţe de origine naturală ori sintetică, în orice stare fizică, sau orice produs, plantă, ciupercă, ori părți ale acestora, care are capacitatea de a produce efecte psihoactive şi care, indiferent de conţinutul său, denumirea sa, modul său de administrare, de prezentare sau de publicitatea care i se face, este ori poate fi folosită în locul unei substanţe sau al unui preparat stupefiant, psihotrop ori cu efect psihotrop sau în locul unei plante ori substanţe aflate sub control naţional şi/sau internaţional.
+(7) Listele de substanţe stupefiante, psihotrope şi de precursori se aprobă, se modifică și se completează de către Guvern.
+(8) În cazul sustragerii, însuşirii, extorcării sau al altor acţiuni ilegale cu droguri, precursori, etnobotanice sau analogi ai acestora, proporţiile acestora – mici, mari sau deosebit de mari – se determină conform cantităţilor mici, mari sau deosebit de mari stabilite de Guvern.
+(9) Prin circulaţia drogurilor, precursorilor, etnobotanicelor și analogilor acestora se înţeleg orice operaţiuni precum experimentarea, elaborarea, producerea (fabricarea), prepararea, cultivarea, extragerea, prelucrarea, transformarea, deținerea, stocarea, păstrarea, livrarea, eliberarea, distribuţia, expedierea, transportul, procurarea (cumpărarea), comercializarea, distrugerea, importul, exportul, utilizarea, promovarea acestora şi alte activități conexe.
+[Art.1341 în redacția LP193 din 28.07.16, MO315-328/23.09.16 art.686]
 Articolul 1342. Aeronavă aflată în zbor şi aeronavă
 aflată în exploatare
 (1) O aeronavă se consideră a fi în zbor din momentul în care, fiind terminată îmbarcarea, toate uşile exterioare ale acelei nave au fost închise şi pînă în momentul în care una dintre aceste uşi este deschisă în vederea debarcării. În caz de aterizare forţată, se consideră că zborul continuă pînă în momentul cînd autorităţile competente iau în primire aeronava, precum şi persoanele şi bunurile de la bord.
@@ -1013,7 +1022,8 @@ Articolul 13411. Infracţiune cu caracter terorist
 Prin infracţiune cu caracter terorist se înţelege una din infracţiunile prevăzute la art. 1401, 142, 275, 278, 2781, 2791, 2792, 280, 284 alin. (2), art. 2891, 292 alin. (11) şi alin. (2) în partea ce vizează faptele prevăzute la alin. (11), art. 295, 2951, 2952, 342 şi 343.
 [Art.13411 modificat prin LP134 din 14.06.12, MO135-141/06.07.12 art.449]
 Articolul 13412. Starea de ebrietate
-(1) Prin stare de ebrietate se înţelege starea de dereglare psihofuncţională a organismului survenită în urma consumului de alcool, de substanţe narcotice, psihotrope şi/sau de alte substanţe cu efecte similare.
+(1) Prin stare de ebrietate se înţelege starea de dereglare psihofuncţională a organismului survenită în urma consumului de alcool, droguri și/sau alte substanțe cu efecte similare.
+[Art.13412 al.(1) modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
 (2) Prin stare de ebrietate alcoolică cu grad minim se înţelege starea persoanei care are concentraţia de alcool în sînge de la 0,3 pînă la 1,0 g/l sau concentraţia vaporilor de alcool în aerul expirat de la 0,15 pînă la 0,5 mg/l.
 [Art.13412 al.(2) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 (3) Prin stare de ebrietate alcoolică cu grad avansat se înţelege starea persoanei care are concentraţia de alcool în sînge de la 1,0 g/l şi mai mult sau concentraţia vaporilor de alcool în aerul expirat de la 0,5 mg/l şi mai mult.
@@ -1204,6 +1214,8 @@ b) din interes material;
 c)- exclusă
 d) în legătură cu îndeplinirea de către victimă a obligaţiilor de serviciu sau obşteşti;
 e) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
+e1) asupra unui membru de familie;
+[Art.145 al.(2), lit.e1) introdusă prin LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 f) cu răpirea sau luarea persoanei în calitate de ostatic;
 g) asupra a două sau mai multor persoane;
 h) asupra unui reprezentant al autorităţii publice ori a unui militar, ori a rudelor apropiate ale acestora, în timpul sau în legătură cu îndeplinirea de către reprezentantul autorităţii publice sau militar a obligaţiilor de serviciu;
@@ -2053,17 +2065,23 @@ Articolul 201. Incestul
 se pedepseşte cu închisoare de pînă la 5 ani.
 (2) Persoanele prevăzute la alin.(1) nu sînt pasibile de răspundere penală dacă, la momentul săvîrşirii faptei, nu au împlinit vîrsta de 18 ani şi diferenţa de vîrstă între ei nu este mai mare de 2 ani.
 Articolul 2011. Violenţa în familie
-(1) Violenţa în familie, adică acţiunea sau inacţiunea intenţionată, manifestată fizic sau verbal, comisă de un membru al familiei asupra unui alt membru al familiei, care a provocat suferinţă fizică, soldată cu vătămarea uşoară a integrităţii corporale sau a sănătăţii, suferinţă psihică ori prejudiciu material sau moral,
-se pedepseşte cu muncă neremunerată în folosul comunităţii de la 150 la 180 de ore sau cu închisoare de pînă la 2 ani.
-(2) Aceeaşi acţiune:
-a) săvîrşită asupra a doi sau mai multor membri ai familiei;
-b) care a provocat vătămarea medie a integrităţii corporale sau a sănătăţii
-se pedepseşte cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore sau cu închisoare de pînă la 5 ani.
-(3) Aceeaşi acţiune care:
-a) a cauzat vătămarea gravă a integrităţii corporale sau a sănătăţii;
-b) a determinat la sinucidere sau la tentativă de sinucidere;
-c) a provocat decesul victimei
-se pedepseşte cu închisoare de la 5 la 15 ani.
+(1) Acţiunea sau inacţiunea intenţionată comisă de un membru al familiei în privinţa altui membru al familiei, manifestată prin:
+a) maltratare, alte acţiuni violente, soldate cu vătămare uşoară a integrităţii corporale sau a sănătăţii;
+b) izolare, intimidare în scop de impunere a voinţei sau a controlului personal asupra victimei;
+c) privarea de mijloace economice, inclusiv lipsirea de mijloace de existenţă primară, neglijare, dacă au provocat victimei vătămare uşoară a integrității corporale sau a sănătăţii,
+se pedepseşte cu muncă neremunerată în folosul comunităţii de la 150 la 180 de ore sau cu închisoare de pînă la 3 ani.
+(2) Faptele prevăzute la alin. (1):
+a) săvîrşite asupra a doi sau a mai multor membri ai familiei;
+b) săvîrşite în legătură cu solicitarea sau aplicarea măsurilor de protecţie;
+c) care au provocat vătămarea medie a integrităţii corporale sau a sănătăţii,
+se pedepsesc cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore sau cu închisoare de la 1 la 6 ani.
+(3) Faptele prevăzute la alin. (1) și (2) care:
+a) au cauzat vătămarea gravă a integrităţii corporale sau a sănătăţii;
+b) au determinat la sinucidere sau la tentativă de sinucidere
+se pedepsesc cu închisoare de la 6 la 12 ani.
+(4) Faptele prevăzute la alin. (1) sau (2) care au cauzat vătămarea gravă a integrităţii corporale sau a sănătăţii soldată cu decesul victimei
+se pedepsesc cu închisoare de la 12 la 15 ani.
+[Art.2011 în redacția LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 [Art.2011 introdus prin LP167 din 09.07.10, MO155-158/03.09.10 art.551]
 Articolul 202 - exclus
 Articolul 203 - exclus
@@ -2234,18 +2252,17 @@ a) - exclusă
 b) săvîrşite de un grup criminal organizat sau de o organizaţie criminală;
 c) dacă au provocat decesul a două sau mai multe persoane,
 se pedepsesc cu amendă în mărime de la 1.000 la 1.500 unităţi convenţionale sau cu închisoare de la 3 la 7 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 8.000 la 10.000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 5 ani sau cu lichidarea persoanei juridice.
-Articolul 217. Circulaţia ilegală a substanţelor narcotice,
-psihotrope sau a analoagelor lor fără
-scop de înstrăinare
-(1) Semănatul sau cultivarea ilegală a plantelor care conţin substanţe narcotice sau psihotrope, prelucrarea sau utilizarea a astfel de plante, săvîrşite în proporţii mari şi fără scop de înstrăinare,
+Articolul 217. Circulaţia ilegală a drogurilor, etnobotanicelor
+sau analogii acestora fără scop de înstrăinare
+(1) Semănatul sau cultivarea ilegală a plantelor care conţin droguri sau etnobotanice, prelucrarea sau utilizarea a astfel de plante, săvîrşite în proporţii mari şi fără scop de înstrăinare,
 se pedepsesc cu amendă în mărime de la 200 la 400 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de pînă la 100 de ore, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-(2) Producerea, prepararea, experimentarea, extragerea, prelucrarea, transformarea, procurarea, păstrarea, expedierea, transportarea substanţelor narcotice, psihotrope sau a analoagelor lor, săvîrşite în proporţii mari şi fără scop de înstrăinare,
+(2) Producerea, prepararea, experimentarea, extragerea, prelucrarea, transformarea, procurarea, păstrarea, expedierea, transportarea drogurilor, etnobotanicelor sau analogii acestora, săvîrşite în proporţii mari şi fără scop de înstrăinare,
 se pedepsesc cu amendă în mărime de la 400 la 700 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de pînă la 150 de ore, sau cu închisoare de pînă la 1 an, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 (3) Acţiunile prevăzute la alin.(1) sau (2), săvîrşite:
 a) - exclusă
 b) de două sau mai multe persoane;
 b1) de o persoană care a împlinit vîrsta de 18 ani cu atragerea minorilor;
-c) cu utilizarea substanţelor narcotice, psihotrope sau a analoagelor lor, a căror circulaţie în scopuri medicinale este interzisă;
+c) cu utilizarea drogurilor, etnobotanicelor sau analogii acestora, a căror circulaţie în scopuri medicinale este interzisă;
 d) cu folosirea situaţiei de serviciu;
 e) pe teritoriul instituţiilor de învăţămînt, instituţiilor de reabilitare socială, penitenciarelor, unităţilor militare, în locurile de agrement, în locurile de desfăşurare a acţiunilor de educaţie, instruire a minorilor sau tineretului, a altor acţiuni culturale sau sportive ori în imediata apropiere a acestora,
 se pedepsesc cu închisoare de pînă la 4 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 8000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
@@ -2253,19 +2270,23 @@ se pedepsesc cu închisoare de pînă la 4 ani cu privarea de dreptul de a ocupa
 a) - exclusă
 b) în proporţii deosebit de mari,
 se pedepsesc cu închisoare de la 1 la 6 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 10000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-(5) Persoana care a săvîrşit acţiunile prevăzute la art.217 sau 2171 este liberată de răspundere penală dacă a contribuit activ la descoperirea sau contracararea infracţiunii ce ţine de circulaţia ilegală a substanţelor narcotice, psihotrope sau analoagelor lor, după caz, prin autodenunţare, predare benevolă a substanţelor narcotice, psihotrope sau a analoagelor lor, indicare a sursei de procurare a acestor substanţe, la divulgarea persoanelor care au contribuit la săvîrşirea infracţiunii, la indicarea mijloacelor băneşti, a bunurilor sau a veniturilor rezultate din infracţiune. Nu poate fi considerată predare benevolă a substanţelor narcotice, psihotrope sau a analoagelor lor ridicarea acestora la reţinerea persoanei, precum şi la efectuarea acţiunilor de urmărire penală pentru depistarea şi ridicarea lor.
-Articolul 2171. Circulaţia ilegală a substanţelor narcotice,
-psihotrope sau a analoagelor lor în scop
-de înstrăinare
-(1) Semănatul sau cultivarea de plante care conţin substanţe narcotice sau psihotrope, prelucrarea sau utilizarea a astfel de plante fără autorizaţie, săvîrşite în scop de înstrăinare,
-se pedepsesc cu amendă în mărime de la 600 la 900 unităţi convenţionale sau cu închisoare de pînă la 2 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 3000 la 5000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-(2) Producerea, prepararea, experimentarea, extragerea, prelucrarea, transformarea, procurarea, păstrarea, expedierea, transportarea, distribuirea sau alte operaţiuni ilegale cu substanţele narcotice, psihotrope sau cu analoagele lor, săvîrşite în scop de înstrăinare, ori înstrăinarea ilegală a substanţelor narcotice, psihotrope sau a analoagelor lor,
+(5) Persoana care a săvîrşit acţiunile prevăzute la art.217 sau 2171 este liberată de răspundere penală dacă a contribuit activ la descoperirea sau contracararea infracţiunii ce ţine de circulaţia ilegală a drogurilor, etnobotanicelor sau analogii acestora, după caz, prin autodenunţare, predare benevolă a drogurilor, etnobotanicelor sau analogii acestora, indicare a sursei de procurare a acestor substanţe, la divulgarea persoanelor care au contribuit la săvîrşirea infracţiunii, la indicarea mijloacelor băneşti, a bunurilor sau a veniturilor rezultate din infracţiune. Nu poate fi considerată predare benevolă a drogurilor, etnobotanicelor sau analogii acestora ridicarea acestora la reţinerea persoanei, precum şi la efectuarea acţiunilor de urmărire penală pentru depistarea şi ridicarea lor.
+[Art.217 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
+Articolul 2171. Circulația ilegală a drogurilor, etnobotanicelor
+sau analogilor acestora în scop de înstrăinare
+[Art.2171 titlul în redacția LP193 din 28.07.16, MO315-328/23.09.16 art.686]
+(1) Semănatul ori cultivarea de plante ce conţin droguri, prelucrarea ori utilizarea unor astfel de plante fără autorizaţie sau semănatul ori cultivarea de plante pentru fabricarea produselor etnobotanice, săvîrşite în scop de înstrăinare,
+se pedepsesc cu amendă în mărime de la 600 la 900 de unităţi convenţionale sau cu închisoare de pînă la 2 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 3000 la 5000 de unităţi convenţionale, cu privarea de dreptul de a exercita anumite activități sau cu lichidarea persoanei juridice.
+[Art.2171al.(1) în redacția LP193 din 28.07.16, MO315-328/23.09.16 art.686]
+(2) Producerea, prepararea, experimentarea, extragerea, prelucrarea, transformarea, procurarea, păstrarea, expedierea, transportarea, distribuirea sau alte operaţiuni ilegale cu droguri sau cu analogi ai acestora, săvîrşite în scop de înstrăinare, ori înstrăinarea ilegală a drogurilor sau analogilor acestora,
 se pedepsesc cu închisoare de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+[Art.2171al.(2) modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
 (3) Acţiunile prevăzute la alin.(1) sau (2), săvîrşite:
 a) de o persoană care anterior a săvîrşit aceleaşi acţiuni;
 b) de două sau mai multe persoane;
 b1) de o persoană care a împlinit vîrsta de 18 ani cu atragerea minorilor;
-c) cu utilizarea substanţelor narcotice, psihotrope sau a analoagelor lor, a căror circulaţie în scopuri medicinale este interzisă;
+c) cu utilizarea drogurilor sau a analogilor acestora, a căror circulaţie în scopuri medicinale este interzisă;
+[Art.2171al.(3), lit.c) modificată prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
 d) cu folosirea situaţiei de serviciu;
 e) pe teritoriul instituţiilor de învăţămînt, instituţiilor de reabilitare socială, penitenciarelor, unităţilor militare, în locurile de agrement, în locurile de desfăşurare a acţiunilor de educaţie, instruire a minorilor sau tineretului, a altor acţiuni culturale sau sportive ori în imediata apropiere a acestora;
 f) în proporţii mari,
@@ -2276,17 +2297,17 @@ b) de un grup criminal organizat sau de o organizaţie criminală ori în favoar
 c) - exclusă
 d) în proporţii deosebit de mari,
 se pedepsesc cu închisoare de la 7 la 15 de ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 8000 la 10000 unităţi convenţionale cu lichidarea acesteia.
-Articolul 2172. Circulaţia ilegală a precursorilor
-în scopul producerii sau prelucrării
-substanţelor narcotice, psihotrope
-sau a analoagelor lor
-Producerea, prepararea, prelucrarea, experimentarea, procurarea, păstrarea, expedierea, transportarea, înstrăinarea sau efectuarea oricăror alte operaţiuni cu precursori în scopul producerii sau prelucrării substanţelor narcotice, psihotrope sau a analoagelor lor,
+[Art.2171 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
+Articolul 2172. Circulaţia ilegală a precursorilor în scopul
+producerii sau prelucrării drogurilor,
+etnobotanicelor sau analogii acestora
+Producerea, prepararea, prelucrarea, experimentarea, procurarea, păstrarea, expedierea, transportarea, înstrăinarea sau efectuarea oricăror alte operaţiuni cu precursori în scopul producerii sau prelucrării drogurilor, etnobotanicelor sau analogii acestora,
 se pedepsesc cu amendă în mărime de la 800 la 1000 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 7000 la 10000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-Articolul 2173. Circulaţia ilegală a materialelor şi
-utilajelor destinate producerii sau
-prelucrării substanţelor narcotice,
-psihotrope sau a analoagelor lor
-(1) Producerea, fabricarea, procurarea, păstrarea, expedierea, transmiterea, transportarea sau înstrăinarea materialelor ori a utilajelor destinate producerii, preparării sau prelucrării substanţelor narcotice, psihotrope sau a analoagelor lor ori cultivării plantelor care conţin aceste substanţe
+[Art.2172 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
+Articolul 2173. Circulaţia ilegală a materialelor şi utilajelor
+destinate producerii sau prelucrării drogurilor,
+etnobotanicelor sau analogii acestora
+(1) Producerea, fabricarea, procurarea, păstrarea, expedierea, transmiterea, transportarea sau înstrăinarea materialelor ori a utilajelor destinate producerii, preparării sau prelucrării drogurilor, etnobotanicelor sau analogii acestora ori cultivării plantelor care conţin aceste substanţe
 se pedepsesc cu amendă în mărime de la 150 la 300 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă de la 1000 la 3000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 (2) Aceleaşi acţiuni săvîrşite:
 a) - exclusă
@@ -2298,10 +2319,10 @@ a) de un grup criminal organizat sau de o organizaţie criminală ori în favoar
 b) pe teritoriul instituţiilor de învăţămînt, instituţiilor de reabilitare socială, penitenciarelor, unităţilor militare, în locurile de agrement, în locurile de desfăşurare a acţiunilor de educaţie, instruire a minorilor sau tineretului, a altor acţiuni culturale sau sportive ori în imediata apropiere a acestora,
 c) - exclusă
 se pedepsesc cu închisoare de la 2 la 5 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 8000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-Articolul 2174. Sustragerea sau extorcarea
-substanţelor narcotice sau
-psihotrope
-(1) Sustragerea sau extorcarea substanţelor narcotice sau psihotrope
+[Art.2173 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
+Articolul 2174. Sustragerea sau extorcarea drogurilor
+sau etnobotanicelor
+(1) Sustragerea sau extorcarea drogurilor sau etnobotanicelor
 se pedepseşte cu amendă în mărime de la 500 la 2000 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de la 3 la 5 ani.
 [Art.2174 al.(1), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (2) Aceleaşi acţiuni săvîrşite:
@@ -2319,49 +2340,51 @@ b) cu aplicarea violenţei periculoase pentru viaţa sau sănătatea persoanei o
 c) în proporţii deosebit de mari,
 se pedepsesc cu închisoare de la 10 la 15 ani cu aplicarea unei amenzi în mărime de la 3000 la 5000 unităţi convenţionale.
 [Art.2174 al.(3), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
+[Art.2174 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
 Articolul 2175. Consumul ilegal public sau organizarea
-consumului ilegal de substanţe narcotice,
-psihotrope sau analoage ale acestora
-(1) Consumul ilegal de substanţe narcotice, psihotrope sau analoage ale acestora, săvîrşit în mod public sau pe teritoriul instituţiilor de învăţămînt, instituţiilor de reabilitare socială, penitenciarelor, unităţilor militare, în locurile de agrement, în locurile de desfăşurare a acţiunilor de educaţie, instruire a minorilor sau tineretului, a altor acţiuni culturale sau sportive ori în imediata apropiere a acestora,
+consumului ilegal de droguri, etnobotanice
+sau analogii acestora
+(1) Consumul ilegal de droguri, etnobotanice sau analogii acestora, săvîrşit în mod public sau pe teritoriul instituţiilor de învăţămînt, instituţiilor de reabilitare socială, penitenciarelor, unităţilor militare, în locurile de agrement, în locurile de desfăşurare a acţiunilor de educaţie, instruire a minorilor sau tineretului, a altor acţiuni culturale sau sportive ori în imediata apropiere a acestora,
 se pedepseşte cu amendă în mărime de la 400 la 700 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore.
-(2) Organizarea consumului ilegal de substanţe narcotice sau psihotrope
+(2) Organizarea consumului ilegal de droguri sau etnobotanice
 se pedepseşte cu amendă în mărime de la 400 la 700 unităţi convenţionale sau cu închisoare de la 2 la 5 ani.
-Articolul 2176. Introducerea ilegală intenţionată în
-organismul altei persoane, împotriva
-voinţei acesteia, a substanţelor narcotice,
-psihotrope sau a analoagelor acestora
-(1) Introducerea ilegală intenţionată, indiferent de mod, în organismul altei persoane, împotriva voinţei acesteia, a substanţelor narcotice, psihotrope sau a analoagelor acestora
+[Art.2175 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
+Articolul 2176. Introducerea ilegală intenţionată în organismul
+altei persoane, împotriva voinţei acesteia, a drogurilor,
+etnobotanicelor sau analogii acestora
+(1) Introducerea ilegală intenţionată, indiferent de mod, în organismul altei persoane, împotriva voinţei acesteia, a drogurilor, etnobotanicelor sau analogii acestora
 se pedepseşte cu amendă în mărime de la 400 la 700 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 200 de ore, sau cu închisoare de pînă la 3 ani.
 (2) Aceeaşi acţiune săvîrşită:
 a) - exclusă
 b) faţă de două sau mai multe persoane;
 c) cu bună ştiinţă faţă de un minor sau de o femeie gravidă ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 d) - exclusă
-e) cu substanţe narcotice sau psihotrope a căror circulaţie în scopuri medicinale este interzisă
+e) cu droguri sau etnobotanice a căror circulaţie în scopuri medicinale este interzisă
 se pedepseşte cu închisoare de la 2 la 7 ani.
-Articolul 218. Prescrierea ilegală sau încălcarea
-regulilor de circulaţie a substanţelor
-narcotice sau psihotrope
-(1) Prescrierea fără necesitate a preparatelor narcotice sau psihotrope
+[Art.2176 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
+Articolul 218. Prescrierea ilegală sau încălcarea regulilor
+de circulaţie a drogurilor
+(1) Prescrierea fără necesitate a drogurilor
 se pedepseşte cu amendă în mărime de la 200 la 800 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 1.000 la 3.000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
-(2) Falsificarea reţetei sau a altor documente care permit obţinerea preparatelor şi substanţelor narcotice sau psihotrope
+(2) Falsificarea reţetei sau a altor documente care permit obţinerea drogurilor
 se pedepseşte cu amendă în mărime de la 200 la 400 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 1 an, iar persoana juridică se pedepseşte cu amendă în mărime de la 3.000 la 5.000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 (3) Acţiunile prevăzute la alin.(1) sau (2), săvîrşite:
 a) - exclusă
 b) de două sau mai multe persoane;
-c) cu scopul de a obţine preparatele ori substanţele narcotice sau psihotrope în proporţii deosebit de mari,
+c) cu scopul de a obţine preparatele ori droguri în proporţii deosebit de mari,
 se pedepsesc cu amendă în mărime de la 500 la 1000 unităţi convenţionale sau cu închisoare de pînă la 5 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5.000 la 10.000 unităţi convenţionale cu lichidarea persoanei juridice.
-(4) Încălcarea regulilor stabilite de producere, preparare, prelucrare, procurare, păstrare, evidenţă, eliberare, înstrăinare, distribuire, transportare, expediere, utilizare, import, export, nimicire a substanţelor narcotice sau psihotrope ori a materialelor sau utilajelor destinate producerii sau prelucrării substanţelor narcotice sau psihotrope, de cultivare a plantelor care conţin substanţe narcotice sau psihotrope, care a cauzat pierderea lor, săvîrşită de către persoana în obligaţiile căreia intră respectarea regulilor menţionate,
+(4) Încălcarea regulilor stabilite de producere, preparare, prelucrare, procurare, păstrare, evidenţă, eliberare, înstrăinare, distribuire, transportare, expediere, utilizare, import, export, nimicire a drogurilor ori a materialelor sau utilajelor destinate producerii sau prelucrării drogurilor, de cultivare a plantelor care conţin droguri, care a cauzat pierderea lor, săvîrşită de către persoana în obligaţiile căreia intră respectarea regulilor menţionate,
 se pedepseşte cu amendă în mărime de la 300 la 600 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 (5) Acţiunile prevăzute la alin.(4), săvîrşite din interes material sau care au cauzat din imprudenţă vătămarea sănătăţii persoanei sau au avut alte urmări grave,
 se pedepsesc cu amendă în mărime de la 600 la 1000 unităţi convenţionale sau cu închisoare de pînă la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+[Art.218 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
 Articolul 219. Organizarea ori întreţinerea speluncilor
-pentru consumul substanţelor narcotice
-sau psihotrope
-(1) Organizarea ori întreţinerea speluncilor pentru consumul substanţelor narcotice sau psihotrope, precum şi punerea la dispoziţie a localurilor în aceste scopuri,
+pentru consumul drogurilor sau etnobotanicelor
+(1) Organizarea ori întreţinerea speluncilor pentru consumul drogurilor sau etnobotanicelor, precum şi punerea la dispoziţie a localurilor în aceste scopuri,
 se pedepsesc cu amendă în mărime de la 200 la 800 unităţi convenţionale sau cu închisoare de pînă la 4 ani.
 (2) Aceleaşi acţiuni săvîrşite de un grup criminal organizat sau de o organizaţie criminală
 se pedepsesc cu amendă în mărime de la 500 la 1000 unităţi convenţionale sau cu închisoare de la 3 la 7 ani.
+[Art.219 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
 Articolul 220. Proxenetismul
 (1) Îndemnul sau determinarea la prostituţie ori înlesnirea practicării prostituţiei, ori tragerea de foloase de pe urma practicării prostituţiei de către o altă persoană, dacă fapta nu întruneşte elementele traficului de fiinţe umane,
 [Art.220 al.(1), dispoziţia modificată prin LP270 din 07.11.13, MO290/10.12.13 art.794]
@@ -3573,6 +3596,11 @@ se pedepseşte cu amendă în mărime de la 200 la 300 de unităţi convenţiona
 (2) Neexecutarea intenţionată sau eschivarea de la executare de către o persoană cu funcţie de răspundere a hotărîrii instanţei de judecată, precum şi împiedicarea executării ei, dacă aceste fapte au fost comise după aplicarea sancţiunii contravenţionale,
 se pedepsesc cu amendă în mărime de la 300 la 500 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani, în toate cazurile cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 [Art.320 în redacţia LP173 din 09.07.10, MO155-158/03.09.10 art.553]
+Articolul 3201. Neexecutarea măsurilor din ordonanţa
+de protecţie a victimei violenţei în familie
+Neexecutarea intenţionată sau eschivarea de la executarea măsurilor stabilite de instanţa de judecată în ordonanţa de protecţie a victimei violenţei în familie
+se pedepseşte cu muncă neremunerată în folosul comunităţii de la 160 la 200 de ore sau cu închisoare de pînă la 3 ani.
+[Art.3201 introdus prin LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 Articolul 321. Nesupunerea prin violenţă cerinţelor
 administraţiei penitenciarului
 Nesupunerea prin violenţă cerinţelor legitime ale administraţiei penitenciarului, săvîrşită de o persoană care execută pedeapsa în penitenciar,
