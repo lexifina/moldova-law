@@ -13,6 +13,8 @@ Publicat : 26.04.2001
 Nr. 47-48
 art Nr : 210
 MODIFICAT
+LP211 din 29.07.16, MO338-341/30.09.16 art.698
+LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
 LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16
 LP150 din 01.07.16, MO206-214/15.07.16 art.452
 LP140 din 14.06.13, MO167-172/02.08.13 art.534; în vigoare 01.01.14
@@ -45,7 +47,8 @@ Prezentul cod stabileşte condiţiile şi modalitatea de încheiere, încetare �
 Articolul 4. Aplicarea legislaţiei civile
 Pentru reglementarea relaţiilor personale nepatrimoniale şi patrimoniale dintre membrii familiei, prevăzute la art.3, nereglementate de legislaţia familială, se aplică legislaţia civilă în măsura în care aceasta nu contravine esenţei relaţiilor familiale.
 Capitolul 2
-REALIZAREA ŞI APĂRAREA DREPTURILOR FAMILIALE
+REALIZAREA ŞI APĂRAREA DREPTURILOR
+FAMILIALE
 Articolul 5. Egalitatea în relaţiile familiale
 (1) Toate persoanele căsătorite au drepturi şi obligaţii egale în relaţiile familiale, indiferent de sex, rasă, naţionalitate, origine etnică, limbă, religie, opinie, apartenenţă politică, avere şi origine socială.
 (2) Drepturile şi obligaţiile familiale sînt legate de titularii lor şi nu pot fi cedate persoanelor terţe.
@@ -57,8 +60,11 @@ obligaţiilor familiale
 [Art.6 al.(2) modificat prin LP150 din 01.07.16, MO206-214/15.07.16 art.452]
 Articolul 7. Ocrotirea drepturilor familiale
 (1) Drepturile familiale sînt ocrotite de lege, cu excepţia cazurilor cînd acestea sînt realizate contrar destinaţiei sau contrar prevederilor legale.
-(2) Drepturile familiale sînt ocrotite de autorităţile abilitate ale administraţiei publice, iar în anumite cazuri şi de instanţele judecătoreşti.
+(2) Drepturile familiale sînt ocrotite de autorităţile abilitate ale administraţiei publice, iar în anumite cazuri de mediatori şi de instanţele judecătoreşti.
+[Art.7 al.(2) modificat prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 (3) Mijloacele de ocrotire a drepturilor familiale sînt stabilite de prezentul cod, de alte legi şi acte normative.
+(4) În orice conflict sau litigiu în relaţiile familiale, care creează sau ar putea crea un pericol pentru creşterea şi dezvoltarea normală a copilului sau care lezează sau afectează interesele lui legale, autoritatea tutelară recomandă membrilor familiei aflaţi în conflict sau litigiu soluţionarea acestuia în cadrul unui proces de mediere.
+[Art.7 al.(4) introdus prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 Articolul 8. Aplicarea prescripţiei
 (1) Cerinţele ce ţin de relaţiile familiale sînt imprescriptibile, cu excepţia cazurilor cînd termenele pentru apărarea dreptului lezat sînt prevăzute în mod expres de prezentul cod.
 (2) La examinarea cerinţelor ce ţin de relaţiile familiale, instanţa judecătorească aplică normele care reglementează prescripţia în conformitate cu prevederile articolelor respective ale Codului civil.
@@ -108,7 +114,8 @@ g) persoane condamnate la privaţiune de libertate în perioada cînd ambele î�
 h) persoane de acelaşi sex.
 (2) Orice persoană poate face opunere la căsătorie, dacă există un impediment legal ori dacă nu sînt îndeplinite alte cerinţe ale legii, expunîndu-şi în scris motivele şi anexînd dovezile invocate. Organul de stare civilă este obligat să verifice opunerile şi, dacă acestea se confirmă, să refuze încheierea căsătoriei.
 Capitolul 4
-DREPTURILE ŞI OBLIGAŢIILE PERSONALE ALE SOŢILOR
+DREPTURILE ŞI OBLIGAŢIILE PERSONALE
+ALE SOŢILOR
 Articolul 16. Egalitatea soţilor în relaţiile familiale
 (1) Toate problemele vieţii familiale se soluţionează de către soţi în comun, în conformitate cu principiul egalităţii lor în relaţiile familiale.
 (2) Fiecare dintre soţi este în drept să-şi continue ori să-şi aleagă de sine stătător îndeletnicirea şi profesia.
@@ -170,7 +177,8 @@ devălmăşie a soţilor
 (2) Instanţa judecătorească este în drept să diferenţieze cotele-părţi în proprietatea în devălmăşie a soţilor, ţinînd cont de interesele unuia dintre soţi şi/sau de interesele copiilor minori.
 (3) La împărţirea proprietăţii în devălmăşie a soţilor, datoriile comune se împart între ei proporţional cotelor-părţi ce le-au fost repartizate.
 Capitolul 6
-REGIMUL CONTRACTUAL AL BUNURILOR SOŢILOR
+REGIMUL CONTRACTUAL AL BUNURILOR
+OŢILOR
 Articolul 27. Contractul matrimonial
 Contractul matrimonial este convenţia încheiată benevol între persoanele care doresc să se căsătorească sau între soţi, în care se determină drepturile şi obligaţiile patrimoniale ale acestora în timpul căsătoriei şi/sau în cazul desfacerii acesteia.
 Articolul 28. Încheierea contractului matrimonial
@@ -182,6 +190,8 @@ Articolul 29. Conţinutul contractului matrimonial
 (2) Contractul matrimonial poate stabili că toate bunurile dobîndite de fiecare dintre soţi în timpul căsătoriei sînt proprietate personală a soţului care le-a dobîndit.
 (3) Contractul matrimonial încheiat în timpul căsătoriei nu are acţiune retroactivă. Bunurile dobîndite pînă la încheierea contractului sînt supuse regimului legal prevăzut de prezentul cod.
 (4) Soţii sînt în drept să determine în contractul matrimonial drepturile şi obligaţiile privind întreţinerea reciprocă şi modul de participare a fiecăruia la veniturile obţinute de fiecare dintre ei şi la cheltuielile comune, bunurile ce vor fi transmise fiecăruia dintre soţi în caz de partaj, precum şi să stabilească alte clauze patrimoniale, inclusiv sancţiuni patrimoniale pentru soţul culpabil de desfacerea căsătoriei.
+(41) Soţii pot include în contractul matrimonial clauza de mediere.
+[Art.29 al.(41) introdus prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 (5) Drepturile şi obligaţiile prevăzute în contractul matrimonial pot fi limitate la un anumit termen sau pot fi puse în dependenţă de survenirea sau nesurvenirea anumitelor condiţii.
 (6) Părţile nu sînt în drept să stipuleze în contractul matrimonial clauze care ar afecta capacitatea juridică sau de exerciţiu a soţilor, dreptul lor de adresare în instanţa judecătorească pentru reglementarea relaţiilor personale dintre ei, inclusiv a drepturilor şi obligaţiilor dintre ei şi copiii lor, care ar limita dreptul soţului inapt de muncă la întreţinere, care ar leza drepturile şi interesele legitime ale soţilor sau ale unuia dintre ei, precum şi clauze care contravin principiilor şi naturii relaţiilor familiale.
 Articolul 30. Modificarea şi rezilierea contractului
@@ -365,7 +375,8 @@ privind educaţia şi instruirea copiilor
 (1) Părinţii au dreptul şi sînt obligaţi să-şi educe copiii conform propriilor convingeri, indiferent de faptul dacă locuiesc împreună sau separat.
 (2) Părinţii poartă răspundere pentru dezvoltarea fizică, intelectuală şi spirituală a copiilor şi au prioritate la educaţia lor faţă de oricare alte persoane.
 (3) Părinţii sînt obligaţi să asigure frecventarea de către copil a şcolii pînă la sfîrşitul anului de învăţămînt în care acesta atinge vîrsta de 16 ani. Instituţia de învăţămînt şi forma de instruire sînt alese de către părinţi, cu luarea în considerare a opiniei copilului.
-(4) Litigiile dintre părinţi privind educaţia şi instruirea copiilor se soluţionează de către autoritatea tutelară, iar decizia acesteia poate fi atacată pe cale judecătorească.
+(4) Litigiile dintre părinţi privind educaţia şi instruirea copiilor se soluţionează de către autoritatea tutelară, iar decizia acesteia poate fi atacată pe cale judecătorească. Autoritatea tutelară recomandă părinţilor să se adreseze unui mediator pentru soluţionarea litigiului.
+[Art.60 al.(4) modificat prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 Articolul 61. Apărarea drepturilor şi intereselor
 legitime ale copiilor
 (1) Drepturile şi interesele legitime ale copiilor sînt apărate de către părinţii lor.
@@ -384,7 +395,8 @@ Articolul 63. Domiciliul copilului minor
 Articolul 64. Exercitarea drepturilor părinteşti în cazul
 cînd părinţii locuiesc separat
 (1) Părintele care locuieşte împreună cu copilul nu are dreptul să împiedice contactul dintre copil şi celălalt părinte care locuieşte separat, cu excepţia cazurilor cînd comportamentul acestuia din urmă este în detrimentul intereselor copilului sau prezintă pericol pentru starea lui fizică şi psihică.
-(2) Părinţii au dreptul să încheie un acrod privind exercitarea drepturilor părinteşti de către părintele care locuieşte separat de copil. Litigiile apărute se soluţionează de către autoritatea tutelară, iar decizia acesteia poate fi atacată în instanţa judecătorească, care va emite hotărîrea respectivă.
+(2) Părinţii au dreptul să încheie un acrod privind exercitarea drepturilor părinteşti de către părintele care locuieşte separat de copil. Litigiile apărute se soluţionează de către autoritatea tutelară, iar decizia acesteia poate fi atacată în instanţa judecătorească, care va emite hotărîrea respectivă. Părinţii pot, din iniţiativă proprie sau la recomandarea autorităţii tutelare, să se adreseze unui mediator pentru soluționarea litigiului.
+[Art.64 al.(2) modificat prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 (3) În cazul nerespectării hotărîrii instanţei judecătoreşti, faţă de părintele culpabil se aplică măsurile stabilite de legislaţia procesuală civilă. În cazul încălcării repetate a hotărîrii judecătoreşti, la cererea părintelui care locuieşte separat de copil, instanţa judecătorească, ţinînd cont de interesele şi părerea copilului, poate soluţiona problema transmiţîndu-i copilul.
 (4) Părinţii care locuiesc separat de copil au dreptul de a primi informaţiile ce se referă la copilul lor de la toate instituţiile educative, curative, de asistenţă socială etc. Comunicarea informaţiei poate fi refuzată dacă comportamentul părintelui prezintă pericol pentru viaţa şi sănătatea copilului. Acest refuz poate fi atacat în instanţa judecătorească.
 Articolul 65. Dreptul bunicilor, fraţilor şi surorilor copilului
@@ -440,9 +452,11 @@ litigiilor privind educaţia copilului
 (1) La examinarea de către instanţa judecătorească a litigiilor privind educaţia copilului este obligatorie participarea autorităţii tutelare.
 (2) Autoritatea tutelară este obligată să examineze condiţiile de trai ale copilului şi ale persoanei care pretinde la educaţia copilului şi să prezinte instanţei judecătoreşti avizul respectiv.
 TITLUL IV
-OBLIGAŢIA DE ÎNTREŢINERE DINTRE MEMBRII FAMILIEI
+OBLIGAŢIA DE ÎNTREŢINERE DINTRE
+MEMBRII FAMILIEI
 Capitolul 12
-OBLIGAŢIA DE ÎNTREŢINERE DINTRE PĂRINŢI ŞI COPII
+OBLIGAŢIA DE ÎNTREŢINERE DINTRE
+PĂRINŢI ŞI COPII
 Articolul 74. Obligaţia părinţilor de a-şi întreţine copiii
 (1) Părinţii sînt obligaţi să-şi întreţină copiii minori şi copiii majori inapţi de muncă care necesită sprijin material.
 (2) Modul de plată a pensiei de întreţinere se determină în baza unui contract încheiat între părinţi sau între părinţi şi copilul major inapt de muncă.
@@ -480,25 +494,30 @@ părinţii
 (6) Copiii ai căror părinţi sînt decăzuţi din drepturile părinteşti se scutesc de obligaţia de întreţinere a acestora.
 Articolul 81. Participarea copiilor majori la cheltuielile
 suplimentare în favoarea părinţilor
-(1) În circumstanţe excepţionale (boală gravă, mutilare sau alt viciu al părintelui etc.), copiii majori pot fi obligaţi de către instanţa judecătorească să participe la cheltuielile suplimentare generate de aceste circumstanţe dacă lipseşte un contract între părţi sau dacă copiii refuză să participe benevol la aceste cheltuieli.
+(1) În circumstanţe excepţionale (boală gravă, dizabilitate severă sau accentuată, mutilare sau alt viciu al părintelui etc.), copiii majori pot fi obligaţi de către instanţa judecătorească să participe la cheltuielile suplimentare generate de aceste circumstanţe dacă lipseşte un contract între părţi sau dacă copiii refuză să participe benevol la aceste cheltuieli.
+[Art.81 al.(1) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (2) Modul de participare a copiilor majori la cheltuielile suplimentare în favoarea părinţilor şi cuantumul acestora se determină de instanţa judecătorească, conform dispoziţiilor art.80.
 (3) Instanţa judecătorească este în drept să elibereze copiii majori de participarea la cheltuielile suplimentare în favoarea părinţilor dacă se va stabili că aceştia s-au eschivat de la îndeplinirea obligaţiilor părinteşti faţă de aceşti copii, chiar şi în cazul cînd copiii plătesc pensia de întreţinere.
 Capitolul 13
-OBLIGAŢIA DE ÎNTREŢINERE DINTRE SOŢI ŞI FOŞTII SOŢI
+OBLIGAŢIA DE ÎNTREŢINERE DINTRE
+SOŢI ŞI FOŞTII SOŢI
 Articolul 82. Obligaţia soţilor de a se întreţine reciproc
 (1) Soţii îşi datorează întreţinerea materială reciprocă.
 (2) În cazul refuzului de a acorda întreţinere şi dacă între soţi nu există un contract privind plata pensiei de întreţinere, dreptul de a porni o acţiune în instanţa judecătorească privind încasarea acesteia de la celălalt soţ îl au:
-a) soţul inapt de muncă (care a atins vîrsta de pensionare sau este invalid de gradul I, II sau III) şi care necesită sprijin material;
+a) soţul inapt de muncă (care a atins vîrsta de pensionare sau este persoană cu dizabilitate severă, accentuată sau medie) şi care necesită sprijin material;
+[Art.82 al.(2), lit.a) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 b) soţia în timpul gravidităţii;
 c) soţul care îngrijeşte copilul comun timp de 3 ani după naşterea acestuia;
-d) soţul care îngrijeşte pînă la vîrsta de 18 ani un copil comun invalid sau care îngrijeşte un copil comun invalid de gradul I din copilărie, dacă acest soţ nu lucrează şi copilul necesită îngrijire.
+d) soţul care îngrijeşte pînă la vîrsta de 18 ani un copil comun cu dizabilităţi sau care îngrijeşte un copil comun cu dizabilități severe din copilărie, dacă acest soţ nu lucrează şi copilul necesită îngrijire.
+[Art.82 al.(2), lit.d) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (3) Pensia de întreţinere se plăteşte persoanelor enumerate la alin.(2) numai în cazul cînd acestea nu au un venit propriu suficient, iar soţul care datorează întreţinere are posibilitatea de a o plăti.
 Articolul 83. Dreptul fostului soţ la întreţinere
 după divorţ
 Dreptul de a pretinde întreţinere de la fostul soţ pe cale judecătorească îl are:
 a) fosta soţie în timpul gravidităţii;
 b) fostul soţ, care necesită sprijin material, ocupat cu îngrijirea copilului comun timp de 3 ani după naşterea acestuia;
-c) fostul soţ, care necesită sprijin material, ocupat cu îngrijirea copilului comun invalid pînă la vîrsta de 18 ani sau a copilului comun invalid de gradul I din copilărie;
+c) fostul soţ, care necesită sprijin material, ocupat cu îngrijirea copilului comun cu dizabilităţi pînă la vîrsta de 18 ani sau a copilului comun cu dizabilități severe din copilărie;
+[Art.83 lit.c) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 d) fostul soţ, care necesită sprijin material, devenit inapt de muncă în timpul căsătoriei sau timp de un an după desfacerea acesteia;
 e) fostul soţ care necesită sprijin material şi a atins vîrsta de pensionare, în termen de cel mult 5 ani din momentul desfacerii căsătoriei, dacă soţii au fost căsătoriţi cel puţin 15 ani.
 Articolul 84. Cuantumul pensiei de întreţinere
@@ -537,7 +556,8 @@ de întreţinere pentru alţi membri ai familiei
 (2) Dacă nu există un contract între părţi, pensia de întreţinere se stabileşte de către instanţa judecătorească în sumă bănească fixă achitată lunar, ţinîndu-se cont de starea materială şi familială a persoanei care datorează întreţinere şi a persoanei care are dreptul la întreţinere, precum şi de alte circumstanţe importante.
 (3) Dacă unul dintre membrii familiei are dreptul la pensie de întreţinere concomitent de la mai multe persoane, instanţa judecătorească determină cuantumul acesteia pentru fiecare dintre cei ce o datorează, ţinînd cont de starea lor materială şi familială. Instanţa judecătorească este în drept să ia în considerare toate persoanele care datorează întreţinere, indiferent de faptul dacă acţiunea a fost pornită faţă de una, cîteva sau toate persoanele în cauză.
 Capitolul 15
-CONTRACTUL PRIVIND PLATA PENSIEI DE ÎNTREŢINERE
+CONTRACTUL PRIVIND PLATA PENSIEI
+DE ÎNTREŢINERE
 Articolul 92. Contractul privind plata pensiei de întreţinere
 Contractul privind mărimea, condiţiile şi modul de plată a pensiei de întreţinere poate fi încheiat între persoana care datorează întreţinere (debitorul întreţinerii) şi persoana care are dreptul la întreţinere (creditorul întreţinerii). În cazul cînd debitorul întreţinerii şi/sau creditorul întreţinerii sînt declaraţi incapabili, contractul este încheiat de către reprezentanţii legali ai acestora. Persoanele cu capacitatea limitată de exerciţiu încheie contractul cu acordul curatorului.
 Articolul 93. Forma contractului privind plata pensiei de
