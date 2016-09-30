@@ -15,6 +15,8 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP211 din 29.07.16, MO338-341/30.09.16 art.698
+LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17
 LP193 din 28.07.16, MO315-328/23.09.16 art.686
 LP196 din 28.07.16, MO306-313/16.09.16 art.661
 LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
@@ -266,6 +268,8 @@ Articolul 26. Înlăturarea răspunderii contravenţionale
 a) renunţării benevole la săvîrşirea contravenţiei;
 b) contravenţiei neînsemnate, tentativei;
 c) împăcării victimei cu făptuitorul;
+c1) încheierii tranzacţiei conform Legii cu privire la mediere;
+[Art.26 lit.c1) introdusă prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 d) prescripţiei răspunderii contravenţionale;
 e) amnistiei.
 Articolul 27. Renunţarea benevolă la săvîrşirea contravenţiei
@@ -3714,6 +3718,28 @@ se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicat�
 (9) Nerambursarea sau rambursarea, cu depăşirea termenului de 14 zile de la data la care este informat despre decizia de revocare a contractului, de către comerciant a sumelor pe care le-a primit drept plată din partea consumatorului
 se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 150 la 200 de unităţi convenţionale aplicată persoanei juridice.
 [Art.344 al.(9) introdus prin LP230 din 10.12.15, MO2-12/15.01.16 art.19; în vigoare 15.07.16]
+Articolul 3441. Încălcarea cerinţelor legislației
+referitoare la contractele privind
+cazarea periodică, contractele
+privind produsul de vacanţă pe
+termen lung, contractele de
+intermediere a produsului de
+vacanţă, contractele de intermediere
+a participării la un sistem de schimb
+și la contractele de servicii turistice
+(1) Încălcarea cerinţelor legislației referitoare la contractele privind cazarea periodică, contractele privind produsul de vacanţă pe termen lung, contractele de intermediere a produsului de vacanţă şi contractele de intermediere a participării la un sistem de schimb prin:
+a) neprezentarea sau prezentarea necompletă a informaţiei precontractuale referitoare la contractele privind cazarea periodică, contractele privind produsul de vacanţă pe termen lung, contractele de intermediere a produsului de vacanţă şi contractele de intermediere a participării la un sistem de schimb
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei juridice;
+b) neincluderea în contract a informațiilor standard obligatorii referitoare la contractele privind cazarea periodică, contractele privind produsul de vacanţă pe termen lung, contractele de intermediere a produsului de vacanţă şi contractele de intermediere a participării la un sistem de schimb
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice;
+c) necomunicarea informaţiei privind dreptul de revocare, a termenului şi a condiţiilor de exercitare a acestuia, a informaţiilor privind interzicerea plăţilor în avans
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei juridice.
+(2) Încălcarea cerinţelor legislației privind contractele de servicii turistice, prin:
+a) neprezentarea sau prezentarea necompletă a informaţiei preliminare la încheierea contractului de servicii turistice
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei juridice;
+b) neoferirea asistenţei prompte turistului aflat în dificultate
+se sancţionează cu amendă de la 10 la 25 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 50 la 75 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere, cu amendă de la 120 la 150 de unităţi convenţionale aplicată persoanei juridice.
+[Art.3441 introdus prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
 Articolul 345. Încălcarea regulilor din domeniul metrologiei
 (1) Încălcarea regulilor din domeniul metrologiei prin:
 a) plasarea pe piaţă, punerea în funcţiune sau utilizarea la măsurări în domenii de interes public (sănătatea şi siguranţa populaţiei, ordinea publică, protecţia mediului, protecţia drepturilor consumatorului, perceperea taxelor şi impozitelor, tranzacţiile şi operaţiunile comerciale, controlul calităţii produselor, proceselor şi serviciilor, asigurarea securităţii şi apărării naţionale, în alte domenii ale vieţii publice unde, în urma măsurărilor sau rezultatelor incorecte ale acestora, pot fi afectate, direct sau indirect, viaţa oamenilor sau interesele persoanelor fizice şi/sau juridice) a mijloacelor de măsurare care nu se consideră mijloace de măsurare legale, şi anume: fără marcajul aprobării de model, fără marcajul de verificare metrologică, fără certificat de aprobare de model, fără buletin de verificare metrologică sau cu astfel de documente falsificate;
@@ -4382,6 +4408,11 @@ Articolul 408. Agenţia pentru Protecţia Consumatorilor
 (3) Sînt în drept să examineze contravenţii şi să aplice sancţiuni directorul Agenţiei pentru Protecţia Consumatorilor şi adjuncţii lui.
 [Art.408 în redacţia LP140 din 28.07.11, MO146/28.08.11 art.446; în vigoare 01.01.12]
 [Art.408 modificat prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
+Articolul 4081. Agenţia Turismului
+(1) Contravenţiile prevăzute la art. 3441 se constată şi se examinează de Agenţia Turismului.
+(2) Sînt în drept să constate contravenţii şi să încheie procese-verbale directorul general al Agenției Turismului, adjunctul lui şi controlorii-revizori.
+(3) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni directorul general al Agenției Turismului şi adjunctul lui.
+[Art.4081 introdus prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
 Articolul 409. Inspectoratul de Stat al Muncii
 [Art.409 denumire modificată prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
 (1) Contravenţiile prevăzute la art.55–61 se constată de Inspectoratul de Stat al Muncii.
@@ -4858,6 +4889,11 @@ a cauzei contravenţionale
 (3) Neprezentarea în şedinţă a făptuitorului sau a victimei, legal citate, fără motive întemeiate nu împiedică judecarea cauzei contravenţionale.
 (4) Participarea făptuitorului reţinut este obligatorie. Aducerea lui este asigurată de poliţie.
 (5) În cazul în care se solicită aplicarea sancţiunii arestului contravenţional, participarea făptuitorului este obligatorie, cu excepţia cazului neprezentării lui cu rea-voinţă.
+Articolul 4551. Procedura de mediere
+(1) În cauzele contravenţionale prevăzute la art. 29, pînă la punerea pe rol a cauzei, instanţa de judecată emite, la solicitarea părţilor, în termen de cel mult 3 zile de la data repartizării cauzei, o încheiere prin care dispune suspendarea cauzei contravenţionale şi iniţierea procedurii de mediere în condiţiile Legii cu privire la mediere.
+(2) La încetarea medierii, mediatorul întocmeşte şi semnează un proces-verbal în care consemnează temeiul încetării procesului de mediere. Procesul-verbal se înmînează părţilor şi se prezintă instanţei de judecată.
+(3) Dacă părţile au încheiat o tranzacţie, aceasta se prezintă instanţei de judecată în a cărei procedură se află cauza contravenţională şi constituie temei pentru înlăturarea răspunderii contravenţionale sau încetarea procesului contravenţional în conformitate cu prevederile art. 26 şi 29.
+[Art.4551 introdus prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 Articolul 456. Şedinţa de judecare a cauzei
 contravenţionale
 (1) Judecătorul conduce şedinţa de judecare a cauzei contravenţionale, asigură ordinea şi solemnitatea şedinţei.
