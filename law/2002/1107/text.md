@@ -14,6 +14,11 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP211 din 29.07.16, MO338-341/30.09.16 art.698
+LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17
+LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17
+LP160 din 07.07.16, MO306-313/16.09.16 art.647
+LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
 LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16
 LP90 din 29.05.14, MO169-173/27.06.14 art.379
 LP53 din 03.04.14, MO99-102/25.04.14 art.253
@@ -52,6 +57,11 @@ Articolul 2. Raporturile reglementate de legislaţia civilă
 (2) Raporturile familiale, locative, raporturile de muncă, de exploatare a resurselor naturale şi de protecţie a mediului înconjurător, ce corespund prevederilor alin.(1), sînt reglementate de prezentul cod şi de alte legi.
 (3) Raporturile privind realizarea şi apărarea drepturilor şi libertăţilor fundamentale ale omului, a altor valori nepatrimoniale sînt reglementate de prezentul cod şi de alte legi.
 (4) Subiecte ale raporturilor juridice civile sînt persoanele fizice şi juridice, cele care practică, precum şi cele care nu practică activitate de întreprinzător.
+Articolul 21. Consumatorul şi profesionistul
+(1) Are calitatea de consumator orice persoană fizică care, în cadrul unui raport juridic civil, acţionează predominant în scopuri ce nu țin de activitatea de întreprinzător sau profesională. Persoana fizică nu are calitatea de consumator dacă cealaltă parte a raportului juridic civil nu are calitatea de profesionist.
+(2) Are calitatea de profesionist orice persoană fizică sau juridică de drept public sau de drept privat care, în cadrul unui raport juridic civil, acţionează în scopuri ce ţin de activitatea de întreprinzător sau profesională, chiar dacă persoana nu are scopul de a obţine un profit din această activitate.
+(3) Persoana care, într-un raport juridic civil, corespunde atît dispoziţiilor alin. (1), cît şi dispoziţiilor alin. (2) se consideră consumator dacă recunoaşterea acestei calităţi îi oferă o anumită protecţie juridică, iar în celelalte cazuri persoana se consideră profesionist.
+[Art.21 introdus prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
 Articolul 3. Legislaţia civilă
 (1) Legislaţia civilă constă în prezentul cod, în alte legi, în ordonanţe ale Guvernului şi în acte normative subordonate legii, care reglementează raporturile prevăzute la art.2 şi care trebuie să fie în concordanţă cu Constituţia Republicii Moldova.
 (2) Actele normative subordonate legii se aplică la reglementarea raporturilor civile doar în cazurile în care sînt emise în temeiul legii şi nu contravin ei.
@@ -1602,7 +1612,9 @@ b) executarea obligaţiilor este amînată (moratoriu);
 c) creditorul sau debitorul face parte din rîndul forţelor armate puse pe picior de război;
 d) creditorul este incapabil sau este limitat în capacitatea de exerciţiu şi nu are un reprezentant legal, cu excepţia cazurilor în care creditorul are capacitate de exerciţiu procesuală;
 e) este suspendat actul normativ care reglementează raportul juridic litigios;
-f) activitatea autorităţilor judecătoreşti de a căror competenţă ţine soluţionarea litigiului dintre părţi este suspendată.
+f) activitatea autorităţilor judecătoreşti de a căror competenţă ţine soluţionarea litigiului dintre părţi este suspendată;
+g) se desfăşoară un proces de mediere în condiţiile Legii cu privire la mediere.
+[Art.274 al.(1), lit.g) introdusă prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 (2) Cursul prescripţiei extinctive se suspendă doar dacă temeiurile de suspendare au apărut sau au continuat în ultimele 6 luni ale termenului de prescripţie extinctivă, iar dacă acest termen este de 6 luni sau mai scurt, înăuntrul lui.
 (3) Curgerea termenului de prescripţie extinctivă continuă de la data încetării împrejurărilor care servesc drept temei pentru suspendarea cursului prescripţiei extinctive şi termenul scurs în perioada în care cursul prescripţiei extinctive este suspendat nu se include în termenul de prescripţie extinctivă. Termenul rămas se prelungeşte pînă la 6 luni, iar dacă termenul de prescripţie extinctivă este mai scurt de 6 luni, pînă la durata lui.
 Articolul 275. Suspendarea cursului prescripţiei extinctive
@@ -1661,7 +1673,7 @@ Articolul 288. Bunurile imobile şi mobile
 (2) La categoria de bunuri imobile se raportă terenurile, porţiunile de subsol, obiectele acvatice separate, plantaţiile prinse de rădăcini, clădirile, construcţiile şi orice alte lucrări legate solid de pămînt, precum şi tot ceea ce, în mod natural sau artificial, este încorporat durabil în acestea, adică bunurile a căror deplasare nu este posibilă fără a se cauza prejudicii considerabile destinaţiei lor.
 (3) Rămîn bunuri imobile materialele separate în mod provizoriu de un teren, pentru a fi reîntrebuinţate, atît timp cît sînt păstrate în aceeaşi formă, precum şi părţile integrante ale unui bun imobil care sînt detaşate provizoriu de acesta dacă sînt destinate reamplasării. Materialele aduse pentru a fi întrebuinţate în locul celor vechi devin bunuri imobile.
 (4) Prin lege, la categoria de bunuri imobile pot fi raportate şi alte bunuri.
-(5) Bunurile care nu sînt raportate la categoria de bunuri imobile, inclusiv banii şi titlurile de valoare, sînt considerate bunuri mobile.
+(5) Bunurile care nu sînt raportate la categoria de bunuri imobile, inclusiv banii şi valorile mobiliare, sînt considerate bunuri mobile.
 Articolul 289. Prevederile aplicabile drepturilor reale
 Prevederile referitoare la bunurile imobile şi mobile se aplică în modul corespunzător şi drepturilor reale asupra acestor bunuri.
 Articolul 290. Înregistrarea drepturilor asupra bunurilor
@@ -1732,7 +1744,7 @@ mijlocită
 (1) Posesorul poate stăpîni bunul direct, prin putere proprie (posesiune nemijlocită), fie prin intermediul unei alte persoane (posesiune mijlocită).
 (2) Dacă persoana posedă un bun în calitate de uzufructuar, creditor gajist, arendaş, chiriaş, depozitar sau în temeiul unui alt raport juridic similar în care este în drept sau obligată faţă de o altă persoană să posede temporar un anumit bun, atunci ultima de asemenea este posesor (posesor mijlocit).
 Articolul 305. Prezumţia proprietăţii
-(1) Posesorul este prezumat proprietar al bunului dacă nu este dovedit că a început a poseda pentru un altul. Această prezumţie nu operează în cazul în care dreptul de proprietate trebuie înscris în registrul public şi nici faţă de un fost posesor al cărui bun a fost furat, pierdut sau ieşit din posesiune în alt mod fără voia lui, cu excepţia banilor şi titlurilor de valoare la purtător.
+(1) Posesorul este prezumat proprietar al bunului dacă nu este dovedit că a început a poseda pentru un altul. Această prezumţie nu operează în cazul în care dreptul de proprietate trebuie înscris în registrul public şi nici faţă de un fost posesor al cărui bun a fost furat, pierdut sau ieşit din posesiune în alt mod fără voia lui, cu excepţia banilor şi valorilor mobiliare, la purtător.
 (2) Se va considera că posesorul anterior a fost proprietar al bunului pe parcursul perioadei în care l-a posedat.
 Articolul 306. Prezumţia de posesiune neîntreruptă
 Dacă persoana a posedat bunul la începutul şi la sfîrşitul unei perioade, se prezumă că a posedat neîntrerupt pe parcursul întregii perioade.
@@ -1855,7 +1867,7 @@ Articolul 330. Accesiunea mobiliară
 Articolul 331. Dreptul dobînditorului de bună-credinţă asupra
 mobilelor
 (1) Dobînditorul de bună-credinţă dobîndeşte dreptul de proprietate asupra bunului mobil şi în cazul în care cel care a dispus de bun nu era proprietarul lui. Nu există bună-credinţă cînd dobînditorul ştia sau trebuia să ştie că cel de la care a dobîndit bunul nu era proprietarul lui. Buna-credinţă trebuie să subziste pînă în momentul intrării în posesiune inclusiv.
-(2) Dobînditorul de bună-credinţă nu dobîndeşte dreptul de proprietate asupra bunurilor mobile în cazul în care bunul este furat, pierdut sau ieşit în alt mod din posesiunea proprietarului contrar voinţei lui sau dobînditorul l-a obţinut cu titlu gratuit. Această regulă nu se aplică în cazul dobîndirii banilor, a titlurilor de valoare la purtător sau a bunurilor înstrăinate la licitaţie.
+(2) Dobînditorul de bună-credinţă nu dobîndeşte dreptul de proprietate asupra bunurilor mobile în cazul în care bunul este furat, pierdut sau ieşit în alt mod din posesiunea proprietarului contrar voinţei lui sau dobînditorul l-a obţinut cu titlu gratuit. Această regulă nu se aplică în cazul dobîndirii banilor, a valorilor mobiliare la purtător sau a bunurilor înstrăinate la licitaţie.
 Articolul 332. Uzucapiunea imobiliară
 (1) Dacă o persoană, fără să fi dobîndit dreptul de proprietate, a posedat cu bună-credinţă sub nume de proprietar un bun imobil pe parcursul a 15 ani, aceasta devine proprietarul bunului respectiv.
 (2) Dacă un bun imobil şi drepturile asupra lui sînt supuse înregistrării de stat, dreptul de proprietate se dobîndeşte în temeiul alin.(1) din momentul înregistrării.
@@ -2927,6 +2939,8 @@ Articolul 572. Condiţiile generale de executare a obligaţiilor
 (1) Temeiul executării rezidă în existenţa unei obligaţii.
 (2) Obligaţia trebuie executată în modul corespunzător, cu bună-credinţă, la locul şi în momentul stabilit.
 (3) Valorile mobiliare nu pot fi transmise direct în contul achitării datoriei dintre două părţi.
+(3) Valorile mobiliare nu pot fi transmise direct în contul achitării datoriei dintre două părţi, dacă art. 8 din Legea nr. 184 din 22 iulie 2016 cu privire la contractele de garanție financiară nu prevede altfel.
+[Art.572 al.(3) modificat prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
 [Art.572 al.(3) introdus prin LP31 din 07.03.13, MO69-74/05.04.13 art.223]
 Articolul 573. Locul executării obligaţiei
 Dacă locul executării nu este determinat sau nu rezultă din natura obligaţiei, executarea urmează a fi efectuată:
@@ -3289,6 +3303,8 @@ Articolul 664. Decesul persoanei fizice sau lichidarea persoanei juridice
 (3) Obligaţia se stinge prin lichidarea persoanei juridice (debitor sau creditor), cu excepţia cazurilor în care obligaţia sau creanţa persoanei juridice lichidate se transmite prin lege unor alte persoane.
 Articolul 665. Novaţia
 (1) Obligaţia se stinge în baza înţelegerii dintre părţi de a o înlocui cu o altă obligaţie (novaţie), cu excepţia valorilor mobiliare.
+(1) Obligaţia se stinge în baza înţelegerii dintre părţi de a o înlocui cu o altă obligaţie (novaţie), cu excepţia valorilor mobiliare, dacă art. 8 din Legea nr. 184 din 22 iulie 2016 cu privire la contractele de garanție financiară nu prevede altfel.
+[Art.665 al.(1) modificat prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
 [Art.665 al.(1) modificat prin LP31 din 07.03.13, MO69-74/05.04.13 art.223]
 (2) Voinţa de a înlocui o obligaţie cu alta trebuie să fie stipulată expres.
 (3) Stingerea obligaţiei principale prin novaţie stinge şi obligaţiile accesorii dacă părţile nu au stipulat expres altfel.
@@ -3670,6 +3686,39 @@ Articolul 751. Consecinţele juridice ale revocării şi restituirii
 Articolul 752. Transmiterea informaţiilor şi a declaraţiilor
 (1) Informaţiile şi declaraţiile sînt puse la dispoziţia consumatorului pe un suport de date trainic dacă i-au parvenit sub formă de document sau sub o altă formă lizibilă care îi permite să reproducă întocmai informaţiile într-un termen corespunzător cerinţelor actului juridic. Sarcina probei pentru conţinutul informaţiilor sau declaraţiei revine întreprinzătorului.
 (2) Prevederile alin.(1) se aplică în modul corespunzător şi declaraţiilor consumatorului faţă de întreprinzător.
+Secţiunea a 3-a
+Dreptul de revocare a contractelor privind
+unele produse de vacanţă şi a contractelor
+de intermediere a lor
+Articolul 7521. Dreptul de revocare a contractelor
+privind unele produse de vacanţă şi
+a contractelor de intermediere a lor
+(1) În condiţiile prezentului cod sau unei alte legi, consumatorul are dreptul de a revoca:
+a) contractul privind cazarea periodică;
+b) contractul privind produsul de vacanţă pe termen lung, contractul de intermediere a produsului de vacanţă şi contractul de intermediere a participării la un sistem de schimb.
+(2) Dreptul de revocare se exercită prin notificarea profesionistului. Consumatorul nu este nevoit să justifice decizia de revocare.
+[Art.7521 introdus prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
+Articolul 7522. Termenul de revocare
+(1) Termenul de revocare este de 14 zile calendaristice şi începe să curgă:
+a) fie din ziua încheierii contractului sau antecontractului; fie
+b) din ziua în care consumatorul intră în posesia exemplarului contractului sau a antecontractului dacă aceasta este ulterioară datei menționate la lit. a).
+(2) Termenul de revocare expiră după:
+a) 12 luni și 14 zile calendaristice de la data menționată la alin. (1) din prezentul articol – în cazul în care profesionistul nu a completat și nu a pus la dispoziția consumatorului în formă scrisă, pe suport de hîrtie sau pe un alt suport durabil, formularul standard pentru facilitarea exercitării dreptului de revocare a contractului, prevăzut în anexa nr. 5 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova;
+b) 3 luni și 14 zile calendaristice de la data menționată la alin. (1) din prezentul articol – în cazul în care informațiile menționate la art. 11454 alin. (1), inclusiv formularele standard prevăzute în anexele nr. 1–4 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova, nu au fost puse la dispoziția consumatorului în formă scrisă, pe suport de hîrtie sau pe un alt suport durabil.
+(3) În cazul în care profesionistul a completat și a pus la dispoziția consumatorului în formă scrisă, pe suport de hîrtie sau pe un alt suport durabil, formularul standard pentru facilitarea exercitării dreptului de revocare a contractului, prevăzut în anexa nr. 5 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova, în termen de 12 luni de la data menționată la alin. (1) din prezentul articol, termenul de revocare a contractului curge de la data la care consumatorul primește acest formular.
+(4) În cazul în care informațiile menționate la art. 11454 alin.(1), inclusiv formularele standard prevăzute în anexele nr. 1–4 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova, au fost puse la dispoziția consumatorului în formă scrisă, pe suport de hîrtie sau pe un alt suport durabil, în termen de 3 luni de la data menționată la alin. (1) din prezentul articol, termenul de revocare a contractului curge de la data la care consumatorul primește aceste informații.
+(5) În cazul în care contractul de intermediere a participării la un sistem de schimb este oferit consumatorului împreună și în același timp cu contractul privind cazarea periodică, se aplică un singur termen de revocare pentru ambele contracte. Termenul de revocare pentru ambele contracte se calculează în conformitate cu dispozițiile alin. (1), astfel cum se aplică în cazul contractului privind cazarea periodică.
+[Art.7522 introdus prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
+Articolul 7523. Exercitarea dreptului de revocare
+(1) În scopul notificării profesionistului despre exercitarea dreptului de revocare, consumatorul are posibilitatea:
+a) de a folosi formularul standard prevăzut în anexa nr. 5 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova și pus la dispoziție de profesionist în conformitate cu art. 11457 alin. (6); sau
+b) de a face orice altă notificare, pe suport de hîrtie sau pe alt suport durabil, în care îşi exprimă voinţa de revocare.
+(2) Termenul de revocare se consideră respectat dacă notificarea este transmisă înainte de expirarea termenului de revocare a contractului.
+[Art.7523 introdus prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
+Articolul 7524. Efectele revocării
+(1) Revocarea are ca efect rezoluţiunea raportului contractual, care stinge obligaţiile ambelor părţi rezultate din contract.
+(2) Revocarea nu generează niciun cost şi nicio răspundere pentru consumator, cu excepţiile expres prevăzute de lege.
+[Art.7524 introdus prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
 T i t l u l III
 CATEGORIILE DE OBLIGAŢII
 Capitolul I
@@ -5050,7 +5099,8 @@ f) costul de magazinaj, alte costuri care pot să apară;
 g) faptul că bunul înmagazinat trebuie sau nu asigurat şi, după caz, costul de asigurare;
 h) termenul magazinajului şi data expirării lui ori inexistenţa termenului;
 i) alte date, la alegerea părţilor;
-j) semnătura magazinerului şi ştampila.
+j) semnătura magazinerului.
+[Art.1121 al.(1), lit.j) modificată prin LP160 din 07.07.16, MO306-313/16.09.16 art.647]
 (2) Lipsa unor date nu poate invalida recipisa de magazinaj.
 Articolul 1122. Dreptul de grevare a bunului înmagazinat
 Posesorul recipisei de magazinaj poate greva bunul înmagazinat în calitate de garanţie pentru o altă creanţă dacă bunul rămîne în depozit.
@@ -5084,13 +5134,16 @@ Articolul 1130. Vînzarea bunului la licitaţie
 (2) După ce creanţele magazinerului decurgînd din magazinaj şi organizarea licitaţiei au fost satisfăcute din suma obţinută din vînzare, restul va fi predat de către magaziner posesorului legitim al recipisei de magazinaj.
 Capitolul XIX
 CONTRACTUL DE SERVICII TURISTICE
+ȘI ALTE PRODUSE DE VACANȚĂ
+[Capitolul XIX denumirea modificată prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
+Secţiunea 1
+Contractul de servicii turistice
+[Secțiunea 1 denumirea introdusă prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
 Articolul 1131. Contractul de servicii turistice
-(1) Prin contract de servicii turistice, o parte (organizatorul călătoriei, agentul turistic) se obligă să acorde celeilalte părţi (turist) serviciile stipulate, iar aceasta se obligă să achite costul lor.
 (1) Prin contract de servicii turistice, o parte (organizatorul călătoriei, detailistul) se obligă să acorde celeilalte părţi (turist) serviciile stipulate, iar aceasta se obligă să achite costul lor.
 [Art.1131 al.(1) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (2) Declaraţia că se intermediază doar contracte cu persoane care vor realiza călătoria (prestatori de servicii) nu va fi luată în considerare dacă celelalte împrejurări confirmă faptul că autorul declaraţiei execută pe propria răspundere prestaţiile contractuale ce ţin de călătorie.
 Articolul 1132. Informaţia preliminară
-(1) Orice anunţ publicitar, ofertă sau altă informaţie prezentate de organizator despre serviciile turistice trebuie întocmite astfel încît să se excludă interpretarea lor eronată.
 (1) Orice anunţ publicitar, ofertă sau altă informaţie prezentate de organizator sau detailist despre serviciile turistice trebuie întocmite astfel încît să se excludă interpretarea lor eronată.
 [Art.1132 al.(1) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (11) În informaţia preliminară prezentată clientului trebuie să fie indicate în mod clar, lizibil şi exact preţul şi informaţiile corespunzătoare privind:
@@ -5103,24 +5156,19 @@ f) valoarea sau procentul din preţ ce trebuie vărsat cu titlu de avans şi cal
 g) faptul că realizarea pachetului de servicii necesită un număr minim de persoane şi, în acest caz, data-limită de informare a clientului în caz de anulare a pachetului;
 h) condiţiile rezervărilor prealabile.
 [Art.1132 al.(11) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
-(2) Condiţiile incluse în anunţul publicitar, în ofertă sau în altă informaţie prezentată clientului de către organizator sînt obligatorii pentru acesta din urmă, cu excepţia cazurilor în care clientul a fost notificat, înainte de încheierea contractului, despre modificarea condiţiilor.
 (2) Condiţiile incluse în anunţul publicitar, în ofertă sau în altă informaţie prezentată clientului sînt obligatorii pentru organizator sau detailist, cu excepţia cazului în care:
 a) modificarea acestor condiții a fost comunicată în mod clar clientului înainte de încheierea contractului; în acest caz, informaţia preliminară trebuie să conţină o menţiune specială;
 b) modificările au intervenit ulterior, ca urmare a unui acord între părţile contractante.
 [Art.1132 al.(2) în redacția LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1133. Informaţia obligatorie
-(1) Pînă la momentul încheierii contractului, organizatorul este obligat să pună la dispoziţia clientului, în scris sau în orice altă formă adecvată, o informaţie despre regimul de vize şi paşapoarte, precum şi despre cerinţele de asigurare a sănătăţii pe durata călătoriei.
 (1) Pînă la momentul încheierii contractului, organizatorul și/sau detailistul sînt obligați să pună la dispoziția clientului, în scris sau în orice altă formă adecvată, o informație privind condițiile în materie de pașapoarte și de vize, inclusiv în privința termenelor de obținere a lor, precum și despre cerințele de asigurare a sănătății pe durata călătoriei.
 [Art.1133 al.(1) în redacția LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
-(2) Într-un termen rezonabil de pînă la începerea călătoriei, organizatorul este obligat să prezinte clientului, în scris sau în orice altă formă adecvată, o informaţie despre:
 (2) Într-un termen rezonabil de pînă la începerea călătoriei, stabilit prin contract, organizatorul și/sau detailistul sînt obligați să prezinte clientului, în scris sau în orice altă formă adecvată, o informaţie despre:
 [Art.1133 al.(2) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 a) timpul şi locul staţionărilor intermediare şi al joncţiunilor de transport, precum şi detaliile amplasării clientului în interiorul vehiculului (cabină pe navă, compartiment în tren etc.);
-b) numele, adresa şi numărul de telefon al reprezentanţilor locali ai organizatorului sau, în absenţa acestora, datele de identificare ale agenţiei locale căreia i se va adresa clientul la necesitate. În cazul absenţei unor astfel de reprezentanţi sau agenţii, clientul urmează să fie informat despre datele de contact cu organizatorul;
 b) numele, adresa şi numărul de telefon al reprezentanţilor locali ai organizatorului și/sau detailistului ori, în absenţa acestora, datele de identificare ale agenţiei locale căreia i se va adresa clientul la necesitate. În cazul absenţei unor astfel de reprezentanţi sau agenţii, clientul urmează să fie informat despre datele de contact ale organizatorului și/sau detailistului;
 [Art.1133 al.(2), lit.b) modificată prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 c) în cazul călătoriei unor minori – datele de contact direct cu minorul sau cu persoana responsabilă de el la locul de destinaţie;
-d) posibilitatea procurării poliţei de asigurare care să acopere, în caz de accident sau boală, responsabilitatea clientului pentru faptul că a renunţat la călătorie, precum şi alte cheltuieli.
 d) posibilitatea procurării poliţei de asigurare care să acopere costurile în caz de reziliere a contractului de către client conform art. 1143 sau costurile de asistenţă, inclusiv taxele de repatriere, în caz de accidentare sau de boală, precum şi alte cheltuieli.
 [Art.1133 al.(2), lit.d) în redacția LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1134. Conţinutul contractului de servicii turistice
@@ -5130,7 +5178,6 @@ b) vehiculele, caracteristicile şi clasele lor, data şi locul plecării şi so
 c) informaţii despre cazare, categoria sau nivelul de confort, caracteristicile lui de bază, serviciile de alimentare;
 d) în cazul stabilirii unui număr minim de persoane necesar pentru realizarea călătoriei, termenul limită de notificare a clientului în caz de contramandare a acesteia;
 e) vizitele, excursiile şi alte servicii incluse în preţul unic al călătoriei;
-f) denumirea şi adresa organizatorului (agentului turistic) şi a asigurătorului, după caz;
 f) denumirea şi adresa organizatorului (sau detailistului) şi a asigurătorului, după caz;
 [Art.1134 al.(1), lit.f) modificată prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 g) preţul călătoriei, posibilitatea de modificare a preţului, costul anumitor servicii suplimentare (taxa de îmbarcare şi debarcare în porturi şi aeroporturi, taxele turistice) neinclus în preţul unic al călătoriei şi posibilitatea de modificare a acestuia;
@@ -5138,25 +5185,19 @@ h) termenele şi modalitatea de plată a preţului şi a celorlalte costuri;
 i) condiţiile specifice, convenite de părţi la cererea clientului;
 j) termenele de formulare a pretenţiilor privind neexecutarea sau executarea necorespunzătoare a contractului;
 k) alte condiţii.
-(2) Toate condiţiile contractuale trebuie prezentate clientului în scris, înainte de încheierea contractului.
 (2) Toate condiţiile contractuale trebuie prezentate clientului în scris, pe suport de hîrtie sau pe orice suport durabil disponibil şi accesibil consumatorului, înainte de încheierea contractului. Clientul trebuie să primească un exemplar al acestor clauze.
 [Art.1134 al.(2) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
-(3) Dispoziţiile alin.(2) nu exclud posibilitatea încheierii contractului în ultimul moment.
 (3) Dispoziţiile alin.(2) nu exclud posibilitatea încheierii, în ultimul moment, a contractului sau a rezervării.
 [Art.1134 al.(3) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1135. Călătoria unui terţ
-(1) Turistul are dreptul să ceară, înainte de începutul călătoriei, ca un terţ să preia drepturile şi îndatoririle sale din contractul de călătorie. Organizatorul poate refuza cererea turistului în cazul în care terţul nu corespunde condiţiilor călătoriei.
 (1) În cazul în care clientul nu poate să călătorească, acesta are dreptul să ceară, înainte de începutul călătoriei, ca un terţ să preia drepturile şi îndatoririle sale din contractul de călătorie. Organizatorul poate refuza cererea clientului în cazul în care terţul nu corespunde condiţiilor călătoriei.
 [Art.1135 al.(1) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
-(2) Organizatorul este în drept să ceară turistului compensarea cheltuielilor suplimentare suportate prin înlocuirea cu terţul.
 (2) Organizatorul sau detailistul este în drept să ceară clientului care cedează pachetul său de servicii ori terţului compensarea cheltuielilor suplimentare suportate prin înlocuirea cu terţul.
 [Art.1135 al.(2) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 Articolul 1136. Modificarea clauzelor esenţiale ale contractului
 (1) Dacă, înainte de începutul călătoriei, este nevoit să modifice considerabil clauzele esenţiale ale contractului, inclusiv preţul, organizatorul este obligat să-l notifice imediat pe client despre acest fapt.
-(2) Preţul menţionat în contract nu poate fi modificat, cu excepţia cazului în care contractul prevede o astfel de posibilitate şi indică modalitatea calculării preţului modificat. Preţul indicat în contract poate fi modificat în mod excepţional, în cazul schimbării preţurilor pentru transport, a taxelor pentru anumite servicii (taxa de îmbarcare şi debarcare în porturi şi aeroporturi, alte taxe). Preţul nu poate fi majorat în termen de 20 de zile pînă la data începerii călătoriei.
 (2) Preţul menţionat în contract nu poate fi modificat, cu excepţia cazului în care contractul prevede o astfel de posibilitate şi indică modalitatea calculării preţului modificat. Preţul indicat în contract poate fi modificat, atît în vederea majorării, cît şi a reducerii, dacă modificarea are loc ca urmare a variaţiilor costurilor pentru transport, a variațiilor taxelor pentru anumite servicii (taxa de îmbarcare și debarcare în porturi și aeroporturi). Preţul nu poate fi majorat în termen de 20 de zile pînă la data începerii călătoriei.
 [Art.1136 al.(2) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
-(3) În cazul prevăzut la alin.(1), clientul poate renunţa la contract sau accepta modificarea lui, fiind obligat să-l notifice pe organizator în cel mai scurt timp despre decizia sa.
 (3) În cazul prevăzut la alin.(1), clientul poate rezilia contractul sau accepta modificarea lui, fiind obligat să-l notifice pe organizator sau pe detailist în cel mai scurt timp despre decizia sa.
 [Art.1136 al.(3) modificat prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
 (4) În cazul în care clientul reziliază contractul în conformitate cu alin. (3) sau dacă, indiferent de cauză, cu excepţia unei greşeli a clientului, organizatorul sau detailistul anulează pachetul de servicii înainte de data de plecare convenită, clientul are dreptul:
@@ -5174,7 +5215,6 @@ Articolul 1137. Acordarea de garanţii şi înlăturarea neajunsurilor
 (2) În cazul în care depistează neajunsuri în timpul călătoriei, turistul are dreptul să ceară înlăturarea lor imediată. Organizatorul poate refuza înlăturarea neajunsurilor dacă aceasta cere cheltuieli disproporţionate.
 (21) În cazul unor pretenţii ale turistului cu privire la executarea serviciilor prevăzute în contract, organizatorul şi/sau detailistul, precum şi prestatorii de servicii vor acţiona imediat pentru soluţionarea pretenţiilor şi vor face proba eforturilor depuse de ei în acest scop.
 [Art.1137 al.(21) introdus prin LP6 din 26.02.16, MO79-89/01.04.16 art.144; în vigoare 01.10.16]
-(3) În cazul în care organizatorul nu înlătură neajunsurile în termenul stabilit de turist, acesta poate să le înlăture singur şi să ceară organizatorului compensarea cheltuielilor suportate. Nu se stabileşte termen în cazul în care organizatorul refuză să înlăture neajunsurile sau turistul este interesat ca acestea să fie înlăturate imediat.
 (3) Dacă după plecare o mare parte din serviciile prevăzute în contract nu sînt prestate sau dacă organizatorul constată că nu va putea asigura o mare parte din serviciile prevăzute, organizatorul:
 a) efectuează, fără costuri suplimentare pentru turist, alte aranjamente corespunzătoare pentru continuarea pachetului de servicii; şi
 b) după caz, despăgubeşte turistul la limita diferenţei dintre serviciile prevăzute şi cele prestate.
@@ -5192,8 +5232,6 @@ Articolul 1139. Rezilierea contractului din cauza neajunsurilor
 (2) Rezilierea contractului este admisibilă doar dacă organizatorul a lăsat să expire un termen care i-a fost stabilit de către turist, fără a efectua remedierea. Nu este necesară stabilirea unui termen dacă remedierea este imposibilă sau este refuzată de organizator ori dacă rezilierea imediată a contractului este justificată de un interes special al turistului.
 (3) În cazul rezilierii contractului, organizatorul pierde dreptul asupra preţului convenit. El poate cere totuşi o indemnizaţie corespunzătoare pentru serviciile prestate deja şi pentru cele necesare în vederea încheierii călătoriei, cu excepţia cazului în care serviciile nu prezintă interes pentru turist în legătură cu rezilierea contractului.
 (4) Organizatorul călătoriei este obligat, în urma încetării prin reziliere a contractului, în special în cazul în care contractul prevede întoarcerea, să ia măsurile necesare pentru a-l transporta înapoi pe turist. Cheltuielile suplimentare sînt suportate de organizator.
-Articolul 1140. Reparaţia prejudiciului cauzat prin neajuns
-Turistul poate cere, indiferent de faptul dacă a solicitat reducerea preţului sau a reziliat contractul, despăgubiri pentru neîndeplinirea contractului în cazul în care lipsurile călătoriei se datorează unei împrejurări pentru care răspunde organizatorul.
 Articolul 1140. Reparaţia prejudiciului cauzat prin
 neajuns
 (1) Turistul poate cere, indiferent de faptul dacă a solicitat reducerea preţului sau a reziliat contractul, despăgubiri pentru neîndeplinirea contractului în cazul în care lipsurile călătoriei se datorează unei împrejurări pentru care răspund organizatorul şi/sau detailistul.
@@ -5222,6 +5260,90 @@ Articolul 1144. Rezilierea contractului din cauza unei forţe majore
 (2) Dacă se reziliază contractul în temeiul alin.(1), se vor aplica dispoziţiile art.1139 alin.(3) şi prima dispoziţie din alin.(4). Costurile suplimentare ale transportului la întoarcere se vor suporta, în mod egal, de către părţi. În alte cazuri, costurile suplimentare se suportă de către turist.
 Articolul 1145. Excluderea derogărilor
 Nu se poate deroga de la normele prezentului capitol în defavoarea turistului.
+Secţiunea a 2-a
+Unele produse de vacanţă şi intermedierea lor
+Articolul 11451. Contractul privind cazarea periodică
+(1) Contractul privind cazarea periodică este contractul prin care un profesionist se obligă să acorde consumatorului dreptul de a folosi o locuinţă sau altă unitate de cazare peste noapte, în mod periodic, în decursul unui termen care depăşeşte 12 luni, iar consumatorul se obligă să plătească un preţ total. La aprecierea dacă termenul depăşeşte 12 luni, se vor lua în calcul toate posibilităţile de prelungire prevăzute în contract.
+(2) Dreptul consumatorului menţionat la alin. (1) poate lua forma:
+a) unei cote-părţi în proprietatea comună, cu stabilirea modului respectiv de folosinţă;
+b) unui drept de uzufruct, abitaţie sau alt drept real;
+c) unui drept de locaţiune sau alt drept de creanţă;
+d) unui drept rezultat din calitatea de membru al unei persoane juridice ori societăţi civile.
+(3) Dreptul consumatorului poate fi însoţit de opţiunea de a alege unitatea de cazare din cadrul unui grup de unităţi de cazare făcute disponibile de către profesionist.
+(4) Dreptul consumatorului menţionat la alin. (1) se extinde şi asupra bunurilor mobile conform destinaţiei unităţii de cazare.
+Articolul 11452. Alte contracte aferente produselor
+de vacanţă şi domeniul de aplicare
+(1) Contractul privind produsul de vacanţă pe termen lung este contractul pe un termen ce depăşeşte 12 luni prin care un profesionist se obligă să acorde consumatorului dreptul de a primi reduceri de preţ sau alte beneficii privind cazarea, iar consumatorul se obligă să plătească un preţ total. Contractul poate, de asemenea, să prevadă şi prestarea unor servicii suplimentare consumatorului, precum serviciile de transport. La aprecierea dacă termenul depăşeşte 12 luni, se vor lua în calcul toate posibilităţile de prelungire prevăzute în contract.
+(2) Contractul de intermediere a produsului de vacanţă este contractul prin care un profesionist se obligă faţă de consumator, în schimbul unei remuneraţii, să intermedieze:
+a) un contract privind cazarea periodică ori un contract privind produsul de vacanţă pe termen lung; sau
+b) un contract privind înstrăinarea drepturilor deţinute de către consumator în temeiul unui contract indicat la lit. a).
+(3) Contractul de intermediere a participării la un sistem de schimb este contractul prin care un profesionist se obligă faţă de consumator, în schimbul unei remuneraţii, să intermedieze un contract prin care consumatorul va participa la un sistem de schimb care îi permite accesul la unități de cazare peste noapte sau la alte servicii în schimbul acordării accesului temporar altor persoane la avantajele pe care consumatorul le deţine în temeiul contractului privind cazarea periodică.
+(4) Dispoziţiile art. 11453–114510 se aplică în modul corespunzător contractului privind cazarea periodică, contractului privind produsul de vacanţă pe termen lung, contractului de intermediere a produsului de vacanţă şi contractului de intermediere a participării la un sistem de schimb, cu excepţia cazului în care articolul prevede că se aplică doar unuia sau unora dintre aceste contracte.
+(5) Orice clauză contrară dispoziţiilor prezentei secţiuni în detrimentul consumatorului este lovită de nulitate absolută.
+(6) Prezenta secţiune nu aduce atingere cadrului legal referitor la:
+a) căile de atac prevăzute în dreptul contractual general;
+b) înregistrarea bunurilor imobile sau mobile şi înstrăinarea bunurilor imobile;
+c) condiţiile de stabilire, regimul de autorizare sau cerinţele de autorizare; precum şi la
+d) determinarea naturii juridice a drepturilor care fac obiectul contractelor reglementate de prezenta secţiune.
+Articolul 11453. Publicitatea
+(1) Profesionistul este obligat să asigure că în publicitatea sa se precizează posibilitatea de a obține informațiile menționate la art. 11454 alin. (1) și se indică unde se pot obține informațiile respective.
+(2) În cazul în care, în cadrul unei oferte promoţionale, al unui eveniment de promovare sau al unui eveniment comercial, consumatorului i se va propune încheierea contractului, profesionistul este obligat să precizeze în mod clar, în invitație, scopul comercial și natura evenimentului.
+(3) Informațiile menționate la art. 11454 alin. (1) trebuie să fie puse la dispoziția consumatorului în orice moment pe durata evenimentului.
+(4) Drepturile aferente contractului privind cazarea periodică şi contractului privind produsul de vacanţă pe termen lung nu pot fi promovate sau comercializate drept o investiţie.
+Articolul 11454. Informațiile precontractuale
+(1) Profesionistul este obligat să furnizeze consumatorului următoarele informaţii:
+a) în cazul contractului privind cazarea periodică – potrivit formularului standard prevăzut în anexa nr. 1 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova;
+b) în cazul contractului privind produsul de vacanţă pe termen lung – potrivit formularului standard prevăzut în anexa nr. 2 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova;
+c) în cazul contractului de intermediere a produsului de vacanţă – potrivit formularului standard prevăzut în anexa nr. 3 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova;
+d) în cazul contractului de intermediere a participării la un sistem de schimb – potrivit formularului standard prevăzut în anexa nr. 4 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova.
+(2) Profesionistul are obligaţia să completeze formularele standard menționate la alin. (1) cu informaţii suficiente şi precise, astfel încît să nu inducă în eroare consumatorul şi să permită consumatorului să ia o decizie în deplină cunoştinţă de cauză.
+(3) Profesionistul trebuie să furnizeze consumatorului toate informaţiile prevăzute la alin. (1):
+a) gratuit;
+b) într-un mod clar şi uşor de înţeles;
+c) pe hîrtie sau pe un alt suport durabil, uşor accesibil consumatorului;
+d) cu suficient timp înainte ca un consumator să încheie un contract sau să accepte o ofertă, dar cu cel puţin 15 zile calendaristice înainte.
+(4) Perioada de 15 zile prevăzută la alin. (3) lit. d) se poate reduce cu acordul scris al consumatorului.
+Articolul 11455. Informarea despre dreptul de revocare
+și despre interzicerea plăţilor în avans,
+confirmarea informării
+(1) Înainte de încheierea contractului, profesionistul trebuie să informeze consumatorul în mod explicit despre existenţa dreptului de revocare a contractului, conform art. 7521, termenul de revocare a contractului, conform art. 7522, şi despre interzicerea plăţilor în avans în perioada termenului de revocare, conform art. 11458.
+(2) Consumatorul trebuie să confirme primirea informaţiilor contractuale prevăzute la alin. (1) prin semnarea rubricilor corespunzătoare din partea a 2-a a formularului standard prevăzut în anexele nr. 1–4 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova.
+Articolul 11456. Limba contractului şi informaţiilor furnizate
+(1) Contractul se redactează în limba de stat.
+(2) În cazul în care consumatorul este cetăţean străin şi are reşedinţa în străinătate, contractul se redactează în limba de stat sau în una din limbile de circulaţie internaţională.
+(3) Cerinţele de limbă prevăzute la alin. (1) şi (2) se aplică şi informaţiilor pe care profesionistul este obligat să le furnizeze conform art. 11454 şi 11455.
+(4) În cazul unui contract privind cazarea periodică care are ca obiect un singur bun imobil determinat, profesionistul este obligat să furnizeze consumatorului, în mod gratuit, o traducere autorizată a contractului în limba de stat sau în una din limbile de circulaţie internaţională.
+Articolul 11457. Forma şi clauzele contractului
+(1) Contractul se încheie în formă scrisă, pe hîrtie sau pe un alt suport durabil acceptat de consumator, şi se redactează în mod vizibil şi uşor de citit. Culoarea de fond a hîrtiei pe care este redactat contractul trebuie să fie în contrast cu cea a fontului utilizat.
+(2) Dacă pentru constituirea ori transmiterea dreptului acordat prin contractul privind cazarea periodică legea cere forma autentică, contractul trebuie încheiat în formă autentică. Dispoziţiile legale privind registrul bunurilor imobile rămîn aplicabile.
+(3) Contractul trebuie să prevadă următoarele:
+a) informaţii privind numele, prenumele, domiciliul sau reşedinţa profesionistului persoană fizică şi, respectiv, informaţii privind denumirea, sediul şi forma juridică de organizare ale profesionistului persoană juridică, precum şi adresele pentru notificare;
+b) informaţiile cuprinse în formularul standard corespunzător, menționat la art. 11454;
+c) data şi locul încheierii contractului.
+(4) Informaţiile cuprinse în formularele standard menționate la art. 11454 nu pot fi modificate decît cu acordul în scris al părţilor sau în cazul în care modificările decurg din anumite circumstanţe neobişnuite şi neprevăzute, independente de voinţa profesionistului, şi ale căror consecinţe nu ar fi putut fi evitate, chiar dacă s-ar fi luat toate măsurile necesare.
+(5) Orice modificare va fi comunicată consumatorului, pe hîrtie sau pe un alt suport durabil uşor accesibil acestuia şi pe care îl acceptă, înainte de încheierea contractului. Modificările se menţionează în mod expres în contract.
+(6) La momentul încheierii contractului, consumatorul primeşte cel puţin un exemplar al acestuia. La contract trebuie să se anexeze formularul standard referitor la dreptul de revocare, prevăzut în anexa nr. 5 la Legea nr. 1125-XV din 13 iunie 2002 pentru punerea în aplicare a Codului civil al Republicii Moldova.
+Articolul 11458. Interzicerea plăților în avans
+(1) Sînt interzise orice plăți în avans, acordarea de garanții, rezervarea de bani prin intermediul conturilor, recunoașterea explicită a datoriilor, precum și orice alte plăți efectuate de consumator către profesionist sau către orice alt terț înainte de sfîrșitul termenului de revocare a contractului.
+(2) În cazul contractului de intermediere a produsului de vacanţă, interdicţia de la alin. (1) subzistă pînă la îndeplinirea de către profesionist a tuturor obligaţiilor sale rezultate din acest contract sau, după caz, pînă la încetarea pe alt temei a acestui contract.
+Articolul 11459. Dispoziții speciale aplicabile contractului
+privind cazarea periodică
+(1) În cazul contractului privind cazarea periodică, plata se va efectua conform unui calendar fix de plăți. Sînt interzise orice plăți ale prețului specificat în contract care nu sînt efectuate conform calendarului fix de plăți. Plățile, inclusiv plata cotizației de membru, trebuie să fie eșalonate în rate anuale, fiecare dintre acestea avînd aceeași valoare. Profesionistul trebuie să trimită o solicitare scrisă de plată, pe suport de hîrtie sau pe alt suport durabil, cu cel puțin 14 zile calendaristice înainte de data scadenței.
+(2) Consumatorul are dreptul la rezoluţiunea raportului contractual privind cazarea periodică, fără vreun motiv, începînd de la plata celei de-a doua rate, fără a fi pasibil de vreo sancțiune, notificînd acest lucru profesionistului în termen de 14 zile calendaristice de la primirea solicitării de plată aferente fiecărei rate. Acest drept nu afectează dreptul de rezoluţiune pe alte temeiuri legale.
+Articolul 114510. Contractele legate
+(1) Exercitarea de către consumator a dreptului de revocare are ca efect şi rezoluţiunea automată a contractului legat de contractul care se revocă.
+(2) Contractul care se revocă se consideră legat de contractul prin care consumatorul obţine bunuri, lucrări, conţinut digital, servicii sau alte prestaţii legate de contractul care se revocă dacă aceste prestaţii sînt furnizate:
+a) de către acelaşi profesionist; sau
+b) de către un terţ pe baza unui acord între terţul respectiv şi acelaşi profesionist.
+(3) Contractul care se revocă se consideră legat de contractul de credit prin care consumatorul obţine credit destinat exclusiv pentru finanţarea obligaţiilor de plată, în totalitate sau în parte, rezultate din contractul care se revocă dacă aceste contracte formează, din punct de vedere obiectiv, o unitate comercială.
+(4) Se consideră că contractele formează o unitate comercială în sensul alin. (3) în cazul în care:
+a) însuşi profesionistul este şi creditor;
+b) fiind o altă persoană decît profesionistul, creditorul, pe bază de acord, folosește serviciile ori colaborarea profesionistului pentru încheierea contractului de credit sau pregătirea acestuia; sau
+c) contractul de credit specifică în mod expres obiectul contractului care se revocă.
+(5) Existenţa acordului dintre terţ şi profesionist, astfel cum este prevăzut la alin. (2) lit. b) şi la alin. (4) lit. b), se prezumă pînă la proba contrară.
+(6) În cazul în care profesionistul este informat de către consumator despre revocarea contractului, profesionistul este obligat să informeze terţul cu care consumatorul are un contract legat despre faptul că a intervenit rezoluţiunea lui conform alin. (1).
+(7) În sensul alin.(3), prin contract de credit se va înţelege oricare contract de credit pentru consumator care se înscrie în domeniul de aplicare al Legii nr. 202 din 12 iulie 2013 privind contractele de credit pentru consumatori.
+[Secțiunea 2 introdusă prin LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17]
 Capitolul XX
 FIDEJUSIUNEA
 S e c ţ i u n e a 1
@@ -6059,7 +6181,8 @@ Articolul 1332. Interdicţia tranzacţiei
 (2) Se poate încheia o tranzacţie asupra unei acţiuni civile ce derivă dintr-o infracţiune.
 Articolul 1333. Efectul tranzacţiei
 (1) Tranzacţia are între părţi autoritatea lucrului judecat.
-(2) Tranzacţia nu este susceptibilă de executare silită decît după omologare.
+(2) Tranzacţia poate fi executată silit în condiţiile Legii cu privire la mediere, în modul stabilit de Codul de executare.
+[Art.1333 al.(2) în redacția LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 Articolul 1334. Nulitatea tranzacţiei
 (1) Tranzacţia poate fi declarată nulă pentru temeiurile generale de nulitate a actelor juridice.
 (2) Eroarea de drept nu este un temei de nulitate a tranzacţiei.
@@ -6413,7 +6536,8 @@ vătămare a integrităţii corporale sau prin
 altă vătămare a sănătăţii
 (1) În caz de vătămare a integrităţii corporale sau de altă vătămare a sănătăţii, autorul prejudiciului are obligaţia să compenseze persoanei vătămate salariul sau venitul ratat din cauza pierderii sau reducerii capacităţii de muncă, precum şi cheltuielile suportate în legătură cu vătămarea sănătăţii – de tratament, de alimentaţie suplimentară, de protezare, de îngrijire străină, de cumpărarea unui vehicul special, de reciclare profesională etc.
 (2) Determinarea salariului (venitului) nerealizat din cauza vătămării integrităţii corporale sau altei vătămări a sănătăţii se efectuează conform legii.
-(3) La determinarea salariului nerealizat (venitului ratat) nu se iau în considerare pensia de invaliditate, stabilită persoanei vătămate în legătură cu vătămarea integrităţii corporale sau cu o altă vătămare a sănătăţii şi nici alte indemnizaţii sau sume, plătite pe linia asigurărilor sociale de stat.
+(3) La determinarea salariului nerealizat (venitului ratat) nu se iau în considerare pensia de dizabilitate, stabilită persoanei vătămate în legătură cu vătămarea integrităţii corporale sau cu o altă vătămare a sănătăţii şi nici alte indemnizaţii sau sume, plătite pe linia asigurărilor sociale de stat.
+[Art.1418 al.(3) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (4) Volumul despăgubirilor ce se cuvin, în conformitate cu prezentul articol, persoanei vătămate poate fi mărit prin lege sau contract.
 Articolul 1419. Răspunderea în caz de deces al persoanei
 vătămate
@@ -6426,7 +6550,8 @@ d) persoanele care erau întreţinute de defunct şi care au devenit inapte pent
 a) minorilor, pînă la împlinirea vîrstei de 18 ani;
 b) elevilor şi studenţilor care au împlinit 18 ani, pînă la finalizarea studiilor (cu excepţia studiilor efectuate la secţia fără frecvenţă) în instituţii de învăţămînt, dar cel mult pînă la împlinirea vîrstei de 23 de ani;
 c) femeilor care au împlinit vîrsta de 55 de ani şi bărbaţilor care au împlinit vîrsta de 60 ani – pe viaţă;
-d) invalizilor, pe durata invalidităţii;
+d) persoanelor cu dizabilităţi;
+[Art.1419 al.(2), lit.d) în redacția LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 e) unuia dintre părinţi, soţului sau unui alt membru al familiei defunctului, ce îngrijeşte de copiii, fraţii şi surorile care erau întreţinuţi de defunct, pînă la împlinirea vîrstei de 14 ani sau pînă la îmbunătăţirea stării sănătăţii, confirmată prin aviz de organele medicale abilitate.
 (3) Determinarea cuantumului despăgubirilor pentru pierderea întreţinătorului se efectuează conform legii.
 (4) Persoanele obligate să repare prejudiciul cauzat prin deces vor fi ţinute să compenseze şi cheltuielile de înmormîntare necesare, ţinînd cont de statutul social al defunctului şi de obiceiurile locale, persoanei care le-a suportat.
@@ -6608,7 +6733,8 @@ c) mistic – scris în întregime, datat şi semnat de testator, strîns şi si
 Articolul 1459. Testamentele asimilate celor autentificate
 notarial
 (1) Sînt asimilate celor autentificate notarial testamentele autentificate de:
-a) medicul principal, şeful, adjuncţii lor în probleme medicale, medicul de serviciu al spitalului, al unei alte instituţii medicale, al sanatoriului, directorul sau medicul principal al azilului pentru invalizi şi bătrîni dacă testatorul se tratează sau locuieşte într-o astfel de instituţie; şeful expediţiilor de explorări, expediţiilor geografice şi a altor expediţii similare, dacă testatorul se află într-o astfel de expediţie;
+a) medicul principal, şeful, adjuncţii lor în probleme medicale, medicul de serviciu al spitalului, al unei alte instituţii medicale, al sanatoriului, directorul sau medicul principal al azilului pentru persoane cu dizabilităţi şi bătrîni dacă testatorul se tratează sau locuieşte într-o astfel de instituţie; şeful expediţiilor de explorări, expediţiilor geografice şi a altor expediţii similare, dacă testatorul se află într-o astfel de expediţie;
+[Art.1459 al.(1), lit.a) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 b) căpitanul navei sau aeronavei, dacă testatorul se află pe navă sau în aeronavă;
 c) comandantul (şeful) unităţii, marii unităţi, institutului şi colegiului militar dacă la locul aflării lor nu există notar şi dacă testatorul este militar sau îndeplineşte serviciul în unitatea militară sau este persoană civilă sau membru al familiei acestuia;
 d) şeful instituţiei de privaţiune de libertate dacă testatorul se află în locuri de privaţiune de libertate.
@@ -7115,10 +7241,20 @@ a) prin acordul părţilor s-a stabilit altfel;
 b) bunurile sînt bunuri personale ale pasagerului, în acest caz fiind supuse legii sale naţionale.
 Articolul 1606. Titlurile de valoare
 (1) Emiterea titlurilor de valoare este supusă legii aplicabile statutului juridic al persoanei juridice emitente.
-(2) Condiţiile şi efectele transmiterii titlurilor de valoare sînt supuse:
+(2) Condiţiile şi efectele transmiterii valorilor mobiliare sînt supuse:
+(2) Condiţiile şi efectele transmiterii valorilor mobiliare în formă materializată sînt supuse:
+[Art.1606 al.(2) modificat prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
 a) legii locului de plată a titlului la ordin;
 b) legii locului unde se află titlul la purtător în momentul transmiterii;
 c) legii aplicabile statutului juridic al persoanei juridice emitente a titlului nominativ.
+(3) Valorile mobiliare în formă de înscriere în cont sînt guvernate de legea ţării în care se află registrul sau contul în care sînt operate înscrierile privind valorile mobiliare.
+[Art.1606 al.(3) introdus prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
+(4) Garanţiile financiare constituite sub formă de instrumente financiare în formă de înscriere în cont sînt guvernate de legea ţării în care se află registrul sau contul în care sînt operate înscrierile privind valorile mobiliare în ceea ce priveşte:
+a) natura juridică şi efectele patrimoniale ale garanţiei financiare constituite sub formă de instrumente financiare în formă de înscriere în cont;
+b) condiţiile care trebuie îndeplinite pentru încheierea în mod valabil a unui contract de garanţie financiară avînd ca obiect instrumente financiare în formă de înscriere în cont şi pentru punerea la dispoziţie a acestor instrumente financiare în temeiul unui astfel de contract, formalităţile necesare pentru asigurarea opozabilităţii faţă de terţi a unui astfel de contract şi a punerii la dispoziţie a unor astfel de garanţii;
+c) dacă un drept de proprietate sau alt drept al unei persoane cu privire la garanţia financiară constituită sub formă de instrumente financiare în formă de înscriere în cont este prioritar ori subordonat unui drept de proprietate sau altui drept concurent şi dacă dobîndirea s-a făcut cu bună-credinţă;
+d) formalităţile cerute pentru executarea garanţiei financiare constituite sub formă de instrumente financiare în formă de înscriere în cont, ca urmare a apariţiei unei cauze care determină executarea garanţiei.
+[Art.1606 al.(4) introdus prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
 Articolul 1607. Drepturile personale nepatrimoniale
 (1) Dobîndirea, conţinutul şi stingerea dreptului de autor asupra unei opere de creaţie sînt guvernate de legea statului pe al cărui teritoriu această operă a fost adusă pentru prima dată la cunoştinţa publicului prin expunere, difuzare, publicare, reprezentare sau în orice alt mod.
 (2) Dreptul de autor asupra unei opere de creaţie care nu a fost adus la cunoştinţa publicului este guvernat de legea naţională a autorului.
