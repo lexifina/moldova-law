@@ -14,6 +14,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP233 din 03.10.16, MO343-346/04.10.16 art.709
 LP193 din 28.07.16, MO315-328/23.09.16 art.686
 LP196 din 28.07.16, MO306-313/16.09.16 art.661
 LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
@@ -2556,12 +2557,21 @@ b) au condus la insolvabilitatea instituţiei financiare, asociaţiei de economi
 se pedepsesc cu amendă în mărime de la 2000 la 3000 unităţi convenţionale sau cu închisoare de la 2 la 7 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.239 în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 [Art.239 modificat prin LP108 din 04.06.10, MO117-118/09.07.10 art.363]
-Articolul 2391. Gestiunea defectuoasă sau
-frauduloasă a băncii
-(1) Neîntreprinderea acţiunilor necesare prevăzute de lege, de hotărîrile Băncii Naţionale a Moldovei şi de statutul băncii, în situaţia înregistrării pierderilor financiare sau existenţei pericolului unor asemenea pierderi, de către membrii organelor de conducere sau acţionarii acesteia,
+Articolul 2391. Gestiunea defectuoasă sau frauduloasă
+a băncii, a societății de investiții, a societății
+de asigurări
+[Art.2391 denumirea modificată prin LP233 din 03.10.16, MO343-346/04.10.16 art.709]
+(1) Neîntreprinderea acţiunilor necesare prevăzute de lege, de hotărîrile Băncii Naţionale a Moldovei, de hotărîrile Comisiei Naționale a Pieței Financiare, de statutul băncii, de statutul societății de investiții, a societății de asigurări, în situaţia înregistrării pierderilor financiare sau existenţei pericolului unor asemenea pierderi, de către membrii organelor de conducere, acţionarii, beneficiarii efectivi și persoanele afiliate ale acționarilor și beneficiarilor efectivi,
+[Art.2391 al.(1) în redacția LP233 din 03.10.16, MO343-346/04.10.16 art.709]
 se pedepseşte cu amendă în mărime de la 400 la 800 unităţi convenţionale sau cu închisoare de pînă la 1 an, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
-(2) Falsificarea sau nimicirea documentelor bancare, inducerea în eroare, prezentarea sau utilizarea unor date false, distorsionarea sau tăinuirea datelor veridice de către administratorul băncii, în procesul de administrare a băncii,
+(2) Falsificarea sau nimicirea documentelor bancare, inducerea în eroare, prezentarea sau utilizarea unor date false, distorsionarea sau tăinuirea datelor veridice de către persoanele prevăzute la alin. (1), în procesul de administrare a băncii, a societății de investiții, a societății de asigurări
+[Art.2391 al.(2) modificat prin LP233 din 03.10.16, MO343-346/04.10.16 art.709]
 se pedepsesc cu amendă în mărime de la 500 la 1000 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
+(3) Acțiunile săvîrșite sau omisiunile admise, prevăzute în art. 238, 239 și 2391, de către membrii organelor de conducere ale băncii, acţionarii băncii, beneficiarii efectivi ai acționarilor băncii, precum și persoanele afiliate ale acționarilor și beneficiarilor efectivi, care au condus la insolvabilitatea băncii sau la declanșarea procesului rezoluție a acesteia, astfel cum este prevăzut în Legea cu privire la redresarea și rezoluția băncilor, inclusiv ca rezultat al insolvabilității entității-mamă,
+se pedepsesc cu amendă în mărime de la 1000 la 2000 unităţi convenţionale sau cu închisoare de pînă la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
+[Art.2391 al.(3) introdus prin LP233 din 03.10.16, MO343-346/04.10.16 art.709]
+(4) În sensul prezentului articol, termenul de persoană afiliată va avea semnificația prevăzută în art. 31 din Legea instituțiilor financiare nr. 550-XIII din 21 iulie 1995.
+[Art.2391 al.(4) introdus prin LP233 din 03.10.16, MO343-346/04.10.16 art.709]
 [Art.2391 în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 2392. Obstrucţionarea supravegherii bancare
 Săvîrşirea de către acţionarul, administratorul sau oricare alt angajat al băncii a uneia dintre următoarele fapte:
