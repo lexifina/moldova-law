@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP233 din 03.10.16, MO343-346/04.10.16 art.709
 LP160 din 07.07.16, MO306-313/16.09.16 art.647
 LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
 LP102 din 21.07.16, MO256-267/12.08.16 art.547; în vigoare 12.11.16
@@ -701,7 +702,8 @@ Articolul 69. Schimbarea temporară a locului de muncă
 [Art.69 al.(1) în redacția LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 (2) Pe durata deplasării în interes de serviciu sau a detaşării la alt loc de muncă, salariatul îşi menţine funcţia, salariul mediu şi alte drepturi prevăzute de contractul colectiv şi de cel individual de muncă.
 Articolul 70. Trimiterea în deplasare în interes de serviciu
-Trimiterea salariatului în deplasare în interes de serviciu poate fi dispusă pentru o perioadă de cel mult 60 de zile calendaristice, în modul şi în condiţiile prevăzute la art.174-176.
+Trimiterea salariatului în deplasare în interes de serviciu poate fi dispusă pentru o perioadă de cel mult 60 de zile calendaristice, în modul şi în condiţiile prevăzute la art.174-176. Această perioadă poate fi prelungită pentru o perioadă de pînă la un an calendaristic numai cu acordul scris al salariatului.
+[Art.70 modificat prin LP233 din 03.10.16, MO343-346/04.10.16 art.709]
 Articolul 71. Detaşarea
 (1) Detaşarea poate fi dispusă numai cu acordul scris al salariatului pentru o perioadă de cel mult un an şi se efectuează în temeiul unui contract individual de muncă distinct pe durată determinată.
 [Art.71 al.(1) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
