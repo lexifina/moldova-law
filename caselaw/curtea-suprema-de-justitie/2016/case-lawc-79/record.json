@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3r-223/16, din 11.10.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 79,
+  "number": "3r-223/16",
+  "decision_date": "2016-10-11",
+  "decision_date_source_quote": "11 octombrie 2016",
+  "record_date": "2016-10-11",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=79",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=79",
+  "source_sha256": "aec1c71631c0b07edbf00c921b1c382aaf96b2da542633ac484e208ce96c6aca",
+  "pdf_pages": 4,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1160,
+    "pdftotext_words": 1142,
+    "common_ratio": [
+      0.9819,
+      0.9974
+    ]
+  },
+  "first_law": null
+}
