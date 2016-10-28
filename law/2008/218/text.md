@@ -15,6 +15,8 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP230 din 23.09.16, MO369-378/28.10.16 art.755
+LP161 din 07.07.16, MO369-378/28.10.16 art.745; în vigoare 28.10.18
 LP211 din 29.07.16, MO338-341/30.09.16 art.698
 LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17
 LP193 din 28.07.16, MO315-328/23.09.16 art.686
@@ -2215,8 +2217,8 @@ se sancţionează cu amendă de la 30 la 40 de unităţi convenţionale cu aplic
 (2) Încălcarea de către conducătorul de vehicul a regulilor de circulaţie rutieră soldată cu cauzarea de leziuni corporale uşoare victimei sau cu deteriorarea considerabilă a vehiculelor, a încărcăturilor, a drumurilor, a instalaţiilor rutiere, a altor instalaţii sau a altor bunuri
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale cu aplicarea a 6 puncte de penalizare.
 [Art.242 al.(2), sancțiunea în redacția LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
-Articolul 243. Părăsirea locului în care
-s-a produs accidentul rutier
+Articolul 243. Părăsirea locului în care s-a produs
+accidentul rutier
 Părăsirea de către vinovat a locului în care s-a produs accidentul rutier
 se sancţionează cu privarea de dreptul de a conduce vehicule pe un termen de la 2 la 3 ani sau cu arest contravenţional pe un termen de 15 zile.
 [Art.243 sancţiunea modificată prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
@@ -2747,8 +2749,7 @@ se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicat
 [Art.2871 al.(2) modificat prin LP71 din 12.04.15, MO102-104/28.04.15 art.170; în vigoare 01.05.15]
 (3) Neasigurarea condiţiilor corespunzătoare pentru efectuarea auditului postvămuire, neacordarea unui spaţiu de lucru în birou, precum şi neasigurarea asistenţei necesare
 se sancţionează cu amendă de la 150 la 250 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
-(4) Neasigurarea integrităţii sigiliilor aplicate de către colaboratorii vamali în cadrul efectuării auditului postvămuire
-se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 250 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.2871 al.(2) abrogat prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 [Art.2871 introdus prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
 Articolul 2872. Împiedicarea activităţii în cadrul
 executării silite a obligaţiei vamale
@@ -3425,6 +3426,19 @@ se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale.
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale.
 (6) Furnizarea de date cadastrale în scopuri comerciale fără contract încheiat cu organul cadastral teritorial către persoane juridice care nu fac parte din sistemul organelor cadastrale
 se sancţionează cu amendă de la 40 la 50 de unităţi convenţionale.
+Articolul 3261. Încălcarea prevederilor Legii privind
+administraţia publică locală
+(1) Aprobarea de către autoritatea administrației publice locale a unui act normativ al cărui proiect nu a fost publicat în vederea consultării publice
+se sancționează cu amendă de la 10 la 20 de unități convenționale aplicată persoanei cu funcție de răspundere.
+(2) Omiterea de către persoana responsabilă a termenului prevăzut de lege privind includerea actelor emise de autorităţile administraţiei publice locale, inclusiv a proceselor-verbale ale şedinţelor consiliului local, a documentelor şi informaţiilor prevăzute de lege, în Registrul de stat al actelor locale
+se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale.
+(3) Împiedicarea accesului liber la şedinţele consiliului local
+se sancționează cu amendă de la 50 la 75 de unități convenționale aplicată persoanei fizice, cu amendă de la 75 la 100 de unități convenționale aplicată persoanei cu funcție de răspundere.
+(4) Includerea în Registrul de stat al actelor locale a unui text care diferă de textul actului aprobat de autoritatea competentă
+se sancționează cu amendă de la 50 la 75 de unități convenționale aplicată persoanei fizice, cu amendă de la 75 la 100 de unități convenționale aplicată persoanei cu funcție de răspundere.
+(5) Neincluderea pe ordinea de zi a şedinţei consiliului local (raional) de către persoana responsabilă a notificării oficiului teritorial al Cancelariei de Stat
+se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale.
+[Art.3261 introdus prin LP161 din 07.07.16, MO369-378/28.10.16 art.745; în vigoare 28.10.18]
 Articolul 327. Încălcarea termenelor de prezentare
 a dărilor de seamă Agenţia Rezerve
 Materiale
@@ -3801,6 +3815,19 @@ Articolul 350. Încălcarea legislaţiei cu privire la
 autorizarea activităţii de întreprinzător
 Nesoluţionarea expresă a cererii privind eliberarea de acte prin care s-ar permite solicitantului să iniţieze şi/sau să desfăşoare o afacere (licenţă, autorizaţie, permisiune, certificat, aviz, aprobare, coordonare, brevet, atestat de calificare), nesoluţionarea cu bună ştiinţă a cererii în termenul prevăzut de lege, generîndu-se astfel intervenţia prezumţiei legale a aprobării tacite,
 se sancţionează cu amendă de la 50 la 250 de unităţi convenţionale.
+Articolul 3502. Încălcarea legislației privind controlul
+de stat asupra activității de întreprinzător
+(1) Inițierea controlului inopinat în afara temeiurilor stabilite expres de lege
+se sancţionează cu amendă de la 100 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(2) Neînregistrarea, înregistrarea incompletă sau netransmiterea pe cale electronică pentru stocare a delegației de control și/sau a procesului-verbal de control în Registrul de stat al controalelor, conform procedurii și limitelor de timp stabilite de lege,
+se sancţionează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(3) Neutilizarea listei de verificare corespunzătoare în timpul controlului de stat de către organul de control
+se sancționează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(4) Admiterea şi/sau dispunerea prelungirii nejustificate a duratei controlului, peste limitele de timp stabilite de lege, sau dispunerea de măsuri restrictive în mod nejustificat
+se sancţionează cu amendă de la 300 la 500 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+(5) Netransmiterea procesului-verbal de control persoanei supuse controlului
+se sancționează cu amendă de la 50 la 150 de unităţi convenţionale aplicată persoanei cu funcţie de răspundere.
+[Art.3502 introdus prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 Articolul 351. Nerespectarea Legii cu privire
 la funcţionarea limbilor vorbite
 pe teritoriul Republicii Moldova
@@ -4041,7 +4068,9 @@ contravenţional şi dreptul la interpret
 (4) Actele procesuale ale autorităţii competentă să soluţioneze cauza contravenţională se înmînează persoanei în a cărei privinţă a fost pornit procesul contravenţional, fiind traduse în limba pe care aceasta o cunoaşte, în modul stabilit de prezentul cod.
 Articolul 380. Dreptul de a nu fi urmărit sau
 sancţionat de mai multe ori
-Nimeni nu poate fi urmărit sau sancţionat de mai multe ori pentru aceeaşi faptă. Reluarea procesului contravenţional care a încetat poate avea loc doar în cazul descoperirii unor noi circumstanţe sau în cazul depistării unui viciu fundamental în hotărîrea de încetare.
+(1) Nimeni nu poate fi urmărit sau sancţionat de mai multe ori pentru aceeaşi faptă. Reluarea procesului contravenţional care a încetat poate avea loc doar în cazul descoperirii unor noi circumstanţe sau în cazul depistării unui viciu fundamental în hotărîrea de încetare.
+(2) Răspunderea contravențională pentru neexecutarea, executarea necorespunzătoare a măsurilor specificate în actele de control, decizii, hotărîri, rapoarte și a prescripțiilor emise de autoritățile competente exclude răspunderea contravențională pentru încălcările neremediate indicate în acestea.
+[Art.380 al.(2) introdus prin LP230 din 23.09.16, MO369-378/28.10.16 art.755; alineatul unic devine al.(1)]
 Articolul 381. Accesul liber la justiţie
 (1) Orice persoană are dreptul la satisfacţia efectivă din partea instanţei de judecată competente împotriva actelor care violează drepturile, libertăţile şi interesele sale legitime.
 (2) Orice persoană are dreptul la examinarea şi la soluţionarea cauzei sale în mod echitabil, în termen rezonabil, de către o instanţă independentă, imparţială, legal constituită, care să acţioneze în conformitate cu prezentul cod.
@@ -4238,7 +4267,8 @@ Articolul 399. Competenţa agentului constatator
 (2) Agentul constatator poate constata contravenţii ale căror constatare, soluţionare şi sancţionare sînt atribuite competenţei unor alte organe. În astfel de cazuri, agentul va remite organelor respective procesele-verbale de constatare a contravenţiilor.
 Articolul 400. Ministerul Afacerilor Interne
 [Art.400 titlul în redacţia LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, art.77 alin.(8), art. 78–782, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197 alin. (1)–(4), (9)–(13), (15), (21), (22), art.201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 263 alin. (1), (4)–(8), 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin. (1), (4), (5), (7) și (9), art. 282–286, 2873,2891, 293, 2931, 295, art.299 alin.(2), art.321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+(1) Contravenţiile prevăzute la art. 47, 48, art. 481 alin. (5) şi art. 482–54, 69–71, 73, art.77 alin.(8), art. 78–782, art.79 alin.(1), (2), (4), art. 801, 85–87, 89–91, art. 911 alin. (16) şi (18), 96, 97, 98–107, 115 alin. (3), 159, 160, 176, 191, 197 alin. (1)–(4), (9)–(13), (15), (21), (22), art.201–203, 205, 216, 220–226, 228–232, 234–236, 238–242, 244, 245, 263 alin. (1), (4)–(8), 2631, 265, 267, art. 272, art. 274 alin. (1), (5), art. 277 alin. (1), (4), (5), (7) și (9), art. 282–286, 2873, 2891, 321, 325, 326, 333, 334, 338–343, art. 349 alin. (1), art. 350, 3502, 354, 355, art. 356 alin. (1) şi (2), art. 357–363, art. 364 alin. (1)–(51), art. 365 se examinează de poliţie.
+[Art.400 al.(1) modificat prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 [Art.400 al.(1) modificat prin LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 [Art.400 al.(1) modificat prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.400 al.(1) modificat prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
@@ -4283,7 +4313,7 @@ Articolul 400. Ministerul Afacerilor Interne
 [Art.400 al.(5) în redacția LP22 din 13.03.14, MO80-85/04.04.14 art.181]
 [Art.400 al.(5) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(5) modificat prin LP290 din 21.12.12, MO27-30/08.02.13 art.102]
-(6) Procesele-verbale cu privire la contravenţiile prevăzute, la art.541, 62–68, 88, 233, 237, 243, 317, 3181, 320, 322–324, 3304, art.2771 alin.(3), art. 335–337, 351–353 se remit spre examinare în fond instanţei de judecată competente.
+(6) Procesele-verbale cu privire la contravenţiile prevăzute la art. 541, 62–68, 88, 233, 237, 243, 317, 3181, 320, 322–324, 3304, art.2771 alin.(3), art. 335–337, 351–353 se remit spre examinare în fond instanţei de judecată competente.
 [Art.400 al.(6) modificat prin LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 [Art.400 al.(6) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 [Art.400 al.(6) modificat prin LP70 din 14.04.16, MO128-133/13.05.16 art.270]
@@ -4294,7 +4324,8 @@ Articolul 400. Ministerul Afacerilor Interne
 [Art.400 al.(6) modificat prin LP145 din 14.06.13, MO161-166/26.07.13 art.516; în vigoare 26.10.13]
 [Art.400 al.(6) introdus prin LP267 din 23.12.11, MO13-14/13.01.12 art.32; în vigoare 13.01.12]
 Articolul 401. Centrul Naţional Anticorupţie
-(1) Contravenţiile prevăzute la art. 264, 312, 313, 3131, 3133, 314, 3141, 315 şi 316 se examinează de Centrul Naţional Anticorupţie. Contravenţiile prevăzute la art. 2912–2919 se examinează de Serviciul Prevenirea şi Combaterea Spălării Banilor al Centrului Naţional Anticorupţie.
+(1) Contravenţiile prevăzute la art. 264, 312, 313, 3131, 3133, 314, 3141, 315, 316 și 3502 se examinează de Centrul Naţional Anticorupţie. Contravenţiile prevăzute la art. 2912–2919 se examinează de Serviciul Prevenirea şi Combaterea Spălării Banilor al Centrului Naţional Anticorupţie.
+[Art.400 al.(1) modificat prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 [Art.401 al.(1) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 [Art.401 al.(1) modificat prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 (2) Sînt în drept să examineze cauze contravenţionale şi să aplice sancţiuni directorul, directorii adjuncţi ai Centrului Naţional Anticorupţie, şefii subdiviziunilor teritoriale ale acestuia şi adjuncţii lor, precum şi şeful şi şeful adjunct al Serviciului Prevenirea şi Combaterea Spălării Banilor al Centrului Naţional Anticorupţie, iar în cazul contravenţiilor prevăzute la art. 2912–2919 – doar şeful şi şeful adjunct al Serviciului Prevenirea şi Combaterea Spălării Banilor.
@@ -4307,7 +4338,8 @@ Articolul 402. Organele de inspectare financiară/
 control financiar şi organele fiscale
 ale Ministerului Finanţelor
 [Art.402 titlul în redacţia LP241 din 02.11.12, MO242-244/23.11.12 art.777]
-(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art. 273 pct. 5) și 51), art. 275 alin. (2), art. 277 alin. (2), (3), (6), (8) și (9), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, art.299 alin.(1), art.301 , 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+(1) Contravenţiile prevăzute la art.263 alin.(1), (3)–(8), art. 273 pct. 5) și 51), art. 275 alin. (2), art. 277 alin. (2), (3), (6), (8) și (9), art.2771 alin.(1), (2) şi (4), art.288, 289, 290, 291, 2931, 2932 alin. (1), (2) şi (3), art. 2951, 296, 297, 2971, 298, 299, art.301, 3011, 311, 330 se examinează de organele de control financiar şi fiscal ale Ministerului Finanţelor. Contravenţiile prevăzute la art.293, 295, 3271, 349 alin.(1) se examinează de organele de specialitate care le-au depistat ale ministerului. Contravenţiile prevăzute la art. 266 alin. (1), (3) şi (4) se examinează de către organele Serviciului Fiscal de Stat.
+[Art.402 al.(1) modificat prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 [Art.402 al.(1) modificat prin LP153 din 01.07.16, MO215-216/19.07.16 art.475; în vigoare 19.07.16]
 [Art.402 al.(1) modificat prin LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
 [Art.402 al.(1) modificat prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
@@ -4473,6 +4505,12 @@ a) persoanele cu funcţie de răspundere din centrele militare sau din Marele St
 b) persoanele cu funcţie de răspundere din poliţia militară rutieră sau din Marele Stat Major al Armatei Naţionale, pentru contravenţiile prevăzute la art.242, 244.
 (3) Materialele cu privire la încălcările săvîrşite de conducătorii de vehicule ale Forţelor Armate (militari prin contract, militari în termen, militari cu termen redus, studenţi ai instituţiilor de învăţămînt militar, rezervişti concentraţi sau mobilizaţi), dacă pentru asemenea încălcare este prevăzută numai sancţiunea amenzii, se remit de către poliţia militară rutieră, în modul stabilit de Ministerul Apărării, comandanţilor (şefilor) respectivi pentru a soluţiona tragerea la răspundere conform Regulamentului disciplinei militare.
 (4) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
+Articolul 4151. Cancelaria de Stat şi oficiile
+sale teritoriale
+(1) Contravenţiile prevăzute la art. 3261 se constată de Cancelaria de Stat prin intermediul oficiilor sale teritoriale.
+(2) Sînt în drept să constate contravenţii şi să încheie procese-verbale şefii oficiilor teritoriale ale Cancelariei de Stat.
+(3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
+[Art.4151 introdus prin LP161 din 07.07.16, MO369-378/28.10.16 art.745; în vigoare 28.10.18]
 Articolul 416. Inspecţia de Stat în Construcţii
 (1) Contravenţiile prevăzute la art.177–179 se constată de Inspecţia de Stat în Construcţii.
 (2) Sînt în drept să constate contravenţii şi să încheie procese-verbale şeful Inspecţiei de Stat în Construcţii şi adjuncţii lui, şefii direcţiilor din cadrul inspecţiei, şefii inspecţiilor teritoriale în construcţii şi adjuncţii lor, inspectorii principali de stat în construcţii, specialiştii principali ai Inspecţiei de Stat în Construcţii.
@@ -4615,14 +4653,18 @@ c) prin încălcarea esenţială a drepturilor şi libertăţilor constituţiona
 (7) Procesului contravenţional se aplică în mod corespunzător prevederile Codului de procedură penală cu privire la mijloacele de probă şi la procedeele probatorii, cu excepţiile prevăzute de prezentul cod.
 Articolul 426. Cercetarea la faţa locului
 (1) În scopul descoperirii urmelor contravenţiei, corpurilor delicte şi pentru a stabili circumstanţele contravenţiei ori alte circumstanţe care au importanţă pentru justa soluţionare a cauzei, agentul constatator efectuează cercetarea la faţa locului (a terenului, încăperilor, obiectelor, documentelor, animalelor, cadavrelor umane sau de animale).
+(11) În cadrul cercetării la fața locului la sediile, locurile de desfășurare a activității sau de păstrare a bunurilor în privința persoanelor care desfășoară activitate de întreprinzător, agentul constatator nu este în drept să extindă aria de cercetare la obiecte care nu au legătură cu circumstanțele contravenției.
+[Art.426 al.(11) introdus prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 (2) Cercetarea domiciliului fără permisul persoanei căreia i se lezează dreptul la inviolabilitatea domiciliului se efectuează cu autorizaţia instanţei de judecată.
 (3) În caz de contravenţie flagrantă, cercetarea la domiciliu se poate efectua în baza unei ordonanţe motivate a agentului constatator fără autorizaţia instanţei de judecată, urmînd ca acesteia să i se prezinte imediat sau nu mai tîrziu de 24 de ore de la terminarea cercetării la domiciliu, materialele obţinute în urma cercetării, indicîndu-se motivele efectuării ei. Instanţa de judecată verifică legalitatea acestei acţiuni procesuale.
 (4) Agentul constatator cercetează obiectele vizibile, permite, după caz, accesul la ele în măsura în care nu se încalcă drepturile omului. Persoana care efectuează acţiunea procesuală face, după caz, măsurări, fotografieri, filmări, desene, schiţe, mulaje şi tipare de pe urme de sine stătător sau cu ajutorul specialistului în materie. Locul cercetării poate fi delimitat de angajaţii subdiviziunilor specializate de menţinere a ordinii şi securităţii publice din cadrul Inspectoratului General al Poliţiei.
 [Art.426 al.(4) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
-(5) Obiectele şi documentele descoperite la faţa locului se examinează în acel loc, iar rezultatele examinării se consemnează în procesul-verbal al acestei acţiuni. În cazul în care se cere un timp mai îndelungat pentru a fi examinate, precum şi în alte cazuri, obiectele, documentele se examinează la sediul autorităţii competentă să soluţioneze cauza contravenţională, în care scop se împachetează, pachetul se sigilează şi se semnează, faptul fiind menţionat în procesul-verbal.
+(5) Obiectele şi documentele descoperite la faţa locului se examinează în acel loc, iar rezultatele examinării se consemnează în procesul-verbal al acestei acţiuni. În cazul în care în cadrul examinării la fața locului este imposibilă efectuarea copiilor, a înregistrărilor foto sau video ori prelevarea mostrelor de pe obiectele purtătoare de informații sau este împiedicată efectuarea acestor acțiuni, obiectele și documentele care constituie corpuri delicte se ridică, în care scop se împachetează, pachetul se sigilează şi se semnează, faptul fiind menţionat în procesul-verbal de ridicare de la fața locului. Desigilarea pachetului se efectuează în prezența contravenientului sau a reprezentantului acestuia.
+[Art.426 al.(5) în redacția LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 Articolul 427. Temeiurile pentru ridicarea obiectelor
 şi documentelor
-(1) Dacă este necesar să se ridice anumite obiecte sau documente care ar avea importanţă pentru cauză şi dacă se cunoaşte exact locul şi persoana la care se află, angajatul cu statut special al Ministerului Afacerilor Interne efectuează, în temeiul unei ordonanţe întemeiate, ridicarea lor.
+(1) Dacă este necesar să se ridice anumite obiecte sau documente care constituie corpuri delicte şi dacă se cunoaşte exact locul şi persoana la care se află, angajatul cu statut special al Ministerului Afacerilor Interne efectuează, în temeiul unei ordonanţe întemeiate, ridicarea lor, dacă acestea nu au fost ridicate în condițiile art. 426 alin. (5).
+[Art.427 al.(1) modificat prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 (2) Ridicarea documentelor conţinînd informaţii care constituie secret de stat, comercial, bancar, ridicarea informaţiei privind convorbirile telefonice se efectuează cu autorizaţia instanţei de judecată.
 (3) Este interzisă ridicarea obiectelor şi documentelor în timpul nopţii, cu excepţia cazurilor de contravenţie flagrantă.
 Articolul 428. Temeiurile pentru efectuarea percheziţiei
@@ -4647,9 +4689,11 @@ Articolul 430. Procesele-verbale cu privire la percheziţie,
 la ridicarea obiectelor şi documentelor, la
 cercetarea la faţa locului
 (1) Agentul constatator care efectuează percheziţia, ridicarea obiectelor şi documentelor sau cercetarea la faţa locului încheie un proces-verbal la care anexează, după caz, lista obiectelor şi documentelor ridicate. În procesul-verbal cu privire la percheziţie sau la ridicarea obiectelor şi documentelor se consemnează că celor prezenţi li s-au explicat drepturile şi obligaţiile prevăzute de prezentul cod şi se înscriu declaraţiile făcute de aceste persoane.
-(2) În procesul-verbal cu privire la percheziţie sau la ridicarea obiectelor şi documentelor se menţionează predarea lor benevolă sau ridicarea lor forţată, se indică locul şi împrejurările în care au fost descoperite. În procesul-verbal sau în lista anexată la el se enumeră obiectele şi documentele ridicate, numărul, măsura, cantitatea, elementele caracteristice şi, pe cît este posibil, valoarea lor.
+(2) În procesul-verbal cu privire la percheziţie sau la ridicarea obiectelor şi documentelor se menţionează predarea lor benevolă sau ridicarea lor forţată, se indică locul şi împrejurările în care au fost descoperite. În procesul-verbal sau în lista anexată la el se enumeră obiectele şi documentele ridicate, numărul, măsura, cantitatea, elementele caracteristice şi, pe cît este posibil, valoarea lor, termenul pentru care au fost ridicate și organul la care acestea se vor păstra.
+[Art.430 al.(2) modificat prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 (3) Dacă, în timpul percheziţiei, ridicării obiectelor şi documentelor sau în timpul cercetării la faţa locului, persoanele la care se efectuează percheziţia sau ridicarea ori alte persoane au încălcat ordinea sau au încercat să distrugă ori să tăinuiască obiectele şi documentele căutate, agentul constatator consemnează faptul în procesul-verbal, indicînd şi măsurile pe care le-a întreprins.
-(4) Procesul-verbal cu privire la percheziţie, la ridicarea obiectelor şi documentelor sau la cercetarea la faţa locului se aduce la cunoştinţa tuturor persoanelor care au participat la efectuarea acestor acţiuni procesuale ori au asistat la efectuarea lor şi se semnează de fiecare. Copia de pe procesul-verbal se înmînează persoanelor cărora le-au fost aplicate aceste acţiuni procesuale sau reprezentanţilor lor.
+(4) Procesul-verbal cu privire la percheziţie, la ridicarea obiectelor şi documentelor sau la cercetarea la faţa locului se aduce la cunoştinţa tuturor persoanelor care au participat la efectuarea acestor acţiuni procesuale ori au asistat la efectuarea lor şi se semnează de fiecare, cu dreptul de a formula în scris observații în cuprinsul procesului-verbal respectiv. Copia de pe procesul-verbal se înmînează persoanelor cărora le-au fost aplicate aceste acţiuni procesuale sau reprezentanţilor lor.
+[Art.430 al.(4) modificat prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 (5) Refuzul proprietarului sau posesorului obiectului sau documentului de a semna procesul-verbal, precum şi absenţa acestora se consemnează de martorii asistenţi.
 (6) Obiectele şi documentele ridicate vor fi, pe cît este posibil, împachetate şi sigilate chiar la locul percheziţiei sau ridicării, fapt ce se consemnează în procesul-verbal. Pachetele sigilate se semnează de către persoana care a efectuat percheziţia sau ridicarea.
 Articolul 431. Corpurile delicte
@@ -4767,25 +4811,33 @@ CONSTATAREA FAPTEI CONTRAVENŢIONALE
 Articolul 440. Procesul de constatare a faptei contravenţionale
 şi atribuţiile agentului constatator
 (1) Constatarea faptei contravenţionale înseamnă activitatea, desfăşurată de agentul constatator, de colectare şi de administrare a probelor privind existenţa contravenţiei, de încheiere a procesului-verbal cu privire la contravenţie, de aplicare a sancţiunii contravenţionale sau de trimitere, după caz, a dosarului în instanţa de judecată sau în alt organ spre soluţionare.
-(2) Agentul constatator este sesizat prin plîngere sau denunţ ori sesizat din oficiu cînd se află că a fost săvîrşită o faptă ilicită sau cînd o astfel de faptă a fost depistată în urma controlului conform atribuţiilor de serviciu şi în cazurile prevăzute de lege.
+(2) Agentul constatator este sesizat prin plîngere sau denunț ori se sesizează din oficiu cînd dispune de informații suficiente pentru a considera cu un grad înalt de probabilitate că este comisă o contravenție fie prin constatarea faptei contravenționale.
+[Art.440 al.(2) în redacția LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 (3) Imediat sau în cel mult 3 zile de la data sesizării, agentul constatator este obligat să verifice sesizarea şi să întreprindă măsurile prevăzute de prezentul capitol.
 (4) Procesul contravenţional se porneşte numai în baza plîngerii prealabile a victimei în cazul contravenţiilor prevăzute la art.69, 104–108.
 [Art.440 al.(4) modificat prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
 (41) Prin derogare de la prevederile alin. (1)–(3), în cazul în care faptele contravenţionale specificate la art. 96 alin. (1) lit. a) şi alin. (3) şi la art. 97–103, cu excepţia contravenţiei prevăzute la art. 971 alin. (2), au fost stabilite de către agentul constatator, acesta notifică titularul de drepturi sau autoritatea abilitată conform Legii privind protecţia indicaţiilor geografice, denumirilor de origine şi specialităţilor tradiţionale garantate despre cele constatate. Dacă titularul de drepturi sau autoritatea abilitată conform Legii privind protecţia indicaţiilor geografice, denumirilor de origine şi specialităţilor tradiţionale garantate, în termen de 15 zile lucrătoare de la data primirii notificării, nu depune plîngerea prealabilă, agentul constatator nu începe procesul contravenţional în conformitate cu prevederile prezentului cod.
 [Art.440 al.(41) introdus prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
+(42) Constatarea faptei contravenționale și începerea procesului contravențional în cadrul controlului de stat asupra activității de întreprinzător sau în urma acestuia de către agentul constatator care are atribuții de organ de control conform Legii nr. 131 din 8 iunie 2012 privind controlul de stat asupra activității de întreprinzător se efectuează în limitele stabilite la art. 51 din legea menționată.
+[Art.440 al.(42) introdus prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 (5) Dacă la depistarea sau la examinarea cazului contravenţional se stabileşte competenţa unui alt agent constatator, materialele se remit în aceeaşi zi conform competenţei.
 (6) La solicitarea unor alţi agenţi constatatori, angajatul cu statut special al Ministerului Afacerilor Interne este obligat să le acorde ajutor la constatarea contravenţiei.
 Articolul 441. Circumstanţele care înlătură procesul
 contravenţional
-(1) Procesul contravenţional pornit încetează dacă:
+(1) Procesul contravenţional nu poate fi pornit, iar dacă a fost pornit, nu poate fi efectuat şi va fi încetat în cazurile în care:
+[Art.441 al.(1) modificat prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 a) nu există faptul contravenţiei;
 b) se constată vreunul din temeiurile prevăzute la art.3 alin.(3), art.4 alin.(3), art.20–31;
 c) persoana presupusă a fi făptuitor a decedat, cu excepţia cazului de reabilitare a acesteia;
 d) pentru acelaşi fapt şi privitor la aceeaşi persoană există o decizie/hotărîre definitivă;
-e) pentru acelaşi fapt este pornită urmărire penală.
+e) pentru acelaşi fapt este pornită urmărire penală;
+g) fapta a fost constatată în cadrul controlului de stat asupra activității de întreprinzător și nu reprezintă încălcare gravă sau foarte gravă în sensul Legii nr. 131 din 8 iunie 2012 privind controlul de stat asupra activității de întreprinzător.
+[Art.441 al.(1), lit.g) introdusă prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 (2) Încetarea procesului contravenţional determină repunerea în drepturi a persoanei în a cărei privinţă a fost pornit.
 Articolul 442. Procesul-verbal cu privire la contravenţie
 (1) Procesul-verbal cu privire la contravenţie este un act prin care se individualizează fapta ilicită şi se identifică făptuitorul. Procesul-verbal se încheie de agentul constatator pe baza constatărilor personale şi a probelor acumulate, în prezenţa făptuitorului sau în absenţa lui.
+(11) Procesul-verbal de control, întocmit conform prevederilor Legii nr. 131 din 8 iunie 2012 privind controlul de stat asupra activității de întreprinzător, substituie procesul-verbal cu privire la contravenție și are regim juridic și forță juridică similare dacă în el se constată fapta contravențională cu respectarea cerințelor stabilite de prezentul cod.
+[Art.442 al.(11) introdus prin LP230 din 23.09.16, MO369-378/28.10.16 art.755]
 (2) În cel mult 24 de ore de la data încheierii, procesul-verbal cu privire la contravenţie se înscrie într-un registru de evidenţă în ordinea întocmirii şi depunerii lui la autoritatea din care face parte agentul constatator.
 (3) Conținutul Registrului de evidenţă a proceselor-verbale cu privire la contravenţii și modul de ținere a acestuia se aprobă de către Guvern și sînt obligatorii pentru toate autoritățile din care fac parte agenții constatatori.
 [Art.442 al.(3) introdus prin LP122 din 02.06.16, MO247-255/05.08.16 art.523; în vigoare 05.08.16]
