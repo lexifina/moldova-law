@@ -105,7 +105,7 @@ Principiile de bază ale reglementării raporturilor de muncă şi a altor rapor
 a) libertatea muncii, incluzînd dreptul la munca liber aleasă sau acceptată, dreptul dispunerii de capacităţile sale de muncă, dreptul alegerii profesiei şi ocupaţiei;
 b) interzicerea muncii forţate (obligatorii) şi a discriminării în domeniul raporturilor de muncă;
 c) protecţia împotriva şomajului şi acordarea de asistenţă la plasarea în cîmpul muncii;
-d) asigurarea dreptului fiecărui salariat la condiţii echitabile de muncă, inclusiv la condiţii de muncă care corespund cerinţelor protecţiei şi igienei muncii, şi a dreptului la odihnă, inclusiv la reglementarea timpului de muncă, la acordarea concediului anual de odihnă, a pauzelor de odihnă zilnice, a zilelor de repaus şi de sărbătoare nelucrătoare;
+d) asigurarea dreptului fiecărui salariat la condiţii echitabile de muncă, inclusiv la condiţii de muncă care corespund cerinţelor securității şi sănătății în muncă, şi a dreptului la odihnă, inclusiv la reglementarea timpului de muncă, la acordarea concediului anual de odihnă, a pauzelor de odihnă zilnice, a zilelor de repaus şi de sărbătoare nelucrătoare;
 e) egalitatea în drepturi şi în posibilităţi a salariaţilor;
 f) garantarea dreptului fiecărui salariat la achitarea la timp integrală şi echitabilă a salariului care ar asigura o existenţă decentă salariatului şi familiei lui;
 g) asigurarea egalităţii salariaţilor, fără nici o discriminare, la avansare în serviciu, luîndu-se în considerare productivitatea muncii, calificarea şi vechimea în muncă în specialitate, precum şi la formare profesională, reciclare şi perfecţionare;
@@ -160,7 +160,7 @@ b) la muncă, conform clauzelor contractului individual de muncă;
 c) la un loc de muncă, în condiţiile prevăzute de standardele de stat privind organizarea, securitatea şi sănătatea în muncă, de contractul colectiv de muncă şi de convenţiile colective;
 d) la achitarea la timp şi integrală a salariului, în corespundere cu calificarea sa, cu complexitatea, cantitatea şi calitatea lucrului efectuat;
 e) la odihnă, asigurată prin stabilirea duratei normale a timpului de muncă, prin reducerea timpului de muncă pentru unele profesii şi categorii de salariaţi, prin acordarea zilelor de repaus şi de sărbătoare nelucrătoare, a concediilor anuale plătite;
-f) la informare deplină şi veridică despre condiţiile de muncă şi cerinţele faţă de protecţia şi igiena muncii la locul de muncă;
+f) la informare deplină şi veridică despre condiţiile de muncă şi cerinţele faţă de securitatea şi sănătatea în muncă la locul de muncă;
 g) la adresare către angajator, patronate, sindicate, organele administraţiei publice centrale şi locale, organele de jurisdicţie a muncii;
 h) la formare profesională, reciclare şi perfecţionare, în conformitate cu prezentul cod şi cu alte acte normative;
 i) la libera asociere în sindicate, inclusiv la constituirea de organizaţii sindicale şi aderarea la acestea pentru apărarea drepturilor sale de muncă, a libertăţilor şi intereselor sale legitime;
@@ -181,7 +181,7 @@ d1) să manifeste un comportament nediscriminatoriu în raport cu ceilalţi sala
 [Art.9 al.(1), lit.d1) introdusă prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 d2) să respecte dreptul la demnitate în muncă al celorlalţi salariaţi;
 [Art.9 al.(1), lit.d2) introdusă prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-e) să respecte cerinţele de protecţie şi igienă a muncii;
+e) să respecte cerinţele de securitate şi sănătate în muncă;
 f) să manifeste o atitudine gospodărească faţă de bunurile angajatorului şi ale altor salariaţi;
 g) să informeze de îndată angajatorul sau conducătorul nemijlocit despre orice situaţie care prezintă pericol pentru viaţa şi sănătatea oamenilor sau pentru integritatea patrimoniului angajatorului.
 h) să achite contribuţiile de asigurări sociale de stat obligatorii şi primele de asigurare obligatorie de asistenţă medicală în modul stabilit;
@@ -205,7 +205,7 @@ c) să aprobe, în prima lună de la începutul activităţii unităţii, iar î
 [Art.10 al.(2), lit.c) în redacția LP254 din 09.12.11, MO25-28/03.02.12 art.79]
 d) să acorde salariaţilor munca prevăzută de contractul individual de muncă şi un permis nominal de acces la locul de muncă;
 [Art.10 al.(2), lit.d) în redacția LP254 din 09.12.11, MO25-28/03.02.12 art.79]
-e) să asigure salariaţilor condiţiile de muncă corespunzătoare cerinţelor de protecţie şi igienă a muncii;
+e) să asigure salariaţilor condiţiile de muncă corespunzătoare cerinţelor de securitate şi sănătate în muncă;
 f) să asigure salariaţii cu utilaj, instrumente, documentaţie tehnică şi alte mijloace necesare pentru îndeplinirea obligaţiilor lor de muncă;
 f1) să asigure egalitatea de şanse şi de tratament tuturor persoanelor la angajare potrivit profesiei, la orientare şi formare profesională, la promovare în serviciu, fără nici un fel de discriminare;
 [Art.10 al.(2), lit.f1) introdusă prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
@@ -1105,7 +1105,7 @@ c) pentru efectuarea lucrărilor impuse de apariţia unor circumstanţe care ar 
 d) pentru continuarea muncii în caz de neprezentare a lucrătorului de schimb, dacă munca nu admite întrerupere. În aceste cazuri, angajatorul este obligat să ia măsuri urgente de înlocuire a salariatului respectiv.
 (4) Atragerea la muncă suplimentară în alte cazuri decît cele prevăzute la alin.(2) şi (3) se admite cu acordul scris al salariatului şi al reprezentanţilor salariaţilor.
 (5) La solicitarea angajatorului, salariaţii pot presta munca în afara orelor de program în limita a 120 de ore într-un an calendaristic. În cazuri excepţionale, această limită, cu acordul reprezentanţilor salariaţilor, poate fi extinsă pînă la 240 de ore.
-(6) În cazul în care solicită prestarea muncii suplimentare, angajatorul este obligat să asigure salariaţilor condiţii normale de muncă, inclusiv cele privind protecţia şi igiena muncii.
+(6) În cazul în care solicită prestarea muncii suplimentare, angajatorul este obligat să asigure salariaţilor condiţii normale de muncă, inclusiv cele privind securitatea şi sănătatea în muncă.
 (7) Atragerea la muncă suplimentară se efectuează în baza ordinului (dispoziţiei, deciziei, hotărîrii) motivat al angajatorului, care se aduce la cunoştinţa salariaţilor respectivi sub semnătură.
 [Art.104 al.(7) modificat prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 105. Limitarea muncii suplimentare
@@ -1808,7 +1808,7 @@ Articolul 198. Dispoziţii generale
 (3) Prin regulamentul intern al unităţii nu se pot stabili limitări ale drepturilor individuale sau colective ale salariaţilor.
 Articolul 199. Conţinutul regulamentului intern al unităţii
 (1) Regulamentul intern al unităţii trebuie să conţină următoarele prevederi:
-a) protecţia şi igiena muncii în cadrul unităţii;
+a) securitatea şi sănătatea în muncă în cadrul unităţii;
 b) respectarea principiului nediscriminării, eliminarea hărţuirii sexuale şi a oricărei forme de lezare a demnităţii în muncă;
 [Art.199 al.(1), lit.b) în redacția LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 c) drepturile, obligaţiile şi răspunderea angajatorului şi ale salariaţilor;
@@ -2245,7 +2245,7 @@ Articolul 290. Salariaţii cu munca la domiciliu
 (4) Salariaţii cu munca la domiciliu cad sub incidenţa legislaţiei muncii, cu particularităţile stabilite de prezentul cod.
 Articolul 291. Condiţiile în care se admite munca la
 domiciliu
-Lucrările puse în sarcina salariaţilor cu munca la domiciliu nu le pot fi contraindicate conform certificatului medical şi trebuie să se execute în condiţii de respectare a normelor de protecţie şi igienă a muncii.
+Lucrările puse în sarcina salariaţilor cu munca la domiciliu nu le pot fi contraindicate conform certificatului medical şi trebuie să se execute în condiţii de respectare a normelor de securitate şi sănătate în muncă.
 Articolul 292. Încetarea contractului individual de
 muncă încheiat cu salariaţii cu munca
 la domiciliu
