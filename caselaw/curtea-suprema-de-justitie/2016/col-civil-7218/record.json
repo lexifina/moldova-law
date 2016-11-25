@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Colegiul civil, comercial și de contencios administrativ), nr. 2ds-67/16, din 25.11.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "col_civil",
+  "database_label": "Colegiul civil, comercial și de contencios administrativ",
+  "source_id": 7218,
+  "number": "2ds-67/16",
+  "decision_date": "2016-11-25",
+  "decision_date_source_quote": "25 noiembrie 2016",
+  "record_date": "2016-11-25",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_col_civil.php?id=7218",
+  "listing": "http://jurisprudenta.csj.md/db_col_civil.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_col_civil.php?id=7218",
+  "source_sha256": "10ac62e86e58c78040066493584b2101a4a7476a66ec2c2010bc2dd0ef8a10dd",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "text contains an unmasked personal identifier, birth date or address",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1200,
+    "pdftotext_words": 1199,
+    "common_ratio": [
+      0.9983,
+      0.9992
+    ]
+  },
+  "first_law": null
+}
