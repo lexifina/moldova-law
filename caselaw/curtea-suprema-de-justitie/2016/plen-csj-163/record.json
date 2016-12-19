@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 15, din 19.12.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 163,
+  "number": "15",
+  "decision_date": "2016-12-19",
+  "decision_date_source_quote": "19 decembrie 2016",
+  "record_date": "2016-12-19",
+  "in_force": "2016-12-19",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=163",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=163",
+  "source_sha256": "09fdba81bc5dd4d1a4fac40ff138d1df952a2b09474b4f9023ba155138961574",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 493,
+    "pdftotext_words": 493,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
