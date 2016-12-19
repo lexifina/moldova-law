@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 5, din 19.12.2016",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 211,
+  "number": "5",
+  "decision_date": "2016-12-19",
+  "decision_date_source_quote": "19 decembrie 2016",
+  "record_date": "2016-12-19",
+  "in_force": "2016-12-19",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=211",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=211",
+  "source_sha256": "4209a9eef482657d334236986d3efc663ff79abe0731db0d3f172b1d25dee4b6",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 527,
+    "pdftotext_words": 527,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
