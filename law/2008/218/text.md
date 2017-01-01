@@ -15,6 +15,7 @@ Nr. 3-6
 art Nr : 15
 Data intrarii in vigoare : 31.05.2009
 MODIFICAT
+LP280 din 16.12.16, MO472-477/27.12.16 art.945; în vigoare 01.01.17
 LP230 din 23.09.16, MO369-378/28.10.16 art.755
 LP161 din 07.07.16, MO369-378/28.10.16 art.745; în vigoare 28.10.18
 LP211 din 29.07.16, MO338-341/30.09.16 art.698
@@ -838,8 +839,9 @@ se sancționează cu amendă de la 10 la 20 de unități convenționale aplicat�
 [Art.801 în redacția LP195 din 28.07.16, MO277-287/26.08.16 art.598]
 [Art.801 introdus prin LP93 din 26.04.12, MO149-154/20.07.12 art.482; în vigoare 20.09.12]
 Articolul 81. Angajarea în întreprinderile din sectorul
-alimentar sau în întreprinderile care desfăşoară activităţi de întreţinere corporală a personalului fără examen
-medical şi/sau fără instruire igienică,
+alimentar sau în întreprinderile care desfăşoară
+activităţi de întreţinere corporală a personalului
+fără examen medical şi/sau fără instruire igienică,
 şi/sau fără calificarea necesară în materie
 de igienă
 [Art.81 denumirea modificată prin LP153 din 01.07.16, MO215-216/19.07.16 art.475]
@@ -2770,6 +2772,8 @@ se sancţionează cu amendă de 130 de unităţi convenţionale aplicată persoa
 (4) Săvîrşirea repetată, în cursul aceluiaşi an calendaristic, a contravenţiei prevăzute la alin. (2) de către o persoană sancţionată deja pentru această contravenţie
 se sancţionează cu amendă de 150 de unităţi convenţionale aplicată persoanei fizice, cu amendă de 300 de unităţi convenţionale aplicată persoanei juridice.
 [Art.2873 introdus prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
+(5) Aplicarea şi executarea sancţiunii contravenţionale nu absolvă contravenientul de executarea obligaţiei pentru a cărei neîndeplinire a fost aplicată. În acest caz, contravenientul achită vinieta conform anexei nr. 21 la titlul IX din Codul fiscal, inclusiv în mărimea stabilită pentru fiecare perioadă consecutivă de 180 de zile, precum și pentru perioadele incomplete ce urmează după primele 180 de zile.
+[Art.2873 al.(5) introdus prin LP280 din 16.12.16, MO472-477/27.12.16 art.945; în vigoare 01.01.17]
 Articolul 288. Încălcarea legislaţiei cu privire la
 insolvabilitate
 Încălcarea legislaţiei cu privire la insolvabilitate, manifestată prin: nedepunerea de către debitor a cererii introductive dacă există unul din temeiurile de intentare a procesului de insolvabilitate; depunerea de către debitor a cererii de intentare a procesului de insolvabilitate fictivă; tăinuirea de administratorul provizoriu a documentelor activităţii economice şi a documentelor de evidenţă contabilă; publicarea ori divulgarea în alt mod a informaţiilor privind insolvabilitatea debitorului pînă la data intentării procesului de insolvabilitate; depunerea de către o persoană, în mod intenţionat, fără existenţa unui temei de insolvabilitate, a cererii de intentare a procesului de insolvabilitate contra debitorului pentru a aduce prejudicii reputaţiei comerciale a acestuia
@@ -3567,9 +3571,8 @@ se sancţionează cu amendă în mărime de 50 de unităţi convenţionale.
 se sancţionează cu amendă de la 10 la 20 de unităţi convenţionale. Sancţiunea respectivă nu se aplică faţă de posesorii documentelor de călătorie eliberate de autorităţile străine domiciliaţi în localităţile din stînga Nistrului (Transnistria).
 [Art.333 în redacţia LP232 din 11.10.13, MO252-257/08.11.13 art.705]
 [Art.333 în redacţia LP209 din 21.10.11, MO222-226/16.12.11 art.621; în vigoare 01.07.12]
-Articolul 334. Încălcarea regulilor de plasare în
-cîmpul muncii a cetăţenilor străini
-sau a apatrizilor
+Articolul 334. Încălcarea regulilor de plasare în cîmpul muncii
+a cetăţenilor străini sau a apatrizilor
 (1) Plasarea în cîmpul muncii a cetăţenilor străini sau a apatrizilor, aflaţi provizoriu în Republica Moldova, fără permis de şedere în scop de muncă eliberat în modul stabilit de legislaţie
 se sancţionează cu amendă de la 50 la 100 de unităţi convenţionale aplicată persoanei fizice, cu amendă de la 200 la 250 de unităţi convenţionale aplicată persoanei juridice pentru fiecare angajat ilegal.
 (2) Desfăşurarea activităţii de muncă de către cetăţeni străini sau apatrizi, aflaţi provizoriu în Republica Moldova, fără permis de şedere în scop de muncă eliberat în modul stabilit de legislaţie
@@ -4560,7 +4563,8 @@ Medicale
 (2) Sînt în drept să constate contravenţii şi să încheie procese-verbale şeful Inspectoratului de Stat Farmaceutic, adjuncţii lui şi farmaciştii inspectori.
 (3) Procesele-verbale cu privire la contravenţii se remit spre examinare în fond instanţei de judecată competente.
 Articolul 423. Poliţia de Frontieră
-(1) Contravenţiile prevăzute la art. 331, 332, 333 alin. (1), (2) şi (4) se examinează de către Poliţia de Frontieră.
+(1) Contravenţiile prevăzute la art. 2873, 331, 332, 333 alin. (1), (2) şi (4) se examinează de către Poliţia de Frontieră.
+[Art.423 al.(1) modificat prin LP280 din 16.12.16, MO472-477/27.12.16 art.945; în vigoare 01.01.17]
 [Art.423 al.(1) modificat prin LP232 din 11.10.13, MO252-257/08.11.13 art.705]
 (2) Sînt în drept să examineze cauzele contravenţionale prevăzute la alin. (1) şi să aplice sancţiuni şefii de sectoare ale Poliţiei de Frontieră şi adjuncţii lor, şefii punctelor de trecere a frontierei de stat şi adjuncţii lor, şefii secţiilor control de frontieră şi adjuncţii lor.
 (3) Contravenţiile prevăzute la art. 3321 se constată de către Poliţia de Frontieră.
@@ -4771,7 +4775,11 @@ Articolul 438. Înlăturarea de la conducerea vehiculului
 a) există temeiuri suficiente de a presupune că se află în stare de ebrietate inadmisibilă produsă de alcool sau în stare de ebrietate produsă de alte substanţe;
 b) nu are asupra sa documentul care confirmă dreptul de a conduce sau de a folosi vehiculul.
 c) a expirat termenul de 90 de zile de admitere temporară a mijlocului de transport auto pe teritoriul Republicii Moldova.
+c) a expirat termenul de 180 de zile de admitere temporară a mijlocului de transport auto pe teritoriul Republicii Moldova, cu excepţia cazului în care mijlocul de transport auto este introdus pe teritoriul vamal de către persoana fizică cu domiciliul în orice stat străin şi care deţine permis de conducere emis în ţara în care are domiciliu;
+[Art.438 al.(1), lit.c) în redacția LP280 din 16.12.16, MO472-477/27.12.16 art.945; în vigoare 01.04.17]
 [Art.438 al.(1), lit.c) introdusă prin LP206 din 16.07.10, MO141-144/10.08.10 art.517]
+d) nu are domiciliu în una dintre unităţile administrativ-teritoriale din stînga Nistrului sau municipiul Bender, deţine permis de conducere al Republicii Moldova, emis în modul stabilit de legislaţia naţională, şi conduce un mijloc de transport auto cu plăcuţa cu număr de înmatriculare din una dintre unităţile administrativ-teritoriale din stînga Nistrului sau municipiul Bender, cu excepția prevăzută la art. 53 alin. (22) din Legea privind siguranța traficului rutier.
+[Art.438 al.(1), lit.d) introdusă prin LP280 din 16.12.16, MO472-477/27.12.16 art.945; în vigoare 01.04.17]
 (2) Persoana indicată la alin.(1) în situaţia de la lit.a) este obligată să accepte, la cererea agentului constatator, testarea alcoolscopică, examenul medical, prelevarea de sînge şi de eliminări ale corpului pentru analiză.
 (3) Testarea alcoolscopică, examenul medical, prelevarea de sînge şi de eliminări ale corpului pentru analiză se efectuează de un specialist abilitat cu asemenea atribuţii. Pentru prezentarea cu bună ştiinţă a unei concluzii false, specialistul răspunde în conformitate cu art.312 din Codul penal.
 (4) Modul de efectuare a testării alcoolscopice, a examenului medical, precum şi de constatare a gradului de ebrietate produsă de alcool sau de alte substanţe, se stabileşte de Guvern.
@@ -4782,6 +4790,8 @@ Articolul 439. Reţinerea şi aducerea vehiculului la parcare
 [Art.439 al.(2) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 a) staţionarea lui poate genera un pericol iminent pentru interesul public;
 b) a fost lăsat într-un loc interzis pentru parcare.
+(21) În cazul expirării termenului de aflare pe teritoriul vamal a mijlocului de transport auto declarat prin acţiune, acesta este adus către cel mai apropiat birou vamal.
+[Art.439 al.(21) introdusă prin LP280 din 16.12.16, MO472-477/27.12.16 art.945; în vigoare 01.01.17]
 (3) Faptul aducerii vehiculului la staţia de parcare specială sau pe teritoriul subdiviziunii de poliţie se consemnează într-un proces-verbal, în care se indică:
 [Art.439 al.(3) modificat prin LP175 din 12.07.13, MO167-172/02.08.13 art.538]
 a) tipul, modelul vehiculului, numărul de înmatriculare, numerele de identificare ale agregatelor marcate, defectele şi deteriorările lui vizibile;
