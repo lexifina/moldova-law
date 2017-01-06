@@ -15,6 +15,9 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP292 din 16.12.16, MO2-8/06.01.17 art.5
+LP281 din 16.12.16, MO472-477/27.12.16 art.947; în vigoare 01.01.17
+LP280 din 16.12.16, MO472-477/27.12.16 art.945; în vigoare 01.01.17
 LP230 din 23.09.16, MO369-378/28.10.16 art.755
 LP160 din 07.07.16, MO306-313/16.09.16 art.647
 LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
