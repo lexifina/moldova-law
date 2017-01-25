@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-28/17, din 25.01.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 105,
+  "number": "2ra-28/17",
+  "decision_date": "2017-01-25",
+  "decision_date_source_quote": "25 ianuarie 2017",
+  "record_date": "2017-01-25",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=105",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=105",
+  "source_sha256": "f12b86a7f5b6039054ac1f4bab8f18478076f91b660eb7a9f27f75ed078cc13c",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2075,
+    "pdftotext_words": 2061,
+    "common_ratio": [
+      0.9923,
+      0.999
+    ]
+  },
+  "first_law": null
+}
