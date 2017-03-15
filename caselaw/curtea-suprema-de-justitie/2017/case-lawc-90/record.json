@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2rh-69/17, din 15.03.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 90,
+  "number": "2rh-69/17",
+  "decision_date": "2017-03-15",
+  "decision_date_source_quote": "15 martie 2017",
+  "record_date": "2017-03-15",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=90",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=90",
+  "source_sha256": "0d1deb0aa7502704b816eb155afab29cb3bc2ccf7e1a111b78f3b4fe815de39e",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1516,
+    "pdftotext_words": 1495,
+    "common_ratio": [
+      0.9842,
+      0.998
+    ]
+  },
+  "first_law": null
+}
