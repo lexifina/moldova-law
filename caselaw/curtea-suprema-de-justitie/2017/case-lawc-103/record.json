@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-274/17, din 15.03.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 103,
+  "number": "2ra-274/17",
+  "decision_date": "2017-03-15",
+  "decision_date_source_quote": "15 martie 2017",
+  "record_date": "2017-03-15",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=103",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=103",
+  "source_sha256": "f08faf3c791138117830062b3cf28ba4ee3a93ea73d23fd7b6f4d1d113fd1bc8",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3490,
+    "pdftotext_words": 3472,
+    "common_ratio": [
+      0.994,
+      0.9991
+    ]
+  },
+  "first_law": null
+}
