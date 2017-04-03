@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 328, din 03.04.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 177,
+  "number": "328",
+  "decision_date": "2017-04-03",
+  "decision_date_source_quote": "03 aprilie 2017",
+  "record_date": "2017-04-03",
+  "in_force": "2017-04-03",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=177",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=177",
+  "source_sha256": "c2ef264de32b2b09452834289e0621d1fbb34cdbbae291f58ed687016cf3c319",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1791,
+    "pdftotext_words": 1784,
+    "common_ratio": [
+      0.9955,
+      0.9994
+    ]
+  },
+  "first_law": null
+}
