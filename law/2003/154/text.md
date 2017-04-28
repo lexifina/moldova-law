@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP28 din 17.03.17, MO134-143/28.04.17 art.214
 LP233 din 03.10.16, MO343-346/04.10.16 art.709
 LP160 din 07.07.16, MO306-313/16.09.16 art.647
 LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
@@ -1298,7 +1299,8 @@ Articolul 1241. Concediul paternal
 (1) Concediul paternal se acordă în condiţiile prevăzute de prezentul articol pentru a asigura participarea efectivă a tatălui la îngrijirea copilului nou-născut.
 (2) Tatăl copilului nou-născut beneficiază de dreptul la un concediu paternal de 14 zile calendaristice.
 (3) Concediul paternal se acordă în baza unei cereri în formă scrisă, în primele 56 de zile de la naşterea copilului. La cerere se anexează o copie a certificatului de naştere al copilului.
-(4) Pe perioada concediului paternal, salariatul beneficiază de o indemnizaţie paternală care nu poate fi mai mică decît mărimea salariului mediu cuvenit pentru perioada respectivă și care este achitată din fondul de asigurări sociale.
+(4) Pe perioada concediului paternal, salariatul beneficiază de o indemnizaţie paternală care nu poate fi mai mică decît mărimea salariului mediu cuvenit pentru perioada respectivă și care este achitată din fondul de asigurări sociale. Indemnizația paternală pentru funcționarul public cu statut special se achită din bugetul de stat la locul de muncă al acestuia.
+[Art.1241 al.(4) modificat prin LP28 din 17.03.17, MO134-143/28.04.17 art.214]
 (5) Angajatorul este obligat să încurajeze salariaţii în vederea beneficierii de concediu paternal.
 (6) Cazurile în care angajatorul creează situații cu efect de dezavantajare a angajaţilor care iau concediu paternal sînt considerate cazuri de discriminare din partea angajatorilor şi se sancţionează conform legii.
 [Art.1241 introdus prin LP71 din 14.04.16, MO140-149/27.05.16 art.291]
