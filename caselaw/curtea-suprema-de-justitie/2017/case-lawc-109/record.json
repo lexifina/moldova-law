@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-417/17, din 03.05.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 109,
+  "number": "3ra-417/17",
+  "decision_date": "2017-05-03",
+  "decision_date_source_quote": "03 mai 2017",
+  "record_date": "2017-05-03",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=109",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=109",
+  "source_sha256": "184c9450c6b11cd8f217613a4b33e1db48e20f50ffe4800041016d5b7d441ed2",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4025,
+    "pdftotext_words": 4009,
+    "common_ratio": [
+      0.9948,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
