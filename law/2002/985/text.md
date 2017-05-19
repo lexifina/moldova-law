@@ -14,6 +14,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP49 din 30.03.17, MO155-161/19.05.17 art.253
 RMO388 din 11.11.16, MO388-398/11.11.16 pag.8
 LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16
 LP233 din 03.10.16, MO343-346/04.10.16 art.709
@@ -342,7 +343,7 @@ tragerea la răspundere contravenţională
 [Art.55 al.(1) modificat prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
 (2) Persoanelor liberate de răspundere penală în conformitate cu alin.(1) li se pot aplica următoarele sancţiuni contravenţionale:
 a) amendă în mărime de pînă la 500 unităţi convenţionale;
-[Art.55 al.(2), lit.a) modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
+[Art.55 al.(2), lit.a) modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 b) arest contravenţional de pînă la 30 de zile.
 [Art.55 al.(2), lit.b) modificată prin LP131-XVIII din 23.12.09, MO23-24/12.02.10 art.35]
 Articolul 56. Liberarea de răspundere penală
@@ -1345,7 +1346,7 @@ se pedepsesc cu închisoare de la 2 la 5 ani cu privarea de dreptul de a ocupa a
 [Art.158 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 (2) Aceleaşi acţiuni săvîrşite cu organe umane sau părţi ale acestora
 se pedepsesc cu închisoare de la 5 la 12 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 4000 la 6000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-[Art.158 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
+[Art.158 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Acţiunile prevăzute la alin. (1) sau (2), săvîrşite:
 a) de către o persoană care anterior a săvîrşit o faptă prevăzută la alin. (1) sau (2);
 b) prin constrîngere fizică sau psihică;
@@ -1354,12 +1355,12 @@ d) asupra unei femei gravide sau a unui copil;
 e) de două sau mai multe persoane;
 f) de o persoană publică, de o persoană cu funcţie de răspundere, de o persoană cu funcţie de demnitate publică, de o persoană publică străină sau de un funcţionar internaţional,
 se pedepsesc cu închisoare de la 7 la 15 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 6000 la 8000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-[Art.158 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
+[Art.158 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (4) Acţiunile prevăzute la alin. (1), (2) sau (3):
 a) săvîrşite de un grup criminal organizat sau de o organizaţie criminală;
 b) soldate cu vătămarea gravă a integrităţii corporale sau a sănătăţii, cu decesul persoanei sau sinuciderea acesteia,
 se pedepsesc cu închisoare de la 10 la 20 de ani, cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 8000 la 10000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-[Art.158 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
+[Art.158 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.158 în redacţia LP270 din 07.11.13, MO290/10.12.13 art.794]
 Articolul 159. Provocarea ilegală a avortului
 (1) Întreruperea cursului sarcinii, prin orice mijloace, săvîrşită:
@@ -3146,10 +3147,12 @@ se pedepsesc cu închisoare de la 5 la 10 ani, iar persoana juridică se pedepse
 [Art.2501 introdus prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 Articolul 251. Însuşirea, înstrăinarea în cazurile
 nepermise de lege, tăinuirea bunurilor
-gajate, luate în leasing, sechestrate
+gajate, înghețate, luate în leasing, sechestrate
 sau confiscate
+[Art.251 titlul modificat prin LP49 din 30.03.17, MO155-161/19.05.17 art.253]
 [Art.251 titlul modificat prin LP173 din 25.07.14, MO231-237/08.08.14 art.531; în vigoare 08.11.14]
-Însuşirea, înstrăinarea în cazurile nepermise de lege, tăinuirea bunurilor gajate, luate în leasing, sechestrate sau confiscate ori utilizarea lor în alte scopuri, săvîrşită de o persoană căreia i-au fost încredinţate aceste bunuri sau care era obligată, conform legii, să asigure integritatea lor,
+Însuşirea, înstrăinarea în cazurile nepermise de lege, tăinuirea bunurilor gajate, înghețate, luate în leasing, sechestrate sau confiscate ori utilizarea lor în alte scopuri, săvîrşită de o persoană căreia i-au fost încredinţate aceste bunuri sau care era obligată, conform legii, să asigure integritatea lor,
+[Art.251 dispoziția modificată prin LP49 din 30.03.17, MO155-161/19.05.17 art.253]
 [Art.251 dispoziția modificată prin LP173 din 25.07.14, MO231-237/08.08.14 art.531; în vigoare 08.11.14]
 se pedepseşte cu amendă în mărime de la 1350 la 1850 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 1.000 la 3.000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.251 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -4135,7 +4138,7 @@ de avere și interese personale
 [Art.3301 al.(2) abrogat prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
 (3) Divulgarea sau publicarea intenţionată a informaţiilor din declaraţiile de avere și interese personale de către persoanele cărora aceste informaţii le-au devenit cunoscute în procesul îndeplinirii atribuţiilor de serviciu sau al exercitării controlului
 se pedepseşte cu amendă în mărime de la 550 la 650 unităţi convenţionale, cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 1 la 5 ani.
-[Art.3301al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.3301 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.3301 modificat prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 Articolul 3302. Îmbogăţirea ilicită
 (1) Deţinerea de către o persoană cu funcţie de răspundere sau de către o persoană publică, personal sau prin intermediul unor terţi, a bunurilor în cazul în care valoarea acestora depăşeşte substanţial mijloacele dobîndite şi s-a constatat, în baza probelor, că acestea nu aveau cum să fie obţinute licit
@@ -4454,8 +4457,7 @@ c) săvîrşite referitor la un document de importanţă deosebită;
 d) soldate cu daune în proporţii mari intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice
 se pedepsesc cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 5 ani.
 [Art.361 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 362. Trecerea ilegală a frontierei
-de stat
+Articolul 362. Trecerea ilegală a frontierei de stat
 (1) Trecerea frontierei de stat a Republicii Moldova prin eludarea sau sustragerea de la controlul efectuat la trecerea acesteia,
 [Art.362 al.(1) modificat prin LP304 din 26.12.12, MO48/05.03.13 art.150; în vigoare 05.03.13]
 se pedepseşte cu amendă în mărime de pînă la 750 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 200 de ore, sau cu închisoare de pînă la 2 ani.
