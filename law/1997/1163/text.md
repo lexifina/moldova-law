@@ -15,6 +15,7 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP80 din 05.05.17, MO162-170/26.05.17 art.284
 LP292 din 16.12.16, MO2-8/06.01.17 art.5
 LP281 din 16.12.16, MO472-477/27.12.16 art.947; în vigoare 01.01.17
 LP280 din 16.12.16, MO472-477/27.12.16 art.945; în vigoare 01.01.17
@@ -118,6 +119,7 @@ LP35-XVI din 15.04.05, MO67-68/06.05.05 art.263
 LP22-XVI din 08.04.05, MO65-69/29.04.05 art.234
 LP20-XVI din 08.04.05, MO65-66/29.04.05 art.234
 NOTĂ:
+În textul codului, sintagma „organ cadastral”, la orice formă gramaticală, se substituie cu sintagma „organ cadastral teritorial” la forma gramaticală corespunzătoare prin LP80 din 05.05.17, MO162-170/26.05.17 art.284
 În textul codului, cuvîntul „patron” se substituie cu cuvîntul „angajator” prin LP138 din 17.06.16, MO184-192/01.07.16 art.401
 Cuvintele “hîrtii de valoare” se înlocuiesc cu cuvintele “valori mobiliare” prin LP231-XVI din 02.11.07, MO180-183/23.11.07 art.693
 În cuprinsul titlului IV, cuvîntul "(coniacurile)" se exclude, prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349
