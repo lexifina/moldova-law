@@ -14,6 +14,7 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP80 din 05.05.17, MO162-170/26.05.17 art.284
 LP211 din 29.07.16, MO338-341/30.09.16 art.698
 LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17
 LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17
@@ -254,7 +255,8 @@ Articolul 37. Obligaţia de informare despre persoanele asupra
 cărora trebuie instituită tutela sau curatela
 În termen de 5 zile de la data aflării că asupra persoanei trebuie instituită tutela sau curatela, au obligaţia să înştiinţeze autoritatea tutelară:
 a) cei apropiaţi persoanei, precum şi administratorul şi locatarii casei în care locuieşte;
-b) serviciul de stare civilă, în cazul înregistrării unui deces, precum şi notarul public, în cazul deschiderii unei succesiuni;
+b) organul de stare civilă, în cazul înregistrării unui deces, precum şi notarul public, în cazul deschiderii unei succesiuni;
+[Art.37 lit.b) modificată prin LP80 din 05.05.17, MO162-170/26.05.17 art.284]
 c) instanţa judecătorească, lucrătorii procuraturii şi ai poliţiei, în cazul pronunţării, aplicării sau executării unei sancţiuni privative de libertate;
 d) autorităţile administraţiei publice locale, instituţiile de ocrotire, precum şi orice altă persoană.
 Articolul 38. Tutorele şi curatorul
@@ -2938,7 +2940,6 @@ LA EXECUTAREA OBLIGAŢIILOR
 Articolul 572. Condiţiile generale de executare a obligaţiilor
 (1) Temeiul executării rezidă în existenţa unei obligaţii.
 (2) Obligaţia trebuie executată în modul corespunzător, cu bună-credinţă, la locul şi în momentul stabilit.
-(3) Valorile mobiliare nu pot fi transmise direct în contul achitării datoriei dintre două părţi.
 (3) Valorile mobiliare nu pot fi transmise direct în contul achitării datoriei dintre două părţi, dacă art. 8 din Legea nr. 184 din 22 iulie 2016 cu privire la contractele de garanție financiară nu prevede altfel.
 [Art.572 al.(3) modificat prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
 [Art.572 al.(3) introdus prin LP31 din 07.03.13, MO69-74/05.04.13 art.223]
@@ -3302,7 +3303,6 @@ Articolul 664. Decesul persoanei fizice sau lichidarea persoanei juridice
 (2) Obligaţia se stinge prin decesul creditorului dacă executarea îi este destinată personal sau dacă este legată în alt mod de persoana creditorului.
 (3) Obligaţia se stinge prin lichidarea persoanei juridice (debitor sau creditor), cu excepţia cazurilor în care obligaţia sau creanţa persoanei juridice lichidate se transmite prin lege unor alte persoane.
 Articolul 665. Novaţia
-(1) Obligaţia se stinge în baza înţelegerii dintre părţi de a o înlocui cu o altă obligaţie (novaţie), cu excepţia valorilor mobiliare.
 (1) Obligaţia se stinge în baza înţelegerii dintre părţi de a o înlocui cu o altă obligaţie (novaţie), cu excepţia valorilor mobiliare, dacă art. 8 din Legea nr. 184 din 22 iulie 2016 cu privire la contractele de garanție financiară nu prevede altfel.
 [Art.665 al.(1) modificat prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
 [Art.665 al.(1) modificat prin LP31 din 07.03.13, MO69-74/05.04.13 art.223]
@@ -3976,7 +3976,8 @@ Articolul 817. Contractul de vînzare-cumpărare a întreprinderii
 (2) Dreptul la denumirea de firmă, la mărcile de producţie şi la alte mijloace de individualizare a întreprinderii şi a producţiei acesteia, a lucrărilor şi serviciilor, precum şi dreptul de folosinţă asupra acestor mijloace de individualizare care-i aparţin în baza licenţei se transmit cumpărătorului dacă în contract nu este prevăzut altfel.
 Articolul 818. Înregistrarea contractului de vînzare-cumpărare
 a întreprinderii
-Contractul de vînzare-cumpărare a întreprinderii în calitate de complex patrimonial unic se încheie în formă autentică şi se înregistrează la Camera Înregistrării de Stat.
+Contractul de vînzare-cumpărare a întreprinderii în calitate de complex patrimonial unic se încheie în formă autentică şi se înregistrează la organul înregistrării de stat.
+[Art.818 modificat prin LP80 din 05.05.17, MO162-170/26.05.17 art.284]
 Articolul 819. Evaluarea patrimoniului întreprinderii
 (1) Componenţa întreprinderii şi valoarea ei se determină în baza actului (procesului-verbal) de inventariere întocmit în conformitate cu regulile inventarierii.
 (2) Pînă la semnarea contractului, părţile trebuie să întocmească şi să examineze actul de inventariere, bilanţul contabil, concluzia auditorului independent asupra componenţei şi valorii întreprinderii, lista datoriilor vînzătorului incluse în componenţa întreprinderii cu indicarea creditorilor, caracterul datoriei, cuantumul şi termenele de executare a obligaţiilor.
@@ -7241,7 +7242,6 @@ a) prin acordul părţilor s-a stabilit altfel;
 b) bunurile sînt bunuri personale ale pasagerului, în acest caz fiind supuse legii sale naţionale.
 Articolul 1606. Titlurile de valoare
 (1) Emiterea titlurilor de valoare este supusă legii aplicabile statutului juridic al persoanei juridice emitente.
-(2) Condiţiile şi efectele transmiterii valorilor mobiliare sînt supuse:
 (2) Condiţiile şi efectele transmiterii valorilor mobiliare în formă materializată sînt supuse:
 [Art.1606 al.(2) modificat prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
 a) legii locului de plată a titlului la ordin;
