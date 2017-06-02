@@ -15,6 +15,7 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP81 din 05.05.17, MO171-180/02.06.17 art.299
 LP80 din 05.05.17, MO162-170/26.05.17 art.284
 LP292 din 16.12.16, MO2-8/06.01.17 art.5
 LP281 din 16.12.16, MO472-477/27.12.16 art.947; în vigoare 01.01.17
@@ -120,7 +121,11 @@ LP22-XVI din 08.04.05, MO65-69/29.04.05 art.234
 LP20-XVI din 08.04.05, MO65-66/29.04.05 art.234
 NOTĂ:
 În textul codului, sintagma „organ cadastral”, la orice formă gramaticală, se substituie cu sintagma „organ cadastral teritorial” la forma gramaticală corespunzătoare prin LP80 din 05.05.17, MO162-170/26.05.17 art.284
+În textul codului, sintagmele „Inspectoratul Fiscal Principal de Stat de pe lîngă Ministerul Finanţelor”, „Inspectoratul Fiscal Principal de Stat”, „inspectorat fiscal de stat teritorial”, „inspectorat fiscal de stat specializat”, „organ fiscal teritorial”, „organ fiscal”, la orice formă gramaticală, se substituie cu cuvintele „Serviciul Fiscal de Stat” la forma gramaticală corespunzătoare, cu excepţia cazurilor cînd prezenta lege prevede altfel prin LP281 din 16.12.16, MO472-477/27.12.16 art.947; în vigoare 01.01.17
 În textul codului, cuvîntul „patron” se substituie cu cuvîntul „angajator” prin LP138 din 17.06.16, MO184-192/01.07.16 art.401
+În tot cuprinsul textul „zona de protecţie a drumurilor din afara perimetrului localităţilor”, la orice formă gramaticală, se înlocuieşte cu textul „zona drumului public şi/sau zonele de protecţie a acestuia din afara perimetrului localităţilor”, la forma gramaticală corespunzătoare prin LP71 din 12.04.15, MO102-104/28.04.15 art.170
+În cuprinsul cuvintele “osie”, “gabarite”, “gabaritele” şi “gabaritelor” se înlocuiesc, respectiv, cu cuvintele “axă”, “dimensiuni”, “dimensiunile” şi “dimensiunilor”, conform LP324 din 27.12.12, MO6-9/11.01.13 art.34
+În textul sintagma “Ministerul Transporturilor şi Gospodăriei Drumurilor” se înlocuieşte cu sintagma “organul abilitat al administraţiei publice centrale” conform LP108-XVIII din 17.12.09, MO193-196/29.12.09 art.609; în vigoare 01.01.10
 Cuvintele “hîrtii de valoare” se înlocuiesc cu cuvintele “valori mobiliare” prin LP231-XVI din 02.11.07, MO180-183/23.11.07 art.693
 În cuprinsul titlului IV, cuvîntul "(coniacurile)" se exclude, prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349
 În textul codului, termenul "dispoziţie de plată trezorerială" se înlocuieşte cu termenul "ordin de plată", termenul "dispoziţie incaso trezorerială" se înlocuieşte cu termenul "ordin incaso", iar termenul "dispoziţie" se înlocuieşte cu termenul "ordin" prin LP268 -XVI din 28.07.06, MO142-145/08.09.06 art.702
