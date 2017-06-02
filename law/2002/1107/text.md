@@ -14,6 +14,8 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18
+LP66 din 13.04.17, MO171-180/02.06.17 art.297
 LP80 din 05.05.17, MO162-170/26.05.17 art.284
 LP211 din 29.07.16, MO338-341/30.09.16 art.698
 LP200 din 28.07.16, MO338-341/30.09.16 art.696; în vigoare 30.03.17
@@ -159,6 +161,9 @@ T i t l u l II
 PERSOANELE
 Capitolul I
 PERSOANA FIZICĂ
+Secţiunea 1
+Dispoziţii generale
+[Capitolul I secțiunea 1, titlul introdus prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 17. Noţiunea de persoană fizică
 Persoană fizică este omul, privit individual, ca titular de drepturi şi de obligaţii civile.
 Articolul 18. Capacitatea de folosinţă a persoanei fizice
@@ -189,21 +194,35 @@ a împlinit vîrsta de 14 ani
 a) acte juridice curente de mică valoare care se execută la momentul încheierii lor;
 b) acte juridice de obţinere gratuită a unor beneficii care nu necesită autentificare notarială sau înregistrarea de stat a drepturilor apărute în temeiul lor;
 c) acte de conservare.
+Articolul 221. Restricţii la încheierea actelor juridice
+în numele minorului care nu are capacitate
+deplină de exerciţiu
+(1) Actele juridice prevăzute la art. 4875 alin. (1), încheiate în numele minorului care nu are capacitate deplină de exerciţiu, produc efecte juridice doar după autorizarea de către consiliul de familie sau, în absenţa acestuia, de către autoritatea tutelară. Dispozițiile art. 4875 alin. (2)–(5), art. 4884–4891, art. 4899 și art. 48100 se aplică în mod corespunzător.
+(2) În numele minorului care nu are capacitate deplină de exerciţiu nu se pot încheia, sub sancţiunea nulităţii absolute, actele juridice prevăzute la art. 4876.
+[Art.221 introdus prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 222. Regimul mijloacelor băneşti ale minorului
+care nu are capacitate deplină de exerciţiu
+(1) Operaţiunile de încasare, de plată şi de administrare a mijloacelor băneşti efectuate în numele minorului care nu are capacitate deplină de exerciţiu se fac exclusiv prin contul deschis pe numele acestuia, dacă legea nu prevede altfel pentru anumite categorii de plăţi.
+(2) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate prescrie ca o anumită sumă de bani care aparține minorului care nu are capacitate deplină de exerciţiu să fie depusă pe un cont special al acestuia, de pe care se vor efectua extrageri doar cu autorizarea consiliului de familie sau, în absenţa acestuia, a autorităţii tutelare. Dispoziţiile prezentului alineat nu se aplică în cazul executării silite asupra mijloacelor băneşti ale minorului.
+(3) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară este obligată să ia toate măsurile necesare pentru a aduce la cunoştinţa instituţiei la care este deschis contul pe numele minorului care nu are capacitate deplină de exerciţiu despre regimul special instituit conform alin. (2).
+[Art.222 introdus prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 23. Inadmisibilitatea lipsirii şi limitării capacităţii
 de folosinţă şi de exerciţiu
 (1) Capacitatea civilă este recunoscută în măsură egală tuturor persoanelor, indiferent de rasă, naţionalitate, origine etnică, limbă, religie, sex, opinie, apartenenţă politică, avere, origine socială, grad de cultură sau de alte criterii similare.
 (2) Persoana fizică nu poate fi lipsită de capacitate de folosinţă.
 (3) Nimeni nu poate fi limitat în capacitate de folosinţă şi în capacitate de exerciţiu decît în cazul şi în modul prevăzut de lege.
 (4) Renunţarea totală sau parţială a unei persoane fizice la capacitatea de folosinţă sau la capacitatea de exerciţiu, alte acte juridice îndreptate spre limitarea persoanei în capacitatea de folosinţă sau de exerciţiu sînt nule.
-Articolul 24. Declararea incapacităţii persoanei fizice
-(1) Persoana care în urma unei tulburări psihice (boli mintale sau deficienţe mintale) nu poate conştientiza sau dirija acţiunile sale poate fi declarată de către instanţa de judecată ca incapabilă. Asupra ei se instituie tutela.
-(2) Actele juridice în numele persoanei fizice declarate incapabile se încheie de către tutore.
-(3) Dacă temeiurile în care persoana fizică a fost declarată incapabilă au dispărut, instanţa de judecată o declară ca fiind capabilă. În baza hotărîrii judecătoreşti, tutela asupra persoanei se anulează.
+Articolul 24. Instituirea măsurii de ocrotire
+judiciară
+(1) În condiţiile prezentului cod, în privința persoanei fizice care, în urma unei boli mintale ori a unei deficienţe fizice, mintale sau psihologice, nu poate, în mod deplin, conştientiza acţiunile sale ori exprima voinţa poate fi instituită, prin hotărîre judecătorească, măsura de ocrotire judiciară sub forma curatelei, a ocrotirii provizorii sau a tutelei.
+(2) În toate situaţiile, persoana în privința căreia a fost instituită o măsură de ocrotire judiciară este în drept să încheie de sine stătător actele juridice prevăzute la art. 22 alin. (2).
+[Art.24 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 25. Limitarea persoanei fizice în capacitatea de
 exerciţiu
 (1) Persoana care, în urma consumului abuziv de alcool sau consumului de droguri şi de alte substanţe psihotrope, înrăutăţeşte starea materială a familiei sale poate fi limitată de către instanţa de judecată în capacitatea de exerciţiu. Asupra acestei persoane se instituie curatela.
 (2) Persoana indicată la alin.(1) are dreptul să încheie acte juridice cu privire la dispunerea de patrimoniu, să primească şi să dispună de salariu, de pensie sau de alte tipuri de venituri doar cu acordul curatorului.
 (3) Dacă au dispărut temeiurile în care persoana fizică a fost limitată în capacitatea de exerciţiu, instanţa de judecată anulează limitarea. În baza hotărîrii judecătoreşti, curatela asupra ei se anulează.
+[Art.25 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 26. Activitatea de întreprinzător a persoanei
 fizice
 (1) Persoana fizică are dreptul să practice activitate de întreprinzător, fără a constitui o persoană juridică, din momentul înregistrării de stat în calitate de întreprinzător individual sau în alt mod prevăzut de lege.
@@ -234,97 +253,687 @@ de capacitate de exerciţiu
 (4) Domiciliul minorului, în cazul în care numai unul din părinţi îl reprezintă ori în cazul în care se află sub tutelă, este la reprezentantul legal.
 (5) Domiciliul minorului aflat în dificultate, în cazurile prevăzute prin lege, se află la familia sau la persoanele cărora le-a fost dat în plasament ori încredinţat.
 (6) Domiciliul persoanei lipsite de capacitate de exerciţiu este la reprezentantul ei legal.
-Articolul 32. Tutela şi curatela
-(1) Tutela şi curatela se instituie pentru ocrotirea drepturilor şi intereselor persoanelor fizice incapabile sau cu capacitate de exerciţiu restrînsă sau limitate în capacitatea de exerciţiu.
-(2) Tutorii şi curatorii apără drepturile şi interesele persoanelor tutelate de ei în relaţii cu persoane fizice şi juridice, inclusiv în instanţă de judecată, fără mandat.
-(3) Tutela sau curatela asupra minorului se instituie în cazul în care el nu are părinţi ori înfietori sau cînd instanţa de judecată a stabilit decăderea părinţilor lui din drepturile părinteşti, sau cînd el a rămas fără ocrotire părintească din alte motive.
-Articolul 33. Tutela
-(1) Tutela se instituie asupra persoanelor lipsite de capacitate de exerciţiu şi asupra minorilor în vîrstă de pînă la 14 ani, după caz.
+Secţiunea a 2-a
+Tutela şi curatela minorilor
+[Capitolul I secțiunea 2, titlul introdus prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 32. Temeiurile instituirii tutelei şi curatelei
+asupra minorilor
+(1) Dispoziţiile prezentei secţiuni se aplică tutelei și curatelei instituite asupra minorilor aflați în una dintre situaţiile prevăzute la alin. (2), cu excepţia cazului în care aceștia au dobîndit capacitate deplină de exerciţiu.
+(2) Tutela sau curatela asupra minorului se instituie în cazul în care acestuia i s-a atribuit statut de copil rămas temporar fără ocrotire părintească sau statut de copil rămas fără ocrotire părintească.
+(3) Dacă, în cazurile prevăzute la alin. (2), minorul a fost plasat în serviciul de plasament de tip familial sau de plasament de tip rezidenţial, atribuţiile de tutore sau, după caz, curator asupra minorului sînt exercitate de instituția în care acesta a fost plasat, cu excepţia cazului în care minorul are tutore sau curator.
+[Art.32 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 33. Tutela minorului
+[Art.33 denumirea în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+(1) Tutela se instituie asupra minorilor în vîrstă de pînă la 14 ani.
+[Art.33 al.(1) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (2) Tutorele este reprezentantul legal al persoanei care se află sub tutelă şi încheie fără mandat în numele şi în interesul ei actele juridice necesare.
-Articolul 34. Curatela
-(1) Curatela se instituie asupra minorilor în vîrstă de la 14 la 18 ani, precum şi asupra persoanelor fizice limitate în capacitate de exerciţiu de către instanţa de judecată din cauza consumului abuziv de alcool, consumului de droguri şi de alte substanţe psihotrope.
-(2) Curatorul îşi dă consimţămîntul la încheierea actelor juridice pe care persoana fizică ce se află sub curatelă nu are dreptul să le încheie de sine stătător.
+(3) Dispoziţiile art. 4851 se aplică în mod corespunzător.
+[Art.33 al.(3) introdus prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 34. Curatela minorului
+[Art.34 denumirea în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+(1) Curatela se instituie asupra minorilor cu vîrstă cuprinsă între 14 și 18 ani.
+[Art.34 al.(1) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+(2) Curatorul îşi dă încuviinţarea la încheierea actelor juridice pe care persoana fizică ce se află sub curatelă nu are dreptul să le încheie de sine stătător.
+[Art.34 al.(2) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (3) Curatorul ajută persoana care se află sub curatelă în realizarea drepturilor şi îndeplinirea obligaţiilor şi o protejează împotriva abuzurilor unor terţi.
-Articolul 35. Autorităţile tutelare
-(1) Autorităţi tutelare sînt autorităţile administraţiei publice locale.
-(2) Autoritatea tutelară de la domiciliul persoanei care se află sub tutelă supraveghează activitatea tutorelui sau a curatorului ei.
-Articolul 36. Instituirea tutelei şi curatelei
-(1) Autoritatea tutelară este obligată să hotărască asupra instituirii tutelei sau curatelei în termen de o lună de la data primirii informaţiei despre necesitatea instituirii.
+(4) Dispoziţiile art. 4844 se aplică în mod corespunzător.
+[Art.34 al.(4) introdus prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+[Art.35 abrogat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 36. Instituirea tutelei şi curatelei asupra
+minorului
+[Art.36 denumirea modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+(1) Autoritatea tutelară este obligată să hotărască asupra instituirii tutelei sau curatelei asupra minorului în termen de o lună de la data primirii informaţiei despre necesitatea instituirii.
+[Art.36 al.(1) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (2) Pînă la numirea tutorelui sau curatorului, atribuţiile lor sînt exercitate de autoritatea tutelară.
-Articolul 37. Obligaţia de informare despre persoanele asupra
+Articolul 37. Obligaţia de informare despre minorii asupra
 cărora trebuie instituită tutela sau curatela
-În termen de 5 zile de la data aflării că asupra persoanei trebuie instituită tutela sau curatela, au obligaţia să înştiinţeze autoritatea tutelară:
-a) cei apropiaţi persoanei, precum şi administratorul şi locatarii casei în care locuieşte;
+[Art.37 denumirea modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+În termen de 5 zile de la data aflării că asupra minorului trebuie instituită tutela sau curatela, au obligaţia să înştiinţeze autoritatea tutelară:
+[Art.37 alineat modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+a) cei apropiaţi minorului, precum şi administratorul şi locatarii casei în care locuieşte;
+[Art.37 lit.a) modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 b) organul de stare civilă, în cazul înregistrării unui deces, precum şi notarul public, în cazul deschiderii unei succesiuni;
 [Art.37 lit.b) modificată prin LP80 din 05.05.17, MO162-170/26.05.17 art.284]
 c) instanţa judecătorească, lucrătorii procuraturii şi ai poliţiei, în cazul pronunţării, aplicării sau executării unei sancţiuni privative de libertate;
 d) autorităţile administraţiei publice locale, instituţiile de ocrotire, precum şi orice altă persoană.
-Articolul 38. Tutorele şi curatorul
-(1) Poate fi tutore sau curator o singură persoană fizică sau soţul şi soţia împreună dacă nu se află în vreunul din cazurile de incompatibilitate prevăzute la alin.(4) şi au consimţit expres.
-(2) Atribuţiile de tutore şi curator asupra persoanei internate în o instituţie de asistenţă socială publică, de educaţie, de învăţămînt, de tratament sau în o altă instituţie similară sînt exercitate de aceste instituţii, cu excepţia cazului în care persoana are tutore sau curator.
-(3) Tutorele sau curatorul este desemnat de autoritatea tutelară de la domiciliul persoanei asupra căreia trebuie instituită tutela sau curatela, din oficiu sau la sesizarea celor menţionaţi la art.37.
+Articolul 38. Tutorele şi curatorul minorului
+[Art.38 denumirea modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+(1) Poate fi tutore sau curator al minorului o singură persoană fizică ori soțul și soția împreună dacă nu se află în vreunul din cazurile de incompatibilitate prevăzute la alin. (4) şi dacă au consimțit expres. Dispozițiile art. 4843 și 4845 se aplică în mod corespunzător.
+[Art.38 al.(1) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+(2) Atribuţiile de tutore şi curator asupra minorului internat în o instituţie de asistenţă socială publică, de educaţie, de învăţămînt, de tratament sau în o altă instituţie similară sînt exercitate de aceste instituţii, cu excepţia cazului în care minorul are tutore sau curator.
+[Art.38 al.(2) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+(3) Cu excepţia cazului prevăzut la art. 381 alin. (7), tutorele și curatorul minorului sînt desemnați de autoritatea tutelară de la domiciliul sau reşedinţa temporară a persoanei asupra căreia trebuie instituită tutela sau curatela, din oficiu sau la sesizarea persoanelor prevăzute la art. 37.
+[Art.38 al.(3) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (4) Nu poate fi tutore sau curator:
 a) minorul;
-b) persoana lipsită de sau limitată în capacitatea de exerciţiu;
+b) persoana supusă unei măsuri de ocrotire judiciare;
+[Art.38 al.(4), lit.b) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 c) cel decăzut din drepturile părinteşti;
 d) cel declarat incapabil de a fi tutore sau curator din cauza stării de sănătate;
 e) cel căruia, din cauza exercitării necorespunzătoare a obligaţiilor de adoptator, i s-a anulat adopţia;
 f) cel căruia i s-a restrîns exerciţiul unor drepturi politice sau civile, fie în temeiul legii, fie prin hotărîre judecătorească, precum şi cel cu rele purtări;
-g) cel ale cărui interese vin în conflict cu interesele persoanei puse sub tutelă sau curatelă;
+g) cel ale cărui interese vin în conflict cu interesele minorului pus sub tutelă sau curatelă;
+[Art.38 al.(4), lit.g) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 h) cel înlăturat prin act autentic sau prin testament de către părintele care exercita singur, în momentul morţii, ocrotirea părintească;
-i) cel care, exercitînd o tutelă sau curatelă, a fost îndepărtat de la ele;
+i) cel căruia i s-a revocat calitatea de tutore, curator sau ocrotitor provizoriu din culpa sa;
+[Art.38 al.(4), lit.i) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 j) cel care se află în relaţii de muncă cu instituţia în care este internată persoana asupra căreia se instituie tutela sau curatela.
+Articolul 381. Consiliul de familie al minorului
+(1) Autoritatea tutelară, la instituirea tutelei sau a curatelei asupra minorului, poate institui și consiliul de familie al minorului dacă necesitatea de ocrotire a minorului ori consistenţa şi valoarea patrimoniului justifică acest lucru şi dacă componenţa familiei permite acest fapt.
+(2) Membrii consiliului de familie sînt desemnaţi de către autoritatea tutelară pentru durata tutelei sau curatelei.
+(3) Consiliul de familie al minorului este compus din cel puţin 3 membri cu drept de vot. Tutorele sau, după caz, curatorul este membru al consiliului din oficiu, fără drept de vot.
+(4) Pot fi membri ai consiliului de familie rudele minorului, iar în absenţa acestora, alte persoane care manifestă interes pentru el şi pentru bunăstarea acestuia.
+(5) Autoritatea tutelară va depune eforturi ca ambele linii colaterale de rudenie să fie reprezentate în consiliul de familie.
+(6) Autoritatea tutelară desemnează membrii consiliului de familie bazîndu-se pe dorinţele şi sentimentele exprimate de minorul care a împlinit vîrsta de 10 ani, pe relaţiile sale obişnuite, pe interesul care îl manifestă candidaţii şi eventualele recomandări ale rudelor.
+(7) Consiliul de familie desemnează şi revocă tutorele și curatorul minorului.
+[Art.381 introdus prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 382. Tutorele supleant și curatorul supleant.
+Tutorele special şi curatorul special
+(1) În condiţiile prevăzute la art. 4848, consiliul de familie al minorului sau, în absenţa acestuia, autoritatea tutelară poate desemna minorului un tutore supleant sau, după caz, un curator supleant.
+(2) În condiţiile prevăzute la art. 4849, consiliul de familie al minorului sau, în absenţa acestuia, autoritatea tutelară poate desemna minorului un tutore special sau, după caz, un curator special.
+(3) Dispoziţiile art. 38 alin. (4) se aplică tutorelui supleant, tutorelui special sau, după caz, curatorului supleant, curatorului special.
+[Art.382 introdus prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 39. Caracterul personal şi gratuit al tutelei şi
 curatelei
 (1) Tutela şi curatela sînt sarcini personale.
 (2) Obligaţiile de tutelă şi curatelă se îndeplinesc gratuit. Tutorele şi curatorul au dreptul să ceară compensarea tuturor cheltuielilor aferente îndeplinirii obligaţiilor de tutelă şi curatelă.
 (3) Autoritatea tutelară poate, ţinînd seama de cuantumul şi componenţa patrimoniului celui pus sub tutelă sau curatelă, să decidă ca administrarea patrimoniului sau doar a unei părţi din el să fie încredinţată unei persoane fizice sau unei persoane juridice competente.
-Articolul 40. Obligaţiile tutorelui şi ale curatorului
+Articolul 40. Obligaţiile tutorelui minorului şi ale
+curatorului minorului
+[Art.40 denumirea în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (1) Tutorele şi curatorul sînt obligaţi:
-a) să locuiască împreună cu cel pus sub tutelă şi să comunice autorităţii tutelare schimbarea domiciliului. Curatorul şi persoana aflată sub curatelă care a atins vîrsta de 14 ani pot locui separat doar cu acordul autorităţii tutelare;
-b) să aibă grijă de întreţinerea persoanei puse sub tutelă sau curatelă;
-c) să apere drepturile şi interesele persoanei puse sub tutelă sau curatelă.
+a) să locuiască împreună cu cel pus sub tutelă şi să comunice autorităţii tutelare schimbarea domiciliului. Curatorul şi minorul pus sub curatelă care a atins vîrsta de 14 ani pot locui separat doar cu acordul autorităţii tutelare;
+[Art.40 al.(1), lit.a) modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+b) să aibă grijă de întreţinerea minorului pus sub tutelă sau curatelă;
+[Art.40 al.(1), lit.b) modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+c) să apere drepturile şi interesele minorului pus sub tutelă sau curatelă.
+[Art.40 al.(1), lit.c) modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (2) Tutorelui şi curatorului le revin drepturile şi obligaţiile de părinte în educarea minorului.
-Articolul 41. Administrarea patrimoniului celui pus sub
-tutelă
+Articolul 41. Administrarea patrimoniului minorului
+pus sub tutelă
+[Art.41 denumirea în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (1) Tutorele administrează şi dispune eficient de bunurile celui pus sub tutelă, în numele acestuia, dacă nu este numit un administrator al bunurilor.
-(2) La numire, tutorele, în prezenţa reprezentantului autorităţii tutelare, inventariază bunurile celui pus sub tutelă şi prezintă autorităţii tutelare inventarul spre aprobare.
+(2) Dispoziţiile art. 4867–4881 se aplică în mod corespunzător tutelei minorului.
+[Art.41 al.(2) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (3) Sumele cuvenite celui pus sub tutelă, sub formă de pensie, ajutor, pensie alimentară şi alte venituri curente, se primesc şi se cheltuiesc de către tutore pentru întreţinerea celui pus sub tutelă.
-(4) Dacă veniturile curente sau mijloacele băneşti ale celui pus sub tutelă nu sînt suficiente pentru acoperirea tuturor cheltuielilor necesare, acestea pot fi acoperite din contul bunurilor lui, cu acordul autorităţii tutelare.
-(5) Tutorele este dator să întocmească şi să prezinte anual autorităţii tutelare, în termen de 30 de zile de la sfîrşitul anului calendaristic, un raport privind modul în care s-a îngrijit de cel pus sub tutelă şi despre administrarea şi dispunerea de bunurile acestuia.
-Articolul 42. Autorizaţia autorităţii tutelare pentru
-încheierea de acte juridice
-(1) Fără permisiunea prealabilă a autorităţii tutelare, tutorele nu este în drept să încheie, iar curatorul să încuviinţeze încheierea actelor juridice de înstrăinare (inclusiv de donaţie), de schimb sau de închiriere (arendă), de folosinţă gratuită sau de depunere în gaj a bunurilor, a actelor juridice prin care se renunţă la drepturile persoanei puse sub tutelă sau curatelă, a convenţiilor de partajare a averii sau a cotelor-părţi ale persoanei puse sub tutelă sau curatelă şi a oricăror altor acte juridice care duc la micşorarea averii acesteia.
-(2) Încheierea de acte juridice privind bunurile imobile ale celui pus sub tutelă sau curatelă se admite numai cu permisiunea prealabilă a autorităţii tutelare.
-Articolul 43. Interdicţia încheierii de acte juridice în numele
-celui pus sub tutelă sau curatelă
-(1) Tutorele nu are dreptul să încheie acte juridice cu titlu gratuit, iar curatorul nu are dreptul să-şi dea acordul la încheierea actelor juridice cu titlu gratuit prin care cel pus sub tutelă sau curatelă se obligă sau renunţă la drepturi.
-(2) Excepţie de la prevederile alin.(1) fac actele juridice conforme obligaţiilor morale şi bunelor moravuri.
-(3) Tutorele şi curatorul, soţul şi rudele acestora de pînă la gradul al patrulea inclusiv nu au dreptul să încheie convenţii cu persoana pusă sub tutelă sau curatelă, cu excepţia transmiterii către aceasta a averii prin donaţie sau în folosinţă gratuită.
+[Art.41 al.(4) abrogat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+[Art.41 al.(5) abrogat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+[Art.42 abrogat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+[Art.43 abrogat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 44. Administrarea fiduciară a proprietăţii celui pus
 sub tutelă
-(1) În cazul necesităţii administrării permanente a bunurilor imobile şi mobile de valoare ale persoanei puse sub tutelă, autoritatea tutelară încheie un contract de administrare fiduciară a proprietăţii cu administratorul pe care l-a desemnat. În astfel de cazuri, tutorele îşi păstrează împuternicirile asupra părţii din averea celui pus sub tutelă care nu este transmisă în administrare fiduciară.
-(2) În exercitarea sarcinilor de administrare a proprietăţii persoanei puse sub tutelă, administratorul cade sub incidenţa art.42 şi 43.
+(1) În cazul necesităţii administrării permanente a bunurilor imobile şi mobile de valoare ale persoanei puse sub tutelă, consiliul de familie sau, în absenţa acestuia, autoritatea tutelară încheie un contract de administrare fiduciară a proprietăţii cu administratorul pe care l-a desemnat. În astfel de cazuri, tutorele îşi păstrează împuternicirile asupra părţii din averea celui pus sub tutelă care nu este transmisă în administrare fiduciară.
+[Art.44 al.(1) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+(2) În exercitarea sarcinilor de administrare a proprietăţii persoanei puse sub tutelă, administratorul cade sub incidenţa art. 4867–4881.
+[Art.44 al.(2) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (3) Administrarea fiduciară a proprietăţii celui pus sub tutelă încetează în temeiurile prevăzute de lege pentru încetarea contractului de administrare fiduciară a proprietăţii, precum şi în cazul încetării tutelei.
-Articolul 45. Păstrarea mijloacelor băneşti
-(1) Sumele de bani care depăşesc necesităţile întreţinerii celui pus sub tutelă şi ale administrării bunurilor lui se depun pe numele acestuia la o instituţie financiară de unde nu pot fi ridicate decît cu autorizaţia autorităţii tutelare.
-(2) Tutorele poate depune sumele necesare întreţinerii pe numele minorului. Acestea se trec într-un cont separat şi pot fi ridicate de tutore fără încuviinţarea prealabilă a autorităţii tutelare.
-Articolul 46. Îndepărtarea şi eliberarea tutorilor şi curatorilor
-de la îndeplinirea obligaţiilor lor
-(1) Minorul, precum şi persoanele prevăzute la art.37 pot contesta sau denunţa la autoritatea tutelară actele şi faptele tutorelui sau ale curatorului care prejudiciază minorul.
-(2) Tutorele sau curatorul va fi îndepărtat dacă săvîrşeşte un abuz, o neglijenţă gravă sau fapte care-l fac nevrednic de a fi tutore sau curator, precum şi dacă nu-şi îndeplineşte corespunzător sarcina.
-(3) Autoritatea tutelară eliberează tutorele sau curatorul de la îndeplinirea obligaţiilor în cazurile în care minorul a fost întors părinţilor sau a fost înfiat.
-(4) În cazul plasării persoanei puse sub tutelă sau curatelă într-o instituţie de asistenţă socială publică, de educaţie, de învăţămînt, de tratament sau în o altă instituţie similară, autoritatea tutelară eliberează tutorele sau curatorul de îndeplinirea obligaţiilor lor dacă aceasta nu contravine intereselor persoanei puse sub tutelă sau curatelă.
-(5) Autoritatea tutelară eliberează, la cerere, tutorele sau curatorul de îndeplinirea sarcinii dacă există motive întemeiate.
+[Art.45 abrogat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 46. Revocarea calităţii de tutore şi curator.
+Revocarea tutelei și a curatelei
+(1) Minorul, precum şi persoanele indicate la art. 37 pot contesta sau denunţa la autoritatea tutelară actele şi faptele tutorelui, ale tutorelui supleant și ale tutorelui special, precum și cele ale curatorului, ale curatorului supleant și ale curatorului special, care prejudiciază interesele minorului.
+(2) Tutorilor, tutorilor supleanți și tutorilor speciali, precum și curatorilor, curatorilor supleanți și curatorilor speciali li se revocă calitatea respectivă dacă au săvîrşit un abuz, o neglijenţă gravă sau alte fapte care-i fac nedemni de a fi tutori sau curatori, precum şi dacă nu şi-au îndeplinit corespunzător obligațiile.
+(3) Autoritatea tutelară revocă tutela sau curatela minorului dacă minorul a fost restituit părinţilor sau a fost înfiat.
+(4) În cazul plasării minorului pus sub tutelă sau curatelă într-o instituţie de asistenţă socială publică, de educaţie, de învăţămînt, de tratament sau într-o altă instituţie similară, autoritatea tutelară revocă tutorele sau curatorul dacă aceasta nu contravine intereselor persoanei puse sub tutelă sau curatelă.
+(5) Consiliul de familie ori, în absenţa acestuia, autoritatea tutelară revocă tutorele, tutorele supleant și tutorele special, precum și curatorul, curatorul supleant și curatorul special, la cererea acestora, dacă există motive întemeiate.
+[Art.46 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 47. Încetarea tutelei şi curatelei
-(1) O dată cu atingerea de către minorul pus sub tutelă a vîrstei de 14 ani, tutela asupra lui încetează, iar persoana care a exercitat funcţia de tutore devine curatorul lui fără a fi necesară o hotărîre suplimentară în acest sens.
+(1) La atingerea vîrstei de 14 ani de către minorul pus sub tutelă, tutela asupra lui încetează, iar persoana care a avut calitatea de tutore, tutore supleant sau tutore special devine, respectiv, curator, curator supleant sau curator special, fără a fi necesară o hotărîre suplimentară în acest sens.
+[Art.47 al.(1) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (2) Curatela încetează o dată cu dobîndirea sau restabilirea capacităţii depline de exerciţiu.
-Articolul 48. Patronajul asupra persoanelor fizice capabile
-(1) La cererea unei persoane fizice cu capacitate deplină de exerciţiu care, din cauza sănătăţii precare, nu este în stare să-şi exercite şi să-şi apere drepturile şi nici să-şi îndeplinească obligaţiile de sine stătător, asupra ei poate fi instituită curatelă în formă de patronaj.
-(2) Curatorul (asistentul) persoanei fizice capabile poate fi desemnat de organul de tutelă şi curatelă doar cu consimţămîntul acesteia.
-(3) Dispunerea de patrimoniul persoanei puse sub patronaj se efectuează de către curator (asistent) doar în baza unui contract de mandat sau de administrare fiduciară încheiat cu ea. Încheierea de acte juridice privind întreţinerea şi satisfacerea necesităţilor cotidiene ale persoanei puse sub patronaj poate fi efectuată de curator (asistent) cu acordul ei verbal.
-(4) Patronajul asupra persoanei capabile, instituit în conformitate cu alin.(1), încetează la cererea acesteia.
-(5) Curatorul (asistentul) persoanei puse sub patronaj se eliberează de la îndeplinirea obligaţiilor sale în cazurile prevăzute la art.46 alin.(4) şi ( 5).
+Articolul 48. Publicitatea tutelei şi curatelei minorului
+(1) Instituirea, revocarea și modificarea tutelei şi curatelei (inclusiv desemnarea unui alt tutore, tutore supleant sau tutore special ori, după caz, a unui alt curator, curator supleant sau curator special) devin opozabile terţilor doar după înregistrarea acestor date în modul prevăzut de Guvern. Datele respective sînt opozabile terţilor care au luat cunoştinţă de acestea prin altă modalitate.
+(2) În termen de 3 zile de la data luării deciziei de instituire, modificare sau revocare a tutelei ori curatelei, autoritatea tutelară este obligată să transmită o copie de pe aceasta autorităţii competente în scopul efectuării înregistrării respective.
+(3) Dispoziţiile alin. (1) se aplică în mod corespunzător deciziei consiliului de familie al minorului prin care se desemnează sau se revocă tutorele, tutorele supleant sau tutorele special, precum și, după caz, curatorul, curatorul supleant sau curatorul special. Autoritatea tutelară va transmite autorităţii competente o copie de pe decizia respectivă în scopul efectuării înregistrării, cu excepţia cazului contestării acesteia în instanţa de judecată.
+(4) Tutorele, tutorele supleant și tutorele special, precum și curatorul, curatorul supleant și curatorul special sînt în drept de a obţine extrase privind tutela sau, după caz, curatela pe care o exercită, precum și privind minorul. În alte cazuri, extrasele privind tutela sau curatela minorului sînt eliberate dacă solicitantul are un interes legitim, în modul stabilit prin regulament aprobat de Guvern.
+[Art.48 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Secţiunea a 3-a
+Măsurile de ocrotire contractuale și judiciare
+Subsecţiunea 1
+Dispoziţii comune
+Articolul 481. Temeiurile, formele şi principiile
+ocrotirii
+(1) Persoana fizică care a atins majoratul sau care a dobîndit capacitate deplină de exerciţiu pe altă cale legală şi care, în urma unei boli mintale ori a unei deficienţe fizice, mintale sau psihologice, nu poate, în mod deplin, conştientiza acţiunile sale ori exprima voinţa poate beneficia de o măsură de ocrotire, instituită în funcţie de starea sau situaţia sa.
+(2) Dacă nu s-a dispus altfel, măsura de ocrotire are ca scop ocrotirea atît a persoanei, cît şi a intereselor patrimoniale ale acesteia. Măsura de ocrotire poate fi limitată la unul din aceste două domenii.
+(3) Măsurile de ocrotire pot fi contractuale (contractul de asistenţă, mandatul de ocrotire în viitor) și judiciare (ocrotirea provizorie, curatela, tutela).
+(4) Toate măsurile de ocrotire se instituie şi se exercită în condiţiile respectării drepturilor și libertăţilor fundamentale şi a demnităţii persoanei. Măsurile de ocrotire urmăresc interesul şi bunăstarea persoanei în privința căreia se instituie şi favorizează, pe cît este posibil, autonomia acesteia.
+(5) Viaţa sexuală constituie o componentă a vieţii private şi a libertăţii individuale, iar orice restricţie a acesteia trebuie să fie legitimă, adecvată şi proporţională scopului urmărit.
+(6) La luarea oricărei decizii care vizează persoana în privința căreia este instituită o măsură de ocrotire (persoana ocrotită) sau interesele patrimoniale ale acesteia, instanţa de judecată, autoritatea tutelară și persoana însărcinată cu ocrotirea (asistentul, mandatarul împuternicit prin mandat de ocrotire în viitor, ocrotitorul provizoriu, curatorul, tutorele, membrii consiliului de familie) vor acorda prioritate dorinţelor şi sentimentelor persoanei ocrotite, exprimate de sine stătător sau, la solicitarea acesteia, cu ajutorul persoanei de încredere. Dorințele și sentimentele persoanei ocrotite vor avea prioritate, chiar dacă sînt susceptibile de a expune persoana ocrotită unui anumit risc, cu excepţia cazului în care ea se expune unui risc grav ce nu poate fi diminuat prin întreprinderea anumitor măsuri suplimentare.
+(7) Persoana de încredere este orice persoană aleasă liber de către persoana ocrotită pentru a fi asistată în comunicare. În absenţa unei alegeri, persoana de încredere, solicitată de persoana ocrotită, va fi desemnată de către centrul comunitar de sănătate mintală.
+Articolul 482. Competenţa generală a instanţei de judecată
+şi a autorităţii tutelare
+(1) Instanţa de judecată şi autoritatea tutelară exercită supravegherea generală a măsurilor de ocrotire, conform competenţei prevăzute de lege.
+(2) Instanţa de judecată şi autoritatea tutelară pot vizita sau cere să se efectueze vizite persoanelor ocrotite şi celor în privinţa cărora s-a depus o cerere de instituire a măsurii de ocrotire.
+(3) Persoanele însărcinate cu ocrotirea sînt obligate să se prezinte ori de cîte ori sînt convocate şi să comunice orice informaţie în legătură cu exercitarea ocrotirii persoanei.
+(4) Autoritatea tutelară poate, la cerere sau din oficiu, să emită prescripţii obligatorii persoanelor însărcinate cu ocrotirea.
+(5) La cererea motivată a oricărei persoane interesate, după audierea sau citarea acesteia, instanţa de judecată poate să revoce calitatea persoanei însărcinate cu ocrotirea în caz de neexecutare a obligaţiilor ce îi revin, precum şi în baza altor temeiuri prevăzute de lege.
+Articolul 483. Ocrotitorul autorizat
+(1) Poate desfăşura activitate de ocrotitor autorizat persoana care deţine autorizaţia de ocrotitor autorizat, eliberată conform prevederilor legale.
+(2) Autorizaţia de ocrotitor autorizat poate fi solicitată de către persoana fizică cu capacitate deplină de exerciţiu, de instituţia de tratament sau de instituţia socială, precum şi de asociaţia obştească care, conform statutului, are ca principal gen de activitate apărarea drepturilor şi intereselor persoanelor cu boli mintale sau deficienţe fizice, mintale sau psihologice.
+(3) Autoritatea abilitată să autorizeze, condiţiile și modul de autorizare şi de desfăşurare a activităţii de ocrotitor autorizat se stabilesc prin regulament aprobat de Guvern.
+Articolul 484. Obligaţiile generale ale persoanei
+însărcinate cu ocrotirea
+(1) Persoana însărcinată cu ocrotirea, după posibilitate, informează şi consultă cu regularitate persoana ocrotită despre toate aspectele ce ţin de măsura de ocrotire, precum şi îi oferă suport sau o consultă la solicitarea persoanei ocrotite ori reieşind din circumstanţe. În cazul în care persoana însărcinată cu ocrotirea acţionează în numele persoanei ocrotite, aceasta este obligată să se conducă de opinia persoanei reprezentate, în măsura în care persoana ocrotită poate exprima o asemenea opinie.
+(2) Persoana însărcinată cu ocrotirea este obligată să evalueze şi să ia în considerare, după posibilitate, dorinţele şi sentimentele din trecut şi prezent ale persoanei ocrotite.
+(3) Persoana însărcinată cu ocrotirea este obligată să ducă o evidenţă separată a patrimoniului şi a activităţilor persoanei ocrotite şi să păstreze elementele de probă utile pentru a putea demonstra exercitarea corespunzătoare a măsurii de ocrotire.
+(4) Persoana însărcinată cu ocrotirea este obligată să păstreze confidenţialitatea informaţiilor care vizează persoana ocrotită, inclusiv a datelor cu caracter personal, sau care se referă la patrimoniul acesteia, cu excepţia cazului în care dezvăluirea acestor informaţii este necesară în procesul exercitării măsurii de ocrotire ori pentru supravegherea exercitării acesteia de către autoritatea competentă sau instanţa de judecată, precum şi a altor cazuri prevăzute de lege.
+Articolul 485. Respectarea instrucţiunilor în vederea
+ocrotirii
+(1) Instrucţiunile persoanei fizice cu capacitate deplină de exerciţiu referitoare la ocrotirea patrimoniului său în situaţia în care, în urma unei boli mintale sau a unei deficienţe fizice, mintale sau psihologice, nu își va putea, în mod deplin, conştientiza acţiunile ori exprima voinţa (instrucţiuni în vederea ocrotirii) trebuie să fie respectate de către persoanele însărcinate cu ocrotirea şi de instanţa de judecată, cu excepţia cazului în care persoana se expune unui risc grav care nu poate fi diminuat prin întreprinderea anumitor măsuri suplimentare.
+(2) Instrucţiunile în vederea ocrotirii, prin care se desemnează una sau mai multe persoane care vor acţiona în calitate de ocrotitor provizoriu, curator, tutore sau de altă persoană însărcinată cu ocrotirea, trebuie să fie respectate, cu excepţia cazului în care persoana desemnată refuză această calitate, se află în imposibilitate de a o exercita sau dacă persoana care a emis instrucțiunile se expune unui risc grav care nu poate fi diminuat prin întreprinderea anumitor măsuri suplimentare.
+(3) Instrucţiunile în vederea ocrotirii se întocmesc, se modifică şi se revocă în formă scrisă, sub sancţiunea nulităţii absolute, personal de către persoana care emite instrucțiunile.
+(4) Dispoziţiile alin. (1) se aplică în mod corespunzător în cazul în care părinţii sau părintele supraviețuitor, nefiind supuși măsurii de ocrotire judiciare sub forma curatelei sau a tutelei şi exercitînd ocrotirea părintească asupra copilului minor sau asumîndu-şi îngrijirea materială şi morală a acestuia, desemnează una sau mai multe persoane care vor acţiona în calitate, după caz, de ocrotitor provizoriu, curator sau tutore al copilului în situația în care ei vor deceda ori, în urma unei boli mintale sau deficienţe fizice, mintale sau psihologice, nu își vor putea, în mod deplin, conştientiza acţiunile ori exprima voinţa.
+(5) La cererea persoanei care a întocmit instrucţiunile în vederea ocrotirii, acestea pot fi înregistrate în modul prevăzut de Guvern. În caz de modificare sau revocare a instrucţiunilor care au fost înregistrate, persoana va cere înregistrarea modificării sau, după caz, radierea înregistrării.
+(6) Omiterea efectuării înregistrării prevăzute la alin. (5) nu afectează validitatea instrucţiunilor, a modificării sau, după caz, a revocării lor.
+(7) Orice persoană poate invoca existenţa instrucţiunilor în vederea ocrotirii. Instanţa de judecată va cerceta din oficiu înregistrările prevăzute la alin. (5).
+(8) Dacă circumstanţele care au stat la baza întocmirii unor instrucţiuni se modifică esenţial, astfel încît se poate prezuma că persoana nu ar mai întocmi acele instrucţiuni sau le-ar fi întocmit diferit, instanţa de judecată, din oficiu sau la cererea unei persoane interesate, poate să modifice sau să anuleze instrucţiunile respective în cazul în care respectarea acestora va expune persoana unui risc grav care nu poate fi diminuat prin întreprinderea anumitor măsuri suplimentare. Înainte de a hotărî asupra modificării sau anulării instrucțiunilor, instanţa de judecată va audia persoana care a întocmit instrucțiunile şi va constata dorinţele acesteia privind instrucţiunile.
+(9) Dacă instrucţiunile au fost modificate sau revocate ori dacă a fost anulată modificarea sau revocarea acestora, instanţa de judecată le va lua în considerare, cu excepţia cazului în care există dubii că acestea reflectă dorinţele şi sentimentele persoanei.
+Articolul 486. Regimul locuinţei persoanei ocrotite
+(1) Drepturile persoanei ocrotite asupra locuinţei, indiferent dacă constituie un domiciliu sau o reşedinţă, şi asupra bunurilor mobile cu care este dotată aceasta sînt păstrate la dispoziţia persoanei ocrotite atît timp cît este necesar.
+(2) Dreptul de a administra bunurile menţionate la alin. (1) permite doar încheierea contractelor de transmitere în folosinţă temporară a bunurilor, care pot fi rezolvite la întoarcerea în locuinţă a persoanei ocrotite. Orice clauză în detrimentul persoanei ocrotite este nulă.
+(3) Dacă devine necesar sau este în interesul persoanei ocrotite să se dispună de drepturile pe care le are asupra locuinţei sale sau asupra bunurilor mobile cu care este dotată prin încheierea unui act juridic de dispoziţie, de rezoluţiune sau transmitere în folosinţă către terţi, actul juridic trebuie autorizat de către consiliul de familie sau, în absența acestuia, de către autoritatea tutelară.
+(4) Dacă actul juridic prevăzut la alin. (3) are drept scop stabilirea persoanei ocrotite într-o instituţie de tratament sau instituţie socială, este necesar avizul prealabil al unui medic care nu exercită nicio funcţie în acea instituţie. În toate cazurile, bunurile specificate la art. 89 alin. (1) lit. a)–h) din Codul de executare trebuie să fie păstrate la dispoziţia persoanei ocrotite, după caz, în grija instituţiei în care ea este stabilită.
+(5) Dispoziţiile alin. (1)–(3) nu se aplică în caz de partaj silit sau urmărire silită.
+Articolul 487. Regimul conturilor persoanei ocrotite
+(1) Persoana însărcinată cu ocrotirea nu poate modifica conturile deschise pe numele persoanei ocrotite şi nici nu poate deschide conturi la o altă instituţie financiară.
+(2) Prin derogare de la alin. (1), consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate să autorizeze modificarea sau deschiderea contului dacă aceasta este în interesul persoanei ocrotite.
+(3) Dacă persoana ocrotită nu deţine niciun cont, persoana însărcinată cu ocrotirea va deschide un cont pe numele persoanei ocrotite.
+(4) Operaţiunile de încasare, de plată şi de administrare a mijloacelor băneşti efectuate în numele persoanei ocrotite se fac exclusiv prin contul deschis pe numele acesteia, dacă legea nu prevede altfel pentru anumite categorii de plăţi.
+(5) Fructele şi productele generate de banii şi valorile ce aparţin persoanei ocrotite îi revin acesteia în exclusivitate.
+Articolul 488. Remunerarea persoanei însărcinate
+cu ocrotirea
+(1) Persoanele, altele decît ocrotitorul autorizat, exercită cu titlu gratuit măsurile de ocrotire judiciare.
+(2) Prin derogare de la alin. (1), consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate autoriza, luînd în considerare bunurile administrate sau dificultatea exercitării măsurii de ocrotire, plata unei remuneraţii în folosul persoanei însărcinate cu ocrotirea, fixîndu-i mărimea. Remuneraţia se plăteşte din contul persoanei ocrotite.
+(3) Dacă măsura de ocrotire judiciară se exercită de către un ocrotitor autorizat, finanţarea se face total din contul persoanei ocrotite.
+(4) În cazul în care finanţarea măsurii de ocrotire exercitate de către un ocrotitor autorizat nu poate fi asigurată integral de către persoana ocrotită, aceasta se va asigura de către stat, în limitele şi în condiţiile legii.
+(5) Cu titlu de excepţie, consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate să autorizeze alocarea unei remuneraţii ocrotitorului autorizat pentru îndeplinirea unui act sau unui șir de acte, cerute prin măsura de ocrotire şi care implică eforturi pe o perioadă îndelungată sau sînt de o complexitate înaltă, remunerație care ar completa sumele percepute conform alin. (2) şi (3) dacă acestea se adeveresc a fi insuficiente. Această remuneraţie se plăteşte din contul persoanei ocrotite.
+(6) Mandatul de ocrotire în viitor şi contractul de asistenţă sînt cu titlu gratuit, dacă nu s-a stipulat altfel.
+Articolul 489. Răspunderea persoanei însărcinate
+cu ocrotirea
+(1) Persoana însărcinată cu ocrotirea poartă răspundere pentru prejudiciul cauzat în timpul exercitării măsurii de ocrotire.
+(2) Persoana însărcinată cu ocrotirea poartă răspundere pentru încuviințarea încheierii unui act juridic de către persoana ocrotită doar în cazul în care a acţionat cu intenţie sau culpă gravă.
+(3) Mandatarul împuternicit prin mandat de ocrotire în viitor poartă răspundere conform dispoziţiilor legale cu privire la mandat.
+Subsecţiunea a 2-a
+Asistenţa la luarea deciziei
+Articolul 4810. Asistenţa la luarea deciziei
+(1) Dacă o persoană are nevoie de ocrotire doar prin asistenţă la luarea deciziei, aceasta poate să încheie un contract de asistenţă cu persoana care doreşte să o ofere (asistentul). Persoana poate avea unul sau mai mulţi asistenţi.
+(2) Prin contractul de asistenţă, asistentul se obligă să fie prezent la încheierea actelor juridice şi la luarea altor decizii de către persoana ocrotită, să îi ofere informaţia şi consultaţia necesare şi să o ajute în comunicarea cu terţii, indiferent de forma de comunicare.
+(3) Dacă persoana ocrotită încheie un act juridic în formă scrisă sau autentică, asistentul poate contrasemna, cu indicarea calității şi naturii asistenţei acordate.
+(4) Contractului de asistenţă i se aplică în mod corespunzător dispoziţiile legale cu privire la mandat, însă calitatea de asistent nu acordă împuternicirea de a reprezenta persoana ocrotită.
+(5) Asistentul este obligat să notifice autoritatea tutelară despre inițierea şi, după caz, încetarea asistenţei.
+Articolul 4811. Încetarea asistenţei la luarea deciziei
+(1) Orice parte a contractului de asistenţă poate declara rezoluţiunea fără motive.
+(2) În cazul instituirii unei măsuri de ocrotire judiciare, instanţa de judecată pronunţă rezoluţiunea contractului de asistenţă.
+Subsecţiunea a 3-a
+Mandatul de ocrotire în viitor
+§ 1. Dispoziţii comune
+Articolul 4812. Mandatul de ocrotire în viitor
+(1) Persoana fizică care a atins majoratul sau care a dobîndit capacitate deplină de exerciţiu pe altă cale legală (mandantul) poate împuternici unul sau mai mulţi mandatari să o reprezinte în situaţia în care, în urma unei boli mintale sau deficienţe fizice, mintale sau psihologice, ea nu își va putea, în mod deplin, conştientiza acţiunile ori exprima voinţa.
+(2) Dacă mandantul a împuternicit mai mulţi mandatari, el poate decide ca aceştia să acţioneze împreună, concomitent, separat sau doar pentru a înlocui un alt mandatar.
+(3) Persoana în privința căreia a fost instituită măsura de ocrotire judiciară sub forma curatelei poate încheia un mandat de ocrotire în viitor cu acordul curatorului.
+(4) Persoana în privința căreia a fost instituită măsura de ocrotire judiciară sub forma tutelei nu poate încheia un mandat de ocrotire în viitor nici personal, nici prin reprezentant.
+(5) Mandatului de ocrotire în viitor i se aplică dispoziţiile legale cu privire la mandat şi dispoziţiile legale cu privire la reprezentare în măsura în care nu sînt incompatibile cu dispoziţiile prezentei secţiuni. Dispoziţiile art. 252 alin. (2), art. 253, art. 254 alin. (1) şi art. 255 nu se aplică mandatului de ocrotire în viitor.
+(6) În măsura în care mandatarul are împuterniciri de administrare a bunurilor mandantului, se aplică dispoziţiile legale privind contractul de administrare fiduciară.
+Articolul 4813. Mandatul de ocrotire în viitor a copilului
+(1) Părinţii sau părintele supravieţuitor, care nu au fost supuși măsurii de ocrotire judiciare sub forma tutelei sau curatelei şi care exercită ocrotirea părintească asupra copilului minor ori și-au asumat îngrijirea materială şi morală a copilului adult, pot împuternici unul sau mai mulţi mandatari să reprezinte acest copil în situaţia în care, în urma unei boli mintale sau deficienţe fizice, mintale sau psihologice, copilul nu își va putea, în mod deplin, conştientiza acţiunile ori exprima voinţa.
+(2) Mandatul de ocrotire în viitor a copilului produce efecte în cazul în care părinții fie sînt decedați, fie, în urma unei boli mintale sau deficienţe fizice, mintale sau psihologice, nu își pot, în mod deplin, conştientiza acţiunile ori exprima voinţa.
+(3) Mandatului de ocrotire în viitor a copilului i se aplică în mod corespunzător dispoziţiile legale cu privire la mandatul de ocrotire în viitor.
+Articolul 4814. Forma mandatului de ocrotire în viitor
+(1) Mandatul de ocrotire în viitor se poate conţine într-un contract de mandat, într-o procură sau într-un alt act juridic.
+(2) Actul juridic prin care se acordă mandatul de ocrotire în viitor se încheie în formă scrisă, sub sancţiunea nulităţii absolute, sau în formă autentică. Mandantul nu poate încheia actul juridic respectiv prin reprezentant.
+(3) Actul juridic prin care se acordă mandatul de ocrotire în viitor a copilului se încheie în formă autentică.
+Articolul 4815. Împuternicirile mandatarului
+(1) În cazul în care mandatul de ocrotire în viitor se acordă şi pentru ocrotirea persoanei mandantului, mandatarul are drepturile şi obligaţiile tutorelui, iar mandantul are drepturile şi obligaţiile persoanei supuse măsurii de ocrotire judiciare sub forma tutelei, prevăzute la art. 4851–4855. Orice clauză care derogă de la dispozițiile respective în detrimentul mandantului este nulă.
+(2) Mandatul de ocrotire în viitor poate să prevadă:
+a) dreptul mandatarului de a însoţi mandantul oriunde este necesar şi de a-l asista la luarea deciziilor ce țin de sănătatea sa;
+b) împuternicirea mandatarului de a consimţi, în numele mandantului, efectuarea investigaţiilor şi intervenţiilor medicale;
+c) instrucţiuni în vederea ocrotirii.
+(3) Mandatul de ocrotire în viitor poate să prevadă modalitățile de control asupra exercitării acestuia.
+Articolul 4816. Mandatarul
+(1) Poate fi desemnat în calitate de mandatar orice persoană fizică aleasă de către mandant, precum şi orice persoană juridică care deţine calitatea de ocrotitor autorizat.
+(2) Mandatarul persoană fizică, pe durata executării mandatului de ocrotire în viitor, trebuie să dispună de capacitate deplină de exerciţiu, să îndeplinească condiţiile legale pe care trebuie să le întrunească tutorele.
+(3) Dacă nu s-a stipulat altfel, mandatul de ocrotire în viitor se consideră acordat pe termen nedeterminat.
+(4) Pe durata executării mandatului de ocrotire în viitor, mandatarul poate fi revocat doar prin hotărîrea instanţei de judecată, conform art. 4819.
+Articolul 4817. Efectele juridice ale mandatului
+de ocrotire în viitor
+(1) Pentru ca mandatul de ocrotire în viitor să înceapă să producă efecte, mandatarul îl va prezenta autorităţii tutelare împreună cu raportul de expertiză extrajudiciară psihiatrică, efectuată în scopul instituirii unei măsuri de ocrotire, eliberat în ultimele 2 luni. Autoritatea tutelară va contrasemna, va ştampila şi va aplica data contrasemnării pe originalul mandatului, după care îl va returna mandatarului. Data contrasemnării de către autoritatea tutelară se consideră data la care mandatul de ocrotire în viitor a început să producă efecte juridice.
+(2) Mandatarul este obligat să informeze mandantul despre faptul că mandatul de ocrotire în viitor a început să producă efecte.
+(3) Faptul că mandatul de ocrotire în viitor a început să producă efecte nu afectează capacitatea de exerciţiu a mandantului.
+(4) Dispoziţiile privind mandatul de ocrotire în viitor se aplică şi în cazul în care un mandat este formulat astfel încît acesta produce efecte înainte de data indicată la alin. (1) şi se prevede expres că el va continua să producă efecte juridice chiar şi în cazul în care mandantul, în urma unei boli mintale sau deficienţe fizice, mintale sau psihologice, nu își va putea, în mod deplin, conştientiza acţiunile ori exprima voinţa.
+Articolul 4818. Transmiterea executării mandatului
+către un terţ
+(1) Mandatarul îşi exercită mandatul personal. Acesta poate acorda împuterniciri speciale unui sau mai multor terţi pentru anumite acte juridice.
+(2) Mandatarul răspunde pentru faptele terţului în condiţiile art. 1036 alin. (3)–(5).
+Articolul 4819. Încetarea și suspendarea mandatului
+de ocrotire în viitor care a început să
+producă efecte
+(1) Mandatul de ocrotire în viitor care a început să producă efecte încetează în cazul:
+a) decesului persoanei ocrotite sau al instituirii unei măsuri de ocrotire judiciare în privinţa acesteia, dacă hotărîrea instanţei de judecată nu prevede altfel;
+b) decesului mandatarului persoană fizică sau al instituirii unei măsuri de ocrotire judiciare în privinţa acesteia;
+c) intentării procedurii de insolvabilitate față de mandatarul persoană juridică sau al lichidării acesteia;
+d) pierderii de către mandatar a calităţii de ocrotitor autorizat;
+e) revocării mandatului de ocrotire în viitor prin hotărîre judecătorească.
+(2) La cererea oricărei persoane interesate, instanța de judecată poate hotărî revocarea mandatului de ocrotire în viitor în cazurile în care:
+a) persoana ocrotită își poate conştientiza acţiunile ori exprima voinţa, astfel încît nu mai este necesară menţinerea măsurii de ocrotire;
+b) dispoziţiile legale privind reprezentarea între soţi şi privind regimul bunurilor soţilor sînt suficiente pentru a ocroti interesele mandantului;
+c) mandatarul exercită mandatul de ocrotire în viitor într-un mod care lezează interesele sau bunăstarea mandantului. În acest caz, instanţa de judecată poate revoca împuternicirile mandatarului total sau parţial.
+(3) Instanţa de judecată poate suspenda efectele mandatului de ocrotire în viitor pe durata instituirii ocrotirii provizorii.
+(4) În cazul prevăzut la alin. (2) lit. c), instanţa de judecată va institui o măsură de ocrotire judiciară în temeiul şi modul stabilite de lege.
+(5) Hotărîrea judecătorească prin care se suspendă sau se revocă mandatul de ocrotire în viitor se comunică mandantului şi mandatarului, precum şi autorităţii tutelare. Dacă mandatul de ocrotire în viitor a fost înregistrat în modul prevăzut la art. 485 alin. (5), hotărîrea privind suspendarea sau revocarea se va expedia pentru a se face înregistrarea sau radierea necesară.
+Articolul 4820. Intervenţia instanţei de judecată în modul
+de exercitare a mandatului de ocrotire în
+viitor
+(1) Orice persoană interesată poate cere instanţei de judecată să anuleze contrasemnarea mandatului de ocrotire în viitor, efectuată conform art. 4817 alin. (1), dacă nu au fost întrunite condiţiile legale, precum și să interpreteze conținutul acestuia sau să determine condiţiile și modul de executare a mandatului de ocrotire în viitor.
+(2) Înainte de a examina cererea privind anularea mandatului de ocrotire în viitor, instanţa de judecată va audia mandatarul şi, după necesitate, mandantul, precum şi va acorda preferință dorinţelor şi interesului prioritar ale mandantului şi bunăstării sale.
+Articolul 4821. Acordarea împuternicirilor suplimentare
+de către instanţa de judecată
+(1) Dacă, din cauza limitei împuternicirilor acordate, mandatul de ocrotire în viitor nu permite ocrotirea suficientă a intereselor personale sau patrimoniale ale persoanei ocrotite, la cererea mandatarului instanţa de judecată poate, prin hotărîre judecătorească, să îi acorde împuternicirile suplimentare necesare. Dacă se constată prezenţa unui conflict de interese între mandant şi mandatar, în temeiul cererii respective instanţa de judecată poate, prin hotărîre judecătorească, să împuternicească un mandatar special pentru îndeplinirea unor acte juridice care depăşesc limitele mandatului existent.
+(2) Mandatarul împuternicit prin mandatul de ocrotire în viitor şi mandatarul special împuternicit de către instanţa de judecată sînt independenţi şi nu poartă răspundere unul faţă de celălalt, fiind obligaţi să se informeze reciproc despre deciziile luate.
+Articolul 4822. Obligaţia mandatarului privind inventarierea
+patrimoniului mandantului şi întocmirea dării
+de seamă
+Mandatarului care are împuterniciri de administrare a patrimoniului mandantului îi revin obligaţiile prevăzute la art. 4873 şi 4877–4881.
+§ 2. Mandatul autentic
+Articolul 4823. Întocmirea, modificarea şi revocarea
+mandatului autentic
+(1) Dacă mandatul de ocrotire în viitor a fost acordat prin act juridic unilateral încheiat în formă autentică, mandatarul îl poate accepta prin contrasemnare.
+(2) Pînă la momentul în care mandatul începe să producă efecte juridice, mandantul îl poate modifica, în aceeaşi formă, sau îl poate revoca prin notificarea mandatarului şi notarului privind revocarea, iar mandatarul poate să renunţe la mandat prin notificarea mandantului şi notarului. Pentru terți, revocarea mandatului respectiv produce efecte din momentul îndeplinirii formalităților de publicitate.
+Articolul 4824. Formalităţile de publicitate
+Mandatul de ocrotire în viitor acordat printr-un act juridic încheiat în formă autentică se supune aceloraşi formalităţi de publicitate ca şi procurile autentice.
+Articolul 4825. Împuternicirile acordate de mandatul
+autentic
+(1) Prin derogare de la dispoziţiile art. 1032, mandatul de ocrotire în viitor formulat în termeni generali împuterniceşte mandatarul la încheierea tuturor actelor juridice prevăzute la art. 4874–4875.
+(2) Mandatarul poate încheia un act juridic de dispoziţie cu titlu gratuit doar cu autorizarea autorităţii tutelare.
+§ 3. Mandatul în formă scrisă
+Articolul 4826. Întocmirea, modificarea şi revocarea
+mandatului în formă scrisă
+(1) Mandatul de ocrotire în viitor acordat prin act juridic încheiat în formă scrisă trebuie datat şi semnat personal de către mandant.
+(2) Mandatarul acceptă mandatul prin contrasemnarea acestuia.
+(3) Pînă la momentul în care mandatul începe să producă efecte, mandantul îl poate modifica sau revoca în aceeaşi formă, iar mandatarul poate renunţa la mandat prin notificarea mandantului.
+Articolul 4827. Limitele împuternicirilor acordate
+de mandatul în formă scrisă
+(1) În partea ce ţine de administrarea patrimoniului, mandatul de ocrotire în viitor acordat prin act juridic încheiat în formă scrisă se limitează la actele juridice prevăzute la art. 4874.
+(2) Dacă în interesul mandantului sau pentru bunăstarea acestuia este necesară încheierea unui act juridic prevăzut la art. 4875 ori a unui act juridic pentru care mandatarul nu este împuternicit prin mandatul de ocrotire în viitor, mandatarul poate cere instanţei de judecată să autorizeze încheierea de către mandatar a actului juridic respectiv, conform art. 4821.
+(3) Orice clauză din mandatul în formă scrisă care contravine dispoziţiilor alin. (1) şi (2) este nulă.
+Subsecţiunea a 4-a
+Dispoziţii comune privind măsurile
+de ocrotire judiciare
+Articolul 4828. Caracterul subsidiar al măsurilor
+de ocrotire judiciare
+(1) Măsura de ocrotire judiciară poate fi instituită de către instanţa de judecată doar în cazul în care aceasta este necesară şi dacă persoana nu este ocrotită suficient prin aplicarea dispoziţiilor legale privind obligaţia de întreţinere a soţului şi a rudelor, privind regimul bunurilor comune ale soţilor, privind asistenţa la luarea deciziei sau prin mandatul de ocrotire în viitor a persoanei respective.
+(2) Măsura de ocrotire judiciară trebuie să fie individualizată şi proporţională gradului în care, în urma unei boli mintale sau deficienţe fizice, mintale sau psihologice, persoana nu își poate conştientiza acţiunile ori exprima voinţa.
+Articolul 4829. Persoanele în privinţa cărora poate
+fi instituită măsura de ocrotire judiciară
+(1) Măsura de ocrotire judiciară poate fi instituită în privinţa unei persoane cu capacitate deplină de exerciţiu.
+(2) Cererea privind instituirea măsurii de ocrotire judiciare poate fi depusă şi în privinţa unui minor care nu are capacitate deplină de exerciţiu, dar care a împlinit vîrsta de 17 ani. În acest caz, măsura de ocrotire judiciară se va considera instituită doar din data la care persoana devine majoră.
+Articolul 4830. Cererea de instituire a măsurii de ocrotire
+judiciare
+(1) Cererea de instituire a măsurii de ocrotire judiciare poate fi depusă de către:
+a) persoana fizică în privinţa căreia se cere instituirea măsurii de ocrotire judiciare;
+b) soţul persoanei indicate la lit. a);
+c) persoana cu care persoana indicată la lit. a) locuieşte împreună de mai mult de 3 ani;
+d) ruda sau afinul persoanei indicate la lit. a);
+e) mandatarul împuternicit printr-un mandat de ocrotire în viitor, indiferent dacă mandatul produce sau a încetat să producă efecte;
+f) autoritatea tutelară.
+(2) Autoritatea tutelară poate depune cererea prevăzută la alin. (1) doar dacă persoanele indicate la alin. (1) lit. a)–e) au omis să o depună în termen de 3 luni de la data sesizării acestora de către autoritatea tutelară.
+Articolul 4831. Revocarea măsurii de ocrotire judiciare
+(1) La cererea persoanei ocrotite sau a persoanelor indicate la art. 4830 alin. (1), instanţa de judecată poate dispune revocarea măsurii de ocrotire judiciare dacă necesitatea acesteia a dispărut.
+(2) Orice persoană poate sesiza autoritatea tutelară privind dispariţia necesităţii măsurii de ocrotire judiciare. În acest caz, autoritatea tutelară este obligată, fără întîrzieri nejustificate, să examineze sesizarea şi, după caz, să ceară revocarea măsurii conform alin. (1).
+Articolul 4832. Publicitatea instituirii, modificării şi revocării
+măsurii de ocrotire judiciare
+(1) Instituirea măsurii de ocrotire judiciare, condiţiile acesteia, modificarea (inclusiv desemnarea altui ocrotitor provizoriu, curator sau tutore) şi revocarea acesteia devin opozabile terţilor doar după înregistrarea acestor date în modul prevăzut de Guvern.
+(2) În scopul efectuării înregistrării indicate la alin. (1), instanța de judecată va transmite autorității competente, în termen de 3 zile de la data rămînerii definitive a hotărîrii prin care se instituie, se modifică sau se revocă măsura de ocrotire judiciară, o copie de pe dispozitivul hotărîrii respective.
+(3) Dispozițiile alin. (1) se aplică în mod corespunzător deciziei consiliului de familie prin care se desemnează ori se revocă tutorele, precum şi deciziei consiliului de familie sau, după caz, a autorităţii tutelare prin care, în temeiul art. 4872, se limitează împuternicirile tutorelui. Autoritatea tutelară este obligată să transmită autorităţii competente o copie de pe această decizie în scopul efectuării înregistrării respective, cu excepţia cazului contestării deciziei în instanţa de judecată.
+(4) Persoana are dreptul de a obţine extrase privind măsurile de ocrotire judiciare referitoare la propria persoană, la copiii săi minori, precum și la persoana asupra căreia exercită ocrotirea provizorie, curatela sau tutela. În alte cazuri, extrase privind măsurile de ocrotire judiciare se eliberează, în modul prevăzut de Guvern, dacă solicitantul are un interes legitim.
+[Prevederile art. 4832 intră în vigoare după crearea condiţiilor necesare, dar nu mai tîrziu de 2 ani de la data publicării prezentei legi]
+Subsecţiunea a 5-a
+Ocrotirea provizorie
+Articolul 4833. Instituirea ocrotirii provizorii
+(1) Instanţa de judecată poate institui, prin hotărîre judecătorească, ocrotirea provizorie în privinţa persoanei care, în temeiul art. 481 alin. (1), are nevoie de ocrotire temporară sau de reprezentare pentru îndeplinirea doar a anumitor acte juridice.
+(2) Prin derogare de la alin. (1), ocrotirea provizorie poate fi instituită de către instanţa de judecată prin încheiere, pentru perioada desfăşurării procedurii de instituire a curatelei sau a tutelei.
+(3) În caz de urgenţă, instanţa de judecată poate institui ocrotirea provizorie cu amînarea audierii persoanei. Instanţa de judecată va audia persoana în cel mai scurt termen. În cazul în care prezența persoanei nu este posibilă din motive obiective, instanța de judecată urmează să asigure audierea acesteia la locul aflării ei, constatînd, după caz, imposibilitatea comunicării cu aceasta.
+Articolul 4834. Efectele juridice ale ocrotirii provizorii
+asupra capacității de exercițiu
+(1) Persoana în privința căreia este instituită ocrotirea provizorie îşi păstrează capacitatea deplină de exerciţiu.
+(2) Persoana în privința căreia este instituită ocrotirea provizorie nu poate să încheie de sine stătător acte juridice pentru care instanţa de judecată a desemnat un ocrotitor provizoriu conform art. 4836.
+Articolul 4835. Ocrotirea patrimoniului
+(1) Contractul prin care persoana ocrotită a însărcinat o altă persoană cu administrarea bunurilor continuă să producă efecte pe durata ocrotirii provizorii, cu excepţia cazurilor în care instanţa de judecată l-a revocat sau suspendat, cu audierea sau citarea administratorului.
+(2) În absenţa unui mandat, se aplică regulile privind gestiunea de afaceri.
+(3) Persoanele care sînt în drept să ceară instituirea curatelei sau tutelei sînt obligate să îndeplinească actele de conservare, necesare pentru păstrarea patrimoniului persoanei ocrotite, din momentul în care au luat cunoștință atît despre urgenţa acestor acte, cît şi despre instituirea ocrotirii provizorii. Dispoziţiile respective se aplică persoanei sau instituţiei de tratament ori instituţiei sociale la care este stabilită persoana în privinţa căreia este instituită ocrotirea provizorie.
+Articolul 4836. Desemnarea ocrotitorului provizoriu
+(1) Dacă este necesară o ocrotire care depăşeşte condiţiile prevăzute la art. 4835, orice persoană interesată poate cere instanţei de judecată să desemneze un ocrotitor provizoriu, în condiţiile şi conform modalităţilor prevăzute la art. 4842–4847, în scopul încheierii unui sau mai multor acte juridice, inclusiv de dispoziţie, necesare pentru administrarea patrimoniului persoanei ocrotite.
+(2) Ocrotitorul provizoriu poate fi împuternicit de către instanţa de judecată să încheie actele juridice şi să săvîrşească alte acţiuni prevăzute la art. 4834.
+(3) Ocrotitorul provizoriu este obligat să depună dare de seamă în privinţa activităţii sale persoanei ocrotite şi autorităţii tutelare în condiţiile prevăzute la art. 4877–4881.
+(4) Ocrotitorul provizoriu poate fi împuternicit de către instanţa de judecată cu ocrotirea persoanei conform art. 4851–4857.
+Articolul 4837. Termenul şi încetarea ocrotirii provizorii
+(1) Ocrotirea provizorie poate fi instituită pentru un termen nu mai mare de un an şi poate fi reînnoită o singură dată în condiţiile prevăzute la art. 4840 alin. (4).
+(2) Dacă nu s-a dispus revocarea în sensul art. 4831, ocrotirea provizorie încetează:
+a) prin expirarea termenului pentru care a fost instituită;
+b) după îndeplinirea actelor juridice pentru care a fost instituită;
+c) din momentul la care se consideră instituită curatela sau tutela.
+Subsecţiunea a 6-a
+Măsurile de ocrotire judiciare
+sub forma curatelei şi tutelei
+§ 1. Dispoziţii generale
+Articolul 4838. Cazurile cînd pot fi instituite măsurile
+de ocrotire judiciare sub forma curatelei
+și tutelei
+(1) În privința persoanei care, fără a fi lipsită complet de discernămînt, are nevoie, în temeiul dispoziţiilor art. 481 alin. (1), să fie asistată în mod continuu poate fi instituită măsura de ocrotire judiciară sub forma curatelei.
+(2) Curatela se instituie doar dacă prin ocrotirea provizorie nu se va putea asigura ocrotirea suficientă a persoanei.
+(3) În privința persoanei care, în temeiul dispoziţiilor art. 481 alin. (1), trebuie să fie reprezentată în mod continuu poate fi instituită măsura de ocrotire judiciară sub forma tutelei.
+(4) Tutela se instituie doar dacă nici prin ocrotirea provizorie şi nici prin curatelă nu se va putea asigura ocrotirea suficientă a persoanei.
+Articolul 4839. Termenul măsurilor de ocrotire judiciare
+sub forma curatelei și tutelei
+(1) Instanţa de judecată stabileşte termenul pentru care se instituie măsura de ocrotire judiciară sub forma curatelei sau tutelei, care poate fi de maximum 5 ani.
+(2) Prin derogare de la alin. (1), în cazul instituirii tutelei, instanța de judecată, în baza raportului de expertiză psihiatrică care confirmă că, avînd în vedere stadiul dezvoltării științei, nu există semne vădite că starea persoanei se va îmbunătăți, poate stabili, prin hotărîre motivată, un termen de pînă la 10 ani.
+Articolul 4840. Reînnoirea măsurii de ocrotire judiciare
+(1) Instanţa de judecată poate reînnoi măsura de ocrotire judiciară pentru un termen egal cu termenul iniţial.
+(2) Prin derogare de la alin. (1), în cazul reînnoirii tutelei, instanţa de judecată, în baza raportului de expertiză psihiatrică prin care se confirmă că nu există semne vădite că starea persoanei se va îmbunătăţi, poate stabili, prin hotărîre motivată, un termen de pînă la 20 de ani.
+(3) Instanţa de judecată, în orice moment, poate revoca sau modifica măsura de ocrotire judiciară, precum și înlocui cu o altă măsură de ocrotire judiciară, după audierea persoanei însărcinate cu ocrotirea.
+(4) Instanţa de judecată pronunţă hotărîrea la cererea uneia dintre persoanele indicate la art. 4830 alin. (1) după examinarea unui certificat medical eliberat de către un medic psihiatru. Instanţa de judecată poate dispune, prin încheiere, efectuarea unei expertize judiciare psihiatrice.
+Articolul 4841. Încetarea măsurilor de ocrotire judiciare
+sub forma curatelei și tutelei
+(1) Măsurile de ocrotire judiciare sub forma curatelei și tutelei încetează la expirarea termenului pentru care au fost instituite, dacă nu s-a dispus reînnoirea acestora, la rămînerea definitivă a hotărîrii judecătoreşti privind revocarea măsurii respective și în cazul decesului persoanei ocrotite.
+(2) Instanţa de judecată poate dispune încetarea măsurii de ocrotire judiciare dacă persoana ocrotită domiciliază în afara teritoriului Republicii Moldova, iar acest fapt face imposibilă supravegherea şi controlul exercitării măsurii respective.
+§ 2. Persoanele însărcinate cu ocrotirea
+Articolul 4842. Incompatibilități la exercitarea măsurilor
+de ocrotire judiciare sub forma curatelei
+și a tutelei
+(1) Sarcina curatelei şi tutelei poate fi îndeplinită doar de persoana care nu se află în una din incompatibilităţile prevăzute la art. 38 alin. (4).
+(2) Lucrătorii medicali şi farmaciştii, precum şi asistenţii medicali care se află în relaţii de muncă cu instituţia în care este internată persoana asupra căreia se instituie tutela sau curatela ori care prestează servicii acestei persoane, inclusiv la domiciliu, nu pot exercita sarcini de curatelă sau tutelă în privinţa pacienţilor săi.
+Articolul 4843. Desemnarea curatorului și tutorelui
+(1) Curatorul și tutorele sînt desemnați de către instanţa de judecată. În cazul în care a fost instituit consiliul de familie, tutorele este desemnat de către acesta conform art. 4850 alin. (7).
+(2) Avînd în vedere situaţia persoanei ocrotite, aptitudinile celor interesaţi, precum şi componenţa şi valoarea patrimoniului supus administrării, instanţa de judecată poate desemna mai mulţi curatori sau mai mulţi tutori pentru exercitarea comună a măsurii de ocrotire.
+(3) Fără încuviinţarea celorlalţi curatori sau tutori, curatorul și, respectiv, tutorele poate încheia doar actele juridice prevăzute la art. 4874.
+(4) Instanţa de judecată poate diviza măsura de ocrotire între un curator (sau tutore) însărcinat cu ocrotirea persoanei şi un curator (sau tutore) însărcinat cu administrarea patrimoniului, precum și poate încredinţa administrarea anumitor bunuri unui curator supleant (sau tutore supleant).
+(5) Dacă instanţa de judecată nu a stabilit altfel, persoanele desemnate în aplicarea alin. (2)–(4) sînt independente şi nu poartă răspundere una faţă de alta, fiind obligate să se informeze reciproc despre deciziile luate.
+Articolul 4844. Desemnarea în absenţa instrucţiunilor
+în vederea ocrotirii
+(1) În absenţa instrucţiunilor în vederea ocrotirii, indicate la art. 485, instanţa de judecată desemnează în calitate de curator sau tutore soţul persoanei ocrotite ori pe cel cu care persoana ocrotită a locuit cel puţin 3 ani, cu excepţia cazului în care convieţuirea lor a încetat sau dacă un alt motiv întemeiat împiedică desemnarea acestuia.
+(2) Dacă desemnarea curatorului sau tutorelui conform alin. (1) este imposibilă, instanţa de judecată desemnează în calitate de curator sau tutore părintele, ruda sau o altă persoană care locuieşte cu persoana ocrotită ori care menţine legături puternice şi stabile cu aceasta, cu excepţia cazului în care un motiv întemeiat împiedică desemnarea persoanei respective.
+(3) La desemnarea curatorului și a tutorelui, instanţa de judecată va lua în considerare dorințele și sentimentele exprimate de persoana ocrotită, relaţiile sale obişnuite, interesul manifestat de candidaţi şi eventualele recomandări ale părinţilor şi rudelor, precum şi ale persoanelor din anturajul persoanei ocrotite.
+Articolul 4845. Desemnarea ocrotitorului autorizat
+(1) Dacă niciun membru al familiei şi nicio persoană apropiată nu îşi poate asuma exercitarea măsurii de ocrotire sub forma curatelei sau a tutelei, instanţa de judecată va desemna un ocrotitor autorizat.
+(2) Ocrotitorul autorizat nu poate refuza încheierea actelor juridice urgente pe care le impune interesul persoanei ocrotite sau bunăstarea acesteia, în special a actelor juridice de conservare.
+(3) Dacă este în interesul persoanei stabilite ori îngrijite într-o instituţie de tratament sau instituţie socială, instanţa de judecată poate desemna în calitate de curator sau tutore o persoană ori un serviciu din cadrul instituţiei respective, în cazul în care instituţia este ocrotitor autorizat.
+Articolul 4846. Exercitarea personală a curatelei
+și a tutelei
+(1) Curatela şi tutela sînt sarcini personale.
+(2) Curatorul şi tutorele, păstrînd răspunderea, pot beneficia de asistenţa terţilor.
+Articolul 4847. Renunțarea la calitatea de curator
+și de tutore
+Curatorul și tutorele nu pot renunța la calitatea lor dacă aceasta este deținută de mai puţin de 5 ani, cu excepţia cazului cînd există motive întemeiate (dificultatea exercitării măsurii de ocrotire din cauza bolii sau stării de neputinţă a curatorului sau tutorelui, schimbării domiciliului în altă ţară, dezacordul cu dorinţele şi sentimentele persoanei ocrotite etc.). Soţul şi copiii persoanei ocrotite, precum şi ocrotitorul autorizat pot renunţa la calitatea de curator și tutore doar din motiv întemeiat.
+Articolul 4848. Curatorul supleant şi tutorele supleant
+(1) Instanţa de judecată poate, dacă consideră necesar şi sub rezerva împuternicirilor consiliului de familie, dacă acesta există, să desemneze un curator supleant sau, după caz, un tutore supleant.
+(2) Dacă curatorul sau tutorele este părinte sau rudă a persoanei ocrotite pe o linie colaterală, curatorul supleant sau, după caz, tutorele supleant se desemnează, după posibilitate, din cealaltă linie colaterală.
+(3) Dacă niciun membru al familiei şi nicio persoană apropriată nu poate fi curator supleant sau tutore supleant, instanţa de judecată poate desemna un ocrotitor autorizat.
+(4) Curatorul supleant sau, după caz, tutorele supleant supraveghează actele juridice încheiate de curator sau, după caz, de tutore în vederea exercitării măsurii de ocrotire şi informează fără întîrziere autoritatea tutelară dacă se constată încălcări în exercitarea acesteia. În caz contrar, el va fi obligat să repare prejudiciul cauzat persoanei ocrotite.
+(5) Curatorul supleant sau, după caz, tutorele supleant asistă sau, după caz, reprezintă persoana ocrotită dacă interesele ei contravin intereselor curatorului sau, după caz, tutorelui ori dacă curatorul sau tutorele nu pot să o asiste sau să o reprezinte din cauza limitei împuternicirilor lor.
+(6) Calitatea de curator supleant și de tutore supleant încetează în momentul încetării calităţii de curator și, respectiv, de tutore. Curatorul supleant și tutorele supleant sînt obligaţi să ceară substituirea curatorului sau, după caz, a tutorelui în caz de încetare a calităţii acestuia. În caz contrar, el va fi obligat să repare prejudiciul cauzat persoanei ocrotite.
+Articolul 4849. Curatorul special şi tutorele special
+(1) Dacă nu a fost desemnat curatorul supleant sau, după caz, tutorele supleant, curatorul și tutorele ale căror interese contravin intereselor persoanei ocrotite, datorită încheierii unui act juridic sau unui șir de acte juridice, precum și curatorul și tutorele care nu pot să asiste sau să reprezinte persoana ocrotită din cauza limitei împuternicirilor lor trebuie să solicite consiliului de familie sau, în absenţa acestuia, autorităţii tutelare desemnarea unui curator special ori, după, caz, a unui tutore special.
+(2) Desemnarea curatorului special și a tutorelui special poate fi efectuată și la cererea oricărei persoane interesate ori din oficiu.
+(3) În cazurile prevăzute la art. 581 din Codul de procedură civilă, curatorul special sau tutorele special se desemnează de către instanţa de judecată care examinează pricina la care participă persoana ocrotită.
+Articolul 4850. Consiliul de familie al persoanei ocrotite
+(1) La instituirea măsurii de ocrotire judiciare sub forma tutelei, instanţa de judecată poate institui consiliul de familie dacă necesitatea de ocrotire a persoanei sau componența și valoarea patrimoniului justifică aceasta şi dacă componenţa familiei şi a anturajului persoanei ocrotite permit acest lucru.
+(2) Membrii consiliului de familie sînt desemnaţi de instanţa de judecată pentru durata tutelei.
+(3) Consiliul de familie este compus din cel puţin 3 membri cu drept de vot. Tutorele este membru din oficiu al consiliului de familie, fără drept de vot.
+(4) Pot fi membri ai consiliului de familie părinţii şi alte rude ale persoanei ocrotite, precum şi alte persoane care manifestă interes pentru persoana ocrotită şi pentru bunăstarea acesteia.
+(5) Instanţa de judecată va asigura, în măsura posibilităților, reprezentarea în consiliu a ambelor linii colaterale de rudenie.
+(6) Instanţa de judecată desemnează membrii consiliului de familie în baza dorinţelor şi sentimentelor exprimate de persoana ocrotită, a relaţiilor sale obişnuite, a interesului pe care îl manifestă candidaţii şi a eventualelor recomandări ale părinţilor şi rudelor, precum şi ale anturajului său.
+(7) Consiliul de familie desemnează şi revocă tutorele, tutorele supleant şi, după caz, tutorele special conform art. 4843–4849.
+(8) În cazul absenţei consiliului de familie, atribuţiile legale ale acestuia sînt exercitate de către autoritatea tutelară. Pentru perioada în care nu există un consiliu de familie, tutorele, tutorele supleant sau, după caz, tutorele special sînt desemnați şi revocați de către instanţa de judecată.
+§ 3. Ocrotirea intereselor personale
+nepatrimoniale
+Articolul 4851. Obligaţia de informare despre situaţia
+personală
+Tutorele și curatorul sînt obligați să ofere persoanei ocrotite, fără a prejudicia interesele acesteia, informaţiile, pe care terţii sînt obligaţi să i le ofere, privind situaţia sa personală, privind actele şi deciziile care o vizează, gradul de urgenţă și efectele acestora, precum şi consecinţele neîndeplinirii actului sau neluării deciziei dacă persoana ocrotită le refuză.
+Articolul 4852. Actele strict personale
+(1) Dacă legea nu prevede altfel, actele care implică consimţămîntul strict personal al persoanei ocrotite nu pot fi încheiate de către persoana însărcinată cu ocrotirea şi nici nu necesită încuviinţarea acesteia.
+(2) Se consideră acte strict personale declaraţia de naştere a copilului, recunoaşterea acesteia, actele de ocrotire părintească a copilului, declaraţia de alegere sau schimbare a numelui copilului şi consimţămîntul pentru adopţia persoanei ocrotite ori a copilului persoanei respective.
+Articolul 4853. Asistenţa și reprezentarea în alte
+acte personale
+(1) În afară de cazurile prevăzute la art. 4852, persoana ocrotită ia de sine stătător decizii privitoare la interesele sale personale nepatrimoniale în măsura în care starea sa permite acest lucru.
+(2) Dacă starea persoanei ocrotite nu îi permite să ia de sine stătător o decizie, consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate să prevadă că aceasta va beneficia de asistenţa persoanei însărcinate cu ocrotirea fie în toate actele privitoare la persoana sa, fie doar în anumite acte indicate expres. Dacă această asistenţă nu este suficientă, instanţa de judecată poate, suplimentar, să împuternicească tutorele cu reprezentarea persoanei ocrotite în actele respective.
+(3) Persoana însărcinată cu ocrotirea poate întreprinde în privinţa persoanei ocrotite măsuri de protecţie, necesare evitării pericolului generat de comportamentul persoanei ocrotite. Persoana însărcinată cu ocrotirea va informa neîntîrziat consiliul de familie despre aceasta sau, în absenţa consiliului, autoritatea tutelară.
+(4) În caz de urgenţă, persoana însărcinată cu ocrotirea nu poate, fără autorizarea consiliului de familie sau, în absenţa acestuia, a autorităţii tutelare, lua o decizie care are ca efect atingerea gravă a integrităţii corporale a persoanei ocrotite ori a intimităţii vieţii private a acesteia.
+Articolul 4854. Soluţionarea conflictului de interese
+(1) Aplicarea dispoziţiilor art. 4851–4855 nu poate avea drept efect derogarea de la dispoziţiile legii speciale care impun intervenţia unui reprezentant legal.
+(2) Dacă exercitarea măsurii de ocrotire a fost încredinţată unei persoane ori unei instituţii de tratament sau sociale în condiţiile art. 4845 alin. (3) şi dacă acea persoană ori instituţie trebuie să realizeze un act pentru care se cere autorizarea autorităţii tutelare sau a consiliului de familie, conform art. 4853 alin. (3) şi (4), sau trebuie să îndeplinească în beneficiul persoanei ocrotite o diligenţă ori un act pentru care legea specială cere intervenţia autorităţii tutelare, aceasta din urmă poate decide, dacă consideră că există un conflict de interese, să încredinţeze realizarea actului respectiv curatorului supleant sau tutorelui supleant, dacă a fost desemnat, iar în absenţa acestuia, unui curator special sau unui tutore special.
+Articolul 4855. Libertatea de alegere a reşedinţei
+şi libertatea de comunicare
+(1) Persoana ocrotită are dreptul de a alege liber reşedinţa sa.
+(2) Persoana ocrotită are dreptul de a comunică cu terţii, fie că sînt părinţii sau alte persoane. Persoana ocrotită are dreptul de a fi vizitată şi, după caz, de a fi găzduită de către aceştia.
+(3) În cazul în care persoana însărcinată cu ocrotirea impune restricții în exercitarea drepturilor stabilite la alin. (1) și (2), decide consiliul de familie sau, în absenţa acestuia, autoritatea tutelară.
+Articolul 4856. Autorizarea căsătoriei
+(1) Căsătoria persoanei în privinţa căreia s-a instituit curatela este permisă la propria dorinţă dacă instanţa de judecată nu a dispus, în hotărîrea de instituire a curatelei, că aceasta este permisă doar cu încuviințarea curatorului sau, în caz de refuz al curatorului, cu autorizarea autorităţii tutelare.
+(2) Căsătoria persoanei în privinţa căreia s-a instituit tutela este permisă doar cu autorizarea consiliului de familie sau, în absenţa acestuia, a autorităţii tutelare, după audierea viitorilor soţi şi, după caz, a părinţilor.
+Articolul 4857. Darea de seamă asupra ocrotirii intereselor
+personale nepatrimoniale
+La momentul instituirii măsurilor de ocrotire judiciare sub forma curatelei și tutelei sau ulterior, consiliul de familie ori, în absenţa acestuia, autoritatea tutelară stabileşte condiţiile în care curatorul sau, după caz, tutorele depune darea de seamă privind ocrotirea intereselor personale nepatrimoniale ale persoanei ocrotite.
+§ 4. Actele juridice încheiate pe durata curatelei
+Articolul 4858. Asistenţa curatorului
+(1) Persoana supusă măsurii de ocrotire judiciare sub forma curatelei nu poate, fără asistenţa curatorului şi autorizarea autorităţii tutelare, să încheie niciun act juridic prevăzut la art. 4875.
+(2) La încheierea unui act juridic în formă scrisă sau în formă autentică, asistenţa curatorului constă în aplicarea semnăturii lîngă semnătura persoanei ocrotite.
+(3) Curatorul este obligat să explice persoanei ocrotite conţinutul actului juridic şi efectele acestuia, de asemenea este obligat să dea dovadă de diligenţa pe care o manifestă în propriile activităţi.
+(4) Sub sancţiunea nulităţii absolute, orice înştiinţare aferentă actelor prevăzute la art. 4875 transmisă persoanei ocrotite trebuie transmisă şi curatorului.
+(5) Nu se poate autoriza, iar curatorul nu este în drept să încuviinţeze încheierea de către persoana ocrotită a actelor juridice prevăzute la art. 4876 alin. (1) lit. a) și b), cu excepţiile prevăzute la art. 4876 alin. (2).
+Articolul 4859. Împuternicirile de reprezentare
+ale curatorului
+(1) Curatorul, în exercitarea atribuţiilor de ocrotire a persoanei ocrotite, nu poate substitui persoana ocrotită pentru a acționa din numele acesteia.
+(2) Dacă constată că persoana supusă măsurii de ocrotire judiciare sub forma curatelei îşi compromite grav interesele, curatorul poate cere instanţei de judecată să fie împuternicit cu încheierea unui anume act juridic sau să ceară instituirea tutelei.
+(3) Dacă curatorul refuză să ofere asistenţă la încheierea unui act juridic pentru care se cere asistenţa sa, persoana ocrotită poate cere autorizarea autorităţii tutelare pentru a încheia actul juridic respectiv de sine stătător.
+Articolul 4860. Liberalităţile persoanei supuse măsurii
+de ocrotire judiciare sub forma curatelei
+(1) Persoana ocrotită poate să întocmească testament de sine stătător.
+(2) Persoana ocrotită poate face donaţii doar cu asistenţa curatorului.
+(3) Se consideră că curatorul are interes care contravine intereselor persoanei ocrotite dacă el este donatar.
+Articolul 4861. Determinarea conţinutului capacităţii
+de exerciţiu
+La instituirea măsurii de ocrotire judiciare sub forma curatelei, prin derogare de la dispoziţiile art. 4858 și în scopul respectării dispozițiilor art. 4828 alin. (2), instanţa de judecată va enumera categoriile de acte juridice pe care persoana ocrotită are capacitatea de a le încheia de sine stătător ori va enumera categoriile de acte juridice pentru care este necesară asistenţa sau reprezentarea curatorului.
+Articolul 4862. Curatela restrînsă
+(1) În orice moment, instanţa de judecată poate dispune instituirea curatelei restrînse.
+(2) În cazul curatelei restrînse, curatorul doar percepe veniturile persoanei ocrotite pe un cont deschis pe numele acesteia.
+(3) Curatorul asigură de sine stătător plata datoriilor persoanei ocrotite faţă de terţi şi depune excedentul pe contul lăsat la dispoziţia persoanei ocrotite sau îl transmite în numerar.
+(4) Fără a aduce atingere dispoziţiilor art. 4855, autoritatea tutelară poate autoriza încheierea de către curator a contractului de închiriere a spaţiului locativ sau a unui alt contract care asigură o locuinţă persoanei ocrotite.
+(5) Curatela restrînsă este supusă dispoziţiilor art. 4873 şi 4877–4881, care se aplică în mod corespunzător.
+§ 5. Actele juridice încheiate pe durata tutelei
+Articolul 4863. Împuternicirile de reprezentare
+ale tutorelui
+(1) Cu excepţia cazurilor în care legea sau uzanţele împuternicesc persoana supusă măsurii de ocrotire judiciare sub forma tutelei să acţioneze de sine stătător și doar în cazul în care persoana ocrotită este lipsită în totalitate de discernămînt, tutorele o reprezintă în toate actele juridice.
+(2) În cazul în care persoana nu este lipsită în totalitate de discernămînt, în scopul respectării dispozițiilor art. 4828 alin. (2), instanţa de judecată, în hotărîrea judecătorească privind instituirea tutelei, va enumera actele juridice pe care persoana ocrotită are capacitatea să le încheie de sine stătător sau cu asistenţa tutorelui, fără a fi necesare alte autorizări.
+Articolul 4864. Administrarea patrimoniului persoanei
+supuse măsurii de ocrotire judiciare sub
+forma tutelei
+Sub rezerva dispozițiilor art. 4863 alin. (2), persoana supusă măsurii de ocrotire judiciare sub forma tutelei este reprezentată în actele juridice necesare administrării patrimoniului său conform art. 4867–4881.
+Articolul 4865. Reprezentarea în procedurile judiciare
+(1) Tutorele poate reprezenta persoana ocrotită în vederea apărării drepturilor personale nepatrimoniale ale acesteia doar după autorizarea consiliului de familie sau, în absenţa consiliului, a autorității tutelare ori dacă reprezentarea i-a fost prescrisă de către una dintre acestea.
+(2) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate prescrie tutorelui renunţarea la acţiune sau încheierea unui contract de tranzacţie.
+Articolul 4866. Testamentul persoanei supuse măsurii
+de ocrotire judiciare sub forma tutelei
+(1) Persoana ocrotită poate să întocmească sau să modifice de sine stătător un testament după instituirea tutelei doar cu autorizarea consiliului de familie sau, în absenţa acestuia, a autorităţii tutelare. În acest caz, tutorele nu poate asista şi reprezenta persoana ocrotită.
+(2) Persoana ocrotită poate revoca de sine stătător testamentul întocmit anterior sau după instituirea tutelei.
+Subsecţiunea a 7-a
+Administrarea patrimoniului persoanei supuse
+măsurii de ocrotire judiciare sub forma tutelei
+§ 1. Dispoziţii generale
+Articolul 4867. Principiile administrării
+(1) Tutorele reprezintă persoana ocrotită în actele necesare administrării patrimoniului acesteia.
+(2) În procesul administrării, tutorele este obligat să îngrijească în mod prudent, diligent şi să acţioneze exclusiv în interesul şi întru bunăstarea persoanei ocrotite.
+Articolul 4868. Rolul tutorelui supleant
+Tutorele supleant supraveghează derularea operaţiunilor pe care tutorele este obligat să le realizeze, precum și modul de investire sau reinvestire a capitalului conform prescripţiilor consiliului de familie sau, în absenţa acestuia, a autorităţii tutelare.
+Articolul 4869. Intervenţia terţilor
+(1) Terţii pot să informeze autoritatea tutelară despre acţiunile sau omisiunile tutorelui care sînt de natură să lezeze interesul sau bunăstarea persoanei ocrotite.
+(2) Dacă la desemnarea tutorelui, terţii cunosc despre unele acţiuni sau omisiuni ale acestuia care compromit vădit interesul sau bunăstarea persoanei ocrotite, ei sînt obligaţi să informeze autoritatea tutelară despre aceasta.
+§ 2. Competenţa consiliului de familie
+și a autorităţii tutelare
+Articolul 4870. Bugetul anual şi contractarea
+profesioniştilor
+(1) Tutorele aprobă bugetul necesar pentru exercitarea tutelei în funcţie de importanţa bunurilor persoanei ocrotite, aprobă operaţiunile necesare pentru administrarea acestor bunuri şi sumele anuale necesare pentru întreţinerea persoanei ocrotite şi pentru rambursarea cheltuielilor de administrare a bunurilor.
+(2) Tutorele informează consiliul de familie sau, în absenţa acestuia, autoritatea tutelară despre aprobarea bugetului. În caz de dificultate, bugetul este aprobat de către consiliul de familie sau, în absenţa acestuia, de către autoritatea tutelară.
+(3) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate împuternici tutorele să includă la cheltuieli de administrare remuneraţia administratorilor contractaţi sub propria lui răspundere.
+(4) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate împuternici tutorele să încheie un contract de administrare a valorilor mobiliare şi a instrumentelor financiare care aparţin persoanei ocrotite. Acesta va alege terţul contractant luînd în considerare experienţa profesională şi solvabilitatea acestuia.
+(5) Contractul prevăzut la alin. (4) poate fi rezolvit în numele persoanei ocrotite în orice moment. Orice clauză contrară prezentului articol este nulă.
+Articolul 4871. Efectuarea investiţiilor
+(1) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară determină suma pe care tutorele este obligat s-o investească în capitalul (bani, valori mobiliare sau alte instrumente financiare, părţi sociale, creanţe etc.) persoanei ocrotite.
+(2) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară prescrie toate măsurile pe care le consideră utile la investirea sau reinvestirea capitalului fie în avans, fie pentru fiecare operaţiune.
+(3) Investirea sau reinvestirea se realizează de către tutore în termenul şi în modul prescrise. Dacă omite termenul prescris, tutorele va datora persoanei ocrotite dobînzi de întîrziere.
+(4) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate prescrie ca o anumită sumă de bani să fie depusă pe un cont special al persoanei ocrotite, de pe care tutorele va putea efectua extrageri doar cu autorizarea acestora.
+Articolul 4872. Limitarea împuternicirilor tutorelui
+(1) Consiliul de familie sau, în absenţa acestuia, autoritatea tutelară poate stabili categoria de acte juridice pe care tutorele nu le poate încheia fără autorizarea acestora.
+(2) În cazul în care consiliul de familie refuză să ofere tutorelui autorizarea necesară, acesta o poate solicita de la autoritatea tutelară dacă se constată că încheierea actului juridic este în interesul persoanei ocrotite sau pentru bunăstarea acesteia.
+§ 3. Împuternicirile tutorelui
+Articolul 4873. Întocmirea inventarului
+(1) În termen de 3 luni de la instituirea tutelei, tutorele iniţiază, în prezenţa tutorelui supleant, dacă acesta a fost desemnat, inventarierea bunurilor persoanei ocrotite şi transmite autorităţii tutelare actul inventarierii. Tutorele este obligat să asigure actualizarea inventarului.
+(2) Pentru întocmirea inventarului, tutorele este în drept să obţină toate informațiile şi documentele necesare de la orice persoană publică sau privată, fără a-i putea fi opus secretul profesional, secretul bancar sau caracterul personal al datelor.
+(3) Dacă inventarul nu a fost întocmit sau se confirmă că acesta este incomplet ori inexact, persoana ocrotită, iar după decesul acesteia – succesorul, poate face dovada valorii şi componenţei bunurilor prin orice mijloace de probă.
+Articolul 4874. Actele juridice care nu sînt supuse
+autorizării
+(1) Tutorele poate încheia doar actele juridice de conservare şi, sub rezerva dispoziţiilor art. 4863 alin. (2), actele de administrare necesare administrării patrimoniului persoanei ocrotite.
+(2) Tutorele acţionează de sine stătător în instanţa de judecată pentru a apăra drepturile patrimoniale ale persoanei ocrotite.
+(3) Prin derogare de la dispoziţiile legale, contractul de locaţiune încheiat de către tutore în calitate de locator nu acordă persoanei ocrotite în calitatea sa de locatar, față de care a încetat tutela, niciun drept de preemţiune la expirarea contractului de locaţiune. Aceste dispoziţii nu se aplică contractului de locaţiune încheiat înainte de instituirea tutelei şi prelungit de către tutore.
+Articolul 4875. Actele juridice supuse autorizării
+(1) Următoarele acte juridice, încheiate în numele persoanei ocrotite, nu produc efecte juridice decît după autorizare din partea consiliului de familie sau, în absenţa acestuia, a autorităţii tutelare:
+a) contractul de vînzare-cumpărare şi alte acte juridice de dispoziţie;
+b) contractul de locaţiune şi alte acte juridice de administrare a bunurilor persoanei ocrotite al căror termen depăşeşte termenul măsurii de ocrotire;
+с) contractul de tranzacţie;
+d) contractul de partaj al bunurilor comune;
+e) actul de acceptare sau renunţare la moştenire;
+f) contractul de primire a unui împrumut;
+g) contractul dintre tutore sau persoanele afiliate acestuia şi persoana ocrotită, cu excepţia actelor cu titlu gratuit, încheiate în folosul persoanei ocrotite. La încheierea acestui act juridic, tutorele se consideră că are un interes care contravine interesului persoanei ocrotite.
+(2) Decizia de autorizare trebuie să determine condiţiile esenţiale ale actului juridic şi, după caz, preţul sau altă contraprestaţie. Autorizarea nu este necesară în caz de vînzare silită ori în cazul exercitării dreptului de gaj sau ipotecă.
+(3) Autorizarea unui act juridic de dispoziţie privitor la un drept real al persoanei ocrotite asupra unui bun imobil sau a unei cote în capitalul unei persoane juridice de drept privat se poate acorda doar după evaluarea valorii de piaţă a acestora.
+(4) Este posibilă dispunerea de dreptul real prevăzut la alin. (3) contra unui preţ sau altei contraprestaţii mai mici decît valoarea sa de piaţă doar din motive întemeiate, bazate exclusiv pe interesul persoanei ocrotite, care va fi argumentat în decizia de autorizare.
+(5) Persoana care încheie actul juridic în numele persoanei ocrotite este obligată, fără întîrziere, să depună la autoritatea tutelară o copie de pe actul juridic autorizat conform dispoziţiilor prezentului articol, precum şi copiile de pe elementele de probă care demonstrează executarea obligaţiilor apărute din actul juridic respectiv.
+Articolul 4876. Actele juridice interzise
+(1) Nu pot fi autorizate, iar tutorele nu este în drept să încheie:
+a) acte privind înstrăinarea gratuită a bunurilor sau a drepturilor persoanei ocrotite, inclusiv privind remiterea datoriei, renunţarea gratuită la un drept dobîndit, eliberarea unei garanţii reale sau personale constituite în folosul persoanei ocrotite, fără ca obligaţia garantată să fi fost stinsă integral, precum şi acte privind constituirea unei garanţii reale sau personale pentru a garanta obligaţiile unui terţ;
+b) acte privind dobîndirea de la un terţ a unui drept sau a unei creanţe pe care acesta o are faţă de persoana ocrotită;
+c) acte privind exercitarea activității de întreprinzător sau profesionale în numele persoanei ocrotite.
+(2) Excepţie de la prevederile alin. (1) lit. a) fac donaţiile neînsemnate pentru îndeplinirea unor obligaţii morale.
+§ 4. Pregătirea, verificarea şi aprobarea
+dării de seamă
+Articolul 4877. Darea de seamă anuală
+(1) Tutorele întocmeşte anual o dare de seamă privind administrarea patrimoniului, la care se anexează documentele primare.
+(2) La întocmirea dării de seamă, tutorele va solicita instituţiilor la care sînt deschise conturi în numele persoanei ocrotite descifrarea operaţiunilor pentru anul de referinţă, fără a i se putea opune secretul profesional, secretul bancar sau caracterul personal al datelor.
+(3) Tutorele este obligat să asigure confidenţialitatea dării de seamă. Copiile de pe darea de seamă şi de pe documentele primare se remit de către tutore persoanei ocrotite, dacă aceasta are cel puţin 16 ani, precum şi tutorelui supleant, dacă a fost desemnat, şi, dacă tutorele consideră necesar, altor persoane însărcinate cu ocrotirea.
+(4) După audierea persoanei ocrotite şi obţinerea consimţămîntului ei, dacă aceasta a împlinit vîrsta de 16 ani şi dacă starea ei permite, autoritatea tutelară poate să autorizeze remiterea copiilor de pe darea de seamă şi de pe documentele primare sau o parte din acestea soţului, părintelui sau unei alte persoane apropiate dacă aceştia au un interes legitim.
+Articolul 4878. Verificarea dării de seamă
+(1) Tutorele depune anual darea de seamă privind administrarea patrimoniului, împreună cu documentele primare, în vederea verificării acestora de către autoritatea tutelară.
+(2) Dacă a fost desemnat un tutore supleant, el va verifica darea de seamă înainte de transmiterea acesteia împreună cu observaţiile sale.
+(3) Pentru verificarea dării de seamă, autoritatea tutelară este în drept să obțină datele prevăzute la art. 4877 alin. (2).
+(4) Autoritatea tutelară poate dispune verificarea dării de seamă de către tutorele supleant, dacă acesta a fost desemnat.
+(5) Dacă a fost instituit consiliul de familie, autoritatea tutelară poate dispune verificarea şi aprobarea darii de seamă de către acesta.
+Articolul 4879. Scutirea de obligaţia întocmirii dării
+de seamă
+Dacă tutela nu a fost încredinţată unui ocrotitor autorizat, autoritatea tutelară poate, prin derogare de la dispoziţiile art. 4877 şi 4878 şi avînd în vedere valoarea neînsemnată a patrimoniului persoanei ocrotite, să scutească tutorele de obligația întocmirii dării de seamă.
+Articolul 4880. Auditarea dării de seamă
+În cazul în care componenţa și valoarea patrimoniului persoanei ocrotite justifică și permit efectuarea verificării şi aprobării dării de seamă de către un expert sau auditor, autoritatea tutelară poate dispune acest lucru pe cheltuiala persoanei ocrotite și luînd în considerare interesul patrimonial al persoanei ocrotite.
+Articolul 4881. Darea de seamă la încetarea
+calităţii de tutore
+(1) La încetarea calității de tutore, tutorele este obligat să întocmească o dare de seamă a operaţiunilor intervenite de la întocmirea ultimei dări de seamă anuale şi să o supună verificării şi aprobării conform art. 4878 şi 4880.
+(2) În termen de 3 luni de la încetarea calităţii de tutore, tutorele sau succesorii lui sînt obligaţi să remită copiile de pe dările de seamă pentru ultimii 3 ani şi de pe darea de seamă indicată la alin. (1) persoanei însărcinate cu administrarea bunurilor persoanei ocrotite sau succesorilor acesteia și, după caz, persoanei care a dobîndit capacitate deplină de exerciţiu, dacă nu le-a primit.
+(3) Dispoziţiile alin. (1) şi (2) nu se aplică în cazul prevăzut la art. 4865.
+(4) Tutorele este obligat să remită persoanelor indicate la alin. (2) documentele primare necesare continuării administrării bunurilor persoanei ocrotite sau să asigure devoluţiunea patrimoniului succesoral, precum şi actul inventarierii iniţiale şi actualizările întocmite.
+[Secțiunea 3 introdusă prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Secţiunea a 4-a
+Dispoziţii comune privind tutela și curatela
+minorilor şi măsurile de ocrotire
+§ 1. Autoritatea tutelară
+Articolul 4882. Autoritatea tutelară şi competenţa
+în domeniul măsurilor de ocrotire
+(1) Autorităţi tutelare sînt autorităţile administraţiei publice locale.
+(2) Autoritatea tutelară de la domiciliul sau reşedinţa persoanei fizice minore ori a persoanei supuse unei măsuri de ocrotire (denumită în sensul prezentei secțiuni – persoană ocrotită) supraveghează activitatea tutorelui, curatorului sau altei persoane însărcinate cu ocrotirea.
+(3) Autoritatea tutelară:
+a) exercită atribuţiile prevăzute expres de lege în domeniul măsurilor de ocrotire;
+b) îndeplinește alte atribuţii de supraveghere a exercitării măsurii de ocrotire, cu excepţia celor date prin lege în competenţa instanţei de judecată şi consiliului de familie;
+c) ţine dosarul personal al persoanei ocrotite, îl transmite instanţei de judecată şi asigură restituirea lui după finalizarea procesului.
+Articolul 4883. Procedura aplicabilă autorităţii tutelare
+La luarea deciziei cu privire la tutela și curatela minorului, precum și la măsurile de ocrotire, autoritatea tutelara va respecta dispozițiile prezentei secţiuni.
+Articolul 4884. Audierea persoanei ocrotite
+(1) Autoritatea tutelară trebuie să audieze persoana ocrotită care a împlinit vîrsta de 10 ani. Aceasta poate fi însoţită de o altă persoană pe care a ales-o, care nu va avea calitatea de reprezentant al său.
+(2) Audierea persoanei ocrotite se poate desfăşura la sediul autorităţii tutelare, la domiciliul sau reşedinţa persoanei, în instituţia de tratament sau instituţia socială, precum şi în orice alt loc corespunzător.
+(3) Audierea are loc în şedinţă închisă, la care pot participa persoanele enumerate la art. 4830 alin. (1). Persoana poate solicita să fie audiată în regim individual şi închis, fiind însoţită, la dorinţă, de o persoana de încredere. Dacă autoritatea tutelară consideră necesar, persoana ocrotită poate fi audiată în prezenţa celorlalţi participanţi.
+(4) Dacă consideră oportun, autoritatea tutelară poate efectua audierea persoanei în prezenţa medicului care o tratează sau în prezenţa altei persoane pertinente.
+(5) Autoritatea tutelară va depune toate eforturile posibile pentru a constata dorinţele şi sentimentele persoanei ocrotite privind decizia care urmează a fi luată, folosind metodele de comunicare care corespund stării sau situaţiei persoanei audiate.
+Articolul 4885. Audierea persoanei ocrotite
+la locul aflării
+În cazul în care prezența persoanei nu este posibilă din motive obiective, autoritatea tutelară asigură audierea acesteia la locul aflării ei, constatînd prin actul său, după caz, imposibilitatea comunicării cu aceasta.
+Articolul 4886. Dezbaterea în contradictoriu
+a chestiunii
+La cererea oricărei persoane interesate sau din oficiu, autoritatea tutelară poate dispune ca soluţionarea unei chestiuni să se desfăşoare în contradictoriu.
+Articolul 4887. Dreptul la asistenţă juridică
+(1) În cadrul oricărei proceduri desfăşurate de autoritatea tutelară, minorul care a împlinit vîrsta de 10 ani și persoana supusă unei măsuri de ocrotire îşi pot alege un avocat sau pot solicita desemnarea unui avocat care acordă asistenţă juridică garantată de stat, indiferent de opinia sau opoziţia persoanei însărcinate cu ocrotirea.
+(2) Dreptul de a fi asistat de un avocat ales sau de un avocat care acordă asistenţă juridică garantată de stat va fi adus la cunoştinţa persoanei ocrotite în textul citaţiei şi la prima prezentare a acesteia.
+(3) Dacă, pe durata desfăşurării procedurii de către autoritatea tutelară, persoana ocrotită nu este asistată de avocat, la cererea acesteia, în cazul în care a împlinit vîrsta de 10 ani, autoritatea tutelară solicită coordonatorului oficiului teritorial al Consiliului Naţional pentru Asistenţă Juridică Garantată de Stat desemnarea unui avocat, care va dispune de împuternicirile unui reprezentant legal în procedura respectivă.
+(4) Asistenţa juridică prevăzută la alin. (3) se acordă gratuit.
+Articolul 4888. Audierea altor persoane
+La cererea participanţilor sau din oficiu, autoritatea tutelară audiază persoanele indicate la art. 4830 alin. (1).
+Articolul 4889. Efectuarea constatărilor
+La cererea participanţilor sau din oficiu, autoritatea tutelară poate dispune efectuarea unei anchete sociale sau efectuarea unor constatări, evaluări sau expertize.
+Articolul 4890. Consultarea dosarului personal
+(1) Pot lua cunoştinţă cu materialele dosarului personal şi efectua extrase şi copii de pe acestea persoana ocrotită sau persoana însărcinată cu ocrotirea, precum şi avocaţii acestora.
+(2) În cazul în care cererea de consultare a dosarului este depusă de către persoana ocrotită, autoritatea tutelară poate, prin decizie motivată, comunicată persoanei ocrotite, să excludă unul sau mai multe acte din dosar dacă acestea ar putea cauza un prejudiciu moral grav.
+(3) Avocatul persoanei ocrotite poate să facă extrase şi copii de pe materialele dosarului. Avocatului i se interzice să transmită copiile astfel obţinute către persoana ocrotită sau terţi.
+(4) Copiile de pe deciziile consiliului de familie, de pe deciziile autorităţii tutelare şi de pe hotărîrile judecătoreşti, aferente tutelei și curatelei minorilor și măsurilor de ocrotire, se păstrează în dosarul personal şi se pot elibera doar participanţilor şi persoanelor care au participat la luarea deciziilor ori au fost vizate în decizii sau hotărîri.
+(5) Terţii care justifică un interes legitim pot obţine copii de pe dispozitivul deciziilor şi hotărîrilor menţionate la alin. (4) cu autorizarea autorităţii tutelare.
+Articolul 4891. Decizia autorităţii tutelare
+(1) Autoritatea tutelară soluţionează cererile care îi sînt adresate în termen de 30 de zile de la data depunerii dacă acestea nu necesită obținerea unor informaţii suplimentare, prezentarea de probe suplimentare sau orice altă cercetare, cu excepţia cazurilor în care autoritatea tutelară dispune efectuarea unei dezbateri în contradictoriu conform art. 4886. Autoritatea tutelară va avertiza petiţionarul despre aceasta şi îl va informa despre data la care se va lua decizia.
+(2) Deciziile autorităţii tutelare în chestiunile privind tutela și curatela minorilor și măsurile de ocrotire trebuie să fie motivate şi adoptate într-un termen care nu va depăşi 3 luni din data depunerii cererii respective. Dispozitivul deciziei se comunică persoanei ocrotite, persoanei însărcinate cu ocrotirea şi, după caz, membrilor consiliului de familie în termen de 3 luni din data luării acesteia.
+§ 2. Consiliul de familie
+Articolul 4892. Convocarea consiliului de familie
+(1) Şedinţa consiliului de familie se convoacă de către autoritatea tutelară la cererea:
+a) a 2 membri din consiliu;
+b) tutorelui sau tutorelui supleant;
+c) minorului pus sub curatelă sau tutelă care a împlinit vîrsta de 10 ani;
+d) persoanei supuse unei măsuri de ocrotire.
+(2) Înştiinţarea despre şedinţă se expediază membrilor consiliului cu cel puţin 10 zile înainte de data desfăşurării şedinţei.
+(3) Membrii consiliului de familie sînt obligaţi să se prezinte personal la şedinţă. Membrului care, fără motiv întemeiat, nu se prezintă la şedinţă i se poate revoca calitatea respectivă.
+(4) Prin hotărîrea judecătorească în baza căreia se desemnează membrii consiliului de familie sau printr-o hotărîre ulterioară, la cererea unui membru sau din oficiu, instanţa de judecată poate stabili faptul că consiliul adoptă decizii fără participarea autorităţii tutelare.
+Articolul 4893. Şedinţa consiliului de familie
+Şedinţa consiliului de familie este deliberativă şi în cadrul acesteia pot fi adoptate decizii dacă la ea participă majoritatea membrilor consiliului cu drept de vot. În cazul în care nu există cvorum, autoritatea tutelară poate convoca o şedinţă repetată sau, în caz de urgenţă, poate lua o decizie de sine stătător.
+Articolul 4894. Adoptarea deciziei consiliului de familie
+fără convocarea în şedinţă (prin corespondență)
+(1) Dacă autoritatea tutelară consideră că consiliul de familie se poate pronunţa pe o problemă fără a se convoca în şedinţă, aceasta va comunica fiecărui membru textul deciziei, anexînd explicaţiile necesare.
+(2) Membrului care, fără motiv întemeiat, nu îşi exprimă votul i se poate revoca calitatea respectivă.
+Articolul 4895. Adoptarea deciziei de către consiliul
+de familie
+(1) Decizia consiliului de familie se adoptă cu votul majorităţii membrilor cu drept de vot.
+(2) Fiecare membru al consiliului de familie, cu excepția tutorelui și, după caz, a curatorului, are dreptul la un vot, care nu este transmisibil.
+(3) Membrul consiliului de familie este obligat să declare dacă are un interes direct sau indirect în privinţa chestiunii supuse dezbaterii (conflictul de interese) şi să se abţină de la vot. Prezența membrului aflat în conflict de interese se ia în calcul la determinarea cvorumului pentru adoptarea deciziei, dar votul acestuia nu se ia în considerare la adoptarea deciziei vizate de conflictul de interese. Dispoziţiile legale privind conflictul de interese în cazul reprezentării la încheierea actelor juridice se aplică în mod corespunzător.
+Articolul 4896. Secretul şedinţelor consiliului
+de familie
+(1) Şedinţele consiliului de familie sînt închise.
+(2) Membrii consiliului de familie sînt obligaţi să păstreze confidenţialitatea datelor în relaţiile cu terţii.
+(3) Persoana ocrotită poate asista la şedinţa consiliului doar cu titlu consultativ, cu excepţia cazului cînd autoritatea tutelară consideră că aceasta ar contraveni interesului persoanei ocrotite.
+(4) Deciziile consiliului de familie trebuie să fie motivate. Dacă decizia nu este adoptată în unanimitate, opinia fiecărui membru se va anexa la decizie.
+Articolul 4897. Întocmirea deciziei consiliului
+de familie
+(1) Fiecare membru prezent la şedinţa consiliului de familie trebuie să semneze decizia adoptată în cadrul şedinţei.
+(2) În decurs de 10 zile din data adoptării deciziei, președintele ales al şedinţei consiliului de familie depune decizia adoptată la autoritatea tutelară.
+Articolul 4898. Opoziţia autorităţii tutelare
+(1) Dacă autoritatea tutelară constată că decizia consiliului de familie contravine intereselor persoanei ocrotite sau dorinţelor şi sentimentelor acesteia, trebuie să facă opoziţie la decizia consiliului de familie în termen de 15 zile de la data recepționării conform art. 4897 alin. (2), prin luarea unei decizii privind opoziția în acest sens, care nu se supune contestării.
+(2) Prin cerere motivată, persoana ocrotită sau persoana însărcinată cu ocrotirea poate să facă opoziţie la decizia consiliului de familie în termen de 15 zile de la recepţionarea acesteia de către autoritatea tutelară conform art. 4897 alin. (2).
+(3) În cazul existenţei unei opoziţii conform alin. (1) sau (2), autoritatea tutelară, în termen de 10 zile din data depunerii cererii respective, va convoca consiliul de familie şi va organiza desfăşurarea unei noi ședințe, pe care o va prezida, fără a avea drept de vot, pentru a se delibera din nou asupra chestiunii faţă de care s-a făcut opoziţia.
+(4) Decizia consiliului de familie produce efecte juridice după expirarea termenului de 15 zile de la recepţionarea acesteia de către autoritatea tutelară conform art. 4897 alin. (2) dacă pe parcursul termenului dat nu s-a făcut opoziţie.
+§ 3. Contestarea deciziilor autorităţii tutelare
+și ale consiliului de familie
+Articolul 4899. Contestarea în instanţa de judecată
+(1) Deciziile autorităţii tutelare, precum şi deciziile consiliului de familie, adoptate conform art. 4898 alin. (3), pot fi contestate în instanţa de judecată în termen de 30 de zile de la data adoptării acestora, cu excepţia cazului cînd contestarea se depune de către persoana ocrotită, persoana însărcinată cu ocrotirea şi autoritatea tutelară, în acest caz, termenul de contestare curgînd din data comunicării dispozitivului deciziei. În cazul contestării deciziei autorităţii tutelare, depunerea unei cereri prealabile nu este necesară.
+(2) Decizia contestată se anulează de către instanţa de judecată, în tot sau în parte, în cazul în care:
+a) este ilegală în fond ca fiind emisă contrar prevederilor legii;
+b) este ilegală ca fiind emisă cu încălcarea competenţei;
+c) este ilegală ca fiind emisă cu încălcarea esenţială a procedurii stabilite.
+(3) La cererea persoanei care depune contestaţia sau din oficiu, instanţa de judecată, pe lîngă anularea deciziei contestate, dispune fie obligarea emitentului să adopte o nouă decizie, fie pronunţarea unei hotărîri judecătoreşti prin care va soluţiona fondul chestiunii vizate de decizia contestată.
+Articolul 48100. Persoanele care au dreptul de a depune
+contestaţie
+(1) Contestaţia poate fi depusă de către persoanele enumerate la art. 4830 alin. (1), precum şi de către persoanele însărcinate cu ocrotirea, chiar dacă acestea nu au participat la procedura desfăşurată de autoritatea tutelară sau la şedinţa consiliului de familie.
+(2) Citaţia despre judecarea contestaţiei se va expedia tuturor persoanelor care au dreptul de a depune contestaţie şi care vor avea dreptul să participe la examinarea acesteia.
+(3) Instanţa de judecată care soluţionează contestaţia decide din oficiu asupra suspendării sau nesuspendării deciziei contestate, ţinînd cont de interesele persoanei ocrotite.
+[Secțiunea 4 introdusă prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Secţiunea a 5-a
+Declararea persoanei dispărute fără veste
+sau decedate
+[Secțiunea 5 denumirea introdusă prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 49. Declararea persoanei dispărută fără veste
 (1) Persoana fizică poate fi declarată dispărută fără veste dacă lipseşte de la domiciliu şi a trecut cel puţin un an din ziua primirii ultimelor ştiri despre locul aflării ei. Dispariţia se declară de instanţa de judecată la cererea persoanei interesate.
 (2) În cazul imposibilităţii de a se determina ziua primirii ultimelor informaţii despre dispărut, termenul pentru declararea dispariţiei fără veste va începe să curgă din prima zi a lunii următoare celei în care au fost primite ultimele informaţii despre dispărut, iar în cazul imposibilităţii de a determina această lună, de la întîi ianuarie al următorului an.
@@ -981,6 +1590,7 @@ c) numărul, tipul şi valoarea nominală a acţiunilor; clasele de acţiuni şi
 d) mărimea aportului şi numărul de acţiuni atribuit fiecărui fondator;
 [Art.157 lit.e) exclusă prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 f) modul de ţinere a registrelor societăţii;
+[Art.157 lit.f) abrogată prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
 g) ordinea de încheiere a contractelor cu conflict de interese.
 Articolul 158. Capitalul social al societăţii pe acţiuni
 (1) Mărimea minimă a capitalului social al societăţii pe acţiuni este stabilită prin lege.
@@ -1006,6 +1616,8 @@ Articolul 161. Acţiunile
 (2) Acţiunea atestă dreptul acţionarului de a participa la conducerea societăţii, de a primi dividende şi o parte din valoarea bunurilor societăţii în cazul lichidării acesteia, precum şi alte drepturi prevăzute de lege sau de actul de constituire al societăţii.
 [Art.161 al.(2) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (3) Societăţile pe acţiuni sînt în drept să emită acţiuni nominative. Clasele acţiunilor sînt determinate prin actul de constituire. Acţiunile nominative pot fi emise în formă materială, pe suport de hîrtie, sau în formă dematerializată, prin înscriere în cont.
+(3) Societăţile pe acţiuni sînt în drept să emită acţiuni nominative. Clasele acţiunilor sînt determinate prin actul de constituire. Acţiunile nominative pot fi emise în formă dematerializată, prin înscriere în cont.
+[Art.161 al.(3) modificat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
 [Art.161 al.(3) în redacţia LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (4) Acţiunile nu pot fi emise pentru o sumă mai mică decît valoarea lor nominală.
 (5) Nu pot fi emise acţiuni noi pînă cînd nu sînt plătite cele din emisiunea precedentă.
@@ -1053,14 +1665,19 @@ a) denumirea, sediul şi numărul de identificare de stat (IDNO) al societăţii
 [Art.164 al.(3), lit.a) modificată LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 [Art.164 al.(3), lit.a) modificată prin LP130-XVI din 07.06.07, MO94-97/06.07.07 art.418]
 b) numele, alte date din actul de identitate, domiciliul acţionarului sau al deţinătorului de obligaţiuni persoană fizică; denumirea, numărul de identificare de stat (IDNO) şi sediul acţionarului sau deţinătorului de obligaţiuni persoană juridică ori deţinătorului nominal de acţiuni sau obligaţiuni;
-[Art.164 al.(3), lit.b) modificată LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+[Art.164 al.(3), lit.b) modificată prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 c) numărul de acţiuni sau obligaţiuni, tipul, clasa şi valoarea nominală a acţiunilor sau obligaţiunilor deţinute de fiecare acţionar sau deţinător de obligaţiuni;
 d) data la care fiecare acţionar sau deţinător de obligaţiuni a dobîndit sau a înstrăinat acţiuni sau obligaţiuni.
 [Art.164 al.(3) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (4) Registrul trebuie să aibă o rubrică specială în care se menţionează sechestrul, gajul sau o altă grevare a acţiunilor sau obligaţiunilor fiecărui acţionar sau deţinător de obligaţiuni.
+[Art.164 abrogat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
+[Art.164 modificat prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
+[Art.164 modificată prin LP130-XVI din 07.06.07, MO94-97/06.07.07 art.418]
+[Art.164 modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 Articolul 165. Certificatul de acţiuni sau obligaţiuni
 (1) Societatea pe acţiuni este obligată să elibereze certificate de acţiuni sau de obligaţiuni deţinătorilor de acţiuni sau de obligaţiuni materializate.
 (2) Certificatul confirmă că persoana căreia îi este eliberat deţine un anumit număr de acţiuni sau de obligaţiuni ale societăţii emitente.
+[Art.165 abrogat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
 [Art.165 modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 Articolul 166. Dreptul de înstrăinare a acţiunii şi obligaţia
 de răscumpărare
@@ -1101,6 +1718,8 @@ Articolul 170. Asigurarea accesului acţionarilor la informaţiile
 societăţii pe acţiuni
 (1) Societatea pe acţiuni este obligată să publice, cu cel puţin 10 zile înainte de ţinerea adunării generale anuale a acţionarilor, în publicaţiile sale bilanţul contabil anual, bilanţul profitului şi pierderilor, valoarea contabilă a acţiunilor şi a obligaţiunilor, alte date, conform legii.
 (2) Societatea pe acţiuni este obligată să pună la dispoziţia acţionarilor, în condiţiile legii şi ale actului de constituire, informaţii despre conducerea, administrarea şi reprezentarea societăţii, despre situaţia financiară şi altele, inclusiv actul de constituire, certificatul de înregistrare a societăţii şi a acţiunilor, regulamentele societăţii, procesele-verbale ale adunărilor generale, ale consiliului, lista membrilor consiliului, a administratorilor, contractele cu registratorul, cu auditorul, dările de seamă contabile şi fiscale, rapoartele cenzorului.
+(2) Societatea pe acţiuni este obligată să pună la dispoziţia acţionarilor, în condiţiile legii şi ale actului de constituire, informaţii despre conducerea, administrarea şi reprezentarea societăţii, despre situaţia financiară şi altele, inclusiv actul de constituire, certificatul de înregistrare a societăţii şi a acţiunilor, regulamentele societăţii, procesele-verbale ale adunărilor generale, ale consiliului, lista membrilor consiliului, a administratorilor, contractele cu auditorul, dările de seamă contabile şi fiscale, rapoartele cenzorului.
+[Art.170 al.(2) modificat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
 (3) La cererea acţionarilor, societatea este obligată să elibereze, pe cheltuiala solicitanţilor, copii şi extrase de pe documentele indicate la alin.(2).
 S e c ţ i u n e a a 3-a
 COOPERATIVELE
@@ -1384,23 +2003,39 @@ Articolul 221. Nulitatea actului juridic fictiv sau simulat
 (1) Actul juridic încheiat fără intenţia de a produce efecte juridice (actul juridic fictiv) este nul.
 (2) Actul juridic încheiat cu intenţia de a ascunde un alt act juridic (actul juridic simulat) este nul. Referitor la actul juridic avut în vedere de părţi se aplică regulile respective.
 (3) În cazul trecerii bunului dobîndit în baza unui act juridic fictiv la un terţ de bună-credinţă, se consideră că trecerea a avut loc în baza unui temei juridic valabil.
-Articolul 222. Nulitatea actului juridic încheiat de o persoană
-fără capacitate de exerciţiu
-(1) Actul juridic încheiat de o persoană fără capacitate de exerciţiu este nul.
-(2) Persoana cu capacitate de exerciţiu deplină este obligată să repare prejudiciul cauzat celeilalte părţi prin încheierea actului juridic nul dacă se demonstrează că a ştiut sau trebuia să ştie că cealaltă parte nu are capacitate de exerciţiu.
-Articolul 223. Nulitatea actului juridic încheiat de un minor
-în vîrstă de la 7 la 14 ani
-(1) Actele juridice încheiate de un minor în vîrstă de la 7 la 14 ani, cu excepţia celor stipulate la art.22 alin.(2), sînt nule.
-(2) Persoana cu capacitate de exerciţiu deplină este obligată să repare prejudiciul cauzat minorului dacă nu demonstrează că nu a ştiut şi nu trebuia să ştie că cealaltă parte nu are capacitatea de exerciţiu necesară încheierii actului juridic.
-Articolul 224. Nulitatea actului juridic încheiat de un minor
-în vîrstă de la 14 la 18 ani sau de o persoană
-limitată în capacitatea de exerciţiu
-(1) Actul juridic încheiat de un minor în vîrstă de la 14 la 18 ani sau de o persoană limitată în capacitatea de exerciţiu fără acordul părinţilor, adoptatorilor sau al curatorului, dacă acest acord este cerut de lege, poate fi declarat nul de instanţa de judecată, la cererea părinţilor, adoptatorilor sau a curatorului.
-(2) Persoana cu capacitate de exerciţiu deplină este obligată să repare prejudiciul cauzat celeilalte părţi dacă se demonstrează că a ştiut sau trebuia să ştie că cealaltă parte nu are capacitatea de exerciţiu necesară încheierii actului juridic.
-Articolul 225. Nulitatea actului juridic încheiat de o persoană
-fără discernămînt sau care nu îşi putea dirija
-acţiunile
-Actul juridic încheiat de o persoană cu capacitate de exerciţiu deplină într-un moment în care nu putea să conştientizeze acţiunile sale ori să le dirijeze poate fi declarat nul de instanţa de judecată.
+Articolul 222. Nulitatea actului juridic încheiat
+de o persoană în privinţa căreia
+este instituită o măsură de ocrotire
+judiciară
+(1) Actul juridic încheiat de o persoană în privinţa căreia este instituită o măsură de ocrotire judiciară (ocrotire provizorie, curatelă, tutelă) poate fi declarat nul de instanţa de judecată dacă, conform legii sau hotărîrii judecătoreşti, actul juridic putea fi încheiat valabil în numele persoanei doar prin intermediul ocrotitorului provizoriu, curatorului sau tutorelui său.
+(2) Persoana cu capacitate deplină de exerciţiu este obligată să repare prejudiciul cauzat celeilalte părţi prin încheierea actului juridic declarat nul dacă se demonstrează că a ştiut sau trebuia să ştie că în privința celeilalte părți este instituită o măsură de ocrotire judiciară.
+[Art.222 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 223. Nulitatea actului juridic încheiat
+de un minor care nu a împlinit vîrsta
+de 14 ani
+(1) Actele juridice încheiate de un minor care nu a împlinit vîrsta de 7 ani sînt nule.
+(2) Actele juridice încheiate de un minor în vîrstă de la 7 la 14 ani, cu excepţia celor prevăzute la art. 22 alin. (2), sînt nule.
+(3) Persoana cu capacitate deplină de exerciţiu este obligată să repare prejudiciul cauzat minorului dacă nu demonstrează că nu a ştiut şi nu trebuia să ştie că cealaltă parte nu are capacitate deplină de exerciţiu în vederea încheierii actului juridic.
+[Art.223 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 224. Nulitatea actului juridic încheiat
+de o persoană fără discernămînt
+(1) Dacă legea nu prevede altfel, actul juridic încheiat de o persoană într-un moment în care nu putea să conştientizeze pe deplin acţiunile sale ori să îşi exprime voinţa poate fi declarat nul de instanţa de judecată.
+(2) Actul juridic nu este anulabil în temeiul dispoziţiilor alin. (1) dacă:
+a) face parte din categoria actelor juridice prevăzute la art. 22 alin. (2);
+b) a fost încheiat în numele persoanei de către reprezentantul său împuternicit;
+c) a fost încheiat de către persoana ocrotită cu încuviinţarea ocrotitorului provizoriu, curatorului sau tutorelui ori a mandatarului împuternicit prin mandat de ocrotire în viitor sau, după caz, cu autorizarea consiliului de familie ori a instanţei de judecată în cazul în care, conform legii sau hotărîrii judecătoreşti, actul juridic putea fi încheiat valabil doar cu încuviinţarea sau autorizarea respectivă.
+(3) Moştenitorul poate cere anularea actelor juridice în temeiul dispoziţiilor alin. (1) doar în următoarele cazuri:
+a) dacă dovada diminuării sau lipsei discernămîntului rezultă din însuşi cuprinsul actului juridic;
+b) dacă, înainte de încheierea actului juridic, a fost depusă cerere de instituire a ocrotirii provizorii, curatelei sau tutelei ori a început să producă efecte un mandat de ocrotire în viitor în numele persoanei ocrotite.
+(4) În cazul în care moştenitorul, în temeiul dispoziţiilor alin. (1), cere anularea donaţiei sau testamentului, dispoziţiile alin. (3) nu se aplică.
+(5) Termenul de prescripţie extinctivă în cazul acţiunii în anulare înaintate de moştenitor curge din momentul deschiderii moştenirii, cu excepţia cazului cînd acesta a cunoscut sau trebuia să cunoască despre încheierea actului juridic înainte de acea dată.
+[Art.224 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
+Articolul 225. Menținerea actelor juridice încheiate
+de persoanele fără capacitate deplină
+de exerciţiu sau fără discernămînt
+(1) Instanţa de judecată poate menţine actele juridice anulabile în temeiul art. 222 sau art. 224 dacă pîrîtul oferă o reducere corespunzătoare a creanţei sale sau o despăgubire a prejudiciului suferit de persoana protejată prin anulare.
+(2) La aplicarea dispoziţiilor alin. (1), instanţa de judecată va lua în considerare dacă actul juridic era util sau prejudiciabil pentru persoana protejată prin anulare, componenţa și valoarea patrimoniului acesteia, precum şi buna sau reaua-credinţă a celeilalte părţi la actul juridic.
+[Art.225 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 226. Nulitatea actului juridic încheiat cu încălcarea
 limitei împuternicirilor
 În cazul în care atribuţiile persoanei privind încheierea actului juridic sînt limitate prin contract, iar împuternicirile organului persoanei juridice – prin actul de constituire, în comparaţie cu cele stipulate prin mandat, lege sau cu cele deduse din circumstanţele în care se încheie actul juridic, acesta, încheiat fără respectarea limitelor impuse, poate fi declarat nul numai în cazul în care se demonstrează că cealaltă parte a ştiut sau trebuia să ştie despre limitări.
@@ -7255,6 +7890,8 @@ b) condiţiile care trebuie îndeplinite pentru încheierea în mod valabil a un
 c) dacă un drept de proprietate sau alt drept al unei persoane cu privire la garanţia financiară constituită sub formă de instrumente financiare în formă de înscriere în cont este prioritar ori subordonat unui drept de proprietate sau altui drept concurent şi dacă dobîndirea s-a făcut cu bună-credinţă;
 d) formalităţile cerute pentru executarea garanţiei financiare constituite sub formă de instrumente financiare în formă de înscriere în cont, ca urmare a apariţiei unei cauze care determină executarea garanţiei.
 [Art.1606 al.(4) introdus prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
+(5) Prevederile alin. (1)–(4) se aplică, în măsura în care nu contravin Legii nr. 184/2016 cu privire la contractele de garanție financiară, în cazul în care contractele de garanție financiară au fost încheiate între subiecții stabiliți la art. 3 din legea menționată.
+[Art.1606 al.(5) introdus prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
 Articolul 1607. Drepturile personale nepatrimoniale
 (1) Dobîndirea, conţinutul şi stingerea dreptului de autor asupra unei opere de creaţie sînt guvernate de legea statului pe al cărui teritoriu această operă a fost adusă pentru prima dată la cunoştinţa publicului prin expunere, difuzare, publicare, reprezentare sau în orice alt mod.
 (2) Dreptul de autor asupra unei opere de creaţie care nu a fost adus la cunoştinţa publicului este guvernat de legea naţională a autorului.
