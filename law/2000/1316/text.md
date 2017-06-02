@@ -13,6 +13,7 @@ Publicat : 26.04.2001
 Nr. 47-48
 art Nr : 210
 MODIFICAT
+LP66 din 13.04.17, MO171-180/02.06.17 art.297
 LP80 din 05.05.17, MO162-170/26.05.17 art.284
 LP211 din 29.07.16, MO338-341/30.09.16 art.698
 LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16
@@ -112,7 +113,8 @@ b) rude în linie dreaptă pînă la al IV-lea grad inclusiv, fraţi şi surori,
 c) adoptator şi adoptat;
 d) adoptat şi rudă a adoptatorului în linie dreaptă, pînă la al II-lea grad inclusiv;
 e) curator şi persoană minoră aflată sub curatela acestuia, în perioada curatelei;
-f) persoane dintre care cel puţin una a fost lipsită de capacitatea de exerciţiu;
+f) persoane dintre care cel puţin în privința uneia este instituită o măsură de ocrotire judiciară (ocrotire provizorie, curatelă sau tutelă) şi lipseşte autorizarea prevăzută de lege la încheierea căsătoriei;
+[Art.15 al.(1), lit.f) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 g) persoane condamnate la privaţiune de libertate în perioada cînd ambele îşi ispăşesc pedeapsa;
 h) persoane de acelaşi sex.
 (2) Orice persoană poate face opunere la căsătorie, dacă există un impediment legal ori dacă nu sînt îndeplinite alte cerinţe ale legii, expunîndu-şi în scris motivele şi anexînd dovezile invocate. Organul de stare civilă este obligat să verifice opunerile şi, dacă acestea se confirmă, să refuze încheierea căsătoriei.
@@ -217,7 +219,8 @@ Capitolul 7
 ÎNCETAREA CĂSĂTORIEI
 Articolul 33. Temeiurile încetării căsătoriei
 (1) Căsătoria încetează în urma decesului sau a declarării pe cale judecătorească a decesului unuia dintre soţi.
-(2) Căsătoria poate înceta prin divorţ (desfacere), în baza cererii unuia sau a ambilor soţi ori a tutorelui soţului declarat incapabil.
+(2) Căsătoria poate înceta prin divorţ (desfacere), în baza cererii unuia sau a ambilor soţi ori a tutorelui soţului în privinţa căruia s-a instituit măsura de ocrotire judiciară sub forma tutelei.
+[Art.33 al.(2) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 34. Limitarea dreptului soţului de a cere desfacerea
 căsătoriei
 În lipsa acordului soţiei, soţul nu poate cere desfacerea căsătoriei în timpul gravidităţii acesteia şi timp de un an după naşterea copilului dacă acesta s-a născut viu şi trăieşte.
@@ -226,7 +229,8 @@ Articolul 35. Modalitatea de desfacere a căsătoriei
 Articolul 36. Desfacerea căsătoriei la organul de stare civilă
 (1) În baza acordului comun al soţilor care nu au copii minori comuni sau înfiaţi de ambii soţi, în cazurile cînd între aceştia nu există litigii referitoare la partaj sau la întreţinerea soţului inapt de muncă, căsătoria poate fi desfăcută de către organul de stare civilă în a cărui rază teritorială se află domiciliul unuia dintre soţi, cu participarea obligatorie a ambilor soţi.
 (2) La cererea unuia dintre soţi, căsătoria poate fi desfăcută la organul de stare civilă dacă celălalt soţ:
-a) a fost declarat incapabil;
+a) este supus unei măsuri de ocrotire judiciare;
+[Art.36 al.(2), lit.a) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 b) a fost declarat dispărut;
 c) a fost condamnat la privaţiune de libertate pe un termen mai mare de 3 ani.
 (3) Desfacerea căsătoriei şi eliberarea certificatului de divorţ au loc după expirarea termenului de o lună din ziua depunerii cererii de divorţ.
@@ -274,11 +278,13 @@ a) soţul minor, părinţii lui (tutorii) sau autoritatea tutelară, dacă căs�
 [Art.42 al.(1), lit.a) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 b) soţul ale cărui drepturi au fost încălcate prin încheierea căsătoriei;
 [Art.42 al.(1), lit.b) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
-c) soţul care nu a ştiut despre existenţa impedimentelor la căsătorie, tutorele soţului declarat incapabil, soţul din căsătoria precedentă nedesfăcută, alte persoane ale căror drepturi şi interese au fost lezate în urma căsătoriei încheiate cu încălcarea prevederilor art.15, precum şi autoritatea tutelară, în cazurile menţionate mai sus;
+c) soţul care nu a ştiut despre existenţa impedimentelor la căsătorie, tutorele soţului în privinţa căruia s-a instituit măsura de ocrotire judiciară sub forma tutelei, soţul din căsătoria precedentă nedesfăcută, alte persoane ale căror drepturi şi interese au fost lezate în urma căsătoriei încheiate cu încălcarea prevederilor art.15, precum şi autoritatea tutelară, în cazurile menţionate mai sus;
+[Art.42 al.(1), lit.c) modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 [Art.42 al.(1), lit.c) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 d) soţul de bună-credinţă, în cazul în care a fost încheiată o căsătorie fictivă.
 [Art.42 al.(1), lit.d) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
-(2) Examinarea cererii privind declararea nulităţii căsătoriei încheiate cu un minor care nu a atins vîrsta matrimonială sau cu o persoană declarată incapabilă are loc cu participarea obligatorie a reprezentantului autorităţii tutelare.
+(2) Examinarea cererii privind declararea nulităţii căsătoriei încheiate cu un minor care nu a atins vîrsta matrimonială sau a căsătoriei încheiate cu încălcarea art. 15 alin. (1) lit. f) are loc cu participarea obligatorie a reprezentantului autorităţii tutelare.
+[Art.42 al.(2) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 43. Îmrejurările care înlătură nulitatea
 căsătoriei
 (1) Instanţa judecătorească poate recunoaşte valabilă căsătoria dacă, în momentul examinării cauzei de nulitate, împrejurările care împiedicau încheierea acesteia au dispărut.
@@ -311,12 +317,14 @@ Articolul 47. Stabilirea provenienţei copilului
 (3) Copilul născut din părinţi căsătoriţi ori în timp de 300 de zile din momentul desfacerii căsătoriei, declarării căsătoriei nule sau decesului soţului mamei copilului are ca tată pe soţul (fostul soţ) al mamei, dacă nu a fost stabilit contrariul.
 (4) Prezumţia de paternitate a soţului (fostului soţ) poate fi înlăturată printr-o declaraţie a soţilor (foştilor soţi) depusă personal. În cazul în care soţii (unul din ei) nu se pot prezenta personal, declaraţia se autentifică notarial şi se expediază la organul de stare civlă.
 (5) Paternitatea copilului născut în afara căsătoriei poate fi recunoscută de către tatăl său printr-o declaraţie comună a acestuia şi a mamei copilului, depusă la organul de stare civilă.
-(6) În cazurile cînd mama este decedată, declarată decedată, incapabilă sau dispărută ori cînd nu i se cunoaşte locul aflării, precum şi în cazul decăderii ei din drepturile părinteşti, paternitatea se stabileşte în baza declaraţiei tatălui şi a acordului scris al autorităţii tutelare sau prin hotărîrea instanţei judecătoreşti dacă lipseşte un astfel de acord.
+(6) În cazurile cînd mama este decedată, declarată decedată sau dispărută ori cînd nu i se cunoaşte locul aflării, precum şi în cazul decăderii ei din drepturile părinteşti, paternitatea se stabileşte în baza declaraţiei tatălui şi a acordului scris al autorităţii tutelare sau prin hotărîrea instanţei judecătoreşti dacă lipseşte un astfel de acord. În cazul în care în privința mamei este instituită o măsură de ocrotire judiciară, se aplică prevederile art. 4852 şi 4853 din Codul civil.
+[Art.47 al.(6) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (7) Declaraţia comună a mamei şi tatălui copilului privind paternitatea poate fi depusă la organul de stare civilă şi pînă la naşterea copilului.
 Articolul 48. Stabilirea paternităţii în instanţa judecătorească
 Dacă copilul este născut din părinţi necăsătoriţi între ei şi în lipsa declaraţiei comune a părinţilor sau a tatălui copilului, paternitatea se stabileşte de către instanţa judecătorească în baza declaraţiei unuia dintre părinţi, a tutorelui (curatorului) copilului sau a copilului însuşi la atingerea majoratului.
 Articolul 49. Contestarea paternităţii (maternităţii)
-(1) Paternitatea (maternitatea) poate fi contestată numai pe cale judecătorească de către persoanele înscrise drept tată sau mamă sau de către persoanele care sînt mama sau tatăl firesc al copilului, de către copil la atingerea majoratului, de către tutorele (curatorul) copilului sau tutorele părintelui declarat incapabil.
+(1) Paternitatea (maternitatea) poate fi contestată numai pe cale judecătorească de către persoanele înscrise drept tată sau mamă sau de către persoanele care sînt mama sau tatăl firesc al copilului, de către copil la atingerea majoratului, de către tutorele (curatorul) copilului. În cazul în care în privința tatălui este instituită o măsură de ocrotire judiciară, se aplică prevederile art. 4852 şi 4853 din Codul civil.
+[Art.49 al.(1) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (2) Cererea privind contestarea paternităţii (maternităţii) poate fi depusă timp de un an din momentul cînd una din persoanele enumerate la alin.(1) a aflat sau trebuia să fi aflat despre înscrierea privind paternitatea (maternitatea) sau din momentul atingerii majoratului, în cazul unui minor.
 (3) Nu au dreptul să conteste paternitatea:
 a) soţul care şi-a dat acordul scris la fecundarea artificială sau implantarea embrionului soţiei;
@@ -331,7 +339,8 @@ familie
 (1) Se consideră copil persoana care nu a atins vîrsta de 18 ani (majoratul).
 (2) Fiecare copil are dreptul să locuiască în familie, să-şi cunoască părinţii, să beneficieze de grija lor, să coabiteze cu ei, cu excepţia cazurilor cînd aceasta contravine intereselor copilului.
 (3) Copilul are dreptul la educaţie din partea părinţilor, la dezvoltarea capacităţilor intelectuale, la libertatea gîndirii şi conştiinţei, la apărarea demnităţii şi onoarei.
-(4) În cazurile cînd copilul este lipsit de grija părinţilor (aceştia sînt decăzuţi din drepturile părinteşti, declaraţi incapabili sau dispăruţi, precum şi în alte cazuri), drepturile copilului la educaţie sînt asigurate de autoritatea tutelară.
+(4) În cazurile cînd copilul este lipsit de grija părinţilor (aceştia sînt decăzuţi din drepturile părinteşti, sînt supuşi unei măsuri de ocrotire judiciare sau declarați dispăruţi, precum şi în alte cazuri), drepturile copilului la educaţie sînt asigurate de autoritatea tutelară.
+[Art.51 al.(4) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 52. Dreptul copilului de a comunica cu părinţii
 şi alte rude
 (1) Copilul are dreptul să comunice cu ambii părinţi, cu buneii, fraţii, surorile şi cu celelalte rude. Desfacerea căsătoriei părinţilor, nulitatea ei sau traiul separat al acestora nu afectează drepturile copilului. În cazul cînd părinţii au domiciliul separat, copilul are dreptul să comunice cu fiecare dintre ei.
@@ -562,7 +571,8 @@ Capitolul 15
 CONTRACTUL PRIVIND PLATA PENSIEI
 DE ÎNTREŢINERE
 Articolul 92. Contractul privind plata pensiei de întreţinere
-Contractul privind mărimea, condiţiile şi modul de plată a pensiei de întreţinere poate fi încheiat între persoana care datorează întreţinere (debitorul întreţinerii) şi persoana care are dreptul la întreţinere (creditorul întreţinerii). În cazul cînd debitorul întreţinerii şi/sau creditorul întreţinerii sînt declaraţi incapabili, contractul este încheiat de către reprezentanţii legali ai acestora. Persoanele cu capacitatea limitată de exerciţiu încheie contractul cu acordul curatorului.
+Contractul privind mărimea, condiţiile şi modul de plată a pensiei de întreţinere poate fi încheiat între persoana care datorează întreţinere (debitorul întreţinerii) şi persoana care are dreptul la întreţinere (creditorul întreţinerii).
+[Art.92 modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 93. Forma contractului privind plata pensiei de
 întreţinere
 Contractul privind plata pensiei de întreţinere se întocmeşte în scris şi se autentifică notarial. Nerespectarea acestor prevederi atrage nulitatea contractului.
@@ -573,7 +583,8 @@ privind plata pensiei de întreţinere
 (2) Contractul privind plata pensiei de întreţinere poate fi, în orice moment, modificat sau reziliat în baza acordului dintre părţi. Modificarea sau rezilierea contractului se perfectează în scris şi se autentifică notarial.
 (3) Modificarea unilaterală a contractului privind plata pensiei de întreţinere sau refuzul unilateral de a-l executa sînt inadmisibile.
 (4) În caz de modificare esenţială a situaţiei materiale sau familiale a părţilor, dacă acestea nu pot ajunge la o înţelegere referitoare la modificarea sau rezilierea contractului privind plata pensiei de întreţinere, partea interesată poate porni în instanţa judecătorească o acţiune privind modificarea sau rezilierea acestuia. Instanţa judecătorească soluţionează litigiul ţinînd cont de starea materială şi familială a părţilor, de alte circumstanţe importante.
-(5) Dacă contractul privind plata pensiei de întreţinere contravine intereselor copilului minor sau major incapabil, acesta poate fi declarat nul de către instanţa judecătorească la cererea reprezentanţilor legali ai copiluluisau a autorităţii tutelare.
+(5) Dacă contractul privind plata pensiei de întreţinere contravine intereselor copilului minor, acesta poate fi declarat nul de către instanţa judecătorească la cererea reprezentanţilor legali ai copiluluisau a autorităţii tutelare.
+[Art.94 al.(5) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 [Art.94 al.(5) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 Articolul 95. Cuantumul pensiei de întreţinere stabilite
 prin contract
@@ -639,7 +650,8 @@ Articolul 107. Inadmisibilitatea compensării
 a) anulare a hotărîrii instanţei judecătoreşti privind încasarea pensiei de întreţinere adoptate în baza actelor sau dovezilor false prezentate de creditor;
 b) declarare a nulităţii contractului privind plata pensiei de întreţinere încheiat ca urmare a constrîngerii fizice sau morale a creditorului întreţinerii;
 c) stabilire a faptului de falsificare a hotărîrii instanţei judecătoreşti, a contractului privind plata pensiei de întreţinere sau a titlului executoriu în baza cărora a fost plătită pensia.
-(2) În cazul în care contravenţiile menţionate la alin.(1) au fost comise de către reprezentantul copilului minor sau al persoanei majore incapabile care primea pensia de întreţinere, aceasta nu se reîncasează, iar sumele plătite anterior vor fi încasate, la cererea debitorului întreţinerii, de la reprezentantul vinovat.
+(2) În cazul în care contravenţiile menţionate la alin.(1) au fost comise de către reprezentantul copilului minor sau al persoanei supuse unei măsuri de ocrotire judiciare care primea pensia de întreţinere, aceasta nu se reîncasează, iar sumele plătite anterior vor fi încasate, la cererea debitorului întreţinerii, de la reprezentantul vinovat.
+[Art.107 al.(2) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 108. Indexarea pensiei de întreţinere
 Pensia de întreţinere, stabilită de instanţa judecătorească într-o sumă bănească fixă, se indexează în cazurile şi în modul stabilit de lege.
 Articolul 109. Plata pensiei de întreţinere în cazul în care
@@ -684,7 +696,8 @@ Articolul 143. Persoanele care pot fi numite tutori
 (3) Numirea tutorelui la copilul care a atins vîrsta de 10 ani se face numai cu acordul copilului.
 (4) Nu poate fi numită tutore (curator) persoana:
 a) minoră;
-b) declarată incapabilă sau cu capacitate de exerciţiu limitată;
+b) în privinţa căreia este instituită o măsura de ocrotire judiciară;
+[Art.143 al.(4), lit.b) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 c) decăzută din drepturile părinteşti;
 d) declarată incapabilă de a fi tutore (curator) din cauza stării de sănătate;
 e) care a fost adoptator, dar adopţia a fost anulată din cauza exercitării necorespunzătoare a obligaţiilor de adoptator;
@@ -737,7 +750,8 @@ Articolul 150. Părinţii educatori
 (1) Pot fi părinţi educatori persoanele cu domiciliul pe teritoriul Republicii Moldova, care au atins vîrsta de 25 de ani şi ale căror calităţi morale şi stare a sănătăţii permit îndeplinirea obligaţiilor respective.
 (2) Nu pot fi părinţi educatori persoanele:
 a) decăzute din drepturile părinteşti;
-b) declarate incapabile sau cu capacitate limitată de exerciţiu;
+b) în privinţa cărora este instituită o măsură de ocrotire judiciară;
+[Art.150 al.(2), lit.b) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 c) eliberate de obligaţiile de tutore (curator) din culpa lor;
 d) care au fost adoptatori, dar adopţia a fost desfăcută din culpa lor;
 e) care suferă de boli cronice grave sau contagioase.
