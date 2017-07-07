@@ -13,6 +13,8 @@ Publicat : 26.04.2001
 Nr. 47-48
 art Nr : 210
 MODIFICAT
+LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18
+LP83 din 25.05.17, MO229-243/07.07.17 art.362
 LP66 din 13.04.17, MO171-180/02.06.17 art.297
 LP80 din 05.05.17, MO162-170/26.05.17 art.284
 LP211 din 29.07.16, MO338-341/30.09.16 art.698
@@ -104,7 +106,8 @@ să se căsătorească
 Articolul 14. Vîrsta matrimonială
 (1) Vîrsta matrimonială minimă este de 18 ani.
 [Art.14 al.(1) modificat prin LP120-XVI din 29.05.08, MO125-126/15.07.08 art.489]
-(2) Pentru motive temeinice, se poate încuviinţa încheierea căsătoriei cu reducerea vîrstei matrimoniale, dar nu mai mult decît cu doi ani. Reducerea vîrstei matrimoniale va fi încuviinţată de autoritatea administraţiei publice locale în a cărei rază teritorială îşi au domiciliul persoanele care doresc să se căsătorească, în baza cererii acestora şi acordului părinţilor minorului.
+(2) Pentru motive temeinice, se poate încuviinţa încheierea căsătoriei cu reducerea vîrstei matrimoniale, dar nu mai mult decît cu doi ani. Reducerea vîrstei matrimoniale va fi încuviinţată de autoritatea tutelară locală în a cărei rază teritorială îşi au domiciliul persoanele care doresc să se căsătorească, în baza cererii acestora şi acordului părinţilor minorului.
+[Art.14 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.14 al.(2) modificat prin LP120-XVI din 29.05.08, MO125-126/15.07.08 art.489]
 Articolul 15. Impedimente la căsătorie
 (1) Nu se admite încheierea căsătoriei între:
@@ -227,18 +230,22 @@ căsătoriei
 Articolul 35. Modalitatea de desfacere a căsătoriei
 În cazurile prevăzute la art.36 alin.(1) şi (2), căsătoria se desface de către organul de stare civilă, iar în cazurile prevăzute la art.36 alin.(4) şi (5) şi la art.37 - pe cale judecătorească.
 Articolul 36. Desfacerea căsătoriei la organul de stare civilă
-(1) În baza acordului comun al soţilor care nu au copii minori comuni sau înfiaţi de ambii soţi, în cazurile cînd între aceştia nu există litigii referitoare la partaj sau la întreţinerea soţului inapt de muncă, căsătoria poate fi desfăcută de către organul de stare civilă în a cărui rază teritorială se află domiciliul unuia dintre soţi, cu participarea obligatorie a ambilor soţi.
+(1) În baza acordului comun al soţilor, în cazurile în care între aceștia nu există neînțelegeri referitoare la partajul proprietății comune în devălmășie, la întreținerea, educația și domiciliul copiilor minori comuni sau la întreținerea unuia dintre soți, căsătoria este desfăcută la organul de stare civilă în a cărui rază teritorială se află domiciliul unuia dintre soţi. Soții participă la desfacerea căsătoriei în condiţiile Legii nr. 100/2001 privind actele de stare civilă.
+[Art.36 al.(1) în redacția LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 (2) La cererea unuia dintre soţi, căsătoria poate fi desfăcută la organul de stare civilă dacă celălalt soţ:
 a) este supus unei măsuri de ocrotire judiciare;
 [Art.36 al.(2), lit.a) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 b) a fost declarat dispărut;
 c) a fost condamnat la privaţiune de libertate pe un termen mai mare de 3 ani.
 (3) Desfacerea căsătoriei şi eliberarea certificatului de divorţ au loc după expirarea termenului de o lună din ziua depunerii cererii de divorţ.
-(4) În cazul apariţiei litigiilor între soţi cu privire la copii, la partaj sau la întreţinerea soţului inapt de muncă care necesită sprijin material, desfacerea căsătoriei se face pe cale judecătorească.
-(5) Dacă, după desfacerea căsătoriei de către organul de stare civilă, între soţi apar litigii referitoare la partaj, la întreţinerea copiilor minori sau a soţului inapt de muncă, acestea se vor soluţiona pe cale judecătorească.
+(4) În cazul apariţiei litigiilor între soţi cu privire la copii, la partaj sau la întreţinerea unuia dintre soți, desfacerea căsătoriei se face pe cale judecătorească.
+[Art.36 al.(4) modificat prin LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
+(5) Dacă, după desfacerea căsătoriei de către organul de stare civilă, între soţi apar litigii referitoare la partaj, la întreținerea, educația și domiciliul copiilor minori comuni sau la întreținerea unuia dintre soți, acestea se vor soluţiona pe cale judecătorească.
+[Art.36 al.(5) modificat prin LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 Articolul 37. Desfacerea căsătoriei de către instanţa
 judecătorească
-(1) Dacă soţii au copii minori comuni, cu excepţia cazurilor prevăzute la art.36 alin.(2), sau în lipsa acordului la divorţ al unuia dintre soţi, desfacerea căsătoriei are loc pe cale judecătorească.
+(1) Dacă soţii au copii minori comuni și nu au ajuns la un acord privind întreținerea, educația și domiciliul acestora sau în lipsa acordului la divorţ al unuia dintre soţi, cu excepţia cazurilor prevăzute la art. 36 alin. (2), desfacerea căsătoriei are loc pe cale judecătorească.
+[Art.37 al.(1) în redacția LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 (2) Desfacerea căsătoriei are loc pe cale judecătorească şi în cazurile cînd există acordul la divorţ al ambilor soţi, însă unul dintre ei refuză să se prezinte la organul de stare civilă pentru soluţionarea problemei.
 (3) Instanţa judecătorească va desface căsătoria dacă va constata că convieţuirea soţilor şi păstrarea familiei în continuare sînt imposibile.
 (4) Dacă, în procesul examinării cererii de desfacere a căsătoriei, unul dintre soţi nu-şi dă acordul la divorţ, instanţa judecătorească va amîna examinarea cauzei, stabilind un termen de împăcare de la o lună la 6 luni, cu excepţia cauzelor de divorţ pornite pe motivul violenţei în familie confirmate prin probe.
@@ -247,11 +254,13 @@ judecătorească
 Articolul 38. Soluţionarea litigiilor de către instanţa
 judecătorească în procesul desfacerii
 căsătoriei
-(1) La desfacerea căsătoriei, soţii pot prezenta instanţei judecătoreşti un acord privind împărţirea bunurilor lor proprietate în devălmăşie şi plata pensiei de întreţinere a copiilor şi soţului inapt de muncă ce necesită sprijin material, indicînd mărimea acesteia, precum şi privind determinarea părintelui împreună cu care vor locui copiii minori comuni.
+(1) La desfacerea căsătoriei, soţii pot prezenta instanţei judecătoreşti un acord privind împărţirea bunurilor lor proprietate în devălmăşie şi plata pensiei de întreţinere a copiilor şi a unuia dintre soți, indicînd mărimea acesteia, precum şi privind determinarea părintelui împreună cu care vor locui copiii minori comuni.
+[Art.38 al.(1) modificat prin LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 (2) În cazul lipsei unui acord între soţi prevăzut la alin.(1) sau dacă se va dovedi că acordul lezează drepturile şi interesele copiilor minori sau ale unuia dintre soţi, instanţa judecătorească este obligată:
 a) să împartă, la cererea soţilor (a unuia dintre ei), bunurile lor proprietate în devălmăşie;
 b) să determine care dintre părinţi va plăti pensia de întreţinere a copiilor minori şi mărimea acesteia;
-c) să stabilească, la cererea soţului inapt de muncă, care are dreptul la pensia de întreţinere de la celălalt soţ, mărimea şi modul de plată a acestei pensii;
+c) să stabilească, la cererea soţului care are dreptul la pensia de întreţinere de la celălalt soţ, mărimea şi modul de plată a acestei pensii;
+[Art.38 al.(2), lit.c) modificată prin LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 d) să stabilească cu cine dintre părinţi vor locui copiii minori după divorţ.
 (3) Litigiile, altele decît cele expuse în prezentul articol, nu pot fi soluţionate în procesul de desfacere a căsătoriei, cu excepţia acţiunii de contestare a paternităţii la cererea soţului.
 (4) Dacă, la împărţirea bunurilor proprietate în devălmăşie a soţilor, vor fi atinse interesele persoanelor terţe, instanţa judecătorească va dispune examinarea cererii respective într-un proces aparte.
@@ -274,16 +283,19 @@ b) a fost încheiată cînd soţii sau unul dintre ei nu a avut intenţia de a c
 Articolul 42. Persoanele care au dreptul să ceară
 declararea nulităţii căsătoriei
 (1) Dreptul de a cere declararea nulităţii căsătoriei îl au următoarele persoane:
-a) soţul minor, părinţii lui (tutorii) sau autoritatea tutelară, dacă căsătoria a fost încheiată de o persoană care nu a atins vîrsta matrimonială şi această vîrstă nu a fost redusă în modul stabilit. După atingerea de către soţul minor a vîrstei de 18 ani, dreptul de a cere declararea nulităţii căsătoriei îi aparţine numai lui;
+a) soţul minor, părinţii lui (tutorii) sau autoritatea tutelară locală, dacă căsătoria a fost încheiată de o persoană care nu a atins vîrsta matrimonială şi această vîrstă nu a fost redusă în modul stabilit. După atingerea de către soţul minor a vîrstei de 18 ani, dreptul de a cere declararea nulităţii căsătoriei îi aparţine numai lui;
+[Art.42 al.(1), lit.a) modificată prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.42 al.(1), lit.a) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 b) soţul ale cărui drepturi au fost încălcate prin încheierea căsătoriei;
 [Art.42 al.(1), lit.b) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
-c) soţul care nu a ştiut despre existenţa impedimentelor la căsătorie, tutorele soţului în privinţa căruia s-a instituit măsura de ocrotire judiciară sub forma tutelei, soţul din căsătoria precedentă nedesfăcută, alte persoane ale căror drepturi şi interese au fost lezate în urma căsătoriei încheiate cu încălcarea prevederilor art.15, precum şi autoritatea tutelară, în cazurile menţionate mai sus;
+c) soţul care nu a ştiut despre existenţa impedimentelor la căsătorie, tutorele soţului în privinţa căruia s-a instituit măsura de ocrotire judiciară sub forma tutelei, soţul din căsătoria precedentă nedesfăcută, alte persoane ale căror drepturi şi interese au fost lezate în urma căsătoriei încheiate cu încălcarea prevederilor art.15, precum şi autoritatea tutelară locală, în cazurile menţionate mai sus;
+[Art.42 al.(1), lit.c) modificată prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.42 al.(1), lit.c) modificată prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 [Art.42 al.(1), lit.c) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 d) soţul de bună-credinţă, în cazul în care a fost încheiată o căsătorie fictivă.
 [Art.42 al.(1), lit.d) modificată prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
-(2) Examinarea cererii privind declararea nulităţii căsătoriei încheiate cu un minor care nu a atins vîrsta matrimonială sau a căsătoriei încheiate cu încălcarea art. 15 alin. (1) lit. f) are loc cu participarea obligatorie a reprezentantului autorităţii tutelare.
+(2) Examinarea cererii privind declararea nulităţii căsătoriei încheiate cu un minor care nu a atins vîrsta matrimonială sau a căsătoriei încheiate cu încălcarea art. 15 alin. (1) lit. f) are loc cu participarea obligatorie a reprezentantului autorităţii tutelare locale.
+[Art.42 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.42 al.(2) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 43. Îmrejurările care înlătură nulitatea
 căsătoriei
@@ -313,7 +325,8 @@ reciproce ale părinţilor şi copiilor
 Drepturile şi obligaţiile reciproce ale părinţilor şi copiilor rezultă din provenienţa copiilor, atestată în modul stabilit de lege.
 Articolul 47. Stabilirea provenienţei copilului
 (1) Provenienţa copilului de la mamă (maternitatea) se stabileşte în baza documentelor care confirmă naşterea copilului de la mamă într-o instituţie medicală.
-(2) În cazul cînd copilul nu este născut într-o instituţie medicală, maternitatea se stabileşte pe baza documentelor medicale, a depoziţiilor martorilor sau pe baza altor probe.
+(2) În cazul cînd copilul nu este născut într-o instituţie medicală, maternitatea se stabileşte pe baza documentelor medicale, a depoziţiilor martorilor sau pe baza altor probe. Fiind informaţi despre un caz de naştere sau la adresarea mamei după naştere, instituţia medico-sanitară/medicul de familie din localitate sînt obligaţi să întreprindă, în termen de 3 zile lucrătoare, măsurile necesare de constatare a naşterii copilului şi, în cazul constatării acesteia, să elibereze certificatul medical constatator de naştere, chiar dacă mama nu are domiciliul în această localitate.
+[Art.47 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (3) Copilul născut din părinţi căsătoriţi ori în timp de 300 de zile din momentul desfacerii căsătoriei, declarării căsătoriei nule sau decesului soţului mamei copilului are ca tată pe soţul (fostul soţ) al mamei, dacă nu a fost stabilit contrariul.
 (4) Prezumţia de paternitate a soţului (fostului soţ) poate fi înlăturată printr-o declaraţie a soţilor (foştilor soţi) depusă personal. În cazul în care soţii (unul din ei) nu se pot prezenta personal, declaraţia se autentifică notarial şi se expediază la organul de stare civlă.
 (5) Paternitatea copilului născut în afara căsătoriei poate fi recunoscută de către tatăl său printr-o declaraţie comună a acestuia şi a mamei copilului, depusă la organul de stare civilă.
@@ -339,22 +352,31 @@ familie
 (1) Se consideră copil persoana care nu a atins vîrsta de 18 ani (majoratul).
 (2) Fiecare copil are dreptul să locuiască în familie, să-şi cunoască părinţii, să beneficieze de grija lor, să coabiteze cu ei, cu excepţia cazurilor cînd aceasta contravine intereselor copilului.
 (3) Copilul are dreptul la educaţie din partea părinţilor, la dezvoltarea capacităţilor intelectuale, la libertatea gîndirii şi conştiinţei, la apărarea demnităţii şi onoarei.
-(4) În cazurile cînd copilul este lipsit de grija părinţilor (aceştia sînt decăzuţi din drepturile părinteşti, sînt supuşi unei măsuri de ocrotire judiciare sau declarați dispăruţi, precum şi în alte cazuri), drepturile copilului la educaţie sînt asigurate de autoritatea tutelară.
+(4) În cazul copiilor separaţi de părinţi, drepturile copilului la îngrijire şi educație sînt asigurate de reprezentantul legal.
+[Art.51 al.(4) în redacția LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.51 al.(4) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 52. Dreptul copilului de a comunica cu părinţii
 şi alte rude
 (1) Copilul are dreptul să comunice cu ambii părinţi, cu buneii, fraţii, surorile şi cu celelalte rude. Desfacerea căsătoriei părinţilor, nulitatea ei sau traiul separat al acestora nu afectează drepturile copilului. În cazul cînd părinţii au domiciliul separat, copilul are dreptul să comunice cu fiecare dintre ei.
-(2) Copilul aflat în situaţii extreme (reţinere, arest etc.) are dreptul să ia legătura cu părinţii sau cu alte rude în modul stabilit. Dacă nu este posibil de a contacta părinţii sau rudele copilului, va fi anunţată imediat autoritatea tutelară.
+(2) Copilul aflat în situaţii extreme (reţinere, arest etc.) are dreptul să ia legătura cu părinţii sau cu alte rude în modul stabilit. Dacă nu este posibil de a contacta părinţii sau rudele copilului, va fi anunţată imediat autoritatea tutelară locală.
+[Art.52 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 53. Dreptul copilului de a fi protejat
 (1) Copilului i se garantează apărarea drepturilor şi intereselor sale legitime.
-(2) Apărarea drepturilor şi intereselor legitime ale copilului se asigură de părinţi sau persoanele care îi înlocuiesc, iar în cazurile prevăzute de lege - de autoritatea tutelară sau de alte organe abilitate.
+(2) Apărarea drepturilor şi intereselor legitime ale copilului se asigură de părinţi sau persoanele care îi înlocuiesc, iar în cazurile prevăzute de lege - de autoritatea tutelară locală/teritorială sau de alte organe abilitate. Părinţii poartă răspundere, prevăzută de legislaţie, pentru neîndeplinirea sau îndeplinirea necorespunzătoare a obligaţiilor de îngrijire şi educaţie a copilului.
+[Art.53 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.53 al.(2) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 (3) Minorul care a căpătat capacitatea deplină de exerciţiu pînă la atingerea majoratului îşi apără drepturile şi interesele legitime de sine stătător.
 (4) Copilul are dreptul la protecţie contra abuzurilor, inclusiv contra pedepsei corporale din partea părinţilor sau a persoanelor care îi înlocuiesc.
 [Art.53 al.(4) modificat prin LP120-XVI din 29.05.08, MO125-126/15.07.08 art.489]
-(5) În cazul încălcării drepturilor şi intereselor legitime ale copilului, inclusiv prin neîndeplinirea sau îndeplinirea necorespunzătoare de către părinţi (a unuia dintre ei) a obligaţiilor de întreţinere, educaţie şi instruire, sau în cazul abuzului de drepturile părinteşti, copilul poate să se adreseze de sine stătător autorităţii tutelare pentru apărarea drepturilor şi intereselor sale legitime, iar de la vîrsta de 14 ani - instanţei judecătoreşti.
-(6) Persoanele cu funcţii de răspundere şi alte persoane care ştiu despre existenţa unui pericol pentru viaţa sau sănătatea copilului, despre încălcarea drepturilor şi intereselor lui legitime sînt obligate să comunice acest fapt autorităţii tutelare, făcînd tot posibilul pentru a proteja drepturile şi interesele legitime ale copilului.
+(5) În cazul încălcării drepturilor şi intereselor legitime ale copilului, inclusiv prin neîndeplinirea sau îndeplinirea necorespunzătoare de către părinţi (a unuia dintre ei) a obligaţiilor de întreţinere, educaţie şi instruire, sau în cazul abuzului de drepturile părinteşti, copilul poate să se adreseze de sine stătător autorităţii tutelare locale/teritoriale pentru apărarea drepturilor şi intereselor sale legitime, iar de la vîrsta de 14 ani - instanţei judecătoreşti.
+[Art.53 al.(5) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(51) Dacă plasarea copilului într-un serviciu social de plasament a fost determinată de violenţă, neglijare, exploatare, abandon sau de alte acțiuni care pun în pericol viața și sănătatea copilului, instanţa de judecată, la cererea autorităţii tutelare teritoriale, va examina posibilitatea de încasare de la părintele/părinţii culpabili a cheltuielilor pentru îngrijirea şi educaţia copilului în serviciul/serviciile sociale de plasament din momentul plasării pînă în momentul reintegrării copilului în familia părinţilor, în condițiile stabilite de Guvern.
+[Art.53 al.(51) introdus prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(6) Angajaţii autorităţilor administrației publice centrale şi locale, ai structurilor, instituţiilor şi serviciilor din cadrul sau din subordinea acestora, care activează în domeniile asistenţei sociale, educaţiei, ocrotirii sănătăţii, în organele de drept, în conformitate cu mecanismul intersectorial de cooperare pentru identificarea, evaluarea, referirea, asistenţa şi monitorizarea copiilor victime şi potenţiale victime ale violenţei, neglijării, exploatării şi traficului, sînt obligaţi să transmită autorităţii tutelare locale/teritoriale sesizările privind copiii aflaţi în situaţie de risc, precum şi cele privind cazurile de violenţă, neglijare sau exploatare a copiilor în cadrul serviciilor sociale, al instituţiilor medicale, educaţionale și culturale.
+[Art.53 al.(6) în redacția LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.53 al.(6) modificat prin LP150 din 01.07.16, MO206-214/15.07.16 art.452]
+(7) Persoanele fizice care deţin informaţii despre un caz suspect de violenţă, neglijare sau exploatare a copilului sînt obligate să le comunice autorităţii tutelare locale/teritoriale sau organelor de drept.
+[Art.53 al.(7) introdus prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 54. Dreptul copilului la exprimarea opiniei
 Copilul are dreptul să-şi exprime opinia la soluţionarea în familie a problemelor care îi ating interesele şi să fie audiat în cursul dezbaterilor judiciare sau administrative. De opinia copilului care a atins vîrsta de 10 ani se va ţine cont în mod obligatoriu dacă aceasta nu contravine intereselor lui.
 Articolul 55. Dreptul copilului la nume de familie şi
@@ -362,18 +384,32 @@ prenume
 (1) Copilul are dreptul la un nume de familie şi prenume.
 (2) Copilul dobîndeşte numele de familie al părinţilor săi. Dacă părinţii poartă nume de familie diferite, copilul va lua numele de familie al tatălui sau al mamei, în baza acordului comun al acestora.
 (3) Copilul va purta un prenume simplu sau unul compus din două prenume, potrivit voinţei ambilor părinţi.
-(4) În caz de litigiu între părinţi privind numele de familie şi/sau prenumele copilului, decide autoritatea tutelară.
+(4) În caz de litigiu între părinţi privind numele de familie şi/sau prenumele copilului, decide autoritatea tutelară locală.
+[Art.55 al.(4) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 56. Schimbarea numelui de familie
 şi prenumelui copilului
 (1) În baza cererii comune a părinţilor (sau a unuia dintre ei), organul de stare civilă poate schimba numele de familie şi/sau prenumele copilului care nu a atins vîrsta de 16 ani.
-(2) În caz de litigiu între părinţi, problema privind schimbarea numelui de familie şi/sau a prenumelui copilului este soluţionată de către organul de stare civilă, cu concursul autorităţii tutelare în a cărei rază teritorială îşi are domiciliul minorul, ţinîndu-se cont în exclusivitate de interesele copilului.
-(3) Schimbarea numelui de familie al ambilor părinţi atrage după sine schimbarea numelui de familie al copilului, iar în cazul schimbării numelui de familie al unuia dintre părinţi, numele de familie al copilului poate fi schimbat în baza acordului comun al părinţilor. În lipsa unui atare acord, decide autoritatea tutelară.
+(2) În caz de litigiu între părinţi, problema privind schimbarea numelui de familie şi/sau a prenumelui copilului este soluţionată de către organul de stare civilă, cu concursul autorităţii tutelare locale în a cărei rază teritorială îşi are domiciliul minorul, ţinîndu-se cont în exclusivitate de interesele copilului.
+[Art.56 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(3) Schimbarea numelui de familie al ambilor părinţi atrage după sine schimbarea numelui de familie al copilului, iar în cazul schimbării numelui de familie al unuia dintre părinţi, numele de familie al copilului poate fi schimbat în baza acordului comun al părinţilor. În lipsa unui atare acord, decide autoritatea tutelară locală.
+[Art.56 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (4) Schimbarea numelui de familie şi/sau a prenumelui copilului care a atins vîrsta de 10 ani se face, în toate cazurile, cu acordul acestuia.
 Articolul 57. Drepturile patrimoniale ale copilului
 (1) Copilul este proprietar al veniturilor obţinute, al bunurilor primite în dar, moştenite sau dobîndite într-un alt mod, şi al tuturor bunurilor procurate din mijloacele lui.
 (2) Dreptul de proprietate al copilului este realizat în modul stabilit de Codul civil.
 (3) Copilul nu are drept de proprietate asupra bunurilor părinţilor, iar părinţii - asupra bunurilor copiilor, excepţie făcînd dreptul la moştenire şi dreptul la întreţinere. Părinţii şi copiii care locuiesc împreună posedă şi folosesc bunurile fiecăruia dintre ei de comun acord.
 (4) În cazul apariţiei bunurilor comune ale părinţilor şi copiilor, drepturile de posesie, de folosinţă şi de dispoziţie a acestora sînt reglementate de legislaţia civilă.
+Articolul 571. Dreptul copilului la repararea prejudiciului
+material şi moral
+(1) Copilul are dreptul la repararea prejudiciului material şi moral cauzat prin vătămarea integrităţii corporale sau a sănătăţii, prin încălcarea drepturilor personale nepatrimoniale ca urmare a violenţei, neglijării, exploatării sau eschivării în orice alt mod a părinţilor de a-şi exercita drepturile şi obligaţiile părinteşti, care au prejudiciat viața și sănătatea copilului, precum şi prin neîndeplinirea sau îndeplinirea necorespunzătoare de către o autoritate publică sau instituţie a obligaţiei stabilite de actele normative în scopul protecţiei contra riscului de producere a unui anumit prejudiciu.
+(2) Repararea prejudiciului material şi moral are loc în modul prevăzut de legislaţia civilă.
+[Art.571 introdus prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+Articolul 572. Autorităţile tutelare în domeniul protecţiei
+copilului
+Autorităţile tutelare sînt:
+a) autoritatea tutelară teritorială – secţiile/direcţiile asistenţă socială şi protecţie a familiei/Direcţia municipală pentru protecţia copilului Chişinău. În municipiile Bălţi şi Chişinău, autorităţile tutelare teritoriale exercită şi atribuţiile de autoritate tutelară locală, cu excepţia unităţilor administrativ-teritoriale autonome din componenţa acestora, în cadrul cărora atribuţiile de autoritate tutelară locală sînt exercitate de primarii unităţilor administrativ-teritoriale respective;
+b) autoritatea tutelară locală – primarii de sate (comune), orașe și municipii (cu excepția municipiilor Bălți și Chișinău).
+[Art.572 introdus prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Capitolul 11
 DREPTURILE ŞI OBLIGAŢIILE PĂRINŢILOR
 Articolul 58. Drepturile şi obligaţiile părinţilor
@@ -387,13 +423,15 @@ privind educaţia şi instruirea copiilor
 (1) Părinţii au dreptul şi sînt obligaţi să-şi educe copiii conform propriilor convingeri, indiferent de faptul dacă locuiesc împreună sau separat.
 (2) Părinţii poartă răspundere pentru dezvoltarea fizică, intelectuală şi spirituală a copiilor şi au prioritate la educaţia lor faţă de oricare alte persoane.
 (3) Părinţii sînt obligaţi să asigure frecventarea de către copil a şcolii pînă la sfîrşitul anului de învăţămînt în care acesta atinge vîrsta de 16 ani. Instituţia de învăţămînt şi forma de instruire sînt alese de către părinţi, cu luarea în considerare a opiniei copilului.
-(4) Litigiile dintre părinţi privind educaţia şi instruirea copiilor se soluţionează de către autoritatea tutelară, iar decizia acesteia poate fi atacată pe cale judecătorească. Autoritatea tutelară recomandă părinţilor să se adreseze unui mediator pentru soluţionarea litigiului.
+(4) Litigiile dintre părinţi privind educaţia şi instruirea copiilor se soluţionează de către autoritatea tutelară locală, iar decizia acesteia poate fi atacată pe cale judecătorească. Autoritatea tutelară recomandă părinţilor să se adreseze unui mediator pentru soluţionarea litigiului.
+[Art.60 al.(4) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.60 al.(4) modificat prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 Articolul 61. Apărarea drepturilor şi intereselor
 legitime ale copiilor
 (1) Drepturile şi interesele legitime ale copiilor sînt apărate de către părinţii lor.
 (2) Părinţii sînt reprezentanţii legali ai copiilor lor şi acţionează în numele lor în relaţiile cu toate persoanele fizice şi juridice, inclusiv în autorităţile administraţiei publice şi instanţele judecătoreşti, fără a avea nevoie de împuterniciri speciale.
-(3) În cazul existenţei unor conflicte de interese între părinţi şi copii, autoritatea tutelară este obligată să numească un reprezentant pentru apărarea drepturilor şi intereselor legitime ale copilului.
+(3) În cazul existenţei unor conflicte de interese între părinţi şi copii, acestea se soluţionează prin decizia autorității tutelare locale de la locul aflării copilului, care poate fi atacată pe cale judecătorească, interesele copiilor, în acest caz, fiind reprezentate de către autoritatea tutelară teritorială.
+[Art.61 al.(3) în redacția LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 62. Exercitarea drepturilor părinţilor
 (1) Drepturile părinţilor nu pot fi exercitate contrar intereselor copilului lor. Părinţii nu pot prejudicia sănătatea fizică şi psihică a copilului.
 (2) Metodele de educaţie a copilului, alese de părinţi, vor exclude comportamentul abuziv, insultele şi maltratările de orice fel, discriminarea, violenţa psihică şi fizică, aplicarea pedepselor corporale antrenarea în acţiuni criminale, iniţierea în consumul de băuturi alcoolice, folosirea substanţelor stupefiante şi psihotrope, practicarea jocurilor de noroc, cerşitul şi alte acte ilicite.
@@ -403,23 +441,29 @@ Articolul 62. Exercitarea drepturilor părinţilor
 Articolul 63. Domiciliul copilului minor
 (1) În cazul cînd părinţii locuiesc separat, domiciliul copilului care nu a atins vîrsta de 14 ani se determină prin acordul părinţilor.
 (2) Dacă un atare acord lipseşte, domiciliul minorului se stabileşte de către instanţa judecătorească, ţinîndu-se cont de interesele şi părerea copilului (dacă acesta a atins vîrsta de 10 ani). În acest caz, instanţa judecătorească va lua în considerare ataşamentul copilului faţă de fiecare dintre părinţi, faţă de fraţi şi surori, vîrsta copilului, calităţile morale ale părinţilor, relaţiile existente între fiecare părinte şi copil, posibilităţile părinţilor de a crea condiţii adecvate pentru educaţia şi dezvoltarea copilului (îndeletnicirile şi regimul de lucru, condiţiile de trai etc.)
-(3) La determinarea domiciliului copilului minor, instanţa judecătoreasă va cere şi avizul autorităţii tutelare în a cărei rază teritorială se află domiciliul fiecăruia dintre părinţi.
+(3) La determinarea domiciliului copilului minor, instanţa judecătoreasă va cere şi avizul autorităţii tutelare teritoriale în a cărei rază teritorială se află domiciliul fiecăruia dintre părinţi.
+[Art.63 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 64. Exercitarea drepturilor părinteşti în cazul
 cînd părinţii locuiesc separat
 (1) Părintele care locuieşte împreună cu copilul nu are dreptul să împiedice contactul dintre copil şi celălalt părinte care locuieşte separat, cu excepţia cazurilor cînd comportamentul acestuia din urmă este în detrimentul intereselor copilului sau prezintă pericol pentru starea lui fizică şi psihică.
-(2) Părinţii au dreptul să încheie un acrod privind exercitarea drepturilor părinteşti de către părintele care locuieşte separat de copil. Litigiile apărute se soluţionează de către autoritatea tutelară, iar decizia acesteia poate fi atacată în instanţa judecătorească, care va emite hotărîrea respectivă. Părinţii pot, din iniţiativă proprie sau la recomandarea autorităţii tutelare, să se adreseze unui mediator pentru soluționarea litigiului.
+(2) Părinţii au dreptul să încheie un acrod privind exercitarea drepturilor părinteşti de către părintele care locuieşte separat de copil. Litigiile apărute se soluţionează de către autoritatea tutelară teritorială, iar decizia acesteia poate fi atacată în instanţa judecătorească, care va emite hotărîrea respectivă. Părinţii pot, din iniţiativă proprie sau la recomandarea autorităţii tutelare teritoriale, să se adreseze unui mediator pentru soluționarea litigiului.
+[Art.64 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.64 al.(2) modificat prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
-(3) În cazul nerespectării hotărîrii instanţei judecătoreşti, faţă de părintele culpabil se aplică măsurile stabilite de legislaţia procesuală civilă. În cazul încălcării repetate a hotărîrii judecătoreşti, la cererea părintelui care locuieşte separat de copil, instanţa judecătorească, ţinînd cont de interesele şi părerea copilului, poate soluţiona problema transmiţîndu-i copilul.
+(3) În cazul nerespectării hotărîrii instanţei judecătoreşti, la cererea părintelui care locuieşte separat de copil, instanţa judecătorească, ţinînd cont de interesele şi opinia copilului, în funcţie de vîrsta şi gradul său de maturitate, poate decide transmiterea copilului către acesta.
+[Art.64 al.(3) în redacția LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (4) Părinţii care locuiesc separat de copil au dreptul de a primi informaţiile ce se referă la copilul lor de la toate instituţiile educative, curative, de asistenţă socială etc. Comunicarea informaţiei poate fi refuzată dacă comportamentul părintelui prezintă pericol pentru viaţa şi sănătatea copilului. Acest refuz poate fi atacat în instanţa judecătorească.
 Articolul 65. Dreptul bunicilor, fraţilor şi surorilor copilului
 de a comunica cu acesta
-(1) Bunicii, fraţii şi surorile copilului au dreptul să comunice cu acesta. Dacă părinţii copilului (unul dintre ei) le refuză acest drept, autoritatea tutelară îi poate obliga să-l respecte.
-(2) Dacă părinţii (unul dintre ei) vor neglija hotărîrea autorităţii tutelare, persoanele interesate pot porni în instanţa judecătorească o acţiune privind înlăturarea impedimentelor de comunicare cu copilul.
+(1) Bunicii, fraţii şi surorile copilului au dreptul să comunice cu acesta. Dacă părinţii copilului (unul dintre ei) le refuză acest drept, autoritatea tutelară teritorială îi poate obliga să-l respecte.
+[Art.65 al.(1) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(2) Dacă părinţii (unul dintre ei) vor neglija hotărîrea autorităţii tutelare teritoriale, persoanele interesate pot porni în instanţa judecătorească o acţiune privind înlăturarea impedimentelor de comunicare cu copilul.
+[Art.65 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (3) Acţiunea privind înlăturarea impedimentelor de comunicare cu copilul a bunicilor, fraţilor şi surorilor lui poate fi respinsă numai în cazul existenţei unui pericol pentru viaţa şi sănătatea copilului, pentru dezvoltarea lui spirituală.
 Articolul 66. Apărarea drepturilor părinteşti
 (1) Părinţii au dreptul să ceară înapoierea copilului de la orice persoană care îl reţine fără un temei legal. În caz de litigiu, părinţii se pot adresa instanţei judecătoreşti.
 (2) Instanţa judecătorească este în drept să respingă acţiunea prevăzută la alin.(1) dacă va stabili că înapoierea copilului părinţilor săi contravine intereselor acestuia.
-(3) Dacă instanţa judecătorească va stabili că nici părinţii şi nici persoanele la care se află copilul nu sînt în stare să asigure întreţinerea, educaţia şi dezvoltarea adecvată a acestuia, ea va obliga autoritatea tutelară să transmită copilul unei instituţii de stat şi să-l ia la evidenţă, asigurîndu-i în continuare apărarea drepturilor şi intereselor legitime.
+(3) Dacă instanţa judecătorească va stabili că nici părinţii şi nici persoanele la care se află copilul nu sînt în stare să asigure întreţinerea, educaţia şi dezvoltarea adecvată a acestuia, ea va obliga autoritatea tutelară teritorială să dispună plasamentul copilului în conformitate cu prevederile Legii nr. 140/2013 privind protecţia specială a copiilor aflaţi în situaţii de risc şi a copiilor separaţi de părinţi.
+[Art.66 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 67. Decăderea din drepturile părinteşti
 Părinţii pot fi decăzuţi din drepturile părinteşti dacă:
 a) se eschivează de la exercitarea obligaţiilor părinteşti, inclusiv de la plata pensiei de întreţinere;
@@ -433,36 +477,48 @@ h) în alte cazuri cînd aceasta o cer interesele copilului.
 Articolul 68. Modalitatea de decădere din drepturile
 părinteşti
 (1) Decăderea din drepturile părinteşti are loc numai pe cale judecătorească.
-(2) Acţiunea privind decăderea din drepturile părinteşti poate fi pornită de celălalt părinte, tutorele copilului, autoritatea tutelară.
+(2) Acţiunea privind decăderea din drepturile părinteşti poate fi pornită de celălalt părinte, tutorele copilului, autoritatea tutelară locală/teritorială.
+[Art.68 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.68 al.(2) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
-(3) Cererea privind decăderea din drepturile părinteşti se examinează cu participarea obligatorie a autorităţii tutelare.
+(3) Cererea privind decăderea din drepturile părinteşti se examinează cu participarea obligatorie a autorităţii tutelare locale/teritoriale.
+[Art.68 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (4) Instanţa judecătorească este obligată să transmită, în termen de 3 zile din momentul cînd hotărîrea privind decăderea din drepturile părinteşti a rămas definitivă, o copie a acesteia organului de stare civilă din raza teritorială a instanţei.
 Articolul 69. Efectele decăderii din drepturile părinteşti
 (1) Copilul ai cărui părinţi (unul dintre ei) sînt decăzuţi din drepturile părinteşti păstrează dreptul de folosinţă asupra spaţiului locativ şi toate drepturile patrimoniale bazate pe rudenia cu părinţii şi rudele sale fireşti, inclusiv dreptul la succesiune.
-(2) Dacă copilul nu poate fi transmis celuilalt părinte sau dacă ambii părinţi sînt decăzuţi din drepturile părinteşti, copilul se pune la dispoziţia autorităţii tutelare.
-(3) Părinţii decăzuţi din drepturile părinteşti pot avea întrevederi cu copilul lor numai cu permisiunea autorităţii titelare. Întrevederile nu se acordă dacă contactul părinţilor cu copilul poate cauza daune dezvoltării lui fizice sau intelectuale, dacă este evident că părinţii nu sînt capabili de acest contact, dacă, din anumite motive, contactul contravine intereselor copilului sau dacă acesta, în timpul dezbaterilor judiciare, a avut obiecţii serioase privind contactul cu părinţii decăzuţi din drepturi.
+(2) Copiii ai căror părinţi/al căror unic părinte sînt decăzuţi/este decăzut din drepturile părinteşti sînt plasaţi în servicii de plasament în baza dispoziţiei autorităţii tutelare teritoriale
+[Art.69 al.(2) în redacția LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(3) Părinţii decăzuţi din drepturile părinteşti pot avea întrevederi cu copilul lor numai cu permisiunea autorităţii titelare teritoriale. Întrevederile nu se acordă dacă contactul părinţilor cu copilul poate cauza daune dezvoltării lui fizice sau intelectuale, dacă este evident că părinţii nu sînt capabili de acest contact, dacă, din anumite motive, contactul contravine intereselor copilului sau dacă acesta, în timpul dezbaterilor judiciare, a avut obiecţii serioase privind contactul cu părinţii decăzuţi din drepturi.
+[Art.69 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 70. Restabilirea drepturilor părinteşti
 (1) Părinţii pot fi restabiliţi în drepturile părinteşti dacă au încetat împrejurările care au condus la decăderea lor din aceste drepturi şi dacă restabilirea în drepturile părinteşti este în interesul copilului.
-(2) Restabilirea în drepturile părinteşti se face pe cale judecătorească, în baza cererii persoanei decăzute din aceste drepturi, cu participarea obligatorie a autorităţii tutelare.
+(2) Restabilirea în drepturile părinteşti se face pe cale judecătorească, în baza cererii persoanei decăzute din aceste drepturi, cu participarea obligatorie a autorităţii tutelare teritoriale.
+[Art.70 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (3) Restabilirea în drepturile părinteşti faţă de copilul care a atins vîrsta de 10 ani se admite ţinîndu-se cont de opinia copilului.
 (4) Dacă copilul a fost adoptat şi adopţia nu a fost desfăcută, hotărîrea privind decăderea din drepturile părinteşti poate fi anulată fără restabilirea drepturilor şi obligaţiilor de părinte.
 Articolul 71. Luarea copilului fără decădere din drepturile
 părinteşti
-(1) La cererea autorităţii tutelare, instanţa judecătorească poate hotărî luarea copilului de la părinţi fără decăderea acestora din drepturile părinteşti, dacă aflarea copilului împreună cu părinţii prezintă pericol pentru viaţa şi sănătatea lui, şi punerea acestuia la dispoziţia autorităţii tutelare.
-(2) În cazuri excepţionale, dacă există un pericol iminent pentru viaţa, sănătatea sau inviolabilitatea copilului, autoritatea tutelară poate decide luarea copilului de la părinţi, comunicînd acest fapt procurorului în termen de cel mult 24 de ore.
+(1) La cererea autorităţii tutelare, instanţa judecătorească poate hotărî luarea copilului de la părinţi fără decăderea acestora din drepturile părinteşti, dacă aflarea copilului împreună cu părinţii prezintă pericol pentru viaţa şi sănătatea lui, şi asigurarea protecţiei copilului de către autoritatea tutelară teritorială.
+[Art.71 al.(1) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(2) În cazuri excepţionale, dacă există un pericol iminent pentru viaţa, sănătatea sau inviolabilitatea copilului, autoritatea tutelară locală poate decide luarea copilului de la părinţi, comunicînd acest fapt procurorului în termen de cel mult 24 de ore.
+[Art.71 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.71 al.(2) modificat prin LP73 din 12.04.12, MO99-102/25.05.12 art.332]
-(3) În cazurile prevăzute la alin.(2), autoritatea tutelară, în termen de 3 zile lucrătoare, va porni o acţiune în instanţa judecătorească privind decăderea din drepturile părinteşti sau luarea copilului de la părinţi fără decăderea lor din aceste drepturi. Dacă această cerinţă nu este îndeplinită, copilul va fi înapoiat părinţilor.
+(3) În cazurile prevăzute la alin.(2), autoritatea tutelară locală, în termen de 3 zile lucrătoare, va porni o acţiune în instanţa judecătorească privind decăderea din drepturile părinteşti sau luarea copilului de la părinţi fără decăderea lor din aceste drepturi. Dacă această cerinţă nu este îndeplinită, copilul va fi înapoiat părinţilor.
+[Art.71 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.71 al.(3) modificat prin LP140 din 14.06.13, MO167-172/02.08.13 art.534; în vigoare 01.01.14]
-(4) Cererea privind luarea copilului de la părinţi fără decăderea acestora din drepturile părinteşti se examinează cu participarea obligatorie a autorităţii tutelare.
+(4) Cererea privind luarea copilului de la părinţi fără decăderea acestora din drepturile părinteşti se examinează cu participarea obligatorie a autorităţii tutelare, în a cărei evidenţă se află copilul.
+[Art.71 al.(4) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (5) La cererea părinţilor, instanţa judecătorească poate să le înapoieze copilul dacă aceasta nu contravine intereselor copilului.
 Articolul 72. Efectele luării copilului fără decădere
 din drepturile părinteşti
 (1) În cazurile luării copilului fără decădere din drepturile părinteşti, părinţii pierd dreptul de a comunica cu acesta, de a participa personal la educaţia lui şi de a-i reprezenta interesele.
-(2) Părinţii de la care a fost luat copilul pot avea întrevederi cu acesta, în unele cazuri, doar cu permisiunea autorităţii tutelare.
+(2) Părinţii de la care a fost luat copilul pot avea întrevederi cu acesta, în unele cazuri, doar cu permisiunea autorităţii tutelare în a cărei evidentă se află copilul și în baza avizului pozitiv al autorităţii tutelare locale în a cărei rază locuiesc părinţii copilului.
+[Art.72 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 73. Participarea autorităţii tutelare la examinarea
 litigiilor privind educaţia copilului
-(1) La examinarea de către instanţa judecătorească a litigiilor privind educaţia copilului este obligatorie participarea autorităţii tutelare.
-(2) Autoritatea tutelară este obligată să examineze condiţiile de trai ale copilului şi ale persoanei care pretinde la educaţia copilului şi să prezinte instanţei judecătoreşti avizul respectiv.
+(1) La examinarea de către instanţa judecătorească a litigiilor privind educaţia copilului este obligatorie participarea autorităţii tutelare teritoriale.
+[Art.73 al.(1) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(2) Autoritatea tutelară teritorială este obligată să examineze condiţiile de trai ale copilului şi ale persoanei care pretinde la educaţia copilului şi să prezinte instanţei judecătoreşti avizul respectiv.
+[Art.73 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 TITLUL IV
 OBLIGAŢIA DE ÎNTREŢINERE DINTRE
 MEMBRII FAMILIEI
@@ -472,7 +528,8 @@ PĂRINŢI ŞI COPII
 Articolul 74. Obligaţia părinţilor de a-şi întreţine copiii
 (1) Părinţii sînt obligaţi să-şi întreţină copiii minori şi copiii majori inapţi de muncă care necesită sprijin material.
 (2) Modul de plată a pensiei de întreţinere se determină în baza unui contract încheiat între părinţi sau între părinţi şi copilul major inapt de muncă.
-(3) Dacă lipseşte un atare contract şi părinţii nu participă la întreţinerea copiilor, pensia de întreţinere se încasează pe cale judecătorească, la cererea unuia dintre părinţi, a tutorelui copilului sau a autorităţii tutelare.
+(3) Dacă lipseşte un atare contract şi părinţii nu participă la întreţinerea copiilor, pensia de întreţinere se încasează pe cale judecătorească, la cererea unuia dintre părinţi, a tutorelui copilului sau a autorităţii tutelare teritoriale.
+[Art.74 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 75. Cuantumul pensiei de întreţinere încasate
 pentru copilul minor
 (1) Pensia de întreţinere pentru copilul minor se încasează din salariul şi/sau din alte venituri ale părinţilor în mărime de 1/4 - pentru un copil, 1/3 - pentru 2 copii şi 1/2 - pentru 3 şi mai mulţi copii.
@@ -583,7 +640,8 @@ privind plata pensiei de întreţinere
 (2) Contractul privind plata pensiei de întreţinere poate fi, în orice moment, modificat sau reziliat în baza acordului dintre părţi. Modificarea sau rezilierea contractului se perfectează în scris şi se autentifică notarial.
 (3) Modificarea unilaterală a contractului privind plata pensiei de întreţinere sau refuzul unilateral de a-l executa sînt inadmisibile.
 (4) În caz de modificare esenţială a situaţiei materiale sau familiale a părţilor, dacă acestea nu pot ajunge la o înţelegere referitoare la modificarea sau rezilierea contractului privind plata pensiei de întreţinere, partea interesată poate porni în instanţa judecătorească o acţiune privind modificarea sau rezilierea acestuia. Instanţa judecătorească soluţionează litigiul ţinînd cont de starea materială şi familială a părţilor, de alte circumstanţe importante.
-(5) Dacă contractul privind plata pensiei de întreţinere contravine intereselor copilului minor, acesta poate fi declarat nul de către instanţa judecătorească la cererea reprezentanţilor legali ai copiluluisau a autorităţii tutelare.
+(5) Dacă contractul privind plata pensiei de întreţinere contravine intereselor copilului minor, acesta poate fi declarat nul de către instanţa judecătorească la cererea reprezentanţilor legali ai copiluluisau a autorităţii tutelare teritoriale.
+[Art.94 al.(5) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.94 al.(5) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 [Art.94 al.(5) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 Articolul 95. Cuantumul pensiei de întreţinere stabilite
@@ -683,12 +741,17 @@ OCROTIRE PĂRINTEASCĂ
 Capitolul 19
 TUTELA ŞI CURATELA COPIILOR
 Articolul 142. Instituirea tutelei şi curatelei
-(1) Tutela şi curatela se instituie asupra copiilor rămaşi fără ocrotire părintească în scopul educaţiei şi instruirii acestora, precum şi al apărării drepturilor şi intereselor lor legitime.
-(2) Tutela se instituie asupra copiilor care nu au atins vîrsta de 14 ani. La atingerea vîrstei de 14 ani, tutela se transformă în curatelă, fără adoptarea de către autoritatea tutelară a unei hotărîri suplimentare.
+(1) Tutela şi curatela se instituie asupra copiilor separaţi de părinţi în scopul educaţiei şi instruirii acestora, precum şi al apărării drepturilor şi intereselor lor legitime.
+[Art.142 al.(1) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(2) Tutela se instituie asupra copiilor care nu au atins vîrsta de 14 ani. La atingerea vîrstei de 14 ani, tutela se transformă în curatelă, fără emiterea unei dispoziții suplimentare de către autoritatea tutelară.
+[Art.142 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.142 al.(2) modificat prin LP134-XVI din 30.07.05, MO107-109/12.08.05 art.519]
 (3) Curatela se instituie asupra copiilor în vîrstă de la 14 la 18 ani.
 [Art.142 al.(2) modificat prin LP134-XVI din 30.07.05, MO107-109/12.08.05 art.519]
-(4) Tutela şi curatela se instituie de către autorităţile administraţiei publice locale, în termen de cel mult o lună din momentul primirii cererii respective, în baza avizului scris al autorităţii tutelare.
+(4) Tutela și curatela asupra copiilor rămaşi temporar fără ocrotire părintească, copiilor rămaşi fără ocrotire părintească se instituie prin dispoziţia autorităţii tutelare teritoriale, în conformitate cu prevederile Legii nr. 140/2013 privind protecţia specială a copiilor aflaţi în situaţii de risc şi a copiilor separaţi de părinţi.
+[Art.142 al.(4) în redacția LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+(5) Tutela și curatela asupra copiilor ai căror părinţi/al căror unic părinte sînt plecaţi/este plecat peste hotare pe un termen mai mare de 3 luni se instituie prin dispoziţia autorităţii tutelare locale, în conformitate cu prevederile Legii nr. 140/2013 privind protecţia specială a copiilor aflaţi în situaţii de risc şi a copiilor separaţi de părinţi.
+[Art.142 al.(5) introdus prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 143. Persoanele care pot fi numite tutori
 (curatori)
 (1) Pot fi numiţi tutori (curatori) o singură persoană fizică sau soţul şi soţia împreună dacă nu se află în vreunul din cazurile de incompatibilitate prevăzute la alin.(4) şi au consimţit expres.
@@ -726,48 +789,24 @@ g) la comunicare cu părinţii şi rudele;
 h) la exprimarea propriei opinii în procesul soluţionării problemelor care le ating drepturile şi interesele legitime.
 Articolul 146. Drepturile şi obligaţiile tutorelui (curatorului)
 (1) Tutorele (curatorul) are dreptul şi este obligat să se ocupe de educaţia copilului aflat sub tutela (curatela) sa, să aibă grijă de sănătatea şi dezvoltarea fizică, psihică, spirituală şi morală a copilului.
-(2) Tutorele (curatorul) determină de sine stătător procedeele şi mijloacele de educaţie a copilului aflat sub tutelă (curatelă), luînd în considerare eventualele recomandări ale autorităţii tutelare şi respectînd prevederile art.62.
+(2) Tutorele (curatorul) determină de sine stătător procedeele şi mijloacele de educaţie a copilului aflat sub tutelă (curatelă), luînd în considerare eventualele recomandări ale autorităţii tutelare teritoriale şi respectînd prevederile art.62.
+[Art.146 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (3) Tutorele (curatorul), ţinînd cont de opinia copilului, poate alege instituţia de învăţămînt şi forma de studii pe care le va urma copilul, fiind obligat să asigure frecventarea de către copil a şcolii pînă la sfîrşitul anului de învăţămînt în care acesta atinge vîrsta de 16 ani.
 (4) Tutorele (curatorul) este în drept să ceară de la orice persoană, inclusiv rudele apropiate, înapoierea copilului pe care acestea îl reţin fără temei legal sau fără o hotărîre corespunzătoare a instanţei judecătoreşti.
 (5) Tutorele (curatorul) nu este în drept să împiedice contactele copilului cu rudele lui, cu excepţia cazurilor în care contactele respective contravin intereselor acestuia.
 (6) Drepturile şi obligaţiile tutorelui (curatorului) privind reprezentarea intereselor copilului aflat sub tutela (curatela) sa sînt stabilite de legislaţia civilă.
-(7) Tutorele (curatorul) este obligat să locuiască împreună cu copilul aflat sub tutela (curatela) sa. Curatorul şi copilul aflat sub curatelă care a atins vîrsta de 14 ani pot locui separat doar cu acordul autorităţii tutelare.
+(7) Tutorele (curatorul) este obligat să locuiască împreună cu copilul aflat sub tutela (curatela) sa. Curatorul şi copilul aflat sub curatelă care a atins vîrsta de 14 ani pot locui separat doar cu acordul autorităţii tutelare teritoriale, care a dispus plasamentul planificat.
+[Art.146 al.(7) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.146 al.(7) modificat prin LP134-XVI din 30.07.05, MO107-109/12.08.05 art.519]
-(8) Tutorele (curatorul) este obligat să comunice autorităţii tutelare informaţiile privind starea sănătăţii, îngrijirea şi educaţia copilului, precum şi schimbarea domiciliului.
+(8) Tutorele (curatorul) este obligat să comunice autorităţii tutelare în a cărei evidenţă se află copilul informaţiile privind starea sănătăţii, îngrijirea şi educaţia copilului, precum şi schimbarea domiciliului.
+[Art.146 al.(8) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 147. Exercitarea drepturilor şi îndeplinirea
 obligaţiilor de tutore (curator)
 (1) Drepturile şi obligaţiile de tutore (curator) sînt exercitate exclusiv în interesul minorului aflat sub tutelă (curatelă).
 (2) Obligaţiile de tutore (curator) sînt exercitate gratuit, cu excepţiile prevăzute de lege.
-Capitolul 20
-CASELE DE COPII DE TIP FAMILIAL
-Articolul 148. Noţiunea de casă de copii de tip familial
-Casa de copii de tip familial este o instituţie particulară creată pe baza unei familii, ţinîndu-se cont de situaţia materială şi nivelul spiritual al acesteia, în scopul întreţinerii parţiale şi educaţiei copiilor orfani şi a celor rămaşi fără ocrotire părintească.
-Articolul 149. Crearea caselor de copii de tip familial
-(1) Casa de copii de tip familial se creează conform hotărîrii autorităţii administraţiei publice locale, adoptate în baza avizului autorităţii tutelare, a cererii părinţilor educatori şi a actelor anexate la aceasta.
-(2) În casa de copii de tip familial pot fi cel mult 7 copii, inclusiv copiii proprii ai părinţilor educatori, dar nu mai puţin de 3 copii plasaţi.
-[Art.149 al.(2) modificat prin LP120-XVI din 29.05.08, MO125-126/15.07.08 art.489]
-Articolul 150. Părinţii educatori
-(1) Pot fi părinţi educatori persoanele cu domiciliul pe teritoriul Republicii Moldova, care au atins vîrsta de 25 de ani şi ale căror calităţi morale şi stare a sănătăţii permit îndeplinirea obligaţiilor respective.
-(2) Nu pot fi părinţi educatori persoanele:
-a) decăzute din drepturile părinteşti;
-b) în privinţa cărora este instituită o măsură de ocrotire judiciară;
-[Art.150 al.(2), lit.b) în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
-c) eliberate de obligaţiile de tutore (curator) din culpa lor;
-d) care au fost adoptatori, dar adopţia a fost desfăcută din culpa lor;
-e) care suferă de boli cronice grave sau contagioase.
-Articolul 151. Drepturile şi obligaţiile părinţilor educatori
-(1) Părinţii educatori au faţă de copiii plasaţi în casele de copii de tip familial drepturi şi obligaţii similare celor ale tutorelui (curatorului).
-(2) Părinţii educatori beneficiază de remunerare şi înlesniri în modul stabilit de Guvern.
-Articolul 152. Copiii care pot fi plasaţi în casele de copii
-de tip familial
-(1) În casele de copii de tip familial pot fi plasaţi pentru întreţinere şi educaţie copiii orfani şi copiii rămaşi fără ocrotire părintească în vîrstă de pînă la 14 ani.
-(2) Alegerea prealabilă a copiilor pentru casa de copii de tip familial se face de către părinţii educatori, cu concursul autorităţii tutelare, ţinîndu-se cont de cerinţele art.115 alin.(2).
-(3) La plasarea în casele de copii de tip familial este interzisă despărţirea fraţilor şi surorilor, cu excepţia cazurilor cînd aceasta o cer interesele copiilor.
-(4) Copilul care a împlinit vîrsta de 10 ani poate fi plasat în casa de copii de tip familial numai cu acordul acestuia.
-Articolul 153. Drepturile copiilor plasaţi în casele
-de copii de tip familial
-(1) Copiii plasaţi în casele de copii de tip familial au aceleaşi drepturi ca şi copiii aflaţi sub tutelă (curatelă).
-(2) Pentru întreţinerea copiilor din casele de copii de tip familial se plătesc indemnizaţii lunare în modul şi cuantumul prevăzute de Guvern.
+[Capitolul 20 abrogat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
+[Capitolul 20 modificat prin LP120-XVI din 29.05.08, MO125-126/15.07.08 art.489]
+[Capitolul 20 modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 TITLUL VI
 REGLEMENTAREA RELAŢIILOR FAMILIALE
 CU ELEMENTE DE EXTRANEITATE
