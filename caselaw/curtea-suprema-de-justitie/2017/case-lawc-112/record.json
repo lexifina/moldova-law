@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-1238/17, din 12.07.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 112,
+  "number": "2ra-1238/17",
+  "decision_date": "2017-07-12",
+  "decision_date_source_quote": "12 iulie 2017",
+  "record_date": "2017-07-12",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=112",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=112",
+  "source_sha256": "7583697d11f35e940a8d79cbd9dd823a13001dfdde781406411f169a90803bb2",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1849,
+    "pdftotext_words": 1831,
+    "common_ratio": [
+      0.9886,
+      0.9984
+    ]
+  },
+  "first_law": null
+}
