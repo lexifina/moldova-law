@@ -1,0 +1,30 @@
+{
+  "title": "Recomandarea CSJ (Opiniile consultative (recomandări)), nr. 100, din 18.07.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "rec_csj",
+  "database_label": "Opiniile consultative (recomandări)",
+  "source_id": 155,
+  "number": "100",
+  "decision_date": "2017-07-18",
+  "decision_date_source_quote": "18 iulie 2017",
+  "record_date": "2017-07-18",
+  "in_force": "2017-07-18",
+  "source": "http://jurisprudenta.csj.md/search_rec_csj.php?id=155",
+  "listing": "http://jurisprudenta.csj.md/db_rec_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_rec_csj.php?id=155",
+  "source_sha256": "4c3f74efd04198b3b9c2e212192a65b6cf65f97fd001f64256aeda59fbdd6673",
+  "pdf_pages": 1,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 374,
+    "pdftotext_words": 374,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
