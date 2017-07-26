@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3r-101/17, din 26.07.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 96,
+  "number": "3r-101/17",
+  "decision_date": "2017-07-26",
+  "decision_date_source_quote": "26 iulie 2017",
+  "record_date": "2017-07-26",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=96",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=96",
+  "source_sha256": "b02882df9d2a5aef643e9c2d3549bac19ea3d59c2c262efadba6aae043175c9b",
+  "pdf_pages": 5,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 1710,
+    "pdftotext_words": 1691,
+    "common_ratio": [
+      0.9865,
+      0.9976
+    ]
+  },
+  "first_law": null
+}
