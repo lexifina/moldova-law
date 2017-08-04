@@ -14,6 +14,13 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17
+HCC22 din 27.06.17, MO352-355/29.09.17 art.92; în vigoare 27.06.17
+LP164 din 20.07.17, MO277-288/04.08.17 art.485
+LP149 din 14.07.17, MO277-288/04.08.17 art.481
+LP141 din 13.07.17, MO277-288/04.08.17 art.469
+LP119 din 23.06.17, MO277-288/04.08.17 art.463
+LP83 din 25.05.17, MO229-243/07.07.17 art.362
 LP49 din 30.03.17, MO155-161/19.05.17 art.253
 RMO388 din 11.11.16, MO388-398/11.11.16 pag.8
 LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16
@@ -228,14 +235,22 @@ Articolul 34. Recidiva
 (1) Se consideră recidivă comiterea cu intenţie a uneia sau mai multor infracţiuni de o persoană cu antecedente penale pentru o infracţiune săvîrşită cu intenţie.
 (2) Recidiva se consideră periculoasă:
 a) dacă persoana anterior condamnată de două ori la închisoare pentru infracţiuni intenţionate a săvîrşit din nou cu intenţie o infracţiune;
+[Art.34 al.(2), lit.a) abrogată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 b) dacă persoana anterior condamnată pentru o infracţiune intenţionată gravă sau deosebit de gravă a săvîrşit din nou cu intenţie o infracţiune gravă sau deosebit de gravă.
+b) dacă persoana anterior condamnată pentru o infracţiune gravă, deosebit de gravă sau excepțional de gravă a săvîrşit din nou cu intenţie o infracţiune gravă sau deosebit de gravă.
+[Art.34 al.(2), lit.b) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (3) Recidiva se consideră deosebit de periculoasă:
 a) dacă persoana anterior condamnată de trei sau mai multe ori la închisoare pentru infracţiuni intenţionate a săvîrşit din nou cu intenţie o infracţiune;
+[Art.34 al.(3), lit.a) abrogată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 b) dacă persoana anterior condamnată pentru o infracţiune excepţional de gravă a săvîrşit din nou o infracţiune deosebit de gravă sau excepţional de gravă.
+b) dacă persoana anterior condamnată pentru o infracţiune excepţional de gravă a săvîrşit din nou o infracţiune gravă, deosebit de gravă sau excepţional de gravă.
+[Art.34 al.(3), lit.b) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (4) La stabilirea stării de recidivă în cazurile prevăzute la alin.(1)-(3) se ţine cont şi de hotărîrile definitive de condamnare pronunţate în străinătate, recunoscute de instanţa de judecată a Republicii Moldova.
 (5) La stabilirea stării de recidivă nu se ţine cont de antecedentele penale:
 a) pentru infracţiunile săvîrşite în timpul minoratului;
 b) pentru infracţiunile săvîrşite din imprudenţă;
+b1) pentru infracţiunile pentru care condamnarea a fost cu amînarea executării pedepsei și dacă aceasta nu a fost anulată şi persoana nu a fost trimisă să execute pedeapsa în închisoare;
+[Art.34 al.(5), lit.b1) introdusă prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 c) pentru faptele care nu constituie infracţiuni conform prezentului cod;
 d) stinse sau în caz de reabilitare, în conformitate cu prevederile art.111 şi 112;
 e) dacă persoana a fost condamnată cu suspendarea condiţionată a executării pedepsei.
@@ -346,6 +361,19 @@ a) amendă în mărime de pînă la 500 unităţi convenţionale;
 [Art.55 al.(2), lit.a) modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 b) arest contravenţional de pînă la 30 de zile.
 [Art.55 al.(2), lit.b) modificată prin LP131-XVIII din 23.12.09, MO23-24/12.02.10 art.35]
+(2) Persoanelor liberate de răspundere penală în conformitate cu alin. (1) li se aplică următoarele sancţiuni contravenţionale:
+a) amendă în mărime de pînă la 150 de unităţi convenţionale;
+b) privarea de dreptul de a desfăşura o anumită activitate pe un termen de la 3 luni la un an;
+c) privarea de dreptul de a deţine anumite funcţii pe un termen de la 3 luni la un an;
+d) privarea de dreptul special de a conduce vehicule pe un termen de la 6 luni la 3 ani;
+e) privarea de dreptul special de a deţine armă şi de portarmă pe un termen de la 3 luni la un an;
+f) muncă neremunerată în folosul comunităţii pe o durată de la 10 la 60 de ore;
+g) arest contravenţional de pînă la 30 de zile.
+[Art.55 al.(2) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
+[Art.55 al.(2) modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.55 al.(2) modificat prin LP131-XVIII din 23.12.09, MO23-24/12.02.10 art.35]
+(3) Privarea de dreptul de a desfăşura o anumită activitate, privarea de dreptul de a deţine anumite funcţii, privarea de dreptul special pot fi aplicate şi ca sancţiuni complementare.
+[Art.55 al.(3) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 Articolul 56. Liberarea de răspundere penală
 în legătură cu renunţarea de bună
 voie la săvîrşirea infracţiunii
@@ -384,6 +412,8 @@ PEDEAPSA PENALĂ
 Articolul 61. Noţiunea şi scopul pedepsei penale
 (1) Pedeapsa penală este o măsură de constrîngere statală şi un mijloc de corectare şi reeducare a condamnatului ce se aplică de instanţele de judecată, în numele legii, persoanelor care au săvîrşit infracţiuni, cauzînd anumite lipsuri şi restricţii drepturilor lor.
 (2) Pedeapsa are drept scop restabilirea echităţii sociale, corectarea condamnatului, precum şi prevenirea săvîrşirii de noi infracţiuni atît din partea condamnaţilor, cît şi a altor persoane. Executarea pedepsei nu trebuie să cauzeze suferinţe fizice şi nici să înjosească demnitatea persoanei condamnate.
+(2) Pedeapsa are drept scop restabilirea echităţii sociale, corectarea și resocializarea condamnatului, precum şi prevenirea săvîrşirii de noi infracţiuni atît din partea condamnaţilor, cît şi a altor persoane. Executarea pedepsei nu trebuie să cauzeze suferinţe fizice şi nici să înjosească demnitatea persoanei condamnate.
+[Art.61 al.(2) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 Articolul 62. Categoriile pedepselor aplicate
 persoanelor fizice
 (1) Persoanelor fizice care au săvîrşit infracţiuni li se pot aplica următoarele pedepse:
@@ -397,6 +427,8 @@ f) închisoare;
 g) detenţiune pe viaţă.
 (2) Închisoarea şi detenţiunea pe viaţă se aplică numai în calitate de pedepse principale.
 (3) Muncă neremunerată în folosul comunităţii poate fi aplicată ca pedeapsă principală sau în cazul condamnării cu suspendarea condiţionată a executării pedepsei - în calitate de obligaţie pentru perioada termenului de probă.
+(3) Muncă neremunerată în folosul comunităţii poate fi aplicată ca pedeapsă principală sau în cazul condamnării cu suspendarea condiţionată a executării pedepsei - în calitate de obligaţie pentru perioada de probațiune sau, după caz, pentru termenul de probă.
+[Art.62 al.(3) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (4) Amenda, privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate se aplică atît ca pedepse principale, cît şi ca pedepse complementare.
 (5) Retragerea gradului militar sau special, a unui titlu special, a gradului de calificare (clasificare) şi a distincţiilor de stat se aplică numai în calitate de pedeapsă complementară.
 [Art.62 al.(5) modificat prin LP65 din 07.04.11, MO110-112/08.07.11 art.297]
@@ -412,7 +444,7 @@ Articolul 64. Amenda
 (1) Amenda este o sancţiune pecuniară ce se aplică de instanţa de judecată în cazurile şi în limitele prevăzute de prezentul cod.
 (2) Amenda se stabileşte în unităţi convenţionale. Unitatea convenţională de amendă este egală cu 50 de lei.
 [Art.64 al.(2) modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
-(3) Mărimea amenzii pentru persoanele fizice se stabileşte în limitele la 5000 la 3000 unităţi convenţionale, iar pentru infracţiunile săvîrşite din interes material – pînă la 20000 unităţi convenţionale, luîndu-se ca bază mărimea unităţii convenţionale la momentul săvîrşirii infracţiunii. Mărimea amenzii se stabileşte în funcţie de gravitatea infracţiunii săvîrşite şi de situaţia materială a celui vinovat şi a familiei sale. Luînd în considerare circumstanţele cauzei, instanţa de judecată poate dispune achitarea amenzii în rate timp de pînă la 5 ani.
+(3) Mărimea amenzii pentru persoanele fizice se stabileşte în limitele la 500 la 3000 unităţi convenţionale, iar pentru infracţiunile săvîrşite din interes material – pînă la 20000 unităţi convenţionale, luîndu-se ca bază mărimea unităţii convenţionale la momentul săvîrşirii infracţiunii. Mărimea amenzii se stabileşte în funcţie de gravitatea infracţiunii săvîrşite şi de situaţia materială a celui vinovat şi a familiei sale. Luînd în considerare circumstanţele cauzei, instanţa de judecată poate dispune achitarea amenzii în rate timp de pînă la 5 ani.
 [Art.64 al.(3) modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 [Art.64 al.(3) în redacţia LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
 (31) În cazul infracţiunilor uşoare sau mai puţin grave, condamnatul este în drept să achite jumătate din amenda stabilită dacă o plăteşte în cel mult 72 de ore din momentul în care hotărîrea devine executorie. În acest caz, se consideră că sancţiunea amenzii este executată integral.
@@ -444,8 +476,16 @@ comunităţii
 (11) În cazul militarilor în termen şi militarilor cu termen redus, munca neremunerată în folosul comunităţii constă în antrenarea condamnaţilor în timpul liber de şedinţe, stabilite în conformitate cu cerinţele regulamentelor militare, la muncă, determinată de comandantul unităţii militare.
 (2) Munca neremunerată în folosul comunităţii se stabileşte pe un termen de la 60 la 240 de ore şi este executată de la 2 la 4 ore pe zi, iar în cazul condamnatului care nu este antrenat în activităţi de bază sau de studii, la solicitarea sau la acordul acestuia – pînă la 8 ore pe zi.
 [Art.67 al.(2) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
+(21) După pronunţarea hotărîrii judecătoreşti, preşedintele şedinţei de judecată explică esenţa pedepsei cu muncă neremunerată în folosul comunităţii, fapt care se consemnează în procesul-verbal al şedinţei de judecată.
+[Art.67 al.(21) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
+(22) Persoana condamnată la muncă neremunerată în folosul comunităţii semnează în instanţa de judecată un angajament prin care se obligă să se prezinte, în termen de 5 zile de la momentul rămînerii definitive a hotărîrii judecătorești, la organul de probaţiune în a cărui rază teritorială îşi are domiciliul sau, după caz, la comandantul unităţii militare.
+[Art.67 al.(22) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (3) În caz de eschivare cu rea-voinţă a condamnatului de la munca neremunerată în folosul comunităţii, ea se înlocuieşte cu închisoare, calculîndu-se o zi de închisoare pentru 2 ore de muncă neremunerată în folosul comunităţii. În acest caz, termenul închisorii poate fi mai mic de 6 luni.
+(3) În caz de eschivare cu rea-voinţă a condamnatului de la munca neremunerată în folosul comunităţii, ea se înlocuieşte cu închisoare, calculîndu-se o zi de închisoare pentru 4 ore de muncă neremunerată în folosul comunităţii. În acest caz, termenul închisorii poate fi mai mic de 3 luni.
+[Art.67 al.(3) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (4) Munca neremunerată în folosul comunităţii nu poate fi aplicată persoanelor cu dizabilităţi severe şi accentuate, militarilor prin contract, femeilor gravide, femeilor care au copii în vîrstă de pînă la 8 ani, persoanelor care nu au atins vîrsta de 16 ani şi persoanelor care au atins vîrsta de pensionare.
+(4) Munca neremunerată în folosul comunităţii nu poate fi aplicată militarilor prin contract și persoanelor care nu au atins vîrsta de 16 ani.
+[Art.67 al.(4) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.67 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (5) Munca neremunerată în folosul comunităţii va fi prestată timp de cel mult 18 luni, timp care se calculează de la data rămînerii definitive a hotărîrii judecătoreşti.
 (6) Militarii în termen şi militarii cu termen redus condamnaţi la muncă neremunerată în folosul comunităţii execută această pedeapsă în unitatea militară.
@@ -455,7 +495,11 @@ Articolul 70. Închisoarea
 (1) Închisoarea constă în privarea de libertate a persoanei vinovate de săvîrşirea unei infracţiuni prin izolarea impusă a acesteia de mediul normal de viaţă şi plasarea ei, în baza hotărîrii instanţei de judecată, pe un anumit termen, într-un penitenciar.
 (2) Închisoarea se stabileşte pe un termen de la 3 luni la 20 de ani.
 (3) La stabilirea pedepsei închisorii pentru persoana care, la data săvîrşirii infracţiunii, nu a atins vîrsta de 18 ani, termenul închisorii se stabileşte din maximul pedepsei, prevăzute de legea penală pentru infracţiunea săvîrşită, reduse la jumătate.
+(31) La aplicarea pedepsei persoanelor care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani, care au săvîrşit infracţiune la vîrsta de la 18 pînă la 21 de ani, maximul pedepsei se reduce cu o treime. În cazul în care instanța, ținînd cont de personalitatea infractorului, ajunge la concluzia că doar prin aplicarea pedepsei în limitele generale se va atinge scopul pedepsei penale, aceasta poate dispune o pedeapsă în limitele prevăzute de legea penală pentru infracțiunea săvîrșită. Necesitatea aplicării pedepsei în limitele generale urmează a fi argumentată de către instanţa de judecată.
+[Art.70 al.(31) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (4) La stabilirea pedepsei definitive în caz de concurs de infracţiuni, pedeapsa închisorii nu poate depăşi 25 de ani pentru adulţi şi 12 ani şi 6 luni pentru minori, iar în caz de cumul de sentinţe - de 30 ani pentru adulţi şi 15 ani pentru minori.
+(4) La stabilirea pedepsei definitive în caz de concurs de infracţiuni, pedeapsa închisorii nu poate depăşi 25 de ani pentru adulţi, 20 de ani pentru persoanele care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani, şi 12 ani şi 6 luni pentru minori, iar în caz de cumul de sentinţe - de 30 ani pentru adulţi, 25 de ani pentru persoanele care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani, şi 15 ani pentru minori.
+[Art.70 al.(4) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (5) În cazul înlocuirii pedepsei detenţiunii pe viaţă cu o pedeapsă mai blîndă, cu titlu de graţiere, se aplică închisoarea pe un termen de 30 de ani.
 Articolul 71. Detenţiunea pe viaţă
 (1) Detenţiunea pe viaţă constă în privarea de libertate a condamnatului pentru tot restul vieţii.
@@ -470,6 +514,8 @@ c) de tip închis.
 (2) În penitenciare de tip deschis execută pedeapsa persoanele condamnate la închisoare pentru infracţiuni săvîrşite din imprudenţă.
 (3) În penitenciare de tip semiînchis execută pedeapsa persoanele condamnate la închisoare pentru infracţiuni uşoare, mai puţin grave şi grave, săvîrşite cu intenţie.
 (4) În penitenciare de tip închis execută pedeapsa persoanele condamnate la închisoare pentru infracţiuni deosebit de grave şi excepţional de grave, precum şi persoanele care au săvîrşit infracţiuni ce constituie recidivă.
+(4) În penitenciare de tip închis execută pedeapsa persoanele condamnate la închisoare pentru infracţiuni deosebit de grave şi excepţional de grave.
+[Art.72 al.(4) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (5) Persoanele care nu au atins vîrsta de 18 ani execută pedeapsa cu închisoare în penitenciare pentru minori, ţinîndu-se cont de personalitatea condamnatului, antecedentele penale şi gradul prejudiciabil al infracţiunii săvîrşite.
 (6) Femeile condamnate execută pedeapsa închisorii în penitenciare pentru femei.
 (7) Schimbarea categoriei penitenciarului se efectuează de către instanţa de judecată în corespundere cu legislaţia.
@@ -486,11 +532,15 @@ Articolul 75. Criteriile generale de individualizare
 a pedepsei
 (1) Persoanei recunoscute vinovate de săvîrşirea unei infracţiuni i se aplică o pedeapsă echitabilă în limitele fixate în Partea specială a prezentului cod şi în strictă conformitate cu dispoziţiile Părţii generale a prezentului cod. La stabilirea categoriei şi termenului pedepsei, instanţa de judecată ţine cont de gravitatea infracţiunii săvîrşite, de motivul acesteia, de persoana celui vinovat, de circumstanţele cauzei care atenuează ori agravează răspunderea, de influenţa pedepsei aplicate asupra corectării şi reeducării vinovatului, precum şi de condiţiile de viaţă ale familiei acestuia.
 (2) O pedeapsă mai aspră, din numărul celor alternative prevăzute pentru săvîrşirea infracţiunii, se stabileşte numai în cazul în care o pedeapsă mai blîndă, din numărul celor menţionate, nu va asigura atingerea scopului pedepsei.
+(2) În cazul alternativelor de pedeapsă prevăzute pentru infracţiunea săvîrşită, pedeapsa cu închisoare are un caracter excepţional și se aplică atunci cînd gravitatea infracțiunii și personalitatea infractorului fac necesară aplicarea pedepsei cu închisoare, iar o altă pedeapsă este insuficientă și nu și-ar atinge scopul. O pedeapsă mai aspră, din numărul celor alternative prevăzute pentru săvîrșirea infracțiunii, se stabilește numai în cazul în care o pedeapsă mai blîndă, din numărul celor menționate, nu va asigura atingerea scopului pedepsei. Caracterul excepţional la aplicarea pedepsei cu închisoare urmează a fi argumentat de către instanţa de judecată.
+[Art.75 al.(2) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (3) Pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave, pedeapsa se aplică minorului numai dacă se apreciază că luarea măsurii cu caracter educativ nu este suficientă pentru corectarea minorului.
 Articolul 76. Circumstanţele atenuante
 (1) La stabilirea pedepsei se consideră circumstanţe atenuante:
 a) săvîrşirea pentru prima dată a unei infracţiuni uşoare sau mai puţin grave;
 b) săvîrşirea infracţiunii de către un minor;
+b) săvîrşirea infracţiunii de către un minor sau de către o persoană care a atins vîrsta de 18 ani, dar nu a atins vîrsta de 21 de ani;
+[Art.76 al.(1), lit.b) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 c) săvîrşirea infracţiunii ca urmare a unui concurs de împrejurări grele de ordin personal sau familial;
 d) săvîrşirea faptei de o persoană cu responsabilitate redusă;
 e) prevenirea de către vinovat a urmărilor prejudiciabile ale infracţiunii săvîrşite, repararea benevolă a pagubei pricinuite sau înlăturarea daunei cauzate;
@@ -533,6 +583,10 @@ c) dacă pentru infracţiunea săvîrşită se prevede detenţiune pe viaţă, a
 Articolul 79. Aplicarea pedepsei mai blînde
 decît cea prevăzută de lege
 (1) Ţinînd cont de circumstanţele excepţionale ale cauzei, legate de scopul şi motivele faptei, de rolul vinovatului în săvîrşirea infracţiunii, de comportarea lui în timpul şi după consumarea infracţiunii, de alte circumstanţe care micşorează esenţial gravitatea faptei şi a consecinţelor ei, precum şi de contribuirea activă a participantului unei infracţiuni săvîrşite în grup la descoperirea acesteia, instanţa de judecată poate aplica o pedeapsă sub limita minimă, prevăzută de legea penală pentru infracţiunea respectivă, sau una mai blîndă, de altă categorie, ori poate să nu aplice pedeapsa complementară obligatorie. Minoratul persoanei care a săvîrşit infracţiunea se consideră circumstanţă excepţională.
+(1) Ţinînd cont de circumstanţele excepţionale ale cauzei, legate de scopul şi motivele faptei, de rolul vinovatului în săvîrşirea infracţiunii, de comportarea lui în timpul şi după consumarea infracţiunii, de alte circumstanţe care micşorează esenţial gravitatea faptei şi a consecinţelor ei, precum şi de contribuirea activă a participantului unei infracţiuni săvîrşite în grup la descoperirea acesteia, instanţa de judecată poate aplica o pedeapsă sub limita minimă, prevăzută de legea penală pentru infracţiunea respectivă, sau una mai blîndă, de altă categorie, ori poate să nu aplice pedeapsa complementară obligatorie. Minoratul persoanei care a săvîrşit infracţiunea se consideră circumstanţă excepţională. Săvîrşirea infracțiunii de către persoanele care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani poate fi apreciată de către instanţa de judecată drept circumstanţă excepţională
+[Art.79 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
+(11) Poate fi considerată excepțională atît o circumstanță atenuantă, cît și un cumul de asemenea circumstanțe legate de situațiile menționate la alin. (1).
+[Art.79 al.(11) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2)- exclus
 (3) În cazul condamnării persoanelor adulte pentru comiterea infracţiunilor deosebit de grave, instanţa de judecată poate aplica o pedeapsă sub limita minimă prevăzută de legea penală, dar constituind cel puţin două treimi din minimul pedepsei prevăzute de prezentul cod pentru infracţiunea săvîrşită.
 (4) Prevederile alin.(1) nu se aplică persoanelor adulte în cazul aplicării pedepsei detenţiunii pe viaţă , în cazul recidivei de infracţiuni sau al săvîrşirii de infracţiuni prevăzute la art. 1661 alin. (2)–(4).
@@ -549,12 +603,18 @@ neconsumată
 Articolul 82. Aplicarea pedepsei pentru recidivă
 de infracţiuni
 (1) La aplicarea pedepsei pentru recidivă, recidivă periculoasă şi recidivă deosebit de periculoasă de infracţiuni se ţine cont de numărul, caracterul, gravitatea şi urmările infracţiunilor săvîrşite anterior, de circumstanţele în virtutea cărora pedeapsa anterioară a fost insuficientă pentru corectarea vinovatului, precum şi de caracterul, gravitatea şi urmările infracţiunii noi.
+(1) La aplicarea pedepsei pentru recidivă periculoasă şi recidivă deosebit de periculoasă de infracţiuni se ţine cont de numărul, caracterul, gravitatea şi urmările infracţiunilor săvîrşite anterior, de circumstanţele în virtutea cărora pedeapsa anterioară a fost insuficientă pentru corectarea vinovatului, precum şi de caracterul, gravitatea şi urmările infracţiunii noi.
+[Art.82 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2) Mărimea pedepsei pentru recidivă nu poate fi mai mică de jumătate, pentru recidivă periculoasă este de cel puţin două treimi, iar pentru recidivă deosebit de periculoasă – de cel puţin trei pătrimi din maximul celei mai aspre pedepse prevăzute la articolul corespunzător din Partea specială a prezentului cod.
+(2) Mărimea pedepsei pentru recidiva periculoasă și deosebit de periculoasă nu poate fi mai mică de o treime din maximul pedepsei prevăzute la articolul corespunzător din Partea specială a prezentului cod. În cazul în care sînt stabilite numai circumstanțe atenuante, instanța poate stabili pedeapsa în limitele prevăzute pentru infracțiune în Partea specială a prezentului cod.
+[Art.82 al.(2) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 Articolul 83. Aplicarea pedepsei pentru participaţie
 Organizatorul, instigatorul şi complicele la o infracţiune, prevăzută de legea penală, săvîrşită cu intenţie se sancţionează cu pedeapsa prevăzută de lege pentru autor. La stabilirea pedepsei se ţine cont de contribuţia fiecăruia la săvîrşirea infracţiunii, precum şi de prevederile art.75.
 Articolul 84. Aplicarea pedepsei în cazul unui
 concurs de infracţiuni
 (1) Dacă o persoană este declarată vinovată de săvîrşirea a două sau mai multor infracţiuni fără să fi fost condamnată pentru vreuna din ele, instanţa de judecată, pronunţînd pedeapsa pentru fiecare infracţiune aparte, stabileşte pedeapsa definitivă pentru concurs de infracţiuni prin cumul, total sau parţial, al pedepselor aplicate, dar pe un termen nu mai mare de 25 de ani de închisoare, iar în privinţa persoanelor care nu au atins vîrsta de 18 ani - pe un termen nu mai mare de 12 ani şi 6 luni. În cazul în care persoana este declarată vinovată de săvîrşirea a două sau mai multor infracţiuni uşoare şi/sau mai puţin grave, pedeapsa definitivă poate fi stabilită şi prin absorbirea pedepsei mai uşoare de pedeapsa mai aspră.
+(1) Dacă o persoană este declarată vinovată de săvîrşirea a două sau mai multor infracţiuni fără să fi fost condamnată pentru vreuna din ele, instanţa de judecată, pronunţînd pedeapsa pentru fiecare infracţiune aparte, stabileşte pedeapsa definitivă pentru concurs de infracţiuni prin cumul, total sau parţial, al pedepselor aplicate, dar pe un termen nu mai mare de 25 de ani de închisoare, iar în privinţa persoanelor care nu au atins vîrsta de 18 ani și a persoanelor care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani, care nu au mai fost condamnate pe un termen nu mai mare de 12 ani şi 6 luni. În cazul în care persoana este declarată vinovată de săvîrşirea a două sau mai multor infracţiuni uşoare şi/sau mai puţin grave, pedeapsa definitivă poate fi stabilită şi prin absorbirea pedepsei mai uşoare de pedeapsa mai aspră.
+[Art.84 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.84 al.(1) modificat prin LP270 din 07.11.13, MO290/10.12.13 art.794]
 (2) La pedeapsa principală aplicată în cazul unui concurs de infracţiuni poate fi adăugată oricare din pedepsele complementare prevăzute la articolele corespunzătoare din Partea specială a prezentului cod, care stabilesc răspunderea pentru infracţiunile de a căror săvîrşire persoana a fost declarată vinovată. Pedeapsa complementară definitivă stabilită prin cumul, total sau parţial, al pedepselor complementare aplicate nu poate depăşi termenul sau mărimea maximă prevăzută de Partea generală a prezentului cod pentru această categorie de pedepse.
 (3) Dacă pentru infracţiunile care intră în concurs sînt stabilite pedepse principale de diferite categorii, a căror cumulare nu este prevăzută de art.87, şi instanţa de judecată nu va găsi temeiuri pentru absorbirea unei pedepse de către alta, ele se execută de sine stătător.
@@ -563,6 +623,8 @@ concurs de infracţiuni
 Articolul 85. Aplicarea pedepsei în cazul unui
 cumul de sentinţe
 (1) Dacă, după pronunţarea sentinţei, dar înainte de executarea completă a pedepsei, condamnatul a săvîrşit o nouă infracţiune, instanţa de judecată adaugă, în întregime sau parţial, la pedeapsa aplicată prin noua sentinţă partea neexecutată a pedepsei stabilite de sentinţa anterioară. În acest caz, pedeapsa definitivă nu poate depăşi termenul de 30 de ani de închisoare, iar în privinţa persoanelor care nu au atins vîrsta de 18 ani - termenul de 15 ani.
+(1) Dacă, după pronunţarea sentinţei, dar înainte de executarea completă a pedepsei, condamnatul a săvîrşit o nouă infracţiune, instanţa de judecată adaugă, în întregime sau parţial, la pedeapsa aplicată prin noua sentinţă partea neexecutată a pedepsei stabilite de sentinţa anterioară. În acest caz, pedeapsa definitivă nu poate depăşi termenul de 30 de ani de închisoare, iar în privinţa persoanelor care nu au atins vîrsta de 18 ani şi a persoanelor care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani, care nu au mai fost condamnate - termenul de 15 ani.
+[Art.85 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2) Cumularea pedepselor complementare în cazul unui cumul de sentinţe se efectuează în condiţiile art.84 alin.(2).
 (3) Pedeapsa definitivă în cazul unui cumul de sentinţe trebuie să fie mai mare decît pedeapsa stabilită pentru săvîrşirea unei noi infracţiuni şi decît partea neexecutată a pedepsei pronunţate prin sentinţa anterioară a instanţei de judecată.
 (4) La cumularea pedepselor, dacă prin una din sentinţe este stabilită pedeapsa detenţiunii pe viaţă, pedeapsa definitivă va fi detenţiunea pe viaţă.
@@ -577,12 +639,16 @@ Articolul 87. Modul determinării termenului pedepsei
 definitive în cazul cumulării diferitelor
 pedepse
 (1) La cumularea diferitelor pedepse principale aplicate în cazul unui concurs de infracţiuni sau al unui cumul de sentinţe, unei zile de închisoare îi corespund 2 ore de muncă neremunerată în folosul comunităţii.
+(1) La cumularea diferitelor pedepse principale aplicate în cazul unui concurs de infracţiuni sau al unui cumul de sentinţe, unei zile de închisoare îi corespund 4 ore de muncă neremunerată în folosul comunităţii.
+[Art.87 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2) Celelalte pedepse cumulate cu închisoarea se execută de sine stătător.
 Articolul 88. Calcularea termenelor pedepsei
 şi computarea arestului preventiv
 (1) Termenele de privare de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate şi de închisoare se calculează în luni şi ani, iar cele de muncă neremunerată în folosul comunităţii - în ore.
 (2) La computarea sau cumularea pedepselor menţionate la alin.(1), cu excepţia muncii neremunerate în folosul comunităţii, precum şi la înlocuirea pedepsei, se admite calcularea acestora în zile.
 (3) Timpul aflării persoanei sub arest preventiv pînă la judecarea cauzei se include în termenul închisorii, calculîndu-se o zi pentru o zi, iar în termenul muncii neremunerate în folosul comunităţii – calculîndu-se o zi de arest preventiv pentru 2 ore de muncă neremunerată în folosul comunităţii.
+(3) Timpul aflării persoanei sub arest preventiv pînă la judecarea cauzei se include în termenul închisorii, calculîndu-se o zi pentru o zi, iar în termenul muncii neremunerate în folosul comunităţii – calculîndu-se o zi de arest preventiv pentru 4 ore de muncă neremunerată în folosul comunităţii.
+[Art.88 al.(3) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (4) Durata arestului preventiv şi cea a executării pedepsei cu închisoare, aplicate prin hotărîre a instanţei de judecată, pentru infracţiunea săvîrşită în străinătate se includ în termenul pedepsei, în cazul extrădării persoanei în condiţiile legii, calculîndu-se o zi pentru o zi.
 (5) Condamnatului care s-a aflat sub arest preventiv pînă la numirea cauzei spre judecare, la stabilirea în calitate de pedeapsă principală a amenzii, a privării de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate, instanţa de judecată, ţinînd cont de termenul aflării sub arest preventiv, îi atenuează pedeapsa stabilită sau îl liberează complet de executarea acesteia.
 (6) Timpul în care condamnatul, în cursul executării pedepsei, urmează un tratament spitalicesc se include în durata executării pedepsei, cu excepţia cazului în care şi-a provocat singur boala, fapt ce s-a constatat în cursul executării pedepsei. În durata executării pedepsei cu muncă neremunerată în folosul comunităţii nu se include timpul în care condamnatul lipseşte de la locul de muncă.
@@ -599,16 +665,22 @@ d) liberarea de pedeapsă a minorilor;
 e) liberarea de pedeapsă datorită schimbării situaţiei;
 f) liberarea de la executarea pedepsei a persoanelor grav bolnave;
 g) amînarea executării pedepsei pentru femei gravide şi femei care au copii în vîrstă de pînă la 8 ani.
+g) amînarea executării pedepsei pentru femei gravide şi persoane care au copii în vîrstă de pînă la 8 ani.
+[Art.89 al.(2), lit.g) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (3) Persoanelor liberate de pedeapsa penală li se aplică probaţiunea, iar militarilor – termenul de probă.
 [Art.89 al.(3) introdus prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 Articolul 90. Condamnarea cu suspendarea
 condiţionată a executării pedepsei
 (1) Dacă, la stabilirea pedepsei cu închisoare pe un termen de cel mult 5 ani pentru infracţiunile săvîrşite cu intenţie şi de cel mult 7 ani pentru infracţiunile săvîrşite din imprudenţă, instanţa de judecată, ţinînd cont de circumstanţele cauzei şi de persoana celui vinovat, va ajunge la concluzia că nu este raţional ca acesta să execute pedeapsa stabilită, ea poate dispune suspendarea condiţionată a executării pedepsei aplicate vinovatului, indicînd numaidecît în hotărîre motivele condamnării cu suspendare condiţionată a executării pedepsei şi perioada de probaţiune sau, după caz, termenul de probă. În acest caz, instanţa de judecată dispune neexecutarea pedepsei aplicate dacă, în perioada de probaţiune sau, după caz, termenul de probă pe care l-a fixat, condamnatul nu va săvîrşi o nouă infracţiune şi, prin comportare exemplară şi muncă cinstită, va îndreptăţi încrederea ce i s-a acordat. Controlul asupra comportării celor condamnaţi cu suspendarea condiţionată a executării pedepsei îl exercită organele competente, iar asupra comportării militarilor – comandamentul militar respectiv.
+(1) Dacă, la stabilirea pedepsei cu închisoare pe un termen de cel mult 5 ani pentru infracţiunile săvîrşite cu intenţie şi de cel mult 7 ani pentru infracţiunile săvîrşite din imprudenţă, instanţa de judecată, ţinînd cont de circumstanţele cauzei şi de persoana celui vinovat, va ajunge la concluzia că nu este raţional ca acesta să execute pedeapsa stabilită, ea poate dispune suspendarea condiţionată a executării pedepsei aplicate vinovatului, indicînd numaidecît în hotărîre motivele condamnării cu suspendare condiţionată a executării pedepsei şi perioada de probaţiune sau, după caz, termenul de probă. În acest caz, instanţa de judecată dispune neexecutarea pedepsei aplicate dacă, în perioada de probaţiune sau, după caz, termenul de probă pe care l-a fixat, condamnatul nu va săvîrşi o nouă infracţiune şi, prin respectarea condițiilor probațiunii sau, după caz, a termenului de probă, va îndreptăţi încrederea ce i s-a acordat. Controlul asupra comportării celor condamnaţi cu suspendarea condiţionată a executării pedepsei îl exercită organele competente, iar asupra comportării militarilor – comandamentul militar respectiv.
+[Art.90 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.90 al.(1) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (2) Perioada de probaţiune sau, după caz, termenul de probă se stabileşte de instanţa de judecată în limitele de la 1 an la 5 ani.
 [Art.90 al.(2) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (3)- exclus
 (4) Persoanelor care au săvîrşit infracţiuni deosebit de grave şi excepţional de grave, precum şi în cazul recidivei, condamnarea cu suspendarea condiţionată a executării pedepsei nu se aplică.
+(4) Persoanelor care au săvîrşit infracţiuni deosebit de grave şi excepţional de grave, precum şi în cazul recidivei periculoase sau deosebit de periculoase, condamnarea cu suspendarea condiţionată a executării pedepsei nu se aplică.
+[Art.90 al.(4) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (5) În caz de condamnare cu suspendarea condiţionată a executării pedepsei, pot fi stabilite pedepse complementare.
 (6) Aplicînd condamnarea cu suspendarea condiţionată a executării pedepsei, instanţa de judecată îl poate obliga pe condamnat:
 a) să nu-şi schimbe domiciliulşi/sau reședința fără consimţămîntul organului competent;
@@ -625,57 +697,104 @@ f)- exclusă
 g) să presteze muncă neremunerată în folosul comunităţii;
 [Art.90 al.(6), lit.g) introdusă prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 h) să fie supus monitorizării electronice.
+h) să fie supus monitorizării electronice, dar nu mai mult de 12 luni.
+[Art.90 al.(6), lit.h) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.90 al.(6), lit.h) introdusă prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (7) În decursul perioada de probaţiune sau, după caz, termenul de probă, instanţa de judecată, la propunerea organului care exercită controlul asupra comportării celui condamnat cu suspendarea condiţionată a executării pedepsei, poate anula, în întregime sau parţial, obligaţiile stabilite anterior condamnatului ori adăuga altele noi.
+(7) În decursul perioada de probaţiune sau, după caz, termenul de probă, instanţa de judecată, la demersul organului care exercită controlul asupra comportării celui condamnat cu suspendarea condiţionată a executării pedepsei, poate anula, în întregime sau parţial, obligaţiile stabilite anterior condamnatului ori adăuga altele noi.
+[Art.90 al.(7) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.90 al.(7) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (8) Dacă, după expirarea a cel puţin jumătate din perioada de probaţiune sau, după caz, termenul de probă, condamnatul cu suspendarea condiţionată a executării pedepsei a avut o comportare corectă şi exemplară, a reparat integral dauna, instanţa de judecată, la propunerea organului care exercită controlul asupra comportării celui condamnat cu suspendarea condiţionată a executării pedepsei, poate pronunţa o încheiere cu privire la anularea condamnării şi stingerea antecedentelor penale.
+(8) Dacă, după expirarea a cel puţin jumătate din perioada de probaţiune sau, după caz, termenul de probă, condamnatul cu suspendarea condiţionată a executării pedepsei a avut o comportare corectă şi exemplară, a reparat integral dauna, instanţa de judecată, la demersul organului care exercită controlul asupra comportării celui condamnat cu suspendarea condiţionată a executării pedepsei, poate pronunţa o încheiere cu privire la anularea condamnării şi stingerea antecedentelor penale.
+[Art.90 al.(8) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.90 al.(8) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
+(81) În cazul în care persoana condamnată cu suspendarea condiţionată a executării pedepsei are stabilită şi pedeapsă complementară, prevederile alin. (8) nu se aplică pînă la executarea integrală a pedepsei complementare.
+[Art.90 al.(81) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (9) În cazul în care cel condamnat cu suspendarea condiţionată a executării pedepsei, în decursul perioadei de probaţiune sau, după caz, termenul de probă, încalcă în mod sistematic obligaţiile stabilite sau ordinea publică, fiind supus răspunderii administrative, sau, pînă la expirarea termenului de probă, nu a executat cu rea-voinţă obligaţia de a repara dauna cauzată instanţa de judecată, la propunerea organului care exercită controlul asupra comportării celor condamnaţi cu suspendarea executării pedepsei, poate pronunţa o încheiere cu privire la anularea condamnării cu suspendarea condiţionată a executării pedepsei şi la trimiterea condamnatului pentru a executa pedeapsa stabilită prin hotărîrea instanţei de judecată.
+(9) În cazul în care cel condamnat cu suspendarea condiţionată a executării pedepsei, în decursul perioadei de probaţiune sau, după caz, termenul de probă, încalcă în mod sistematic obligaţiile stabilite sau, pînă la expirarea termenului de probă, nu a executat cu rea-voinţă obligaţia de a repara dauna cauzată instanţa de judecată, la propunerea organului care exercită controlul asupra comportării celor condamnaţi cu suspendarea executării pedepsei, poate pronunţa o încheiere cu privire la anularea condamnării cu suspendarea condiţionată a executării pedepsei şi la trimiterea condamnatului pentru a executa, deplin sau parțial, dar nu mai puțin de 1/3 din pedeapsa stabilită prin hotărîrea instanţei de judecată.
+[Art.90 al.(9) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.90 al.(9) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (10) În cazul în care cel condamnat cu suspendarea condiţionată a executării pedepsei săvîrşeşte în perioada de probaţiune sau, după caz, termenul de probă o nouă infracţiune intenţionată, instanţa de judecată îi stabileşte o pedeapsă în condiţiile art.85, dacă, după caz, nu sînt aplicabile prevederile alin. (11) din prezentul articol.
 [Art.90 al.(10) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (11) În cazul în care cel condamnat cu suspendarea condiţionată a executării pedepsei săvîrşeşte în perioada de probaţiune sau, după caz, termenul de probă o infracţiune din imprudenţă sau o infracţiune intenţionată mai puţin gravă, problema anulării sau menţinerii condamnării cu suspendarea condiţionată a executării pedepsei se soluţionează de către instanţa de judecată, la propunerea organului care exercită supravegherea asupra comportamentului celor condamnaţi cu suspendarea executării pedepsei.
 [Art.90 al.(11) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
+Articolul 901. Condamnarea cu suspendarea parțială
+a executării pedepsei cu închisoare
+(1) În cazul în care instanţa de judecată, ţinînd cont de circumstanţele cauzei şi de personalitatea vinovatului, ajunge la concluzia că nu este raţional ca acesta să execute întreaga pedeapsă cu închisoare în penitenciar, aceasta poate dispune suspendarea parțială a executării pedepsei aplicate vinovatului, indicînd în hotărîre perioada de executare a pedepsei în închisoare și perioada de probațiune sau, după caz, termenul de probă, precum și motivele condamnării cu suspendarea parțială a executării pedepsei. Prima parte a pedepsei se execută în penitenciar, iar restul pedepsei se suspendă.
+(2) În cazul infracțiunilor ușoare sau mai puțin grave, partea de pedeapsă ce trebuie executată în penitenciar poate fi coborîtă pînă la minimul prevăzut de prezentul cod.
+(3) În cazul infracțiunilor grave, partea de pedeapsă ce trebuie executată în penitenciar nu trebuie să fie mai mică decît jumătate din pedeapsa stabilită de instanța de judecată.
+(4) Prezentul articol nu se aplică în cazul infracțiunilor deosebit de grave și excepțional de grave, precum și al infracțiunilor prevăzute la art. 165, art. 1661 alin. (2)–(4), art. 171–1751, 2011, 206, 208, 2081 şi 2082.
+(5) La liberarea persoanei pentru executarea părţii de pedeapsă suspendată condiţionat pot fi aplicate obligațiile prevăzute la art. 90 alin. (6).
+(6) În cazul în care cel condamnat cu suspendarea parțială a executării pedepsei cu închisoare săvîrşeşte în perioada de probaţiune sau, după caz, în termenul de probă o nouă infracţiune intenţionată sau încalcă în mod sistematic obligaţiile stabilite, instanţa de judecată îi stabileşte o pedeapsă în condiţiile art. 85 dacă, după caz, nu sînt aplicabile prevederile alin. (7) din prezentul articol.
+(7) În cazul în care cel condamnat cu suspendarea parțială a executării pedepsei cu închisoare săvîrşeşte în perioada de probaţiune sau, după caz, în termenul de probă o infracţiune din imprudenţă sau o infracţiune intenţionată uşoară sau mai puţin gravă, problema anulării sau menţinerii condamnării cu suspendarea parțială a executării pedepsei cu închisoare se soluţionează de către instanţa de judecată, la demersul organului care exercită supravegherea asupra comportamentului celor condamnaţi cu suspendarea executării pedepsei.
+[Art.901 introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 Articolul 91. Liberarea condiţionată de pedeapsă
 înainte de termen
 (1) Persoanelor care execută pedeapsa cu închisoare, care au reparat integral daunele cauzate de infracţiunea pentru care sînt condamnate, care au participat la executarea şi care nu au refuzat executarea, în conformitate cu prevederile art.234 din Codul de executare, a muncilor remunerate sau neremunerate de îngrijire sau amenajare a penitenciarului şi a teritoriului, de îmbunătăţire a condiţiilor de trai şi medico-sanitare de detenţieși care au dat dovadă de corectare şi reeducare în timpul executării pedepsei li se poate aplica liberarea condiţionată de pedeapsă înainte de termen dacă instanţa de judecată va considera posibilă corectarea condamnatului fără executarea deplină a pedepsei. Totodată, persoana poate fi liberată, în întregime sau parţial, şi de pedeapsa complementară.
+(1) Persoanei care execută pedeapsa cu închisoare i se poate aplica liberarea condiționată de pedeapsă înainte de termen dacă a realizat programul individual de executare a pedepsei, a reparat integral daunele cauzate de infracțiunea pentru care a fost condamnată, cu excepția cazului cînd dovedește că nu a avut nicio posibilitate să le îndeplinească, și dacă se constată că corectarea ei este posibilă fără executarea deplină a pedepsei. Persoana poate fi liberată, în întregime sau parțial, și de pedeapsa complementară.
+[Art.91 al.(1) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.91 al.(1) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 [Art.91 al.(1) modificat prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (2) Aplicînd liberarea condiţionată de pedeapsă înainte de termen, instanţa de judecată îl poate obliga pe condamnat să îndeplinească obligaţiile prevăzute la art.90 alin.(6) în termenul de pedeapsă rămas neexecutat.
 (3) Liberarea condiţionată de pedeapsă înainte de termen se aplică condamnaţilor de către instanţa de judecată de la locul de executare a pedepsei, în baza demersului instituţiei care pune în executare pedeapsa, în baza demersului procurorului care exercită supravegherea organului sau instituţiei care pune în executare pedeapsa, la cererea condamnatului sau a apărătorului acestuia în condiţiile prevăzute la art. 266 şi 267 din Codul de executare şi numai după respectarea procedurii extrajudiciare stabilite.
+(3) Liberarea condiţionată de pedeapsă înainte de termen se aplică condamnaţilor de către instanţa de judecată de la locul de executare a pedepsei, în baza demersului instituţiei care pune în executare pedeapsa, la cererea condamnatului sau a apărătorului acestuia în condiţiile prevăzute la art. 266 şi 267 din Codul de executare şi numai după respectarea procedurii extrajudiciare stabilite.
+[Art.91 al.(3) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.91 al.(3) modificat prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (4) Liberarea condiţionată de pedeapsă înainte de termen poate fi aplicată dacă condamnatul, care la momentul săvîrşirii infracţiunii a atins vîrsta de 18 ani, a executat efectiv:
+(4) Liberarea condiţionată de pedeapsă înainte de termen poate fi aplicată dacă condamnatul, care la momentul săvîrşirii infracţiunii a atins vîrsta de 21 ani, a executat efectiv:
+[Art.91 al.(4) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 a) cel puţin jumătate din termenul de pedeapsă stabilit pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave;
+a) cel puţin jumătate, dar nu mai puţin de 90 de zile de închisoare, din termenul de pedeapsă stabilit pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave;
+[Art.91 al.(4), lit.a) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 b) cel puţin două treimi din termenul de pedeapsă stabilit pentru săvîrşirea unei infracţiuni grave;
+b) cel puţin două treimi din termenul de pedeapsă stabilit pentru săvîrşirea unei infracţiuni grave, infracţiuni deosebit de grave sau excepţional de grave, precum şi din pedeapsa aplicată persoanei anterior liberate condiţionat de pedeapsă înainte de termen, dacă liberarea condiţionată de pedeapsă înainte de termen a fost anulată în condiţiile alin. (8);
+[Art.91 al.(4), lit.b) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 c) cel puţin trei pătrimi din termenul de pedeapsă stabilit pentru săvîrşirea unei infracţiuni deosebit de grave sau excepţional de grave, precum şi din pedeapsa aplicată persoanei anterior liberate condiţionat de pedeapsă înainte de termen, dacă liberarea condiţionată de pedeapsă înainte de termen a fost anulată în condiţiile alin.(8).
+[Art.91 al.(4), lit.c) abrogată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (5) Persoana care execută pedeapsa detenţiunii pe viaţă poate fi liberată condiţionat de pedeapsă înainte de termen dacă instanţa de judecată va considera că nu mai există necesitatea executării de mai departe a pedepsei şi dacă această persoană a executat efectiv cel puţin 30 de ani de închisoare, fără a se lua în calcul compensarea privilegiată a zilelor de muncă.
 [Art.91 al.(5) modificat prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (6) Liberarea condiţionată de pedeapsă înainte de termen poate fi aplicată minorilor dacă aceştia au executat efectiv:
+(6) Liberarea condiţionată de pedeapsă înainte de termen poate fi aplicată minorilor, persoanelor care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani şi persoanelor care au împlinit vîrsta de 60 de ani, dacă aceştia au executat efectiv:
+[Art.91 al.(6) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 a) cel puţin o treime din termenul de pedeapsă stabilit pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave;
 b) cel puţin jumătate din termenul de pedeapsă stabilit pentru săvîrşirea unei infracţiuni grave;
 c) cel puţin două treimi din termenul de pedeapsă stabilit pentru săvîrşirea unei infracţiuni deosebit de grave sau excepţional de grave.
 (61) Liberarea condiţionată de pedeapsă înainte de termen nu se aplică condamnatului care anterior a fost liberat de pedeapsă înainte de termen şi a săvîrşit o nouă infracţiune în perioada condiţionării pedepsei. Prevederile prezentului alineat nu se aplică condamnatului minor.
+[Art.91 al.(61) abrogat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.91 al.(61) introdus prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (62) Liberarea condiţionată de pedeapsă înainte de termen nu se aplică condamnatului care în timpul detenţiei:
 a) s-a automutilat;
 b) a avut cazuri de tentativă de suicid;
 c) a încălcat regimul de detenţie şi se află sub acţiunea sancţiunii disciplinare.
+[Art.91 al.(62) abrogat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.91 al.(62) introdus prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (7) Controlul asupra comportării celor liberaţi condiţionat de pedeapsă înainte de termen îl exercită organele competente, iar asupra comportării militarilor – comandamentul militar respectiv.
+(7) Controlul asupra comportării celor liberaţi condiţionat de pedeapsă înainte de termen îl exercită organele de probațiune, iar asupra comportării militarilor – comandamentul militar respectiv.
+[Art.91 al.(7) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (8) Dacă, în termenul de pedeapsă rămas neexecutat:
 a) condamnatul încalcă ordinea publică, pentru care fapt i-a fost aplicată o sancţiune contravenţională, sau se eschivează cu premeditare de la îndeplinirea obligaţiilor stabilite de instanţa de judecată la aplicarea liberării condiţionate de pedeapsă înainte de termen, instanţa de judecată, la propunerea organului indicat la alin.(7), poate pronunţa o încheiere cu privire la anularea liberării condiţionate de pedeapsă înainte de termen şi la trimiterea condamnatului pentru a executa termenul de pedeapsă neexecutat;
+a) condamnatul se eschivează cu premeditare de la îndeplinirea obligaţiilor stabilite de instanţa de judecată la aplicarea liberării condiţionate de pedeapsă înainte de termen, instanţa de judecată, la propunerea organului indicat la alin.(7), poate pronunţa o încheiere cu privire la anularea liberării condiţionate de pedeapsă înainte de termen şi la trimiterea condamnatului pentru a executa termenul de pedeapsă neexecutat;
+[Art.91 al.(8), lit.a) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 b) condamnatul săvîrşeşte din imprudenţă o nouă infracţiune, anularea sau menţinerea liberării condiţionate de pedeapsă înainte de termen se decide de instanţa de judecată;
 c) condamnatul săvîrşeşte cu intenţie o nouă infracţiune, instanţa de judecată îi stabileşte pedeapsa în condiţiile art.85. În acelaşi mod se aplică pedeapsa şi în cazul săvîrşirii unei noi infracţiuni din imprudenţă dacă instanţa de judecată anulează liberarea condiţionată de pedeapsă înainte de termen.
 Articolul 92. Înlocuirea părţii neexecutate din pedeapsă
 cu o pedeapsă mai blîndă
 (1) În privinţa persoanelor care execută pedeapsa cu închisoare pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave, instanţa de judecată, ţinînd cont de comportarea lor în timpul executării pedepsei, poate pronunţa o încheiere cu privire la înlocuirea părţii neexecutate din pedeapsă cu o pedeapsă mai blîndă. Totodată, persoana poate fi liberată, în întregime sau parţial, de la pedeapsa complementară.
+(1) În privinţa persoanelor care execută pedeapsa cu închisoare pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave și grave, instanţa de judecată, ţinînd cont de comportarea lor în timpul executării pedepsei, poate pronunţa o încheiere cu privire la înlocuirea părţii neexecutate din pedeapsă cu o pedeapsă mai blîndă. Totodată, persoana poate fi liberată, în întregime sau parţial, de la pedeapsa complementară.
+[Art.92 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (11) La momentul examinării posibilităţii înlocuirii părţii neexecutate din pedeapsă cu o pedeapsă mai blîndă în privinţa persoanelor care execută pedeapsa cu închisoare, condamnatul trebuie să nu aibă încălcări de regim sau sancţiunile aplicate pentru aceste încălcări să fie stinse.
+[Art.92 al.(11) abrogat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.92 al.(11) introdus prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (12) La momentul examinării posibilităţii înlocuirii părţii neexecutate din pedeapsă cu o pedeapsă mai blîndă în privinţa persoanelor care execută pedeapsa neprivativă de libertate, condamnatul trebuie să dispună de loc de trai, să participe la programe probaţionale şi, după caz, să finalizeze tratamentul de alcoolism, narcomanie sau toxicomanie.
+[Art.92 al.(12) abrogat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.92 al.(12) introdus prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (2) Înlocuirea părţii neexecutate a pedepsei cu o pedeapsă mai blîndă poate fi aplicată numai după ce condamnatul a executat efectiv cel puţin o treime din termenul de pedeapsă pentru o infracţiune uşoară sau mai puţin gravă.
+(2) Înlocuirea părţii neexecutate a pedepsei cu o pedeapsă mai blîndă poate fi aplicată numai după ce condamnatul a executat efectiv cel puţin o treime din termenul de pedeapsă pentru o infracţiune uşoară sau mai puţin gravă și jumătate din termenul de pedeapsă pentru o infracțiune gravă.
+[Art.92 al.(2) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.92 al.(2) în redacția LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (3) La înlocuirea părţii neexecutate a pedepsei cu o pedeapsă mai blîndă, instanţa de judecată poate alege orice pedeapsă mai blîndă, din cele specificate la art.62, în limitele prevăzute pentru fiecare categorie de pedepse.
+(4) La înlocuirea părţii neexecutate din pedeapsă cu o pedeapsă mai blîndă, instanţa de judecată îl poate obliga pe condamnat să îndeplinească obligațiile prevăzute la art. 90 alin. (6) în termenul de pedeapsă, la care a fost condamnat, rămas neexecutat.
+[Art.92 al.(4) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 Articolul 93. Liberarea de pedeapsă a minorilor
 Minorii condamnaţi pentru săvîrşirea unei infracţiuni uşoare, mai puţin grave sau grave sînt liberaţi de pedeapsă de către instanţa de judecată dacă se constată că scopurile pedepsei pot fi atinse prin aplicarea măsurilor de constrîngere cu caracter educativ prevăzute la art. 104.
 [Art.93 în redacția LP123 din 02.06.16, MO232-244/29.07.16 art.492]
@@ -689,17 +808,37 @@ a persoanelor grav bolnave
 [Art.95 al.(2) modificat prin LP213 din 12.10.12, MO234-236/09.11.21 art.748]
 (3)- exclus
 (4) Persoanele menţionate la alin.(1) şi (2), în cazul însănătoşirii lor, pot fi supuse pedepsei dacă nu au expirat termenele prescripţiei prevăzute la art.60 şi 97.
+(4) Persoanele menţionate la alin.(1) şi (2), în cazul însănătoşirii lor, pot fi supuse pedepsei dacă nu au expirat termenele prescripţiei prevăzute la art.60 şi 97. Schimbarea liberării condiționate a persoanelor menționate la alin. (1) și (2) cu executarea pedepsei în penitenciar se efectuează la demersul reprezentantului organului care pune în executare sentința, în baza unui control efectuat cel puţin o dată la 12 luni.
+[Art.95 al.(4) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 Articolul 96. Amînarea executării pedepsei pentru
 femei gravide şi femei care au copii
 în vîrstă de pînă la 8 ani
+Articolul 96. Amînarea executării pedepsei pentru
+femei gravide şi persoane care au copii
+în vîrstă de pînă la 8 ani
+[Art.96 denumirea modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (1) Femeilor condamnate gravide şi celor care au copii în vîrstă de pînă la 8 ani, cu excepţia celor condamnate la închisoare pe un termen mai mare de 5 ani pentru infracţiuni grave, deosebit de grave şi excepţional de grave împotriva persoanei, instanţa de judecată le poate amîna executarea pedepsei pînă la atingerea de către copil a vîrstei de 8 ani.
+(1) Femeilor condamnate gravide şi persoanelor care au copii în vîrstă de pînă la 8 ani, cu excepţia celor condamnate la închisoare pe un termen mai mare de 5 ani pentru infracţiuni grave, deosebit de grave şi excepţional de grave, infracțiuni prevăzute la cap. I, II, III, VII, VIII, XIII și XVII, instanţa de judecată le poate amîna executarea pedepsei pînă la atingerea de către copil a vîrstei de 8 ani.
+[Art.96 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
+(11) La amînarea executării pedepsei în condiţiile alin. (1) din prezentul articol, instanţa de judecată poate obliga persoana condamnată să îndeplinească obligaţiile prevăzute la art. 90 alin. (6).
+[Art.96 al.(11) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2) În cazul în care vreuna din persoanele condamnate, menţionate la alin.(1), refuză să-şi exercite drepturile şi obligaţiile părinteşti sau încalcă condițiile probațiunii după avertismentul făcut de organul care exercită controlul asupra comportamentului condamnatei faţă de care executarea pedepsei a fost amînată, instanţa de judecată, la propunerea organului nominalizat, poate să anuleze amînarea executării pedepsei şi să trimită condamnata pentru executarea pedepsei la locul stabilit în hotărîrea judecătorească.
+(2) În cazul în care vreuna din persoanele condamnate, menţionate la alin.(1), refuză să-şi exercite drepturile şi obligaţiile părinteşti sau încalcă condițiile probațiunii după avertismentul făcut de organul care exercită controlul asupra comportamentului persoanei condamnate faţă de care executarea pedepsei a fost amînată, instanţa de judecată, la propunerea organului nominalizat, poate să anuleze amînarea executării pedepsei şi să trimită persoana condamnată pentru executarea pedepsei la locul stabilit în hotărîrea judecătorească.
+[Art.96 al.(2) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.96 al.(2) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (3) La atingerea de către copil a vîrstei de 8 ani, instanţa de judecată:
+(3) La atingerea de către copil a vîrstei de 8 ani, instanţa de judecată, la demersul organului de probațiune:
+[Art.96 al.(3) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 a) liberează condamnata de executarea părţii neexecutate a pedepsei;
+a) liberează persoana condamnată de executarea părţii neexecutate a pedepsei;
+[Art.96 al.(3), lit.a) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 b) înlocuieşte partea neexecutată a pedepsei cu o pedeapsă mai blîndă;
 c) trimite condamnata în instituţia corespunzătoare pentru executarea părţii neexecutate a pedepsei.
+c) trimite persoana condamnată în instituţia corespunzătoare pentru executarea părţii neexecutate a pedepsei.
+[Art.96 al.(3), lit.c) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (4) Dacă în perioada amînării executării pedepsei condamnata săvîrşeşte o nouă infracţiune, instanţa de judecată îi stabileşte o pedeapsă în condiţiile art.85.
+(4) Dacă în perioada amînării executării pedepsei persoana condamnată săvîrşeşte o nouă infracţiune, instanţa de judecată îi stabileşte o pedeapsă în condiţiile art.85.
+[Art.96 al.(4) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 Articolul 961. Dispunerea internării forţate într-o
 instituţie ftiziopneumologică
 Dacă persoana în privinţa căreia se examinează chestiunea privind liberarea de pedeapsă conform art.91-96 este bolnavă de tuberculoză, instanţa de judecată poate dispune, în baza demersului administraţiei instituţiei penitenciare, internarea ei forţată într-o instituţie ftiziopneumologică.
@@ -1032,7 +1171,8 @@ Prin dispozitiv radioactiv se înţelege:
 a) orice dispozitiv exploziv nuclear;
 b) orice dispozitiv de dispersie a materialului radioactiv sau de emitere a radiaţiei care, datorită proprietăţilor radiologice, poate cauza moartea, vătămarea gravă a integrităţii corporale sau a sănătăţii ori daune esenţiale proprietăţii sau mediului.
 Articolul 13411. Infracţiune cu caracter terorist
-Prin infracţiune cu caracter terorist se înţelege una din infracţiunile prevăzute la art. 1401, 142, 275, 278, 2781, 2791, 2792, 280, 284 alin. (2), art. 2891, 292 alin. (11) şi alin. (2) în partea ce vizează faptele prevăzute la alin. (11), art. 295, 2951, 2952, 342 şi 343.
+Prin infracţiune cu caracter terorist se înţelege una din infracţiunile prevăzute la art. 1401, 142, 275, 278, 2781, 2791, 2792, 2793, 280, 284 alin. (2), art. 2891, 292 alin. (11) şi alin. (2) în partea ce vizează faptele prevăzute la alin. (11), art. 295, 2951, 2952, 342 şi 343.
+[Art.13411 modificat prin LP119 din 23.06.17, MO277-288/04.08.17 art.463]
 [Art.13411 modificat prin LP134 din 14.06.12, MO135-141/06.07.12 art.449]
 Articolul 13412. Starea de ebrietate
 (1) Prin stare de ebrietate se înţelege starea de dereglare psihofuncţională a organismului survenită în urma consumului de alcool, droguri și/sau alte substanțe cu efecte similare.
@@ -1618,9 +1758,8 @@ se pedepsesc cu închisoare de la 3 la 8 ani.
 [Art.1751 în redacția LP121 din 02.06.16, MO184-192/01.07.16 art.395]
 [Art.1751 introdus prin LP73 din 12.04.12, MO99-102/25.05.12 art.332]
 Capitolul V
-INFRACŢIUNI CONTRA DREPTURILOR
-POLITICE, DE MUNCĂ ŞI ALTOR DREPTURI
-CONSTITUŢIONALE ALE CETĂŢENILOR
+INFRACŢIUNI CONTRA DREPTURILORPOLITICE, DE MUNCĂ
+ŞI ALTOR DREPTURI CONSTITUŢIONALE ALE CETĂŢENILOR
 Articolul 176. Încălcarea egalităţii în drepturi
 a cetăţenilor
 (1) Orice deosebire, excludere, restricţie sau preferinţă în drepturi şi în libertăţi a persoanei sau a unui grup de persoane, orice susţinere a comportamentului discriminatoriu în sfera politică, economică, socială, culturală şi în alte sfere ale vieţii, bazată pe criteriu de rasă, naţionalitate, origine etnică, limbă, religie sau convingeri, sex, vîrstă, dizabilitate, opinie, apartenenţă politică sau pe orice alt criteriu:
@@ -2004,7 +2143,7 @@ se pedepseşte cu închisoare de la 4 la 8 ani cu (sau fără) amendă în mări
 (4) Acţiunile prevăzute la alin. (1)–(3) săvîrşite în proporţii mari
 [Art.190 al.(4), dispoziția modificată prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 se pedepsesc cu închisoare de la 7 la 10 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
-[Art.190 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.190 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (5) Acţiunile prevăzute la alin. (1)–(3) săvîrşite în proporţii deosebit de mari
 [Art.190 al.(5), dispoziția modificată prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 se pedepsesc cu închisoare de la 8 la 15 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
@@ -2159,9 +2298,9 @@ Tăinuirea sau păstrarea ilegală a bunurilor arheologice mobile, inclusiv a co
 se pedepsesc cu amendă de la 850 la 1350 de unităţi convenţionale sau cu închisoare de pînă la 1 an, iar persoana juridică se pedepsește cu amendă în mărime de la 3350 la 5350 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 2 ani.
 [Art.1992 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.1993 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
-Articolul 1994. Comercializarea neautorizată
-a bunurilor arheologice mobile
-şi a bunurilor culturale mobile clasate
+Articolul 1994. Comercializarea neautorizată a bunurilor
+arheologice mobile şi a bunurilor culturale
+mobile clasate
 (1) Comercializarea neautorizată a bunurilor arheologice mobile şi a bunurilor culturale mobile clasate
 se pedepseşte cu amendă în mărime de la 750 la 850 de unităţi convenţionale, cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 1 an, iar persoana juridică se pedepsește cu amendă în mărime de la 2350 la 3350 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.1994 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2208,6 +2347,11 @@ se pedepsesc cu închisoare de la 6 la 12 ani.
 se pedepsesc cu închisoare de la 12 la 15 ani.
 [Art.2011 în redacția LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 [Art.2011 introdus prin LP167 din 09.07.10, MO155-158/03.09.10 art.551]
+Articolul 2012. Exercitarea necorespunzătoare a obligaţiilor
+părinteşti
+Eschivarea cu rea-voinţă a părinţilor de la exercitarea obligaţiilor părinteşti, dacă aceasta a determinat plasamentul copilului în instituții rezidențiale sau servicii sociale de plasament,
+se pedepseşte cu amendă în mărime de la 300 la 500 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 120 de ore.
+[Art.2012 introdus prinLP83 din 25.05.17, MO229-243/07.07.17 art.362]
 Articolul 202 - exclus
 Articolul 203 - exclus
 Articolul 204. Divulgarea secretului adopţiei
@@ -2290,7 +2434,7 @@ se pedepsesc cu amendă în mărime de la 550 la 850 unităţi convenţionale sa
 [Art.208 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni săvîrşite de părinţi sau de alţi ocrotitori legali ai copilului, precum şi de pedagogii acestuia
 se pedepsesc cu amendă în mărime de la 650 la 1050 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 6 ani.
-[Art.205 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.208 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Acţiunile prevăzute la alin.(1) sau (2), săvîrşite:
 a) cu aplicarea violenţei sau cu ameninţarea aplicării ei;
 b) prin atragerea minorilor într-un grup criminal organizat sau într-o organizaţie criminală;
@@ -2301,15 +2445,17 @@ Articolul 2081. Pornografia infantilă
 Producerea, distribuirea, difuzarea, importarea, exportarea, oferirea, vinderea, procurarea, schimbarea, folosirea sau deţinerea de imagini sau alte reprezentări ale unui sau mai mulţi copii implicaţi în activităţi sexuale explicite, reale sau simulate, ori de imagini sau alte reprezentări ale organelor sexuale ale unui copil, reprezentate de manieră lascivă sau obscenă, inclusiv în formă electronică,
 [Art.2081 dispoziţia modificată prin LP73 din 12.04.12, MO99-102/25.05.12 art.332]
 se pedepseşte cu închisoare de la 1 la 3 ani, cu amendă, aplicată persoanei juridice, de la 3000 la 5000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
-[Art.208 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.2081 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 2082. Recurgerea la prostituţia practicată
 de un copil
 Beneficierea, contra oricăror avantaje materiale, de serviciile sexuale prestate de către o persoană despre care se ştia cu certitudine că nu a împlinit vîrsta de 18 ani se pedepseşte cu închisoare de la 3 la 7 ani.
 [Art.2082 introdus prin LP73 din 12.04.12, MO99-102/25.05.12 art.332]
 Articolul 209. Atragerea minorilor la consumul ilegal
-de droguri, medicamente şi alte substanţe
-cu efect narcotizant
-(1) Atragerea de către o persoană care a atins vîrsta de 18 ani a minorilor la consumul ilegal de droguri, medicamente sau alte substanţe cu efect narcotizant
+de substanțe stupefiante, psihotrope și/sau
+de alte substanțe cu efecte similare
+[Art.209 denumirea modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
+(1) Atragerea de către o persoană care a atins vîrsta de 18 ani a minorilor la consumul ilegal de substanțe stupefiante, psihotrope și/sau de alte substanțe cu efecte similare
+[Art.209 al.(1), dispoziția modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
 se pedepseşte cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
 [Art.209 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită:
@@ -2319,8 +2465,8 @@ se pedepseşte cu amendă în mărime de la 750 la 1150 unităţi convenţionale
 [Art.209 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 210 - exclus
 Capitolul VIII
-INFRACŢIUNI CONTRA SĂNĂTĂŢII PUBLICE
-ŞI CONVIEŢUIRII SOCIALE
+INFRACŢIUNI CONTRA SĂNĂTĂŢII PUBLICEI
+CONVIEŢUIRII SOCIALE
 Articolul 211. Transmiterea unei boli venerice
 (1) Persoana care, ştiind că suferă de o boală venerică, o transmite altei persoane
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 200 de ore, sau cu închisoare de pînă la 1 an.
@@ -2493,7 +2639,7 @@ d) prin pătrundere în încăpere, într-un alt loc pentru depozitare sau în l
 e) cu aplicarea violenţei nepericuloase pentru viaţa sau sănătatea persoanei ori cu ameninţarea aplicării unei asemenea violenţe;
 f) în proporţii mari,
 se pedepsesc cu închisoare de la 5 la 10 ani cu (sau fără) amendă în mărime de la 2000 la 3000 unităţi convenţionale.
-[Art.2174 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.2174 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2174 al.(2), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (3) Acţiunile prevăzute la alin.(1) sau (2), săvîrşite:
 a) de un grup criminal organizat sau de o organizaţie criminală ori în favoarea acestora;
@@ -2585,7 +2731,7 @@ b) din motive de ură socială, naţională, rasială ori religioasă;
 c) cu cauzarea de daune în proporţii mari
 [Art.222 al.(2), lit.c) introdusă prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 se pedepsesc cu amendă în mărime de la 750 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de pînă la 3 ani.
-[Art.218 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.222 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Capitolul IX
 INFRACŢIUNI ECOLOGICE
 Articolul 223. Încălcarea cerinţelor securităţii
@@ -3050,9 +3196,16 @@ birourilor istoriilor de credit
 (1) Obţinerea, utilizarea în alte scopuri sau în alt mod decît cel prevăzut în lege şi/sau divulgarea în orice formă de către birourile istoriilor de credit, utilizatorii istoriei de credit, sursele de formare a istoriei de credit, precum şi de către persoanele cu funcţie de răspundere ale acestora a informaţiei care constituie secret comercial al biroului istoriilor de credit, al sursei de formare a istoriei de credit, al subiectului istoriei de credit sau al utilizatorului istoriei de credit, dacă aceste acţiuni au cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de la 850 la 2350 unităţi convenţionale cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 5000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.24512 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(2) Aceleaşi acţiuni care au cauzat daune în proporţii deosebit de mari,
-se pedepsesc cu amendă în mărime de la 1350 la 3350 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+(2) Neprezentarea intenționată a informației în volumul stabilit de lege sau prezentarea eronată a acesteia în mod intenționat la biroul istoriilor de credit de către sursele de formare a istoriilor de credit, precum şi de către persoanele cu funcţie de răspundere ale acestora, dacă aceste acţiuni au cauzat daune în proporţii mari,
+se pedepseşte cu amendă în mărime de la 850 la 2350 de unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+[Art.24512 al.(2) în redacția LP149 din 14.07.17, MO277-288/04.08.17 art.481]
 [Art.24512 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+(3) Furnizarea și/sau folosirea, și/sau administrarea ilegală a informațiilor ce caracterizează respectarea de către debitori a obligațiilor asumate prin contractele de credit și/sau contractele de împrumut de către persoanele juridice ce nu dețin licențe pentru activitatea biroului istoriilor de credit, precum și de către persoanele cu funcție de răspundere ale acestora, dacă aceste acțiuni au cauzat daune în proporții mari,
+se pedepsesc cu amendă în mărime de la 850 la 2350 de unități convenționale cu (sau fără) privarea de dreptul de a ocupa anumite funcții sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 2000 la 4000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+[Art.24512 al.(3) introdus prin LP149 din 14.07.17, MO277-288/04.08.17 art.481]
+(4) Acțiunile prevăzute la alin. (1), (2) sau (3) care au cauzat daune în proporții deosebit de mari
+se pedepsesc cu amendă în mărime de la 1350 la 3350 de unități convenționale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcții sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 4000 la 7000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+[Art.24512 al.(4) introdus prin LP149 din 14.07.17, MO277-288/04.08.17 art.481]
 [Art.24512 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 246. Limitarea concurenţei libere
 Limitarea concurenţei libere prin încheierea unui acord ilegal care prevede diviziunea pieţei, limitarea accesului la piaţă, cu înlăturarea altor agenţi economici, majorarea sau menţinerea preţurilor unice, dacă prin aceasta a fost obţinut un profit în proporţii deosebit de mari sau au fost cauzate daune în proporţii deosebit de mari unei terţe persoane,
@@ -3091,12 +3244,13 @@ Articolul 248. Contrabanda
 (1) Trecerea peste frontiera vamală a Republicii Moldova a mărfurilor, obiectelor şi a altor valori în proporţii mari, eludîndu-se controlul vamal ori tăinuindu-le de el, prin ascundere în locuri special pregătite sau adaptate în acest scop, ori cu folosirea frauduloasă a documentelor sau a mijloacelor de identificare vamală, ori prin nedeclarare sau declarare neautentică în documentele vamale sau în alte documente de trecere a frontierei,
 se pedepseşte cu amendă în mărime de la 500 la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore sau cu închisoare de pînă la 2 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.248 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(2) Trecerea peste frontiera vamală a Republicii Moldova a substanţelor narcotice, psihotrope, cu efecte puternice, toxice, otrăvitoare, radioactive şi explozive, precum şi a deşeurilor nocive şi a produselor cu destinaţie dublă, eludîndu-se controlul vamal ori tăinuindu-le de el, prin ascundere în locuri special pregătite sau adaptate în acest scop, ori cu folosirea frauduloasă a documentelor sau a mijloacelor de identificare vamală, ori prin nedeclarare sau declarare neautentică în documentele vamale sau în alte documente de trecere a frontierei,
+(2) Trecerea peste frontiera vamală a Republicii Moldova a substanțe stupefiante cu efecte puternice, toxice, otrăvitoare, radioactive şi explozive, precum şi a deşeurilor nocive şi a produselor cu destinaţie dublă, eludîndu-se controlul vamal ori tăinuindu-le de el, prin ascundere în locuri special pregătite sau adaptate în acest scop, ori cu folosirea frauduloasă a documentelor sau a mijloacelor de identificare vamală, ori prin nedeclarare sau declarare neautentică în documentele vamale sau în alte documente de trecere a frontierei,
+[Art.248 al.(2), dispoziția modificată prin LP141 din 13.07.17, MO277-288/04.08.17 art.469]
 se pedepseşte cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu închisoare de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.248 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Trecerea peste frontiera vamală a Republicii Moldova a armamentului, a dispozitivelor explozive, a muniţiilor, eludîndu-se controlul vamal ori tăinuindu-le de el, prin ascundere în locuri special pregătite sau adaptate în acest scop, ori cu folosirea frauduloasă a documentelor sau a mijloacelor de identificare vamală, ori prin nedeclarare sau declarare neautentică în documentele vamale sau în alte documente de trecere a frontierei,
 se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de la 4 la 6 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 11000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-[Art.247 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.248 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (4) Trecerea peste frontiera vamală a Republicii Moldova a valorilor culturale, eludîndu-se controlul vamal ori tăinuindu-le de el prin ascundere în locuri special pregătite sau adaptate în acest scop, precum şi nereturnarea pe teritoriul vamal al Republicii Moldova a valorilor culturale scoase din ţară, în cazul în care întoarcerea lor este obligatorie,
 se pedepsesc cu închisoare de la 3 la 8 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 11000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.248 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3142,7 +3296,7 @@ se pedepsesc cu amendă în mărime de la 1350 la 2350 unităţi convenţionale 
 (2) Aceleaşi acţiuni săvîrşite:
 a) de un grup criminal organizat sau de o organizaţie criminală;
 b) în proporţii deosebit de mari
-se pedepsesc cu închisoare de la 5 la 10 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 10000 la 13000 unități convenționale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice..
+se pedepsesc cu închisoare de la 5 la 10 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 10000 la 13000 unități convenționale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2501 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2501 introdus prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 Articolul 251. Însuşirea, înstrăinarea în cazurile
@@ -3236,8 +3390,8 @@ dintr-un bloc de locuit
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale.
 [Art.258 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Capitolul XI
-INFRACŢIUNI INFORMATICE ŞI INFRACŢIUNI
-ÎN DOMENIUL TELECOMUNICAŢIILOR
+INFRACŢIUNI INFORMATICE ŞI INFRACŢIUNI ÎN
+DOMENIUL TELECOMUNICAŢIILOR
 Articolul 259. Accesul ilegal la informaţia computerizată
 (1) Accesul ilegal la informaţia computerizată, adică la informaţia din calculatoare, de pe suporţii materiali de informaţie, din sistemul sau reţeaua informatică, al unei persoane care nu este autorizată în temeiul legii sau al unui contract, depăşeşte limitele autorizării ori nu are permisiunea persoanei competente să folosească, să administreze sau să controleze un sistem informatic ori să desfăşoare cercetări ştiinţifice sau să efectueze orice altă operaţiune într-un sistem informatic, dacă este însoţit de distrugerea, deteriorarea, modificarea, blocarea sau copierea informaţiei, de dereglarea funcţionării calculatoarelor, a sistemului sau a reţelei informatice şi dacă a cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 200 de ore, sau cu închisoare de pînă la 2 ani, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
@@ -3349,7 +3503,7 @@ se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale 
 [Art.264 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită în stare de ebrietate
 se pedepseşte cu amendă în mărime de la 950 la 1350 unităţi convenţionale, sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore sau cu închisoare de pînă la 4 ani, în toate cazurile cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
-[Art.263 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.264 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Acţiunea prevăzută la alin.(1), care a provocat:
 a) vătămarea gravă a integrităţii corporale sau a sănătăţii;
 b) decesul unei persoane,
@@ -3364,7 +3518,9 @@ Articolul 2641. Conducerea mijlocului de transport
 în stare de ebrietate alcoolică cu grad
 avansat sau în stare de ebrietate produsă
 de alte substanţe
-(1) Conducerea mijlocului de transport de către o persoană care se află în stare de ebrietate alcoolică cu grad avansat sau în stare de ebrietate produsă de substanţe narcotice, psihotrope şi/sau de alte substanţe cu efecte similare
+(1) Conducerea mijlocului de transport de către o persoană care se află în stare de ebrietate alcoolică cu grad avansat sau în stare de ebrietate produsă de substanțe stupefiante
+[Art.2641 al.(1), dispoziția modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
+[Art.2641 al.(1), dispoziția modificată prin LP141 din 13.07.17, MO277-288/04.08.17 art.469]
 se pedepseşte cu amendă în mărime de la 750 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
 [Art.2641 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Predarea cu bună ştiinţă a conducerii mijlocului de transport către o persoană care se află în stare de ebrietate, dacă această acţiune a provocat urmările indicate la art.264,
@@ -3507,14 +3663,18 @@ se pedepseşte cu închisoare de la 5 la 10 ani cu privarea de dreptul de a ocup
 (2) Infracţiunea de finanţare a terorismului se consideră consumată indiferent de faptul dacă infracţiunea cu caracter terorist a fost comisă, dacă bunurile au fost utilizate la comiterea acestei infracţiuni de către grupul, organizaţia ori persoana menţionată la alin. (1) lit. b) sau dacă infracțiunea a fost săvîrșită pe teritoriul ori în afara teritoriului Republicii Moldova.
 [Art.279 al.(2) modificat prin LP60 din 07.04.16, MO123-127/06.05.16 art.246]
 [Art.279 al.(3) abrogat prin LP60 din 07.04.16, MO123-127/06.05.16 art.246]
-Articolul 2791. Recrutarea, instruirea sau acordarea
-altui suport în scop terorist
+Articolul 2791. Recrutarea, instruirea, beneficierea de instruire
+sau acordarea de alt suport în scop terorist
+[Art.2791 titlul în redacția LP119 din 23.06.17, MO277-288/04.08.17 art.463]
 (1) Recrutarea în scop terorist, adică solicitarea adresată unei persoane de a comite sau de a participa la pregătirea ori comiterea unei infracţiuni cu caracter terorist, sau de a se asocia la o organizaţie sau un grup, cu intenţia sau cunoscînd că această solicitare este făcută în scopul de a contribui la comiterea unei sau mai multor infracţiuni cu caracter terorist,
 se pedepseşte cu închisoare de la 3 la 8 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 4000 la 8000 unităţi convenţionale cu lichidarea persoanei juridice.
 [Art.2791 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Instruirea în scop terorist, adică furnizarea de instrucţiuni cu privire la fabricarea sau utilizarea dispozitivelor ori substanţelor explozive, a armelor de distrugere în masă, a dispozitivelor ori materialelor radioactive, a armelor de foc ori a altor arme sau substanţe nocive ori periculoase sau cu privire la alte metode ori tehnici specifice, cu intenţia sau cunoscînd că această furnizare este făcută în scopul de a contribui la comiterea unei sau mai multor infracţiuni cu caracter terorist,
 se pedepseşte cu închisoare de la 4 la 9 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 6000 la 9000 unităţi convenţionale cu lichidarea persoanei juridice.
 [Art.2791 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+(21) Autoinstruirea sau beneficierea de instruire în scop terorist, adică obținerea de cunoștințe sau deprinderi practice privind fabricarea sau utilizarea dispozitivelor ori a substanțelor explozive, a armelor de distrugere în masă, a dispozitivelor ori materialelor radioactive, a armelor de foc ori a altor arme sau substanțe nocive ori periculoase sau privind alte metode ori tehnici specifice care pot contribui la comiterea uneia sau mai multor infracțiuni cu caracter terorist,
+se pedepseşte cu închisoare de la 4 la 8 ani cu sau fără privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani.
+[Art.2791 al.(21) introdus prin LP119 din 23.06.17, MO277-288/04.08.17 art.463]
 (3) Procurarea, păstrarea, producerea, transportarea sau furnizarea de arme, muniţii, alte dispozitive sau mijloace distructive, arme biologice, substanţe nocive ori periculoase, înlesnirea trecerii frontierei de stat, găzduirea, facilitarea pătrunderii în zone cu acces limitat, culegerea, deţinerea în scopul transmiterii ori punerea la dispoziţie de date despre obiective-ţintă, precum şi acordarea altui suport, sub orice formă, cu intenţia sau cunoscînd că aceste acţiuni sînt săvîrşite în scopul de a contribui la comiterea unei sau mai multor infracţiuni cu caracter terorist,
 se pedepsesc cu închisoare de la 5 la 10 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 8000 la 11000 unităţi convenţionale cu lichidarea persoanei juridice.
 [Art.2791 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3533,6 +3693,12 @@ a) prin intermediul unui mijloc de informare în masă;
 b) cu folosirea situaţiei de serviciu,
 se pedepsesc cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de la 2 la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 4000 la 6000 unităţi convenţionale cu (sau fără) privarea de dreptul de a exercita o anumită activitate pe un termen de la 3 la 5 ani sau cu lichidarea persoanei juridice.
 [Art.2792 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+Articolul 2793. Călătoria în străinătate în scop terorist
+(1) Călătoria în străinătate în scop terorist, adică călătoria către un stat care nu este statul de reşedinţă al persoanei, nici statul a cărui cetățenie persoana o deţine, pentru planificarea, pregătirea, săvîrşirea ori participarea la infracţiuni cu caracter terorist sau pentru a instrui în scop terorist ori a beneficia de instruire în scop terorist,
+se pedepseşte cu închisoare de la 3 la 7 ani.
+(2) Organizarea sau facilitarea călătoriei în străinătate în scop terorist
+se pedepseşte cu închisoare de la 3 la 6 ani cu sau fără privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 3000 la 7000 de unităţi convenţionale cu lichidarea persoanei juridice.
+[Art.2793 introdus prin LP119 din 23.06.17, MO277-288/04.08.17 art.463]
 Articolul 280. Luarea de ostatici
 (1) Luarea sau reţinerea persoanei în calitate de ostatic şi ameninţarea cu omor, cu vătămarea integrităţii corporale sau a sănătăţii ori cu reţinerea în continuare a persoanei în această calitate cu scopul de a sili statul, organizaţia internaţională, persoana juridică sau fizică ori un grup de persoane să săvîrşească sau să se abţină de la săvîrşirea vreunei acţiuni în calitate de condiţie pentru eliberarea ostaticului
 se pedepseşte cu închisoare de la 5 la 10 ani.
@@ -3593,7 +3759,7 @@ se pedepseşte cu amendă în mărime de la 550 la 1050 unităţi convenţionale
 a) de o persoană care anterior a săvîrşit un act de huliganism;
 b) de două sau mai multe persoane
 se pedepseşte cu amendă în mărime de la 750 la 1350 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
-[Art.2792 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.287 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Huliganismul agravat, adică acţiunile prevăzute la alin.(1) sau (2), dacă au fost săvîrşite cu aplicarea sau cu încercarea aplicării armei sau a altor obiecte pentru vătămarea integrităţii corporale sau sănătăţii,
 se pedepseşte cu închisoare de la 3 la 7 ani.
 Articolul 288. Vandalismul
@@ -3696,7 +3862,7 @@ se pedepsesc cu amendă în mărime de la 950 la 1350 unităţi convenţionale s
 a) decesul unei persoane;
 b) alte urmări grave,
 se pedepsesc cu închisoare de la 5 la 10 ani, cu amendă, aplicată persoanei juridice, în mărime de la 8000 la 11000 unităţi convenţionale cu lichidarea persoanei juridice.
-[Art.2792 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.292 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 293. Încălcarea regulilor de evidenţă,
 păstrare, transportare şi folosire
 a substanţelor uşor inflamabile
@@ -3872,7 +4038,7 @@ se pedepseşte cu amendă în mărime de la 850 la 1150 unităţi convenţionale
 [Art.310 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Falsificarea probelor în procesul penal de către persoana care efectuează urmărirea penală, procuror sau de către apărătorul admis în procesul penal
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
-[Art.303 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.310 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) - exclus
 Articolul 311. Denunţarea falsă sau plîngerea falsă
 [Art.311 titlul în redacția LP106 din 26.05.16, MO169-183/24.06.16 art.359]
@@ -3885,7 +4051,7 @@ a) legată de învinuirea de săvîrşire a unei infracţiuni grave, deosebit de
 b) săvîrşită din interes material;
 c) însoţită de crearea artificială a probelor acuzatoare
 se pedepseşte cu amendă în mărime de la 550 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
-[Art.303 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.311 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 312. Declaraţia mincinoasă, concluzia
 falsă sau traducerea incorectă
 (1) Prezentarea, cu bună-ştiinţă, a declaraţiei mincinoase de către martor sau partea vătămată, a concluziei false de către specialist sau expert, a traducerii sau a interpretării incorecte de către traducător sau interpret, dacă această acţiune a fost săvîrşită în cadrul procesului civil, procesului penal, procesului contravenţional sau în instanţa de judecată internaţională
@@ -3920,7 +4086,7 @@ se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale 
 a) săvîrşită de un grup criminal organizat sau de o organizaţie criminală;
 b) - exclusă
 se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
-[Art.303 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.314 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 315. Divulgarea datelor urmăririi penale
 (1) Divulgarea datelor urmăririi penale contrar interdicţiei persoanelor care efectuează urmărirea penală
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore.
@@ -3984,7 +4150,8 @@ se pedepseşte cu închisoare de pînă la 5 ani.
 Articolul 322. Transmiterea ilegală a unor obiecte
 interzise persoanelor deţinute în
 penitenciare
-(1) Transmiterea tăinuită de la control sau încercarea de a transmite prin orice mijloace persoanelor deţinute în penitenciare a băuturilor alcoolice, a drogurilor, medicamentelor sau a altor substanţe cu efect narcotizant, precum şi a altor obiecte, a căror transmitere este interzisă, dacă această acţiune a fost săvîrşită în mod sistematic sau în proporţii mari,
+(1) Transmiterea tăinuită de la control sau încercarea de a transmite prin orice mijloace persoanelor deţinute în penitenciare a băuturilor alcoolice, a substanțelor stupefiante, psihotrope și/sau a altor substanțe cu efecte similare, precum şi a altor obiecte, a căror transmitere este interzisă, dacă această acţiune a fost săvîrşită în mod sistematic sau în proporţii mari,
+[Art.322 al.(1), dispoziția modificată prin LP141 din 13.07.17, MO277-288/04.08.17 art.469]
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.322 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni săvîrşite cu folosirea situaţiei de serviciu
@@ -4098,6 +4265,7 @@ se pedepseşte cu închisoare de la 3 la 7 ani cu privarea de dreptul de a ocupa
 Articolul 328. Excesul de putere sau depăşirea
 atribuţiilor de serviciu
 (1) Săvîrşirea de către o persoană publică a unor acţiuni care depăşesc în mod vădit limitele drepturilor şi atribuţiilor acordate prin lege, dacă aceasta a cauzat daune în proporţii considerabile intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice,
+[Art.328 al.(1) textul „intereselor publice sau” declarat neconstituțional prin HCC 22 din 27.06.17, MO352-355/29.09.17 art.92; în vigoare 27.06.17]
 [Art.328 al.(1) modificat prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
 se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 [Art.328 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -4268,7 +4436,7 @@ se pedepsesc cu amendă în mărime de pînă la 185500 unităţi convenţionale
 [Art.3351 introdus prin LP77 din 12.04.12, MO103/29.05.12 art.347]
 Articolul 336 - exclus
 Capitolul XVII
-INFRACŢIUNI CONTRA AUTORITĂŢILOR
+INFRACŢIUNI CONTRA AUTORITĂŢILO
 PUBLICE ŞI A SECURITĂŢII DE STAT
 Articolul 337. Trădarea de Patrie
 (1) Trădarea de Patrie, adică fapta săvîrşită intenţionat de un cetăţean al Republicii Moldova în dauna suveranităţii, inviolabilităţii teritoriale sau a securităţii de stat şi a capacităţii de apărare a Republicii Moldova, prin trecerea de partea duşmanului, spionaj, divulgare a secretului de stat unui stat străin, unei organizaţii străine sau reprezentanţilor lor, precum şi acordarea de ajutor unui stat străin la înfăptuirea activităţii duşmănoase împotriva Republicii Moldova,
@@ -4373,7 +4541,6 @@ Articolul 352. Samavolnicia
 (1) Samavolnicia, adică exercitarea unui drept legitim sau presupus în mod arbitrar şi prin încălcarea ordinii stabilite, dacă s-au cauzat daune în proporţii mari intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice,
 se pedepseşte cu amendă în mărime de pînă la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 240 de ore.
 [Art.352 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(2) Acţiunile prevăzute la alin.(1) sau (11
 (2) Aceeaşi acţiune:
 a) - exclusă
 b) - exclusă
