@@ -14,6 +14,7 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP178 din 21.07.17, MO301-315/18.08.17 art.537
 LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18
 LP66 din 13.04.17, MO171-180/02.06.17 art.297
 LP80 din 05.05.17, MO162-170/26.05.17 art.284
@@ -1160,7 +1161,8 @@ d2) capitalul social al ei este sub mărimea minimă obligatorie mai mult de 6 l
 e) există alte situaţii prevăzute de lege.
 (2) Instanţa de judecată nu dizolvă persoana juridică dacă, în termenul pe care îl acordă, persoana va corespunde prevederilor legii.
 (3) Instanţa de judecată poate dizolva persoana juridică dacă aceasta contravine interdicţiilor stabilite de prezentul cod pentru forma ei juridică de organizare sau dacă activitatea ei contravine grav actului de constituire.
-(4) Dizolvarea persoanei juridice se pronunţă la cererea participantului (asociatului, acţionarului, membrului), a procurorului, a organului fiscal sau a organului care a efectuat înregistrarea de stat a persoanei juridice.
+(4) Dizolvarea persoanei juridice se pronunţă la cererea participantului (asociatului, acţionarului, membrului), a procurorului, a Serviciului Fiscal de Stat sau a organului care a efectuat înregistrarea de stat a persoanei juridice.
+[Art.87 al.(4) modificat prin LP178 din 21.07.17, MO301-315/18.08.17 art.537]
 [Art.87 al.(4) în redacția LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 Articolul 88. Administrarea fiduciară
 (1) Instanţa de judecată care examinează cererea privind dizolvarea persoanei juridice poate pune bunurile acesteia, la cerere, sub administrare fiduciară. În încheiere se specifică data instituirii administrării fiduciare. Instanţa desemnează unul sau mai mulţi administratori fiduciari şi determină limitele împuternicirilor şi remuneraţia lor.
