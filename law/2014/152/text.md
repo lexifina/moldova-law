@@ -14,7 +14,12 @@ Nr. 319-324
 art Nr : 634
 Data intrarii in vigoare : 23.11.2014
 MODIFICAT
+LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18
+LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17
+HCC7 din 16.02.17, MO201-213/23.06.17 art.71; în vigoare 16.02.17
 LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16
+NOTĂ:
+În textul codului, cuvintele „Agenția Națională de Asigurare a Calității în Învățămîntul Profesional” și „Inspectoratul Școlar Național”, la orice formă gramaticală, se substituie cu cuvintele „Agenţia Națională de Asigurare a Calității în Educație și Cercetare” la forma gramaticală corespunzătoare prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18
 Parlamentul adoptă prezentul cod.
 TITLUL I
 DISPOZIŢII GENERALE
@@ -52,6 +57,8 @@ educaţie nonformală – ansamblul acţiunilor instructive proiectate şi reali
 educaţie informală – ansamblul influenţelor instructive şi pedagogice exercitate spontan şi continuu asupra individului în familie, în localitate, în cartier, în stradă, în (micro)grupuri sociale, în mediul social (cultural, profesional, economic, religios etc.), în comunitate (naţională, zonală, teritorială, locală) şi prin mass-media (presa scrisă, radio, televiziune etc.);
 evaluare a calităţii educaţiei – examinare multicrite­rială a măsurii în care instituţia educaţională şi progra­mele acesteia îndeplinesc standardele educaţionale naţionale de referinţă;
 evaluare criterială – evaluare a rezultatelor şcolare, efectuată prin descriptori, care specifică nivelul performanţelor individuale ale elevului în raport cu competenţele urmărite;
+examen de bacalaureat profesional – evaluare a competențelor generale și profesionale ale elevilor la finalizarea studiilor în instituțiile de învățămînt profesional tehnic postsecundar și postsecundar nonterţiar, în modul stabilit de Ministerul Educației;
+[Art.3 noțiunea introdusă prin LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 formare continuă a adulţilor – componentă a învăţării pe tot parcursul vieţii, care asigură accesul continuu la ştiinţă, informaţie, cul­tură, în vederea adaptării flexibile a individului la noile realităţi socioeconomice în permanentă schimbare şi în scopul dezvoltării competenţelor necesare pentru activitatea profesională şi socială;
 formare profesională – proces de instruire în urma căruia se obţine o calificare atestată printr-un certificat sau o diplomă, elibe­rate în condiţiile legii;
 instituţii de învăţămînt alternative – instituţii de învăţămînt altele decît cele care constituie structura funcţională obligatorie a sistemului de învăţămînt. Acestea oferă, de regulă, programe sau servicii educaţionale alternative;
@@ -240,14 +247,15 @@ c) ale struc­turilor instituţionale – prin Carta universitară şi regulamen
 (6) Titulatura, structura şi regulamentele de funcţionare ale organelor locale de specialitate în domeniul învăţămîntului se stabilesc de consiliile raionale/municipale, iar în UTA Găgăuzia – de Adunarea Populară, în baza structurii-tip şi a regulamentului-tip aprobate de Guvern.
 (7) Managementul calităţii este asigurat:
 a) în învăţămîntul general:
-– la nivel naţional – de Ministerul Educaţiei şi Inspectoratul Şcolar Naţional;
+– la nivel naţional – de Ministerul Educaţiei şi Agenţia Națională de Asigurare a Calității în Educație și Cercetare;
 – la nivel local – de organul local de specialitate în domeniul învăţămîntului;
 – la nivel instituţional – de managerii instituţiilor de învăţămînt general;
 b) în învăţămîntul profesional tehnic şi în învăţămîntul superior:
-– la nivel naţional – de Ministerul Educaţiei, ministerele de resort şi Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional;
+– la nivel naţional – de Ministerul Educaţiei, ministerele de resort şi Agenţia Națională de Asigurare a Calității în Educație și Cercetare;
 – la nivel instituţional – de structurile respective de asigurare a calităţii în învăţămînt.
-(8) Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional activează în baza regulamentului aprobat de Guvern, în condiţiile prezentului cod.
-(9) Inspectoratul Şcolar Naţional este instituţia responsabilă de evaluarea învăţămîntului general, de acreditarea instituţiilor şi de asigurarea calităţii în învăţămîntul general. Modul de organizare şi de funcţionare a Inspectoratului Şcolar Naţional este stabilit de Guvern.
+(8) Agenţia Națională de Asigurare a Calității în Educație și Cercetare activează în baza regulamentului aprobat de Guvern, în condiţiile prezentului cod.
+(9) Agenţia Națională de Asigurare a Calității în Educație și Cercetare este instituţia responsabilă de evaluarea învăţămîntului general, de acreditarea instituţiilor şi de asigurarea calităţii în învăţămîntul general. Modul de organizare şi de funcţionare a Agenţia Națională de Asigurare a Calității în Educație și Cercetare este stabilit de Guvern.
+[Art.8 al.(9) abrogat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (10) Actele administrative şi deciziile de interes general aprobate de entităţile sistemului de învăţămînt se publică pe paginile web oficiale ale autorităţilor şi instituţiilor respective.
 Articolul 19. Sprijinirea elevilor şi studenţilor
 capabili de performanţe înalte
@@ -417,6 +425,7 @@ Articolul 41. Manualele şcolare
 (2) În instituţiile de învăţămînt general se pot utiliza şi manuale alternative, elaborate în baza Curriculumului naţional, selectate pe bază de concurs şi recomandate de Ministerul Educaţiei.
 (3) Elevii din învăţămîntul primar sînt asiguraţi cu manuale şcolare în mod gratuit.
 (4) Elevii claselor V–XII sînt asiguraţi cu manuale şcolare conform schemei de închiriere aprobate de Ministerul Educaţiei.
+[Art.41 al.(4) în partea în care vizează asigurarea elevilor claselor V-IX cu manuale școlare conform schemei de închiriere aprobate de Ministerul Educației declarat neconstituțional prin HCC7 din 16.02.17, MO201-213/23.06.17 art.71; în vigoare 16.02.17]
 (5) Elevii din familiile social vulnerabile beneficiază de facilităţi la închirierea manualelor şcolare, în condiţiile stabilite de Guvern.
 Capitolul X. Evaluarea în învăţămîntul general
 Articolul 42. Organizarea evaluării
@@ -446,12 +455,12 @@ Articolul 45. Evaluarea cadrelor didactice
 (2) Evaluarea externă a cadrelor didactice din învăţămîntul general se efectuează o dată la 5 ani de către organele abilitate, în baza unei metodologii de evaluare aprobate de Ministerul Educaţiei.
 (3) Metodologia de evaluare prevede, în mod obligatoriu, consultarea opiniilor elevilor, părinţilor şi ale altor cadre didactice din instituţia de învăţămînt respectivă.
 Articolul 46. Evaluarea cadrelor de conducere
-(1) Evaluarea activităţii cadrelor de conducere ale instituţiilor de învăţămînt general se efectuează de către organul local de specialitate în domeniul învăţămîntului şi Inspectoratul Şcolar Naţional, în baza unei metodologii de evaluare aprobate de Ministerul Educaţiei.
+(1) Evaluarea activităţii cadrelor de conducere ale instituţiilor de învăţămînt general se efectuează de către organul local de specialitate în domeniul învăţămîntului şi Agenţia Națională de Asigurare a Calității în Educație și Cercetare, în baza unei metodologii de evaluare aprobate de Ministerul Educaţiei.
 (2) Evaluarea cadrelor de conducere din învăţămîntul general este obligatorie cel puţin o dată la 5 ani.
 (3) Directorul instituţiei de învăţămînt general prezintă raportul anual de activitate la adunarea comună a consiliului profesoral şi consiliului de administraţie ale instituţiei.
 Articolul 47. Evaluarea instituţiilor
-(1) Evaluarea activităţii instituţiilor de învăţămînt general se efectuează de către organul local de specialitate în domeniul învăţămîntului şi de către Inspectoratul Şcolar Naţional, în baza standardelor de calitate aprobate de Ministerul Educaţiei, la cererea conducătorului instituţiei, precum şi la iniţiativa Inspectoratului Şcolar Naţional sau a organului local de specialitate în domeniul învăţămîntului.
-(2) Raportul de evaluare a instituţiei de învăţămînt general se publică pe pagina web oficială a Inspectoratului Şcolar Naţional, a organului local de specialitate în domeniul învăţămîntului şi pe cea a instituţiei de învăţămînt.
+(1) Evaluarea activităţii instituţiilor de învăţămînt general se efectuează de către organul local de specialitate în domeniul învăţămîntului şi de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare, în baza standardelor de calitate aprobate de Ministerul Educaţiei, la cererea conducătorului instituţiei, precum şi la iniţiativa Agenţiei Naționale de Asigurare a Calității în Educație și Cercetaresau a organului local de specialitate în domeniul învăţămîntului.
+(2) Raportul de evaluare a instituţiei de învăţămînt general se publică pe pagina web oficială a Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare, a organului local de specialitate în domeniul învăţămîntului şi pe cea a instituţiei de învăţămînt.
 Capitolul XI. Managementul învăţămîntului general
 Articolul 48. Structurile de conducere ale organului local
 de specialitate în domeniul învăţămîntului
@@ -495,7 +504,7 @@ a) comiterea încălcărilor financiare;
 b) nerespectarea deontologiei profesionale;
 c) necorespunderea cu standardele în vigoare a managementului promovat;
 d) încălcarea drepturilor copiilor, elevilor, angajaţilor şi părinţilor;
-e) obţinerea repetată a calificativului „nesatisfăcător” la evaluarea instituţiei efectuată de către Inspectoratul Şcolar Naţional.
+e) obţinerea repetată a calificativului „nesatisfăcător” la evaluarea instituţiei efectuată de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
 Articolul 51. Numărul de clase şi schema de încadrare
 a personalului
 (1) Procesul educaţional se realizează în clase sau grupe, conform normativelor stabilite de organul local de specialitate în domeniul învăţămîntului, în baza standardelor educaţionale de stat şi normativelor sanitaro-epidemiologice de stat.
@@ -507,7 +516,7 @@ a personalului
 (7) Numărul de clase şi schema de încadrare servesc drept bază pentru planificarea instituţională, angajarea de personal, precum şi pentru elaborarea proiectului bugetului.
 Articolul 52. Preluarea managementului instituţiei de
 învăţămînt în caz de gestionare defectuoasă
-(1) În caz de gestionare defectuoasă a instituţiei publice de învăţămînt general, constatată într-un raport de evaluare al Inspectoratului Şcolar Naţional, Ministerul Educaţiei are dreptul să preia de la autoritatea publică respectivă managementul instituţiei respective şi finanţarea aferentă acesteia.
+(1) În caz de gestionare defectuoasă a instituţiei publice de învăţămînt general, constatată într-un raport de evaluare al Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare, Ministerul Educaţiei are dreptul să preia de la autoritatea publică respectivă managementul instituţiei respective şi finanţarea aferentă acesteia.
 (2) Criteriile şi procedurile de preluare a managementului, în caz de gestionare defectuoasă a instituţiei de învăţămînt general, sînt stabilite de Ministerul Educaţiei.
 (3) După preluarea de către Ministerul Educaţiei a managementului instituţiei publice de învăţămînt general, contractul individual de muncă încheiat cu directorul instituţiei de învăţămînt în cauză se reziliază.
 Capitolul XII. Personalul din învăţămîntul general
@@ -527,7 +536,9 @@ a) bibliotecar şcolar;
 b) informatician;
 c) laborant;
 d) instructor extraşcolar;
-e) instructor-animator.
+e) instructor-animator;
+f) asistent al educatorului.
+[Art.53 al.(3), lit.f) introdusă prin LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 (8) Personalul nedidactic este format din:
 a) secretar;
 b) asistent medical;
@@ -613,7 +624,7 @@ b) 2 ani – pentru instruirea într-o meserie, în baza studiilor gimnaziale;
 c) 1–2 ani – pentru învăţămîntul dual, în baza studiilor gimnaziale;
 d) 1–2 ani – în funcţie de complexitatea meseriei, în baza studiilor liceale sau a studiilor medii de cultură generală.
 (3) În cadrul programelor de formare profesională tehnică secundară cu durata de 2 ani, pentru instruirea într-o meserie, în grupele de elevi pot fi incluse persoane care nu au absolvit 9 clase, dar care au atins vîrsta de 16 ani, cu acordul Ministerului Educaţiei.
-(4) Procesul de instruire în cadrul programelor de formare profesională tehnică secundară se realizează în conformitate cu standardele naţionale de referinţă şi cu standardele de acreditare elaborate de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional şi aprobate de Guvern.
+(4) Procesul de instruire în cadrul programelor de formare profesională tehnică secundară se realizează în conformitate cu standardele naţionale de referinţă şi cu standardele de acreditare elaborate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare şi aprobate de Guvern.
 (5) Admiterea la programele de formare profesională tehnică secundară se organizează în condiţiile stabilite de Ministerul Educaţiei.
 (6) Competenţele pe care trebuie să le deţină absolvenţii programelor de formare profesională tehnică secundară sînt formulate în Cadrul Naţional al Calificărilor.
 (7) Programele de formare profesională tehnică secundară se finalizează cu susţi­nerea examenului de calificare, la promovarea căruia se eliberează un certificat de califi­care şi suplimentul descriptiv al certificatului, conform Europass.
@@ -624,14 +635,23 @@ postsecundară şi postsecundară nonterţiară
 (2) Programele de formare profesională tehnică postsecundară corespund nivelului 4 ISCED şi au durata de:
 a) 4 ani – pentru programe integrate, în baza studiilor gimnaziale;
 b) 5 ani – pentru programe integrate, la profilurile medicină şi farmacie, în baza studiilor gimnaziale;
-c) 3 ani – pentru programe integrate, la specialitatea coregrafie, în baza studiilor gimnaziale;
+c) 3 ani – pentru programe integrate, la specialitățile coregrafie și asistent al educatorului, în baza studiilor gimnaziale;
+[Art.63 al.(2), lit.c) modificată prin LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 d) 3 ani – la forma de învăţămînt cu frecvenţă redusă, în baza certificatului de studii liceale şi a studiilor medii de cultură generală;
 e) 2–3 ani – la specialităţi conexe meseriei iniţiale, în baza certificatului de calificare;
 f) 2 ani – la forma de învăţămînt cu frecvenţă, în baza certificatului de studii liceale şi a studiilor medii de cultură generală.
-(3) Programele de formare profesională tehnică postsecundară nonterţiară corespund nivelului 5 ISCED şi au durata de 2–3 ani. Admiterea la programele de formare profesională tehnică postsecundară nonterţiară se face în baza diplomei de bacalaureat.
+(3) Programele de formare profesională tehnică postsecundară nonterțiară corespund nivelului 5 ISCED și au durata de:
+a) 4–5 ani – pentru programe integrate, în baza studiilor gimnaziale;
+b) 2–3 ani – în baza diplomei de bacalaureat.
+[Art.63 al.(3) în redacția LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 (4) Admiterea la programele de formare profesională tehnică postsecundară şi postsecundară nonterţiară se face în baza Nomenclatorului domeniilor de formare profesională, al specialităţilor şi calificărilor şi în condiţiile stabilite de Ministerul Educaţiei, pe locuri cu finanţare de la bugetul de stat sau cu taxă de studii achitată de către persoane fizice sau juridice.
 (5) Procesul de instruire la programele de formare profesională tehnică postsecundară şi postsecundară nonterţiară se realizează în conformitate cu standardele naţionale de referinţă şi cu standardele de acreditare.
-(6) Programele de formare profesională tehnică postsecundară se finalizează cu susţinerea benevolă a examenului naţional de bacalaureat şi cu susţinerea obligatorie a examenului de calificare şi/sau a lucrării de diplomă, cu eliberarea diplomei de studii profesionale, care conferă dreptul de încadrare în cîmpul muncii conform calificării obţinute.
+(6) Programele de formare profesională tehnică postsecundară se finalizează cu susținerea obligatorie, în modul stabilit de Ministerul Educaţiei, a examenului de bacalaureat profesional, a examenului de calificare şi/sau a lucrării de diplomă, precum și cu susţinerea benevolă a examenului național de bacalaureat.
+Programele de formare profesională tehnică postsecundară nonterțiară se finalizează:
+a) cu susținerea obligatorie, în modul stabilit de Ministerul Educaţiei, a examenului de bacalaureat profesional, a examenului de calificare şi/sau a lucrării de diplomă, precum și cu susţinerea benevolă a examenului național de bacalaureat – pentru elevii care au studiat în baza programelor integrate (studiilor gimnaziale);
+b) cu susținerea obligatorie a examenului de calificare şi/sau a lucrării de diplomă – pentru elevii care au studiat în baza diplomei de bacalaureat.
+Învăţămîntul profesional tehnic postsecundar şi postsecundar nonterţiar se finalizează cu eliberarea diplomei de studii profesionale, care conferă titularului dreptul de încadrare în cîmpul muncii și de participare la concursul de admitere în ciclul I de studii superioare la o specialitate din domeniul studiat.
+[Art.63 al.(6) în redacția LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 (7) Competenţele pe care trebuie să le deţină absolvenţii programelor de formare profesională tehnică postsecundară şi postsecundară nonterţiară sînt formulate în Cadrul Naţional al Calificărilor.
 (8) Instituţiile care oferă programe de formare profesională tehnică secundară, postsecundară şi postsecundară nonterţiară pot constitui consorţii cu instituţii de învăţămînt profesional tehnic şi/sau de învăţămînt superior în condiţiile legii.
 Articolul 64. Standardele şi Curriculumul în învăţămîntul
@@ -644,7 +664,7 @@ b) curricula pe module/discipline;
 c) ghiduri metodologice de aplicare a curricula.
 (4) Elevii din învăţămîntul profesional tehnic sînt asiguraţi cu manuale şcolare conform schemei de închiriere aprobate de Ministerul Educaţiei.
 Articolul 65. Evaluarea calităţii
-(1) Evaluarea calităţii în învăţămîntul profesional tehnic se realizează în baza standardelor naţionale de referinţă, a standardelor de acreditare şi a metodologiei elaborate de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional şi aprobate de Guvern.
+(1) Evaluarea calităţii în învăţămîntul profesional tehnic se realizează în baza standardelor naţionale de referinţă, a standardelor de acreditare şi a metodologiei elaborate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare şi aprobate de Guvern.
 (2) Evaluarea calităţii în învăţămîntul profesional tehnic vizează:
 a) capacitatea instituţională;
 b) eficienţa educaţională, inclusiv rezultatele şcolare;
@@ -654,15 +674,15 @@ e) concordanţa dintre evaluarea internă şi situaţia reală.
 (3) Evaluarea calităţii în învăţămîntul profesional tehnic include:
 a) evaluarea programelor de formare profesională;
 b) evaluarea instituţiilor care oferă programe de formare profesională.
-(4) Evaluarea externă a calităţii în învăţămîntul profesional tehnic se realizează de către Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional, precum şi de către alte structuri abilitate.
+(4) Evaluarea externă a calităţii în învăţămîntul profesional tehnic se realizează de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare, precum şi de către alte structuri abilitate.
 (5) Evaluarea internă a calităţii în învăţămîntul profesional tehnic se realizează de către structuri instituţionale de asigurare a calităţii, în baza standardelor naţionale de referinţă şi a celor de acreditare, precum şi în baza regulamentului instituţional.
-(6) Evaluarea curriculumului, a procesului educaţional şi a rezul­tate­lor şcolare în învăţămîntul profesional tehnic se reglementează prin metodologia elaborată de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional şi aprobată de Guvern.
+(6) Evaluarea curriculumului, a procesului educaţional şi a rezul­tate­lor şcolare în învăţămîntul profesional tehnic se reglementează prin metodologia elaborată de Agenţia Națională de Asigurare a Calității în Educație și Cercetare şi aprobată de Guvern.
 Articolul 66. Calificările în învăţămîntul profesional tehnic
 (1) Calificările în învăţămîntul profesional tehnic se atribuie în conformitate cu Cadrul Naţional al Calificărilor, elaborat în baza standardelor ocupaţionale pentru fiecare nivel al învăţămîntului profesional, în corespundere cu Cadrul European al Calificărilor şi cu necesitatea de calificări pe piaţa muncii.
 (2) Cadrul Naţional al Calificărilor se elaborează de Ministerul Educaţiei, în colaborare cu ministerele de resort, comitetele sectoriale, instituţiile de învăţămînt profesional tehnic, agenţii economici şi alţi parteneri sociali, şi se aprobă de Guvern.
 (3) Nivelurile de calificare delimitează parametrii cantitativi şi calitativi ai competenţelor profesionale pe care trebuie să le deţină absolventul pentru a putea exercita meseria/profesia, specialitatea obţinută, în conformitate cu Cadrul Naţional al Calificărilor.
 (4) În instituţiile de învăţămînt profesional tehnic pot fi obţinute calificări conforme cu Cadrul Naţional al Calificărilor, cu Nomenclatorul domeniilor de formare profesională şi al meseriilor/profesiilor şi cu Nomenclatorul domeniilor de formare profesională, al specialităţilor şi calificărilor.
-(5) Examenul de calificare, de certificare a competenţelor dobîndite în contextul educaţiei nonformale şi informale şi/sau susţinerea tezei sau proiectului de diplomă se desfăşoară conform criteriilor stabilite de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional în colaborare cu Ministerul Educaţiei şi cu organele centrale de resort.
+(5) Examenul de calificare, de certificare a competenţelor dobîndite în contextul educaţiei nonformale şi informale şi/sau susţinerea tezei sau proiectului de diplomă se desfăşoară conform criteriilor stabilite de Agenţia Națională de Asigurare a Calității în Educație și Cercetare în colaborare cu Ministerul Educaţiei şi cu organele centrale de resort.
 (6) Calificările acordate de instituţiile de învăţămînt profesional tehnic se introduc în Registrul Naţional al Calificărilor în Învăţămîntul Profesional, elaborat de Ministerul Educaţiei în colaborare cu organele centrale de resort.
 (7) Modulele/disciplinele din programele de formare profesională, în baza cărora se atribuie calificările, pot fi exprimate în credite, conform Sistemului european de credite transferabile, în baza acordurilor încheiate între instituţiile ofertante de programe de formare profesională.
 Articolul 67. Stagiile de practică şi relaţiile cu piaţa
@@ -698,7 +718,7 @@ a) comiterea de încălcări financiare;
 b) nerespectarea deontologiei profesionale;
 c) necorespunderea cu standardele în vigoare a managementului promovat;
 d) încălcarea drepturilor elevilor, angajaţilor şi părinţilor;
-e) evaluarea negativă a mai mult de 30% din programele de studii, fapt constatat de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional.
+e) evaluarea negativă a mai mult de 30% din programele de studii, fapt constatat de Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
 (5) Organele administrative şi consultative ale instituţiilor de învăţămînt profesional tehnic sînt alcătuite din consiliul de admi­nis­traţie, consiliul profesoral şi consiliul metodico-ştiinţific, consiliul artistic (în cazul instituţiilor de învăţămînt cu profil de arte).
 (6) Atribuţiile organelor administrative şi consultative sînt stabilite în actele normative elaborate de Ministerul Educaţiei şi în regulamentele instituţiilor de învăţămînt profesional tehnic.
 (7) Consiliul profesoral este organul colectiv de conducere al instituţiei de învăţămînt profesional tehnic şi este condus de directorul instituţiei.
@@ -826,11 +846,11 @@ c) oferă programe de studii superioare de licenţă.
 (10) Filialelor înfiinţate în Republica Moldova ale instituţiilor de învăţămînt superior acreditate în alte state li se atribuie categoria corespunzătoare celei a instituţiei de învăţămînt superior din ţara de origine, cu condiţia ca instituţia de evaluare externă a calităţii care a acordat acreditarea să fie inclusă în Registrul European pentru Asigurarea Calităţii în Învăţămîntul Superior.
 (11) Instituţiile de învăţămînt superior pot desfăşura activităţi antreprenoriale şi de transfer tehnologic în condiţiile stabilite de Guvern.
 Articolul 83. Evaluarea instituţiilor
-(1) Instituţiile de învăţămînt superior sînt supuse evaluării externe a calităţii o dată la 5 ani, în baza metodologiei şi a criteriilor elaborate de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional şi aprobate de Guvern.
+(1) Instituţiile de învăţămînt superior sînt supuse evaluării externe a calităţii o dată la 5 ani, în baza metodologiei şi a criteriilor elaborate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare şi aprobate de Guvern.
 (2) Evaluarea externă a instituţiilor de învăţămînt superior este luată în calcul la:
 a) ierarhizarea instituţiilor de învăţămînt superior pe categorii în cadrul procedurii de acreditare;
 b) autorizarea de funcţionare provizorie, acreditarea şi reacreditarea periodică a instituţiilor de învăţămînt superior, precum şi la ierarhizarea programelor de studii.
-(3) Ierarhizarea instituţiilor de învăţămînt superior se efectuează în baza metodologiei aprobate de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional.
+(3) Ierarhizarea instituţiilor de învăţămînt superior se efectuează în baza metodologiei aprobate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
 (4) În funcţie de categoria instituţiei de învăţămînt superior şi ierarhia programelor de studii se determină:
 a) numărul de locuri cu finanţare de la bugetul de stat acordate instituţiei de învăţămînt superior;
 b) fondurile bugetare alocate instituţiei de învăţămînt superior pentru activităţi de cercetare, dezvoltare, inovare şi creaţie artistică;
@@ -869,7 +889,8 @@ Capitolul II. Organizarea programelor de studii
 în învăţămîntul superior
 Articolul 89. Ciclul I – studii superioare de licenţă
 (1) Admiterea la studiile superioare de licenţă se organizează pe bază de concurs de către instituţia de învăţămînt superior la programele de studii acreditate sau autorizate provizoriu.
-(2) La concursul de admitere în ciclul I de studii superioare pot participa deţinătorii diplomei de bacalaureat sau ai unui act echivalent de studii, recunoscut de structura abilitată pentru recunoaşterea şi echivalarea actelor de studii şi calificărilor.
+(2) La concursul de admitere în ciclul I de studii superioare pot participa deţinătorii diplomei de bacalaureat, ai diplomei de studii profesionale sau ai unui act echivalent de studii, recunoscut de structura abilitată pentru recunoaşterea şi echivalarea actelor de studii şi calificărilor.
+[Art.89 al.(2) modificat prin LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 (3) Studiile superioare de licenţă corespund unui număr de 180–240 de credite de studii transferabile, cîte 30 de credite pentru fiecare semestru.
 (4) Durata studiilor superioare de licenţă şi numărul corespunzător de credite de studii transferabile atribuit unui program de formare profesională (domeniu, specialitate) se stabilesc de Ministerul Educaţiei ţinînd seama de:
 a) Cadrul Naţional al Calificărilor în învăţămîntul superior;
@@ -920,7 +941,7 @@ c) studenţii din fiecare instituţie participantă la programul comun realizeaz
 d) perioada de aflare a studenţilor la instituţiile sau organizaţiile partenere ale instituţiei de învăţămînt superior constituie o parte substanţială a programului comun;
 e) perioadele de studiu şi examenele promovate la instituţiile partenere sînt recunoscute deplin şi în mod automat, în condiţiile legii;
 f) cadrele didactice din instituţiile participante la consorţiu vor contribui în comun şi în mod egal la realizarea programului de studiu.
-(6) Procedura de autorizare de funcţionare provizorie şi de acreditare a programelor comune de studii superioare se stabileşte de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional.
+(6) Procedura de autorizare de funcţionare provizorie şi de acreditare a programelor comune de studii superioare se stabileşte de Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
 (7) Cotutela este un acord privind supervizarea/îndrumarea în comun a unui student al programului de master sau de doctorat de către doi conducători ştiinţifici, dintre care cel puţin unul este din Republica Moldova. Acordul de cotutelă se semnează între instituţiile care organizează programul de studii superioare în cotutelă, studentul semnînd contractul de studii cu ambele instituţii.
 Articolul 93. Specialităţile duble
 (1) În cadrul studiilor superioare de licenţă pot fi pregătiţi specialişti la specialităţi duble numai în domeniile ştiinţe ale educaţiei şi militărie.
@@ -956,7 +977,7 @@ Articolul 96. Standardele educaţionale de stat în
 învăţămîntul superior
 (1) Învăţămîntul superior se organizează şi se desfăşoară în baza standardelor de conţinut, standardelor de competenţe, standardelor naţionale de referinţă şi standardelor de acreditare.
 (2) Standardele de conţinut şi standardele de competenţe se elaborează de Ministerul Educaţiei pe domenii de formare profesională şi se aprobă de Guvern.
-(3) Standardele naţionale de referinţă şi standardele de acreditare se elaborează pe domenii de formare profesională de către Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional, se coordonează cu ministerele de resort şi se aprobă de Guvern.
+(3) Standardele naţionale de referinţă şi standardele de acreditare se elaborează pe domenii de formare profesională de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare, se coordonează cu ministerele de resort şi se aprobă de Guvern.
 Articolul 97. Cadrul Naţional al Calificărilor
 (1) Cadrul Naţional al Calificărilor în învăţămîntul superior asigură transparenţa învăţămîntului superior, mobilitatea academică şi recunoaşterea diplomelor la nivel internaţional.
 (2) Cadrul Naţional al Calificărilor în învăţămîntul superior include:
@@ -973,7 +994,7 @@ Articolul 98. Curriculumul în învăţămîntul superior
 (1) Curriculumul în instituţiile de învăţămînt superior este elaborat în conformitate cu prevederile Cadrului Naţional al Calificărilor, pentru fiecare ciclu de studii şi domeniu, şi este aprobat de senatul instituţiei.
 (2) Concordanţa între curriculumul oferit de instituţia de învăţămînt superior şi calificarea acordată în urma absolvirii unui program de studii superioare este un criteriu obligatoriu de evaluare a calităţii instituţiei de învăţămînt superior.
 Articolul 99. Evaluarea în învăţămîntul superior
-(1) Evaluarea externă a procesului educaţional în învăţămîntul superior se efectuează de către Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional.
+(1) Evaluarea externă a procesului educaţional în învăţămîntul superior se efectuează de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
 (2) Evaluarea internă a procesului educaţional în învăţămîntul superior se realizează de către structurile instituţionale de asigurare a calităţii, în baza unui regulament instituţional.
 (3) Rezultatele academice ale studenţilor se evaluează:
 a) pe parcursul semestrului;
@@ -1087,7 +1108,7 @@ Articolul 108. Consiliul de etică şi management
 a) trei reprezentanţi numiţi de Consiliul Rectorilor;
 b) doi reprezentanţi numiţi de Ministerul Educaţiei;
 c) un reprezentant numit de Ministerul Finanţelor;
-d) doi reprezentanţi numiţi de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional;
+d) doi reprezentanţi numiţi de Agenţia Națională de Asigurare a Calității în Educație și Cercetare;
 e) un reprezentant al sindicatelor din domeniul educaţiei;
 f) un reprezentant al asociaţiilor şi organizaţiilor studenţeşti;
 g) un reprezentant al societăţii civile.
@@ -1144,7 +1165,7 @@ Articolul 111. Angajarea absolvenţilor pe piaţa muncii
 Articolul 112. Asigurarea calităţii
 (1) Asigurarea calităţii în învăţămîntul superior este realizată printr-un ansamblu de acţiuni de dezvoltare a capacităţii instituţionale de elaborare, planificare şi implementare de programe de studii, prin care se formează şi se consolidează încrederea beneficiarilor că instituţia ofertantă de educaţie satisface şi îmbunătăţeşte standardele de calitate în conformitate cu misiunea asumată de aceasta.
 (2) Managementul calităţii în învăţămîntul superior este asigurat:
-a) la nivel naţional – de Ministerul Educaţiei şi de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional;
+a) la nivel naţional – de Ministerul Educaţiei şi de Agenţia Națională de Asigurare a Calității în Educație și Cercetare;
 b) la nivel instituţional – de structuri interne de asigurare a calităţii.
 (3) Un sistem de asigurare a calităţii pe deplin funcţional presupune parcurgerea a două etape succesive:
 a) autorizarea de funcţionare provizorie, care reprezintă actul de înfiinţare a instituţiei şi acordă dreptul de a desfăşura procesul de învăţămînt şi de a organiza admiterea la studii;
@@ -1153,7 +1174,7 @@ Articolul 113. Evaluarea calităţii
 (1) Evaluarea calităţii în învăţămîntul superior constă în examinarea multicriterială a măsurii în care o instituţie ofertantă de educaţie şi programul acesteia îndeplinesc standardele naţionale de referinţă.
 (2) Evaluarea calităţii în învăţămîntul superior reprezintă un ansamblu complex de activităţi de autoevaluare, evaluare internă şi evaluare externă a calităţii, în conformitate cu standardele de acreditare, criteriile şi indicatorii aprobaţi.
 (3) Autoevaluarea şi evaluarea internă a calităţii în învăţămîntul superior sînt realizate de către structurile instituţionale responsabile de asigurarea calităţii, în conformitate cu standardele naţionale de referinţă.
-(4) Evaluarea externă a calităţii în învăţămîntul superior este realizată de către Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional sau o altă agenţie de evaluare a calităţii, înscrisă în Registrul European pentru Asigurarea Calităţii în Învăţămîntul Superior.
+(4) Evaluarea externă a calităţii în învăţămîntul superior este realizată de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare sau o altă agenţie de evaluare a calităţii, înscrisă în Registrul European pentru Asigurarea Calităţii în Învăţămîntul Superior.
 (5) Evaluarea calităţii în învăţămîntul superior vizează:
 a) capacitatea instituţională;
 b) eficienţa educaţională, inclusiv rezultatele academice;
@@ -1169,19 +1190,25 @@ de funcţionare provizorie sau acreditării
 (4) În învăţămîntul superior, acreditarea programelor de studii superioare de licenţă (ciclul I) se face pentru fiecare program care conduce la o calificare universitară distinctă.
 (5) Instituţiile de învăţămînt superior nu pot obţine autorizare de funcţionare provizorie sau acreditare pentru programele de studii superioare de master şi de doctorat (ciclurile II şi III) dacă nu sînt acreditate programele de studii superioare de licenţă (ciclul I) din acelaşi domeniu.
 (6) În instituţiile care nu au drept misiune principală oferirea de programe de studii, evaluarea instituţională se face, exclusiv, pe subdiviziunea administrativă care organizează programele de studii.
-(7) Evaluarea externă în vederea autorizării de funcţionare provizorie sau acreditării se declanşează şi se desfăşoară conform metodologiilor elaborate de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional şi aprobate de Guvern.
+(7) Evaluarea externă în vederea autorizării de funcţionare provizorie sau acreditării se declanşează şi se desfăşoară conform metodologiilor elaborate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare şi aprobate de Guvern.
 (8) După obţinerea acreditării, programele de studii şi instituţiile de învăţămînt superior sînt supuse evaluării externe periodic, în vederea reacreditării, cel puţin o dată la 5 ani.
 (9) În cazul obţinerii rezultatelor negative la evaluarea externă a instituţiilor de învăţămînt superior, Ministerul Educaţiei propune Guvernului retragerea dreptului de activitate a instituţiilor sau de organizare a programelor de studii, studenţii fiind repartizaţi la programe similare din alte instituţii de învăţămînt pînă la înlăturarea motivelor care au stat la baza rezultatelor negative ale evaluării. Prevederile prezentului alineat se aplică şi programelor de studii superioare de doctorat oferite de organizaţiile din sfera ştiinţei şi inovării, precum şi organizaţiilor respective în ceea ce priveşte organizarea studiilor superioare de doctorat.
-(10) Decizia cu privire la autorizarea de funcţionare provizorie, la acreditare, neacreditare sau la retragerea dreptului de activitate a unei instituţii de învăţămînt superior sau de organizare a unui program de studii se adoptă de Guvern la propunerea Ministerului Educaţiei, în baza rezultatelor evaluării efectuate de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional.
-Articolul 115. Agenţia Naţională de Asigurare a Calităţii
-în Învăţămîntul Profesional
-(1) Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional este autoritate administrativă de interes naţional, cu personalitate juridică, autonomă faţă de Guvern, independentă în decizii şi organizare, finanţată din bugetul de stat şi din venituri proprii.
-(2) Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional are următoarele atribuţii şi responsabilităţi:
+(10) Decizia cu privire la autorizarea de funcţionare provizorie, la acreditare, neacreditare sau la retragerea dreptului de activitate a unei instituţii de învăţămînt superior sau de organizare a unui program de studii se adoptă de Guvern la propunerea Ministerului Educaţiei, în baza rezultatelor evaluării efectuate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
+Articolul 115. Agenţia Națională de Asigurare a Calității
+în Educație și Cercetare
+(1) Agenţia Națională de Asigurare a Calității în Educație și Cercetare este autoritate administrativă de interes naţional, cu personalitate juridică, autonomă faţă de Guvern, independentă în decizii şi organizare, finanţată din bugetul de stat şi din venituri proprii.
+(1) Agenţia Naţională de Asigurare a Calităţii în Educație şi Cercetare este o autoritate administrativă în subordinea Ministerului Educaţiei, Culturii și Cercetării, instituită de Guvern, finanţată din bugetul de stat şi din venituri proprii.
+[Art.115 al.(1) în redacția LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
+(2) Agenţia Națională de Asigurare a Calității în Educație și Cercetare are următoarele atribuţii şi responsabilităţi:
 a) realizează politicile statului în domeniul calităţii învăţămîntului profesional tehnic, superior şi al calităţii în formarea continuă;
 b) elaborează, în conformitate cu standardele europene în domeniu, şi face publică propria metodologie de evaluare şi acreditare a instituţiilor ofertante de programe de formare profesională şi a programelor acestora pe care o propune spre aprobare Guvernului;
 c) formulează şi revizuieşte periodic, în baza bunelor practici europene şi internaţionale, standardele de acreditare, standardele naţionale de referinţă şi indicatorii de performanţă utilizaţi la evaluarea şi asigurarea calităţii în învăţămînt;
 d) evaluează, pe bază contractuală, instituţiile ofertante de programe de formare profesională, precum şi programele acestora, în vederea autorizării de funcţionare provizorie, acreditării şi reacreditării în învăţămîntul profesional tehnic, în învăţămîntul superior şi în formarea continuă;
 e) efectuează, în bază contractuală, la solicitarea Ministerului Educaţiei, evaluarea calităţii unor programe şi instituţii ofertante de programe de formare profesională în învăţămîntul profesional tehnic, superior şi în formarea continuă;
+e1) acreditează instituţiile şi asigură calitatea în învăţămîntul general;
+[Art.115 al.(2), lit.e1) introdusă prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
+e2) evaluează modul de realizare a Curriculumului naţional și administrează examenele şi evaluările în învăţămîntul general;
+[Art.115 al.(2), lit.e2) introdusă prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 f) asigură obiectivitatea şi validitatea rezultatelor obţinute în procesul evaluării externe a instituţiilor ofertante de programe şi a programelor acestora;
 g) asigură transparenţa în procesul de evaluare externă, inclusiv prin publicarea rezultatelor evaluării;
 h) elaborează şi publică lucrări în domeniul evaluării şi acreditării instituţiilor de învăţămînt;
@@ -1191,23 +1218,29 @@ k) prezintă Guvernului raportul anual de activitate şi îl publică pe pagina 
 l) elaborează periodic rapoarte de autoevaluare a calităţii propriei activităţi în vederea pregătirii evaluării externe de către agenţii similare din alte ţări;
 m) colaborează cu agenţii similare din alte ţări pentru dezvoltarea şi aplicarea de măsuri eficiente de îmbunătăţire a calităţii programelor de formare profesională;
 n) face demersurile necesare ca, în cel mult 3 ani de la înfiinţare, să fie înscrisă în Registrul European pentru Asigurarea Calităţii în Învăţămîntul Superior.
-(3) În exercitarea atribuţiilor, Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional are următoarele drepturi:
+(3) În exercitarea atribuţiilor, Agenţia Națională de Asigurare a Calității în Educație și Cercetare are următoarele drepturi:
 a) să antreneze colaboratori externi, experţi în domeniul său de activitate, remuneraţi;
 b) să alcătuiască, în baza unei metodologii transparente şi folosind criterii de competenţă şi competitivitate, propriul registru de evaluatori, pe care îi pregăteşte metodologic şi îi deleagă pentru efectuarea misiunilor de evaluare externă a calităţii;
 c) să verifice, la încheierea misiunii de evaluare, respectarea metodologiei de evaluare aplicate de experţi;
 d) să informeze instituţia evaluată şi Ministerul Educaţiei despre rezultatele evaluării externe.
-(4) Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional se constituie din:
+(4) Agenţia Națională de Asigurare a Calității în Educație și Cercetare se constituie din:
 a) Consiliul de conducere;
 b) comisiile de profil;
 c) aparatul administrativ.
-(5) În cadrul Agenţiei Naţionale de Asigurare a Calităţii în Învăţămîntul Profesional funcţionează subdiviziunea de evaluare a programelor şi a instituţiilor ofertante de programe de formare profesională din învăţămîntul superior, subdiviziunea de acreditare a programelor şi instituţiilor ofertante de programe de formare profesională din învăţămîntul superior, subdiviziunea dedicată învăţămîntului profesional tehnic, precum şi alte subdiviziuni necesare pentru realizarea atribuţiilor sale, constituite de către Consiliul de conducere.
+(5) În cadrul Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare funcţionează subdiviziunea de evaluare a programelor şi a instituţiilor ofertante de programe de formare profesională din învăţămîntul superior, subdiviziunea de acreditare a programelor şi instituţiilor ofertante de programe de formare profesională din învăţămîntul superior, subdiviziunea dedicată învăţămîntului profesional tehnic, precum şi alte subdiviziuni necesare pentru realizarea atribuţiilor sale, constituite de către Consiliul de conducere.
 (6) Pe lîngă subdiviziuni funcţionează, conform regulamentului propriu de organizare şi funcţionare, comisii pe specialităţi, care îşi întocmesc registre de experţi-evaluatori pe bază de concurs deschis.
-(7) Conducerea executivă a Agenţiei Naţionale de Asigurare a Calităţii în Învăţămîntul Profesional este exercitată de către preşedintele Consiliului de conducere, asistat de vicepreşedinte şi secretarul general.
+(7) Conducerea executivă a Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare este exercitată de către preşedintele Consiliului de conducere, asistat de vicepreşedinte şi secretarul general.
+(7) Conducerea executivă a Agenţiei Naţionale de Asigurare a Calităţii în Învăţămîntul Profesional este exercitată de către preşedintele Consiliului de conducere, numit în funcţie de Guvern, asistat de vicepreşedinte şi secretarul general.
+[Art.115 al.(7) modificat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (8) Consiliul de conducere este constituit din 15 membri: cadre cu funcţii ştiinţifico-didactice şi ştiinţifice şi cîte un reprezentant al studenţilor şi al mediului de afaceri. Membrii Consiliului de conducere nu pot deţine funcţii de demnitate publică, funcţia de rector sau de director al instituţiei de învăţămînt.
 (9) Membrii Consiliului de conducere sînt selectaţi prin concurs deschis, jurizat internaţional, din rîndul tuturor celor interesaţi, pentru un mandat de 4 ani, care poate fi reînnoit o singură dată. Concursul este organizat de membrii Consiliului de conducere.
+[Art.115 al.(9) abrogat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (10) La fiecare 4 ani sînt aleşi 8 membri noi ai Consiliului de conducere.
+[Art.115 al.(10) abrogat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (11) Preşedintele, vicepreşedintele şi secretarul general al Consiliului de conducere sînt aleşi din rîndul membrilor acestuia, pentru un mandat de 4 ani.
-(12) Atribuţiile preşedintelui, vicepreşedintelui, secretarului general şi ale comisiilor de profil, condiţiile, procedurile de selectare şi desemnare a membrilor Consiliului de conducere şi ai comisiilor de profil, structura şi efectivul-limită ale aparatului administrativ, precum şi taxele percepute pentru procedurile de evaluare se stabilesc de Consiliul de conducere prin Regulamentul de organizare şi funcţionare al Agenţiei Naţionale de Asigurare a Calităţii în Învăţămîntul Profesional şi se aprobă de Guvern.
+(12) Atribuţiile preşedintelui, vicepreşedintelui, secretarului general şi ale comisiilor de profil, condiţiile, procedurile de selectare şi desemnare a membrilor Consiliului de conducere şi ai comisiilor de profil, structura şi efectivul-limită ale aparatului administrativ, precum şi taxele percepute pentru procedurile de evaluare se stabilesc de Consiliul de conducere prin Regulamentul de organizare şi funcţionare al Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare şi se aprobă de Guvern.
+(12) Modul de funcționare a Agenţiei Naţionale de Asigurare a Calităţii în Educație şi Cercetare, atribuţiile președintelui, vicepreședintelui, secretarului general şi ale comisiilor de profil, condiţiile, procedurile de selectare şi desemnare a acestora, structura şi efectivul-limită ale aparatului administrativ, metodologia de calculare a taxelor, precum şi taxele percepute pentru procedurile de evaluare se stabilesc prin regulamentul aprobat de Guvern.
+[Art.115 al.(12) în redacția LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 Capitolul IV. Cercetarea ştiinţifică în învăţămîntul superior
 Articolul 116. Cercetarea ştiinţifică
 (1) În instituţiile ofertante de programe de învătămînt superior, activitatea de cercetare, dezvoltare şi inovare şi de creaţie artistică se realizează în scopul producerii de cunoaştere şi al formării profesionale a specialiştilor de înaltă calificare.
@@ -1215,7 +1248,11 @@ Articolul 116. Cercetarea ştiinţifică
 (3) Finanţarea cercetării în instituţiile ofertante de programe de master şi doctorat se face, în baza criteriilor de calitate şi performanţă, prin mecanisme distincte, stabilite printr-un regulament aprobat de Guvern, şi din alte surse legal constituite.
 (4) Modul de organizare şi desfăşurare a cercetării ştiinţifice în instituţiile de învăţămînt superior se reglementează prin Carta universitară, prin regulamentele de organizare şi funcţionare a şcolii doctorale, a programelor de studii superioare de doctorat, aprobate de senat, şi prin alte acte normative.
 (5) Finanţarea de la bugetul de stat a proiectelor de cercetare, dezvoltare şi inovare, de creaţie artistică şi sport se efectuează, exclusiv, pe bază de concurs, organizat de autoritatea naţională pentru cercetare, dezvoltare şi inovare.
+(5) Finanţarea de la bugetul de stat a proiectelor de cercetare, dezvoltare şi inovare, de creaţie artistică şi sport se efectuează exclusiv pe bază de concurs, organizat de Agenția Națională pentru Cercetare și Dezvoltare.
+[Art.116 al.(5) în redacția LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (6) Pentru activităţile de cercetare desfăşurate, instituţiile de învăţămînt superior pot beneficia de finanţare instituţională acordată, prin concurs, în baza evaluării relevanţei internaţionale şi a impactului economic şi social al rezultatelor obţinute. Condiţiile concursului, metodologia evaluării relevanţei internaţionale şi a impactului economic şi social, inclusiv volumul finanţării instituţionale, se stabilesc de autoritatea naţională pentru cercetare, dezvoltare şi inovare şi se aprobă de Guvern.
+(6) Instituțiile de învățămînt superior pot beneficia de finanțare instituțională pentru domeniile cercetării și inovării în conformitate cu prevederile Codului cu privire la ştiinţă şi inovare.
+[Art.116 al.(6) în redacția LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (7) Instituţiile de învăţămînt superior sînt deţinătoare de drept a proprietăţii intelectuale generate din propria activitate de cercetare finanţată de la bugetul de stat şi sînt autonome în valorificarea rezultatelor cercetărilor ştiinţifice.
 (8) Instituţiile de învăţămînt superior şi instituţiile de cercetare ofertante de programe de studii superioare au obligaţia de a recompensa autorii rezultatelor de cercetare care au devenit obiect al dreptului de proprietate intelectuală cu cel puţin 15% din veniturile obţinute prin comercializarea acestora.
 (9) Pentru cadrele didactice din învăţămîntul superior în domeniul artelor sau sportului, activitatea de creaţie artistică sau în domeniul sportului poate substitui activitatea de cercetare ştiinţifică.
@@ -1350,7 +1387,7 @@ parcursul vieţii
 (1) Învăţarea pe tot parcursul vieţii include activităţile de învăţare realizate de o persoană pe parcursul vieţii, în scopul formării sau dezvoltării competenţelor din perspectivă personală, civică, socială şi profesională.
 (2) Învăţarea pe tot parcursul vieţii cuprinde învăţămîntul general, profesional-tehnic şi superior, precum şi formarea profesională continuă a adulţilor.
 (3) Programele de formare profesională continuă în cadrul învăţării pe tot parcursul vieţii se supun evaluării în vederea acreditării sau autorizării de funcţionare provizorie, în condiţiile legii.
-(4) Decizia cu privire la autorizarea de funcţionare provizorie, la acreditare, neacreditare sau la retragerea dreptului de organizare a unui program de formare profesională continuă se adoptă de Ministerul Educaţiei, în baza rezultatelor evaluării efectuate de Agenţia Naţională de Asigurare a Calităţii în Învăţămîntul Profesional.
+(4) Decizia cu privire la autorizarea de funcţionare provizorie, la acreditare, neacreditare sau la retragerea dreptului de organizare a unui program de formare profesională continuă se adoptă de Ministerul Educaţiei, în baza rezultatelor evaluării efectuate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
 (5) Învăţarea pe tot parcursul vieţii se realizează în contexte de educaţie formală, nonformală şi informală.
 (6) Învăţarea pe tot parcursul vieţii în contextul educaţiei formale reprezintă un proces instituţionalizat, structurat şi bazat pe o proiectare curriculară explicită.
 (7) Învăţarea pe tot parcursul vieţii în contextul educaţiei nonformale este învăţarea integrată în cadrul unor activităţi planificate, cu obiective de învăţare care nu urmează în mod explicit un curriculum.
@@ -1433,8 +1470,10 @@ Articolul 132. Cerinţele minime de calificare pentru
 ocuparea funcţiilor didactice
 şi ştiinţifico-didactice
 (1) Cerinţele minime de calificare pentru ocuparea funcţiilor didactice sînt:
-a) în educaţia timpurie – deţinerea unei calificări în domeniu de cel puţin nivelul 5 ISCED – învăţămînt profesional tehnic postsecundar nonterţiar;
-b) în învăţămîntul primar şi gimnazial – deţinerea unei calificări în domeniu de cel puţin nivelul 6 ISCED – studii superioare de licenţă, precum şi promovarea modulului psihopedagogic;
+a) în educaţia timpurie – deţinerea unei calificări în domeniu de cel puţin nivelul 4 ISCED – învăţămînt profesional tehnic postsecundar;
+[Art.132 al.(1), lit.a) modificată prin LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
+b) în învățămîntul primar – deținerea unei calificări în domeniu de cel puțin nivelul 5 ISCED – învățămînt profesional tehnic postsecundar nonterțiar; în învățămîntul gimnazial – deţinerea unei calificări în domeniu de cel puţin nivelul 6 ISCED – studii superioare de licenţă, precum şi promovarea modulului psihopedagogic;
+[Art.132 al.(1), lit.b) în redacția LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 c) în învăţămîntul liceal – deţinerea unei calificări în domeniu de cel puţin nivelul 7 ISCED – studii superioare de master, precum şi promovarea modulului psihopedagogic;
 d) în învăţămîntul profesional tehnic – deţinerea unei calificări de cel puţin nivelul 5 ISCED – învăţămînt profesional tehnic postsecundar nonterţiar, în programe de profil, cu excepţia maiştrilor, precum şi promovarea modulului psihopedagogic;
 e) în învăţămîntul superior – deţinerea unei calificări de cel puţin nivelul 7 ISCED – studii superioare de master.
@@ -1719,7 +1758,8 @@ d) art. 16 alin. (5), în partea ce ţine de evaluarea rezultatelor învăţări
 e) art. 40 alin. (7), care se pune în aplicare din anul 2017;
 f) art. 55 alin. (2) şi (3), care se pun în aplicare, respectiv, din anul 2017 şi din anul 2016;
 g) art. 64 alin. (4), care se pune în aplicare din anul 2016;
-h) art. 132 alin. (1) lit. c), care se pune în aplicare din anul 2017;
+h) art. 132 alin. (1) lit. c), care se pune în aplicare începînd cu 1 septembrie 2018;
+[Art.152 lit.h) modificată prin LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 i) art. 134 alin. (7), în partea ce ţine de sprijinul pentru inserţie profesională şi reducerea la 75% a normei didactice pentru un salariu de funcţie, care se pune în aplicare din anul 2016;
 j) art. 145 alin. (1) lit. a), care se pune în aplicare după cum urmează:
 – pentru instituţiile de învăţămînt superior – din anul 2015;
@@ -1734,7 +1774,8 @@ Articolul 153
 Articolul 154
 Calificările obţinute de cadrele didactice pînă la intrarea în vigoare a prezentului cod sînt recunoscute şi echivalate în baza unei metodologii de recunoaştere şi echivalare, aprobată de Ministerul Educaţiei.
 Articolul 155
-Contractele individuale de muncă ale persoanelor care la 1 septembrie 2018 ocupă funcţii ştiinţifico-didactice în instituţii de învăţămînt superior fără îndeplinirea condiţiei prevăzute la art. 132 alin. (3) încetează de drept. Constatarea cazului de încetare de drept a contractului individual de muncă se face de către rectorul instituţiei şi este adusă la cunoştinţă persoanei respective în termen de cel mult 5 zile lucrătoare.
+Contractele individuale de muncă ale persoanelor care la 1 septembrie 2019 ocupă funcţii ştiinţifico-didactice în instituţii de învăţămînt superior fără îndeplinirea condiţiei prevăzute la art. 132 alin. (3) încetează de drept. Constatarea cazului de încetare de drept a contractului individual de muncă se face de către rectorul instituţiei şi este adusă la cunoştinţă persoanei respective în termen de cel mult 5 zile lucrătoare.
+[Art.155 modificat prin LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
 Articolul 156
 La data intrării în vigoare a prezentului cod se abrogă:
 – Legea învăţămîntului nr. 547-XIII din 21 iulie 1995 (Monitorul Oficial al Republicii Moldova, 1995, nr. 62–63, art. 692), cu modificările şi completările ulterioare;

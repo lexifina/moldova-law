@@ -11,14 +11,17 @@
     "319-324",
     "634"
   ],
-  "in_force": "2016-07-01",
-  "in_force_basis": "LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16; newest amendment in force by the archive capture of 2016-07-27",
+  "in_force": "2017-08-18",
+  "in_force_basis": "LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17; newest amendment in force by the archive capture of 2017-11-01",
   "register_id": 355156,
-  "source": "https://web.archive.org/web/20160727010019id_/http://lex.justice.md:80/md/355156/",
-  "source_sha256": "695aa3d2b6fdb72e9f3046836bd3141f6118ca111778ecde180b2f656585f6a4",
-  "capture_day": "2016-07-27",
+  "source": "https://web.archive.org/web/20171101130539id_/http://lex.justice.md:80/md/355156/",
+  "source_sha256": "1068fe1cbd63c01613063ab37c93997844531d710e7a08725571f64e2a38fd3e",
+  "capture_day": "2017-11-01",
   "register_url": "http://lex.justice.md/md/355156/",
   "amending_acts_listed": [
+    "LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18",
+    "LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17",
+    "HCC7 din 16.02.17, MO201-213/23.06.17 art.71; în vigoare 16.02.17",
     "LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16"
   ],
   "note": "Consolidated text of the old State Register of Legal Acts (lex.justice.md, Ministry of Justice), read from the Internet Archive copy named in source. lex.justice.md was replaced by legis.md in 2019 and its last updates date from early 2019; later amendments are not in this record. The register's notes in square brackets are part of its text. Images (the state emblem) are not reproduced."
