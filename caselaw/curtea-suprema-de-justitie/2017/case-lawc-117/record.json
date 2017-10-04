@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-964/17, din 04.10.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 117,
+  "number": "3ra-964/17",
+  "decision_date": "2017-10-04",
+  "decision_date_source_quote": "04 octombrie 2017",
+  "record_date": "2017-10-04",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=117",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=117",
+  "source_sha256": "c2525ca867d4b9a9187815492bb7c23523e1b457bd22efac48cf5ab90b0c25c6",
+  "pdf_pages": 8,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3890,
+    "pdftotext_words": 3877,
+    "common_ratio": [
+      0.9959,
+      0.9992
+    ]
+  },
+  "first_law": null
+}
