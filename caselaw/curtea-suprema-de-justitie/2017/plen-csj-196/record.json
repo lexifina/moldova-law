@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea Plenului CSJ (Plenul Curții Supreme de Justiție), nr. 14, din 16.10.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_csj",
+  "database_label": "Plenul Curții Supreme de Justiție",
+  "source_id": 196,
+  "number": "14",
+  "decision_date": "2017-10-16",
+  "decision_date_source_quote": "16 octombrie 2017",
+  "record_date": "2017-10-16",
+  "in_force": "2017-10-16",
+  "source": "http://jurisprudenta.csj.md/search_plen_csj.php?id=196",
+  "listing": "http://jurisprudenta.csj.md/db_plen_csj.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_csj.php?id=196",
+  "source_sha256": "c04bf8e5a20c363302f1dc8747bdb28baf28c41ee7d6556c511b49a5ad6cb3c9",
+  "pdf_pages": 2,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 347,
+    "pdftotext_words": 346,
+    "common_ratio": [
+      0.9942,
+      0.9971
+    ]
+  },
+  "first_law": null
+}
