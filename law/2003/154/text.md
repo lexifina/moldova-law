@@ -14,8 +14,10 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP188 din 21.09.17, MO364-370/20.10.17 art.622
 LP155 din 20.07.17, MO316-321/25.08.17 art.548
 LP157 din 20.07.17, MO301-315/18.08.17 art.527
+LP164 din 20.07.17, MO277-288/04.08.17 art.485
 LP123 din 07.07.17, MO252/19.07.17 art.410; în vigoare 01.01.19
 LP28 din 17.03.17, MO134-143/28.04.17 art.214
 LP233 din 03.10.16, MO343-346/04.10.16 art.709
@@ -179,6 +181,8 @@ f) la informarea deplină și veridică privind condițiile de activitate, anter
 f1) la informarea și consultarea privind situația economică a unității, securitatea și sănătatea în muncă și privind alte chestiuni ce țin de funcționarea unității, în conformitate cu prevederile prezentului cod;
 [Art.9 al.(1), lit.f1) introdusă prin LP155 din 20.07.17, MO316-321/25.08.17 art.548]
 g) la adresare către angajator, patronate, sindicate, organele administraţiei publice centrale şi locale, organele de jurisdicţie a muncii;
+g1) să informeze de îndată angajatorul sau conducătorul nemijlocit despre imposibilitatea de a se prezenta la serviciu și să prezinte, în termen de 5 zile lucrătoare după reluarea activității de muncă, documentele care justifică absența;
+[Art.9 al.(1), lit.f1) introdusă prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 h) la formare profesională, reciclare şi perfecţionare, în conformitate cu prezentul cod şi cu alte acte normative;
 i) la libera asociere în sindicate, inclusiv la constituirea de organizaţii sindicale şi aderarea la acestea pentru apărarea drepturilor sale de muncă, a libertăţilor şi intereselor sale legitime;
 j) la participare în administrarea unităţii, în conformitate cu prezentul cod şi cu contractul colectiv de muncă;
@@ -219,11 +223,13 @@ f) să creeze patronate pentru reprezentarea şi apărarea intereselor sale şi 
 (2) Angajatorul este obligat:
 a) să respecte legile şi alte acte normative, clauzele contractului colectiv de muncă şi ale convenţiilor colective;
 b) să respecte clauzele contractelor individuale de muncă;
-c) să aprobe, în prima lună de la începutul activităţii unităţii, iar în continuare – în prima lună a fiecărui an calendaristic, statele de personal ale unităţii şi, în termen de 2 luni de la data aprobării acestora, să prezinte (în formă scrisă sau electronică), cu excepţia autorităţilor publice centrale şi locale, un exemplar al statelor de personal inspecţiei teritoriale de muncă în a cărui rază de competenţă este amplasată unitatea;
+c) să aprobe, în decurs de o lună de la începerea activităţii unităţii, iar ulterior – pe parcursul primei luni a fiecărui an calendaristic, statele de personal ale unității;
+[Art.10 al.(2), lit.c) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.10 al.(2), lit.c) abrogată prin LP123 din 07.07.17, MO252/19.07.17 art.410; în vigoare 01.01.19]
 [Art.10 al.(2), lit.(c) modificată prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
 [Art.10 al.(2), lit.c) în redacția LP254 din 09.12.11, MO25-28/03.02.12 art.79]
-d) să acorde salariaţilor munca prevăzută de contractul individual de muncă şi un permis nominal de acces la locul de muncă;
+d) să ofere salariaţilor munca prevăzută de contractul individual de muncă;
+[Art.10 al.(2), lit.d) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.10 al.(2), lit.d) în redacția LP254 din 09.12.11, MO25-28/03.02.12 art.79]
 e) să asigure salariaţilor condiţiile de muncă corespunzătoare cerinţelor de securitate şi sănătate în muncă;
 f) să asigure salariaţii cu utilaj, instrumente, documentaţie tehnică şi alte mijloace necesare pentru îndeplinirea obligaţiilor lor de muncă;
@@ -417,7 +423,7 @@ Articolul 33. Acţiunea contractului colectiv de muncă
 [Art.33 al.(4) în redacția LP155 din 20.07.17, MO316-321/25.08.17 art.548]
 (5) În cazul reorganizării, schimbării tipului de proprietate al unității sau a proprietarului acesteia, oricare dintre părţi poate propune celeilalte părţi să încheie un nou contract colectiv de muncă sau să prelungească contractul precedent.
 [Art.33 al.(5) modificat prin LP155 din 20.07.17, MO316-321/25.08.17 art.548]
-(6) La expirarea termenului contractului colectiv de muncă, acesta continuă să-şi producă efectele pînă la momentul încheierii unui nou contract sau pînă cînd părţile nu vor decide asupra prelungirii acestuia.
+[Art.33 al.(6) abrogat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 (7) Sub incidenţa contractului colectiv de muncă încheiat pe unitate în ansamblu cad salariaţii unităţii, ai filialelor şi ai reprezentanţelor acesteia, care au împuternicit reprezentanţii lor să participe la negocierile colective, să elaboreze şi să încheie contractul colectiv de muncă în numele lor.
 [Art.33 al.(7) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 Articolul 34. Modificarea şi completarea contractului
@@ -614,8 +620,13 @@ a) pentru perioada îndeplinirii obligaţiilor de muncă ale salariatului al că
 [Art.55 al.(1), lit.a) modificată prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
 [Art.55 al.(1), lit.a) modificată prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 [Art.55 al.(1), lit.a) modificată prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-b) pentru perioada îndeplinirii unor lucrări temporarе cu o durată de pînă la 2 luni, precum şi în cazul unor lucrări sezoniere care, în virtutea condiţiilor climaterice, se pot desfăşura numai într-o perioadă anumită a anului;
+b) pentru perioada îndeplinirii unor lucrări temporare cu o durată de pînă la 2 luni;
+[Art.55 al.(1), lit.b) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
+b1) pentru perioada îndeplinirii unor lucrări sezoniere care, în virtutea condiţiilor climaterice, se pot desfăşura numai într-o perioadă anumită a anului;
+[Art.55 al.(1), lit.b1) introdus prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 c) cu persoanele detaşate la lucru peste hotarele Republicii Moldova;
+c1) cu cetățenii străini care se angajează în cîmpul muncii pe teritoriul Republicii Moldova;
+[Art.55 al.(1), lit.c1) introdus prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 d) pentru perioada stagierii şi instruirii profesionale a salariatului la o altă unitate;
 e) cu persoane care îşi fac studiile la instituţiile de învăţămînt la cursurile de zi;
 f) cu persoanele pensionate, conform legislaţiei în vigoare, pentru limită de vîrstă ori vechime în muncă (sau care au obţinut dreptul la pensie pentru limită de vîrstă ori vechime în muncă) şi nu sînt încadrate în cîmpul muncii - pe o perioadă de pînă la 2 ani, care, la expirare, poate fi prelungită de părţi în condiţiile art.54 alin.(2) şi ale art.68 alin.(1) şi alin.(2) lit.a);
@@ -654,7 +665,8 @@ INDIVIDUAL DE MUNCĂ
 Articolul 56. Încheierea contractului individual de muncă
 (1) Contractul individual de muncă se încheie în baza negocierilor dintre salariat şi angajator. Încheierea contractului individual de muncă poate fi precedată de circumstanţe specifice (susţinerea unui concurs, alegerea în funcţie etc.).
 (2) Salariatul are dreptul să încheie contracte individuale de muncă, concomitent, şi cu alţi angajatori (munca prin cumul), dacă acest lucru nu este interzis de legislaţia în vigoare.
-(3) Contractul individual de muncă se întocmeşte în două exemplare şi se semnează de către părţi, atribuindu-i-se un număr din registrul unităţii. În cazul în care angajatorul este autoritate publică, pe contractul individual de muncă se aplică ștampila acesteia. Un exemplar al contractului individual de muncă se înmînează salariatului, iar celălalt se păstrează la angajator.
+(3) Contractul individual de muncă se întocmeşte în două exemplare şi se semnează de către părţi. În cazul în care angajatorul este autoritate publică, pe contractul individual de muncă se aplică ștampila acesteia. Un exemplar al contractului individual de muncă se înmînează salariatului, iar celălalt se păstrează la angajator.
+[Art.56 al.(3) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.56 al.(3) în redacția LP160 din 07.07.16, MO306-313/16.09.16 art.647]
 Articolul 57. Documentele care se prezintă la încheierea
 contractului individual de muncă
@@ -695,7 +707,7 @@ a) 15 zile calendaristice pentru o durată a contractului individual de muncă c
 b) 30 de zile calendaristice pentru o durată a contractului individual de muncă mai mare de 6 luni.
 Articolul 62. Interzicerea aplicării perioadei de probă
 Se interzice aplicarea perioadei de probă în cazul încheierii contractului individual de muncă cu:
-a) tinerii specialişti;
+[Art.62 lit.a) abrogată prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.62 lit.a) în redacția LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 b) persoanele în vîrstă de pînă 18 ani;
 c) persoanele angajate prin concurs;
@@ -708,17 +720,19 @@ h) persoanele angajate în baza unui contract individual de muncă cu o durată 
 [Art.62 lit.i) exclusă prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 63. Rezultatul perioadei de probă
 (1) Dacă, pe durata perioadei de probă, contractul individual de muncă nu a încetat în temeiurile prevăzute de prezentul cod, acţiunea contractului continuă şi încetarea lui ulterioară va avea loc în baze generale.
-(2) În cazul în care rezultatul perioadei de probă este nesatisfăcător, acest lucru se constată în ordinul (dispoziţia, decizia, hotărîrea) cu privire la concedierea salariatului, ce se emite de către angajator pînă la expirarea perioadei de probă, fără plata indemnizaţiei de eliberare din serviciu. Salariatul are dreptul să atace concedierea în instanţa de judecată.
+(2) În cazul în care rezultatul perioadei de probă este nesatisfăcător, acest lucru se constată în ordinul (dispoziţia, decizia, hotărîrea) cu privire la concedierea salariatului, ce se emite de către angajator pînă la expirarea perioadei de probă, fără plata indemnizaţiei de eliberare din serviciu. Angajatorul nu are obligația să motiveze decizia privind rezultatul nesatisfăcător al perioadei de probă. Salariatul are dreptul să atace concedierea în instanţa de judecată.
+[Art.63 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.63 al.(2) modificat prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
 [Art.64 abrogat prin LP155 din 20.07.17, MO316-321/25.08.17 art.548]
 [Art.64 modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.64 modificat prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 65. Perfectarea documentelor la angajare
-(1) În baza contractului individual de muncă negociat şi semnat de părţi, angajatorul emite ordinul (dispoziţia, decizia, hotărîrea) de angajare.
-[Art.65 al.(1) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
-(2) Ordinul (dispoziţia, decizia, hotărîrea) de angajare trebuie adus la cunoştinţa salariatului, sub semnătură, în termen de 3 zile lucrătoare de la data semnării de către părţi a contractului individual de muncă. La cererea scrisă a salariatului, angajatorul este obligat să-i elibereze acestuia o copie a ordinului (dispoziţiei, deciziei, hotărîrii), legalizată în modul stabilit, în termen de 3 zile lucrătoare.
-[Art.65 al.(2) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-[Art.65 al.(3) abrogat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
+(1) În baza contractului individual de muncă negociat şi semnat de părţi, angajatorul poate emite un ordin (dispoziţie, decizie, hotărîre) de angajare.
+(2) În cazul în care angajatorul a emis ordin (dispoziţie, decizie, hotărîre) de angajare, acesta se aduce la cunoştinţă salariatului, sub semnătură, în termen de 3 zile lucrătoare de la data semnării de către părţi a contractului individual de muncă. La cererea scrisă a salariatului, angajatorul este obligat să-i elibereze acestuia o copie de pe ordin (dispoziţie, decizie, hotărîre), legalizată în modul stabilit, în termen de 3 zile lucrătoare.
+[Art.65 în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
+[Art.65 modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
+[Art.65 modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
+[Art.65 modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 Articolul 66. Carnetul de muncă
 (1) Carnete de muncă se ţin pentru toţi salariaţii care lucrează în unitate mai mult de 5 zile lucrătoare.
 [Art.66 al.(1) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
@@ -800,7 +814,8 @@ g) trimitere în instanţa de judecată a dosarului penal privind comiterea de c
 h) omiterе, din vina salariatului, a termenului de trecere a controlului medical;
 i) depistare, conform certificatului medical, a contraindicaţiilor care nu permit îndeplinirea muncii specificate în contractul individual de muncă;
 j) cerere a organelor de control sau de drept, conform legislaţiei în vigoare;
-k) prezentare la locul de muncă în stare de ebrietate alcoolică, narcotică sau toxică, constatată prin certificatul eliberat de instituţia medicală competentă sau prin actul comisiei formate dintr-un număr egal de reprezentanţi ai angajatorului şi ai salariaţilor;
+k) prezentare la locul de muncă în stare de ebrietate alcoolică, în stare cauzată de substanțe stupefiante sau toxice, constatată prin certificatul eliberat de instituţia medicală competentă sau prin actul comisiei formate dintr-un număr egal de reprezentanţi ai angajatorului şi ai salariaţilor;
+[Art.76 lit.k) modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
 l) aflare în grevă, declаrată conform prezentului cod;
 m) stabilire pe termen determinat a gradului de dizabilitate ca urmare a unui accident de muncă sau a unei boli profesionale; precum şi
 [Art.76 lit.m) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
@@ -823,7 +838,8 @@ f) în alte cazuri prevăzute de legislaţia în vigoare.
 Articolul 78. Suspendarea contractului individual
 de muncă la iniţiativa uneia dintre părţi
 (1) Contractul individual de muncă se suspendă din iniţiativa salariatului în caz de:
-a) concediu pentru îngrijirea copilului în vîrstă de pînă la 6 ani;
+a) concediu pentru îngrijirea copilului în vîrstă de pînă la 4 ani;
+[Art.78 al.(1), lit.a) modificată prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 b) concediu pentru îngrijirea unui membru bolnav al familiei cu durata de pînă la un an, conform certificatului medical;
 c) urmare a unui curs de formare profesională în afara unităţii, potrivit art.214 alin.(3);
 d) ocupare a unei funcţii elective în autorităţile publice, în organele sindicale sau în cele patronale;
@@ -890,6 +906,8 @@ a) deces al salariatului, declarare a acestuia decedat sau dispărut fără urm�
 b) deces al angajatorului persoană fizică, declarare a acestuia decedat sau dispărut fără urmă prin hotărîre a instanţei de judecată;
 c) constatare a nulităţii contractului prin hotărîre a instanţei de judecată – de la data rămînerii definitive a hotărîrii respective, cu excepţia cazurilor prevăzute la art.84 alin.(3);
 d) retragere, de către autorităţile competente, a autorizaţiei (licenţei) de activitate a unităţii – de la data retragerii acesteia;
+d1) retragere, de către autoritățile competente, a autorizației (licenței), permisului, care îi acordă salariatului dreptul de a activa într-o anumită profesie, meserie sau de a efectua o anumită lucrare – de la data retragerii actului respectiv;
+[Art.82 lit.d1) introdusă prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 e) aplicare a pedepsei penale salariatului, prin hotărîre a instanţei de judecată, care exclude posibilitatea de a continua munca la unitate - de la data rămînerii definitive a hotărîrii judecătoreşti;
 [Art.82 lit.e) în redacția LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 f) expirare a termenului contractului individual de muncă pe durată determinată – de la data prevăzută în contract, cu excepţia cazului cînd raporturile de muncă continuă de fapt şi nici una dintre părţi nu a cerut încetarea lor, precum şi a cazului prevăzut la art. 83 alin. (3);
@@ -944,7 +962,8 @@ Articolul 85. Demisia
 (31) Contractul individual de muncă poate fi desfăcut, prin acordul scris al părţilor, înainte de expirarea termenelor indicate la alin.(1), (2) şi (41).
 (4) Timp de 7 zile calendaristice de la data depunerii cererii de demisie, salariatul are dreptul să-şi retragă cererea sau să depună o nouă cerere, prin care să o anuleze pe prima. În acest caz, angajatorul este în drept să-l elibereze pe salariat numai dacă, pînă la retragerea (anularea) cererii depuse, a fost încheiat un contract individual de muncă cu un alt salariat în condiţiile prezentului cod.
 [Art.85 al.(4) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
-(41) Conducătorul unităţii, adjuncţii lui şi contabilul-şef sînt în drept să demisioneze, anunţînd despre aceasta angajatorul, prin cerere scrisă, cu o lună înainte.
+(41) Conducătorul unităţii (al filialei sau reprezentanței), adjuncţii lui şi contabilul-şef sînt în drept să demisioneze, anunţînd despre aceasta angajatorul, prin cerere scrisă, cu o lună înainte.
+[Art.85 al.(41) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.85 al.(41) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (5) Dacă, după expirarea termenelor indicate în alin.(1), (2) şi (41), salariatul nu a fost de fapt eliberat din funcţie şi el îşi continuă activitatea de muncă fără să-şi reafirme în scris dorinţa de a desface contractul individual de muncă, eliberarea acestuia nu se admite.
 [Art.85 în redacția LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
@@ -955,22 +974,28 @@ a) rezultatul nesatisfăcător al perioadei de probă (art.63 alin.(2));
 b) lichidarea unităţii sau încetarea activităţii angajatorului persoană fizică;
 c) reducerea numărului sau a statelor de personal din unitate;
 d) constatarea faptului că salariatul nu corespunde funcţiei deţinute sau muncii prestate din cauza stării de sănătate, în conformitate cu certificatul medical;
-e) constatarea faptului că salariatul nu corespunde funcţiei deţinute sau muncii prestate ca urmare a calificării insuficiente, confirmate prin hotărîre a comisiei de atestare;
+e) constatarea faptului că salariatul nu corespunde funcţiei deţinute sau muncii prestate din cauza calificării insuficiente, stabilită în urma atestării efectuate în modul prevăzut de Guvern;
+[Art.86 al.(1), lit.e) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 f) schimbarea proprietarului unităţii (în privinţa conducătorului unităţii, a adjuncţilor săi, a contabilului-şef);
 g) încălcarea repetată, pe parcursul unui an, a obligaţiilor de muncă, dacă anterior salariatul a fost sancționat disciplinar;
 [Art.86 al.(1), lit.g) în redacția LP157 din 20.07.17, MO301-315/18.08.17 art.527]
-h) absenţa repetată fără motive întemeiate de la lucru timp de 4 ore consecutive (fără a ține cont de pauza de masă) în timpul zilei de muncă;
+h) absenţa fără motive întemeiate de la lucru timp de 4 ore consecutive (fără a ține cont de pauza de masă) în timpul zilei de muncă;
+[Art.86 al.(1), lit.h) modificată prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.86 al.(1), lit.h) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
-i) prezentarea la lucru în stare de ebrietate alcoolică, narcotică sau toxică, stabilită în modul prevăzut la art.76 lit.k);
-j) săvîrşirea la locul de muncă a unei sustrageri (inclusiv în proporţii mici) din patrimoniul unităţii, stabilite prin hotărîre a instanţei de judecată sau a organului de competenţa căruia ţine aplicarea sancţiunilor administrative;
-k) comiterea de către salariatul care mînuieşte nemijlocit valori băneşti sau materiale a unor acţiuni culpabile dacă aceste acţiuni pot servi temei pentru pierderea încrederii angajatorului faţă de salariatul respectiv;
+i) prezentarea la lucru în stare de ebrietate alcoolică, în stare cauzată de substanțe stupefiante sau toxice, stabilită în modul prevăzut la art.76 lit.k);
+[Art.86 al.(1), lit.i) modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
+j) săvîrșirea unei contravenții sau infracțiuni contra patrimoniului unității, stabilită prin hotărîrea instanţei de judecată sau prin actul organului de competenţa căruia ţine aplicarea sancţiunilor contravenționale;
+[Art.86 al.(1), lit.j) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
+k) comiterea de către salariatul care gestionează nemijlocit mijloace băneşti sau valori materiale ori care are acces la sistemele informaționale ale angajatorului (sisteme de colectare și gestiune a informației) sau la cele administrate de angajator a unor acţiuni culpabile, dacă aceste acţiuni pot servi drept temei pentru pierderea încrederii angajatorului faţă de salariatul respectiv;
+[Art.86 al.(1), lit.k) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 k1) încălcarea obligației prevăzute la art. 6 alin. (2) lit. a) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale;
 [Art.86 al.(1), lit.k1) introdusă prin LP102 din 21.07.16, MO256-267/12.08.16 art.547; în vigoare 12.11.16]
 l) încălcarea gravă repetată, pe parcursul unui an, a statutului instituţiei de învăţămînt de către un cadru didactic (art.301);
 m) comiterea de către salariatul care îndeplineşte funcţii educative a unei fapte imorale incompatibile cu funcţia deţinută;
 n) aplicarea, chiar şi o singură dată, de către un cadru didactic a violenţei fizice sau psihice faţă de discipoli (art.301);
 o) semnarea de către conducătorul unităţii (filialei, subdiviziunii), de către adjuncţii săi sau de către contabilul-şef a unui act juridic nefondat care a cauzat prejudicii materiale unităţii;
-p) încălcarea gravă, chiar şi o singură dată, a obligaţiilor de muncă de către conducătorul unităţii, de către adjuncţii săi sau de către contabilul-şef;
+p) încălcarea gravă, chiar şi o singură dată, a obligațiilor de muncă;
+[Art.86 al.(1), lit.p) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 r) prezentarea de către salariat angajatorului, la încheierea contractului individual de muncă, a unor documente false (art.57 alin.(1)), fapt confirmat în modul stabilit;
 s) încheierea, vizînd salariaţii ce prestează munca prin cumul, a unui contract individual de muncă cu o altă persoană care va exercita profesia, specialitatea sau funcţia respectivă ca profesie, specialitate sau funcţie de bază (art.273);
 [Art.86 al.(1), lit.t) abrogată prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
@@ -979,12 +1004,18 @@ u) transferarea salariatului la o altă unitate cu acordul celui transferat şi 
 v) refuzul salariatului de a continua munca în legătură cu schimbarea proprietarului unităţii sau reorganizarea acesteia, precum şi a transferării unităţii în subordinea unui alt organ;
 x) refuzul salariatului de a fi transferat la o altă muncă pentru motive de sănătate, conform certificatului medical (art.74 alin.(2));
 y) refuzului salariatului de a fi transferat în altă localitate în legătură cu mutarea unităţii în această localitate (art.74 alin.(1)); precum şi
+y1) deţinerea de către salariat a statutului de pensionar pentru limită de vîrstă;
+[Art.86 al.(1), lit.y1) introdusă prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 z) pentru alte motive prevăzute de prezentul cod şi de alte acte legislative.
-(2) Nu se admite concedierea salariatului în perioada aflării lui în concediu medical, în concediu de odihnă anual, în concediu de studii, în concediu de maternitate, în concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, în concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 6 ani, în perioada îndeplinirii obligaţiilor de stat sau obşteşti, precum şi în perioada detaşării, cu excepţia cazurilor de lichidare a unităţii.
+Notă. Persoanele concediate în temeiul lit. y1) pot fi angajate pe o durată determinată conform art. 55 lit. f).
+[Art.86 al.(1), nota introdusă prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
+(2) Nu se admite concedierea salariatului în perioada aflării lui în concediu medical, în concediu de odihnă anual, în concediu de studii, în concediu de maternitate, în concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, în concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 4 ani, în perioada îndeplinirii obligaţiilor de stat sau obşteşti, precum şi în perioada detaşării, cu excepţia cazurilor de lichidare a unităţii.
+[Art.86 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.86 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 87. Interzicerea concedierii fără acordul
 organului sindical
-(1) Concedierea salariaţilor membri de sindicat în cazurile stipulate la art. 86 alin. (1) lit. c), e) şi g) poate avea loc doar cu acordul preliminar scris al organului (organizatorului) sindical din unitate. În celelalte cazuri, concedierea se admite cu consultarea prealabilă a organului (organizatorului) sindical din unitate.
+(1) Concedierea salariaţilor membri de sindicat se admite cu consultarea prealabilă a organului (organizatorului) sindical din unitate.
+[Art.87 al.(1) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.87 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.87 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (2) Concedierea persoanei alese în organul sindical şi neeliberate de la locul de muncă de bază se admite cu respectarea modului general de concediere şi doar cu acordul preliminar al organului sindical al cărui membru este persoana în cauză.
@@ -1005,7 +1036,8 @@ d) va reduce, în primul rînd, locurile de muncă vacante;
 e) va desface contractul individual de muncă în primul rînd cu salariaţii angajaţi prin cumul;
 f) va acorda salariatului ce urmează a fi concediat o zi lucrătoare pe săptămînă cu menţinerea salariului mediu pentru căutarea unui alt loc de muncă;
 g) va prezenta, în modul stabilit, cu 2 luni înainte de concediere, agenţiei pentru ocuparea forţei de muncă informaţiile privind persoanele ce urmează a fi disponibilizate;
-h) se va adresa organului sindical în vederea obţinerii acordului pentru concediere, în modul prevăzut de prezentul cod;
+h) se va adresa organului (organizatorului) sindical în vederea obţinerii opiniei consultative privind concedierea salariatului respectiv;
+[Art.88 al.(1), lit.h) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 i) în cazul în care reorganizarea sau lichidarea unităţii presupune reducerea în masă a locurilor de muncă, va informa în scris, cu cel puţin 3 luni înainte, despre acest lucru organele sindicale din unitatea şi ramura respectivă şi va iniţia negocieri în vederea respectării drepturilor şi intereselor salariaţilor. Criteriile vizînd reducerea în masă a locurilor de muncă se stabilesc prin convenţiile colective.
 [Art.88 al.(1), lit.i) modificată prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) În cazul în care, după expirarea termenului de preavizare de 2 luni, nu a fost emis ordinul (dispoziţia, decizia, hotărîrea) de concediere a salariatului, această procedură nu poate fi repetată în cadrul aceluiaşi an calendaristic. În termenul de preavizare nu se include perioada aflării salariatului în concediul anual de odihnă, în concediul de studii şi în concediul medical.
@@ -1168,7 +1200,8 @@ Articolu 103. Munca de noapte
 [Art.103 al.(5) modificat prin LP155 din 20.07.17, MO316-321/25.08.17 art.548]
 [Art.103 al.(5) modificat prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
 [Art.103 al.(5) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(6) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav în baza certificatului medical pot presta muncă de noapte numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca de noapte.
+(6) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 4 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav în baza certificatului medical pot presta muncă de noapte numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca de noapte.
+[Art.103 al.(6) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.103 al.(6) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.103 al.(6) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 104. Munca suplimentară
@@ -1192,7 +1225,8 @@ Articolul 105. Limitarea muncii suplimentare
 (1) Nu se admite atragerea la muncă suplimentară a salariaţilor în vîrstă de pînă la 18 ani, a femeilor gravide, precum şi a persoanelor cărora munca suplimentară le este contraindicată conform certificatului medical.
 [Art.105 al.(1) modificat prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
 [Art.105 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(2) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute de art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta muncă suplimentară numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca suplimentară.
+(2) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 4 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute de art.126 şi 127 alin.(2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta muncă suplimentară numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca suplimentară.
+[Art.105 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.105 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.105 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (3) Efectuarea muncii suplimentare nu poate avea ca efect majorarea duratei zilnice a timpului de muncă peste 12 ore.
@@ -1226,7 +1260,8 @@ Articolul 110. Munca în zilele de repaus
 (3) Nu se admite atragerea la muncă în zilele de repaus a salariaţilor în vîrstă de pînă la 18 ani, a femeilor gravide.
 [Art.110 al.(3) modificat prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
 [Art.110 al.(3) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(4) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de repaus numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de repaus.
+(4) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 4 ani sau copii cu dizabilităţi persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin.(2) cu activitatea de munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de repaus numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de repaus.
+[Art.110 al.(4) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.110 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.110 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 111. Zilele de sărbătoare nelucrătoare
@@ -1252,10 +1287,12 @@ j) ziua Hramului bisericii din localitatea respectivă, declarată în modul sta
 (3) Nu se admite atragerea la muncă în zilele de sărbătoare nelucrătoare a salariaţilor în vîrstă de pînă la 18 ani, a femeilor gravide.
 [Art.111 al.(3) modificat prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
 [Art.111 al.(3) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(4) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin. (2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de sărbătoare nelucrătoare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de sărbătoare nelucrătoare.
+(4) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 4 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului prevăzute la art.126 şi 127 alin. (2) cu activitatea de muncă şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în zilele de sărbătoare nelucrătoare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în zilele de sărbătoare nelucrătoare.
+[Art.111 al.(4) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.111 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.111 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(5) În scopul utilizării optime de către salariaţi a zilelor de repaus şi de sărbătoare nelucrătoare, Guvernul este în drept să transfere zilele de repaus (de lucru) în alte zile. Salariaţii care în ziua declarată zi de odihnă încă nu se aflau în raporturi de muncă cu unitatea în cauză, salariaţii ale căror contracte individuale de muncă erau suspendate la data respectivă, precum şi salariaţii care în ziua respectivă s-au aflat în concediu medical, în concediu de maternitate, în concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, în concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 6 ani, în concediu de odihnă anual, în concediu neplătit şi în concediu de studii nu au obligaţia de a se prezenta la serviciu în ziua declarată zi lucrătoare.
+(5) În scopul utilizării optime de către salariaţi a zilelor de repaus şi de sărbătoare nelucrătoare, Guvernul este în drept să transfere zilele de repaus (de lucru) în alte zile. Salariaţii care în ziua declarată zi de odihnă încă nu se aflau în raporturi de muncă cu unitatea în cauză, salariaţii ale căror contracte individuale de muncă erau suspendate la data respectivă, precum şi salariaţii care în ziua respectivă s-au aflat în concediu medical, în concediu de maternitate, în concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, în concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 4 ani, în concediu de odihnă anual, în concediu neplătit şi în concediu de studii nu au obligaţia de a se prezenta la serviciu în ziua declarată zi lucrătoare.
+[Art.111 al.(5) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.111 al.(5) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (6) În cazul în care zilele de sărbătoare nelucrătoare coincid cu zilele de repaus săptămînal, salariul mediu pentru aceste zile nu se menţine.
 [Art.111 al.(6) introdus prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
@@ -1280,7 +1317,8 @@ d) timpul cînd salariatul nu a lucrat de fapt, dar şi-a menţinut locul de mun
 e) alte perioade de timp prevăzute de convenţiile colective, de contractul colectiv sau de cel individual de muncă, de regulamentul intern al unităţii.
 (2) Dacă convenţiile colective, contractul colectiv sau cel individual de muncă nu prevăd altfel, în vechimea în muncă, care dă dreptul la concediul de odihnă anual, nu se includ:
 a) timpul absenţei nemotivate de la lucru;
-b) perioada aflării în concediu pentru îngrijirea copilului pînă la vîrsta de 6 ani;
+b) perioada aflării în concediu pentru îngrijirea copilului pînă la vîrsta de 4 ani;
+[Art.114 al.(2), lit.b) modificată prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 c) perioada aflării în concediu neplătit cu o durată mai mare de 14 zile calendaristice;
 d) perioada suspendării contractului individual de muncă, cu excepţia cazurilor prevăzute la art.76 lit.a)-d) şi la art.77 lit.b).
 [Art.114 al.(2), lit.d) modificată prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
@@ -1400,8 +1438,10 @@ pentru îngrijirea copilului
 (3) Salariaţii care au adoptat copii nou-născuţi sau i-au luat sub tutelă pot folosi, în baza unei cereri scrise, concediul de odihnă anual după terminarea oricăruia din concediile acordate conform art.127.
 (4) Concediile de odihnă anuale, conform alin.(1)-(3), li se acordă salariaţilor indiferent de vechimea în muncă în unitatea respectivă.
 Articolul 126. Concediul suplimentar neplătit pentru
-îngrijirea copilului în vîrstă de la 3 la 6 ani
-(1) În afară de concediul de maternitate şi concediul parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, femeii, precum şi persoanelor menţionate la art.124 alin.(4), li se acordă, în baza unei cereri scrise, un concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 6 ani, cu menţinerea locului de muncă (a funcţiei). În lipsa locului de muncă anterior (funcţiei anterioare), persoanelor menţionate li se acordă un alt loc de muncă echivalent (funcţie echivalentă).
+îngrijirea copilului în vîrstă de la 3 la 4 ani
+[Art.126 denumirea modificată prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
+(1) În afară de concediul de maternitate şi concediul parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, femeii, precum şi persoanelor menţionate la art.124 alin.(4), li se acordă, în baza unei cereri scrise, un concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 4 ani, cu menţinerea locului de muncă (a funcţiei). În lipsa locului de muncă anterior (funcţiei anterioare), persoanelor menţionate li se acordă un alt loc de muncă echivalent (funcţie echivalentă).
+[Art.126 al.(1) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.126 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) În baza unei cereri scrise, în timpul aflării în concediul suplimentar neplătit pentru îngrijirea copilului, femeia sau persoanele menţionate la art.124 alin.(4) pot să lucreze în condiţiile timpului de muncă parţial sau la domiciliu.
 (3) Perioada concediului suplimentar neplătit se include în vechimea în muncă, inclusiv în vechimea în muncă specială, dacă contractul individual de muncă nu a fost suspendat conform art.78 alin.(1) lit.a).
@@ -1411,7 +1451,8 @@ Articolul 127. Concediile pentru salariaţii care au
 adoptat copii nou-născuţi sau i-au
 luat sub tutelă
 (1) Salariatului care a adoptat un copil nou-născut nemijlocit din maternitate sau l-a luat sub tutelă i se acordă un concediu plătit pe o perioadă ce începe din ziua adopţiei (luării sub tutelă) şi pînă la expirarea a 56 de zile calendaristice din ziua naşterii copilului (în caz de adopţie a doi sau mai mulţi copii concomitent – 70 de zile calendaristice) şi, în baza unei cereri scrise, un concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani. Indemnizaţiile pentru concediile menţionate se plătesc din bugetul asigurărilor sociale de stat.
-(2) Salariatului care a adoptat un copil nou-născut nemijlocit din maternitate sau l-a luat sub tutelă i se acordă, în baza unei cereri scrise, un concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 6 ani, conform art.126.
+(2) Salariatului care a adoptat un copil nou-născut nemijlocit din maternitate sau l-a luat sub tutelă i se acordă, în baza unei cereri scrise, un concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 4 ani, conform art.126.
+[Art.127 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 T i t l u l V
 SALARIZAREA ŞI NORMAREA MUNCII
 Capitolul I
@@ -1482,7 +1523,8 @@ b) pentru salariaţii din sectorul bugetar – în baza categoriilor de salariza
 Articolul 1361. Sisteme netarifare de salarizare
 (1) Sistemele netarifare de salarizare reprezintă modalităţi de diferenţiere a salariilor în dependenţă de performanţele individuale şi/sau colective şi funcţia deţinută de salariat.
 (2) Criteriile şi normele de evaluare a performanţelor profesionale individuale ale salariatului se stabilesc de către angajator, prin negociere cu reprezentanţii salariaţilor. Aprecierea performanţelor profesionale individuale ale salariatului se efectuează de către angajator.
-(3) Sistemul netarifar de salarizare se stabileşte în contractul colectiv de muncă la nivel de unitate.
+(3) Sistemul netarifar de salarizare se stabileşte în contractul colectiv de muncă la nivel de unitate sau într-un alt act normativ la nivel de unitate.
+[Art.1361 al.(3) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 (4) Stabilirea cuantumului salariului pentru fiecare salariat în cadrul sistemelor netarifare de salarizare se efectuează de către angajator. Drept limită minimă şi garanţie a statului serveşte cuantumul minim garantat al salariului în sectorul real.
 [Art.1361 introdus prin LP242-XVI din 20.11.08, MO237-240/31.12.08 art.860]
 Articolul 137. Plăţile de stimulare
@@ -1626,7 +1668,8 @@ Pentru munca prestată în program de noapte se stabileşte un adaos în mărime
 [Art.159 modificat prin LP242-XVI din 20.11.08, MO237-240/31.12.08 art.860]
 Articolul 160. Dreptul angajatorului la stabilirea
 unor plăţi de stimulare şi de compensare
-Angajatorul este în drept să majoreze sporurile, adaosurile şi recompensele prevăzute la art.138, 156, 157, 158 în raport cu nivelul lor minim stabilit de legislaţia în vigoare, precum şi să stabilească alte plăţi cu caracter de stimulare şi compensare în limitele mijloacelor proprii (alocate), prevăzute pentru aceste scopuri în contractul colectiv de muncă sau în devizul de cheltuieli pentru întreţinerea unităţii finanţate din buget.
+Angajatorul este în drept să majoreze sporurile, adaosurile şi recompensele prevăzute la art.138, 156, 157, 158 în raport cu nivelul lor minim stabilit de legislaţia în vigoare, precum şi să stabilească alte plăţi cu caracter de stimulare şi compensare în limitele mijloacelor proprii (alocate), prevăzute pentru aceste scopuri în contractul colectiv de muncă, într-un alt act normativ la nivel de unitate sau în devizul de cheltuieli pentru întreţinerea unităţii finanţate din buget.
+[Art.160 modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 Articolul 161. Modul de retribuire a muncii în caz
 de neîndeplinire a normelor de producţie
 (1) În caz de neîndeplinire a normelor de producţie din vina angajatorului, retribuirea se face pentru munca efectiv prestată de salariat, dar nu mai puţin decît în mărimea unui salariu mediu al salariatului calculat pentru aceeaşi perioadă de timp.
@@ -1638,7 +1681,8 @@ producere a rebutului
 (1) Rebutul produs fără vina salariatului este retribuit la fel ca şi articolele bune.
 (2) Rebutul total din vina salariatului nu este retribuit.
 (3) Rebutul parţial din vina salariatului este retribuit în funcţie de gradul de utilitate a produsului, conform unor tarife reduse.
-(4) Tarifele reduse, menţionate la alin.(3), se stabilesc în contractul colectiv de muncă.
+(4) Tarifele reduse, menţionate la alin.(3), se stabilesc în contractul colectiv de muncă sau într-un alt act normativ la nivel de unitate.
+[Art.162 al.(4) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 Articolul 163. Modul de retribuire a muncii în caz de însuşire
 de însuşire a unor noi procese de producţie
 Pentru perioada de însuşire a unor noi procese de producţie, salariaților li se garantează menținerea salariului mediu.
@@ -1656,7 +1700,8 @@ Articolul 165. Salariul mediu
 (2) Salariul mediu se garantează salariaţilor în cazurile prevăzute de legislaţia în vigoare, de contractele colective şi/sau cele individuale de muncă.
 (3) Modul de calculare a salariului mediu al salariatului este unic şi se stabileşte de Guvern.
 Articolul 1651. Ajutorul material
-Angajatorul este în drept să acorde anual salariaţilor ajutor material în modul şi condiţiile prevăzute de contractul colectiv de muncă şi/sau de actele normative în vigoare. Ajutorul material poate fi acordat salariatului, în baza cererii lui scrise, în orice timp al anului ori adăugat la indemnizaţia de concediu (art.117).
+Angajatorul este în drept să acorde anual salariaţilor ajutor material în modul şi condiţiile prevăzute de contractul colectiv de muncă, de alt act normativ la nivel de unitate şi/sau de actele normative în vigoare. Ajutorul material poate fi acordat salariatului, în baza cererii lui scrise, în orice timp al anului ori adăugat la indemnizaţia de concediu (art.117).
+[Art.1651 modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.1651 introdus prin LP8 din 09.02.06, MO83-86/02.06.06 art.362]
 Capitolul V
 NORMAREA MUNCII
@@ -1677,7 +1722,8 @@ normelor-tip de muncă
 Articolul 169. Introducerea, înlocuirea şi revizuirea
 normelor de muncă
 (1) În cazul în care normele de muncă nu mai corespund condiţiilor pentru care au fost aprobate sau nu asigură ocuparea completă a timpului normal de muncă, acestea pot fi revizuite sau înlocuite.
-(2) Procedura de revizuire sau înlocuire a normelor de muncă, precum şi situaţiile concrete în care poate fi aplicată, se stabileşte prin contractele colective de muncă şi/sau prin convenţiile colective.
+(2) Procedura de revizuire sau înlocuire a normelor de muncă, precum şi situaţiile concrete în care poate fi aplicată, se stabileşte prin contractele colective de muncă , prin alte acte normative la nivel de unitate şi/sau prin convenţiile colective.
+[Art.169 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.169 al.(2) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 (3) Despre introducerea unor norme noi de muncă salariaţii trebuie să fie anunţaţi în scris, sub semnătură, cel puţin cu 2 luni înainte.
 Articolul 170. Stabilirea tarifelor de retribuire a
@@ -1743,14 +1789,16 @@ de învăţămînt superior şi mediu de specialitate
 [Art.178 al.(1) modificat prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
 (11) Salariaţilor care s-au înmatriculat din proprie iniţiativă în instituţiile de învăţămînt superior sau mediu de specialitate, acreditate în condiţiile legii, la secţiile serale şi fără frecvenţă şi care învaţă cu succes li se vor acorda anumite garanţii şi compensaţii în modul prevăzut de contractul colectiv sau de cel individual de muncă.
 [Art.178 al.(11) introdus prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
-(2) În contractul colectiv de muncă şi în convenţiile colective pentru salariaţii menţionaţi la alin.(1) pot fi prevăzute înlesniri suplimentare din contul mijloacelor unităţii.
+(2) În contractul colectiv de muncă, în alt act normativ la nivel de unitate şi în convenţiile colective pentru salariaţii menţionaţi la alin.(1) pot fi prevăzute înlesniri suplimentare din contul mijloacelor unităţii.
+[Art.178 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 Articolul 179. Garanţii şi compensaţii acordate salariaţilor
 care îmbină munca cu studiile în învăţămîntul
 postuniversitar specializat
 (1) Salariaţilor care îşi fac studiile postuniversitare prin masterat, doctorat, postdoctorat, organizate în instituţiile de învăţămînt superior sau în organizaţiile din sfera ştiinţei şi inovării acreditate în condiţiile legii , li se acordă garanţii şi compensaţii în modul stabilit de Guvern.
 [Art.179 al.(1) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 [Art.179 al.(1) modificat prin LP294-XV din 28.07.04, MO138-146/13.08.04 art.747]
-(2) Angajatorul şi reprezentanţii salariaţilor pot prevedea în contractul colectiv de muncă, din contul unităţii, garanţii şi compensaţii suplimentare la cele stabilite prin actele normative în vigoare.
+(2) Angajatorul şi reprezentanţii salariaţilor pot prevedea în contractul colectiv de muncă sau într-un alt act normativ la nivel de unitate, din contul unităţii, garanţii şi compensaţii suplimentare la cele stabilite prin actele normative în vigoare.
+[Art.178 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 Articolul 180. Garanţii şi compensaţii acordate salariaţilor
 care îmbină munca cu studiile în instituţiile de
 învăţămînt secundar profesional
@@ -1821,8 +1869,9 @@ a) pentru prima lună, plata unei indemnizaţii de eliberare din serviciu egală
 b) pentru a doua lună, plata unei indemnizaţii de eliberare din serviciu egală cu cuantumul salariului mediu lunar dacă persoana concediată nu a fost plasată în cîmpul muncii;
 [Art.186 al.(1), lit.b) modificată prin LP264 din 01.11.13, MO276-280/29.11.13 art.764; în vigoare 01.01.14]
 [Art.186 al.(1), lit.b) în redacția LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-c) pentru a treia lună, plata unei indemnizaţii de eliberare din serviciu egală cu cuantumul salariului mediu lunar dacă, după concediere, salariatul s-a înregistrat în decurs de 14 zile calendaristice la agenţia teritorială de ocupare a forţei de muncă în calitate de şomer şi nu a fost plasat în cîmpul muncii, fapt confirmat prin certificatul respectiv;
-[Art.186 al.(1), lit.a) modificată prin LP264 din 01.11.13, MO276-280/29.11.13 art.764; în vigoare 01.01.14]
+c) pentru a treia lună, plata unei indemnizaţii de eliberare din serviciu egală cu cuantumul salariului mediu lunar, dacă persoana concediată nu a fost plasată în cîmpul muncii;
+[Art.186 al.(1), lit.c) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
+[Art.186 al.(1), lit.c) modificată prin LP264 din 01.11.13, MO276-280/29.11.13 art.764; în vigoare 01.01.14]
 [Art.186 al.(1), lit.c) modificată prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.186 al.(1), lit.c) introdusă prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 d) la lichidarea unităţii, prin acordul scris al părţilor, achitarea integrală a sumelor legate de concedierea salariatului pe toate 3 luni, la data concedierii.
@@ -1995,6 +2044,18 @@ Articolul 211. Termenul de validitate şi efectele sancţiunilor disciplinare
 (1) Termenul de validitate a sancţiunii disciplinare nu poate depăşi un an din ziua aplicării. Dacă pe parcursul acestui termen salariatul nu va fi supus unei noi sancţiuni disciplinare, se consideră că sancţiunea disciplinară nu i-a fost aplicată.
 (2) Angajatorul care a aplicat sancţiunea disciplinară este în drept să o revoce în decursul unui an din proprie iniţiativă, la rugămintea salariatului, la demersul reprezentanţilor salariaţilor sau al şefului nemijlocit al salariatului.
 (3) În interiorul termenului de validitate a sancţiunii disciplinare, salariatului sancţionat nu i se pot aplica stimulări prevăzute la art.203.
+Articolul 2111. Încălcarea gravă a obligațiilor
+de muncă
+Se consideră încălcare gravă a obligațiilor de muncă următoarele acţiuni ale salariatului:
+a) primirea şi eliberarea bunurilor, precum şi a mijloacelor băneşti fără perfectarea documentelor corespunzătoare;
+b) acordarea serviciilor prin uzul funcţiei în schimbul unei remuneraţii, unui serviciu sau altor beneficii;
+c) folosirea în scopuri personale a banilor încasaţi;
+d) folosirea în scopuri personale a bunurilor angajatorului și a bunurilor aflate în gestiunea angajatorului (mijloace fixe aflate în proprietate, arendă, comodat) fără acordul în scris al acestuia;
+e) nerespectarea clauzei de confidențialitate;
+f) încălcarea cerințelor de securitate și sănătate în muncă, constatată, în formă scrisă, de conducătorul unității, de lucrătorul desemnat, de serviciul intern ori extern de protecție și prevenire sau de Inspectoratul de Stat al Muncii, dacă această încălcare a atras consecințe grave (accident de muncă, avarie) sau a creat un pericol real și iminent al survenirii unor asemenea consecințe;
+g) refuzul de a trece examenul medical, în cazul în care acesta este obligatoriu, iar salariatul a fost informat de către angajator, în formă scrisă, despre obligația de a trece examenul medical;
+h) cauzarea unui prejudiciu material mărimea căruia depășește cinci salarii medii lunare pe economie prognozate.
+[Art.2111 introdus prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 T i t l u l VIII
 FORMAREA PROFESIONALĂ
 Capitolul I
@@ -2141,8 +2202,10 @@ MUNCA FEMEILOR, A PERSOANELOR CU
 OBLIGAŢII FAMILIALE ŞI A ALTOR PERSOANE
 Articolul 247. Garanţii la angajare pentru femeile
 gravide şi persoanele cu copii în vîrstă
-de pînă la 6 ani
-(1) Refuzul de angajare sau reducerea cuantumului salariului pentru motive de graviditate sau de existenţă a copiilor în vîrstă de pînă la 6 ani este interzis. Refuzul de angajare a unei femei gravide sau a unei persoane cu copil în vîrstă de pînă la 6 ani din alte cauze trebuie să fie motivat, angajatorul informînd în scris persoana în cauză în decurs de 5 zile calendaristice de la data înregistrării în unitate a cererii de angajare. Refuzul de angajare poate fi atacat în instanţa de judecată.
+de pînă la 4 ani
+[Art.247 denumirea modificată prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
+(1) Refuzul de angajare sau reducerea cuantumului salariului pentru motive de graviditate sau de existenţă a copiilor în vîrstă de pînă la 6 ani este interzis. Refuzul de angajare a unei femei gravide sau a unei persoane cu copil în vîrstă de pînă la 4 ani din alte cauze trebuie să fie motivat, angajatorul informînd în scris persoana în cauză în decurs de 5 zile calendaristice de la data înregistrării în unitate a cererii de angajare. Refuzul de angajare poate fi atacat în instanţa de judecată.
+[Art.247 al.(1) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.247 al.(2) exclus prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 248. Lucrările la care este interzisă utilizarea
 muncii unor categorii de femei
@@ -2151,7 +2214,8 @@ Este interzisă utilizarea muncii femeilor gravide, a femeilor care au născut d
 Articolul 249. Limitarea trimiterii în deplasare
 (1) Nu se admite trimiterea în deplasare în interes de serviciu a persoanelor cărora deplasarea le este contraindicată conform certificatului medical.
 [Art.249 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(2) Persoanele cu dizabilităţi severe şi accentuate, femeile gravide, părinţii singuri care au copii în vîrstă de pînă la 14 ani, salariaţii care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului, prevăzute la art.126 şi 127 alin.(2), cu munca, precum şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot fi trimişi în deplasare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza plecarea în deplasare.
+(2) Persoanele cu dizabilităţi severe şi accentuate, femeile gravide, părinţii singuri care au copii în vîrstă de pînă la 14 ani, salariaţii care au copii în vîrstă de pînă la 4 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului, prevăzute la art.126 şi 127 alin.(2), cu munca, precum şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot fi trimişi în deplasare numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza plecarea în deplasare.
+[Art.249 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.249 al.(2) modificat prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
 [Art.249 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.249 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
@@ -2164,21 +2228,17 @@ categorii de femei
 (5) Pînă la soluţionarea chestiunii privind acordarea unei alte munci în conformitate cu alin. (2)–(4) sau în cazul în care schimbarea locului de muncă nu este posibilă din motive obiective, femeile gravide, femeile care au născut de curînd și cele care alăptează vor fi scutite de îndeplinirea obligaţiilor de muncă, cu menținerea salariului mediu pentru zilele pe care nu le-au lucrat din această cauză.
 (6) Fără a aduce atingere dispozițiilor alin. (1)–(5), femeile care au copii cu vîrsta de pînă la 3 ani, în cazul în care nu au posibilitatea să-şi îndeplinească obligaţiile de muncă, sînt transferate, în modul prevăzut de prezentul cod, la un alt loc de muncă, cu menținerea salariului mediu de la locul de muncă precedent pînă cînd copiii împlinesc vîrsta de 3 ani.
 [Art.250 în redacția LP155 din 20.07.17, MO316-321/25.08.17 art.548]
-Articolul 250. Transferul la o muncă mai uşoară al
-femeilor gravide şi al femeilor care au
-copii în vîrstă de pînă la 3 ani
-(1) Femeilor gravide şi femeilor care alăptează li se acordă, în conformitate cu certificatul medical, o muncă mai uşoară, care exclude influenţa factorilor de producţie nefavorabili, menţinîndu-li-se salariul mediu de la locul de muncă precedent.
-[Art.250 al.(1) modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
-(2) Pînă la soluţionarea problemei ce ţine de acordarea unei munci mai uşoare care ar exclude influenţa factorilor de producţie nefavorabili, femeile gravide vor fi scutite de îndeplinirea obligaţiilor de muncă, menţinîndu-li-se salariul mediu pentru toate zilele pe care nu le-au lucrat din această cauză.
-(3) Femeile care au copii în vîrstă de pînă la 3 ani, în cazul cînd nu au posibilitate să-şi îndeplinească obligaţiile de muncă la locul lor de muncă, sînt transferate, în modul prevăzut de prezentul cod, la un alt loc de muncă, menţinîndu-li-se salariul mediu de la locul de muncă precedent pînă cînd copilul împlineşte vîrsta de 3 ani.
+[Art.250 modificat prin LP52 din 01.04.16, MO106-113/22.04.16 art.209]
 Articolul 251. Interzicerea concedierii femeilor gravide
 şi a salariaţilor care îngrijesc copii în vîrstă
-de pînă la 6 ani
-Se interzice concedierea femeilor gravide, a femeilor care au copii în vîrstă de pînă la 6 ani şi a persoanelor care folosesc concediile pentru îngrijirea copilului prevăzute la art.124, 126 şi 127, cu excepţia cazurilor prevăzute la art. 86 alin. (1) lit. b), g) – k).
+de pînă la 4 ani
+Se interzice concedierea femeilor gravide, a femeilor care au copii în vîrstă de pînă la 4 ani şi a persoanelor care folosesc concediile pentru îngrijirea copilului prevăzute la art.124, 126 şi 127, cu excepţia cazurilor prevăzute la art. 86 alin. (1) lit. b), g) – k).
+[Art.251 modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.251 modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 252. Garanţii pentru persoanele care îngrijesc
 copii lipsiţi de grijă maternă
-Garanţiile şi drepturile acordate femeilor cu copii în vîrstă de pînă la 6 ani şi altor persoane care folosesc concediile pentru îngrijirea copilului, prevăzute la art.124, 126 şi 127 (limitarea muncii de noapte, a muncii suplimentare, atragerii la lucru în zilele de repaus şi a trimiterii în deplasare în interes de serviciu, acordarea concediilor suplimentare, stabilirea regimului de muncă privilegiat, alte garanţii şi înlesniri stabilite de legislaţia muncii), se extind, în afara rudelor menţionate la art.124 alin.(4), şi asupra altor persoane care îngrijesc realmente copii lipsiţi de grija maternă (în caz de deces, de decădere din drepturile părinteşti sau de aflare îndelungată a mamei într-o instituţie de tratament, în alte cazuri), precum şi asupra tutorilor (curatorilor) minorilor.
+Garanţiile şi drepturile acordate femeilor cu copii în vîrstă de pînă la 4 ani şi altor persoane care folosesc concediile pentru îngrijirea copilului, prevăzute la art.124, 126 şi 127 (limitarea muncii de noapte, a muncii suplimentare, atragerii la lucru în zilele de repaus şi a trimiterii în deplasare în interes de serviciu, acordarea concediilor suplimentare, stabilirea regimului de muncă privilegiat, alte garanţii şi înlesniri stabilite de legislaţia muncii), se extind, în afara rudelor menţionate la art.124 alin.(4), şi asupra altor persoane care îngrijesc realmente copii lipsiţi de grija maternă (în caz de deces, de decădere din drepturile părinteşti sau de aflare îndelungată a mamei într-o instituţie de tratament, în alte cazuri), precum şi asupra tutorilor (curatorilor) minorilor.
+[Art.252 modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 Articolul 2521. Garanţii pentru persoanele care educă
 un copil cu dizabilități
 Unuia dintre părinţii (tutorelui, curatorului) care educă un copil cu dizabilități i se va acorda suplimentar, în baza unei cereri scrise, o zi liberă pe lună, cu menţinerea salariului mediu din contul angajatorului.
@@ -2196,7 +2256,8 @@ vîrstă de pînă la 18 ani
 Articolul 255. Lucrările la care este interzisă utilizarea
 muncii persoanelor în vîrstă de pînă la
 18 ani
-(1) Este interzisă utilizarea muncii persoanelor în vîrstă de pînă la 18 ani la lucrările cu condiţii de muncă grele, vătămătoare şi/sau periculoase, la lucrări subterane, precum şi la lucrări care pot să aducă prejudicii sănătăţii sau integrităţii morale a minorilor (jocurile de noroc, lucrul în localurile de noapte, producerea, transportarea şi comercializarea băuturilor alcoolice, a articolelor din tutun, a preparatelor narcotice şi toxice). Nu se admite ridicarea şi transportarea manuală de către minori a greutăţilor care depăşesc normele maxime stabilite pentru ei.
+(1) Este interzisă utilizarea muncii persoanelor în vîrstă de pînă la 18 ani la lucrările cu condiţii de muncă grele, vătămătoare şi/sau periculoase, la lucrări subterane, precum şi la lucrări care pot să aducă prejudicii sănătăţii sau integrităţii morale a minorilor (jocurile de noroc, lucrul în localurile de noapte, producerea, transportarea şi comercializarea băuturilor alcoolice, a articolelor din tutun, a substanțelor stupefiante şi toxice). Nu se admite ridicarea şi transportarea manuală de către minori a greutăţilor care depăşesc normele maxime stabilite pentru ei.
+[Art.255 al.(1) modificat prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
 (2) Nomenclatorul lucrărilor cu condiţii de muncă grele, vătămătoare şi/sau periculoase la care este interzisă aplicarea muncii persoanelor în vîrstă de pînă la 18 ani, precum şi normele de solicitare maximă admise pentru persoanele în vîrstă de pînă la 18 ani la ridicarea şi transportarea manuală a greutăţilor, se aprobă de Guvern după consultarea patronatelor şi sindicatelor.
 Articolul 256. Interzicerea trimiterii în deplasare a
 salariaţilor în vîrstă de pînă la 18 ani
@@ -2534,7 +2595,8 @@ Articolul 318. Limitarea muncii în tură continuă
 (1) Nu se admite atragerea la munca în tură continuă a persoanelor în vîrstă de pînă la 18 ani, a femeilor gravide, precum şi a persoanelor cărora munca în tură continuă le este contraindicată conform certificatului medical.
 [Art.318 al.(1) modificat prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
 [Art.318 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-(2) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 6 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului, prevăzute la art.126 şi 127 alin.(2), cu munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în tură continuă numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în tură continuă.
+(2) Persoanele cu dizabilităţi severe şi accentuate, unul dintre părinţii (tutorele, curatorul) care au copii în vîrstă de pînă la 4 ani sau copii cu dizabilităţi, persoanele care îmbină concediile pentru îngrijirea copilului, prevăzute la art.126 şi 127 alin.(2), cu munca şi salariaţii care îngrijesc de un membru al familiei bolnav, în baza certificatului medical, pot presta munca în tură continuă numai cu acordul lor scris. Totodată, angajatorul este obligat să informeze în scris salariaţii menţionaţi despre dreptul lor de a refuza munca în tură continuă.
+[Art.318 al.(2) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.318 al.(2) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.318 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 319. Durata turei continue
@@ -2660,14 +2722,16 @@ Pentru prejudiciul cauzat angajatorului, salariatul poartă răspundere material
 Articolul 337. Răspunderea materială deplină a salariatului
 (1) Răspunderea materială deplină a salariatului constă în obligaţia lui de a repara integral prejudiciul material cauzat.
 (2) Salariatul poate fi tras la răspundere materială deplină pentru prejudiciul material cauzat doar în cazurile prevăzute la art.338.
-(3) Salariaţii în vîrstă de pînă la 18 ani poartă răspundere materială deplină doar pentru cauzarea intenţionată a prejudiciului material, precum şi pentru prejudiciul cauzat în stare de ebrietate alcoolică, narcotică ori toxică, stabilită în modul prevăzut la art.76 lit.k), sau în urma comiterii unei infracţiuni.
+(3) Salariaţii în vîrstă de pînă la 18 ani poartă răspundere materială deplină doar pentru cauzarea intenţionată a prejudiciului material, precum şi pentru prejudiciul cauzat în stare de ebrietate alcoolică, în stare cauzată de substanțe stupefiante sau toxice, stabilită în modul prevăzut la art.76 lit.k), sau în urma comiterii unei infracţiuni.
+[Art.337 al.(3) modificat prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
 Articolul 338. Cazurile de răspundere materială
 deplină a salariatului
 (1) Salariatul poartă răspundere materială în mărimea deplină a prejudiciului material cauzat din vina lui angajatorului în cazurile cînd:
 a) între salariat şi angajator a fost încheiat un contract de răspundere materială deplină pentru neasigurarea integrităţii bunurilor şi altor valori care i-au fost transmise pentru păstrare sau în alte scopuri (art.339);
 b) salariatul a primit bunurile şi alte valori spre decontare în baza unei procuri unice sau în baza altor documente unice;
 c) prejudiciul a fost cauzat în urma acţiunilor sale culpabile intenţionate, stabilite prin hotărîre judecătorească;
-d) prejudiciul a fost cauzat de un salariat aflat în stare de ebrietate alcoolică, narcotică sau toxică, stabilită în modul prevăzut la art.76 lit.k);
+d) prejudiciul a fost cauzat de un salariat aflat în stare de ebrietate alcoolică, în stare cauzată de substanțe stupefiante sau toxice, stabilită în modul prevăzut la art.76 lit.k);
+[Art.338 al.(1), lit.d) modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
 e) prejudiciul a fost cauzat prin lipsă, distrugere sau deteriorare intenţionată a materialelor, semifabricatelor, produselor (producţiei), inclusiv în timpul fabricării lor, precum şi a instrumentelor, aparatelor de măsurat, tehnicii de calcul, echipamentului de protecţie şi a altor obiecte pe care unitatea le-a eliberat salariatului în folosinţă;
 f) în conformitate cu legislaţia în vigoare, salariatului îi revine răspunderea materială deplină pentru prejudiciul cauzat angajatorului în timpul îndeplinirii obligaţiilor de muncă;
 g) prejudiciul a fost cauzat în afara exerciţiului funcţiunii.
