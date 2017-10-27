@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP185 din 21.09.17, MO371-382/27.10.17 art.632; în vigoare 27.10.17
 LP188 din 21.09.17, MO364-370/20.10.17 art.622
 LP155 din 20.07.17, MO316-321/25.08.17 art.548
 LP157 din 20.07.17, MO301-315/18.08.17 art.527
@@ -181,8 +182,6 @@ f) la informarea deplină și veridică privind condițiile de activitate, anter
 f1) la informarea și consultarea privind situația economică a unității, securitatea și sănătatea în muncă și privind alte chestiuni ce țin de funcționarea unității, în conformitate cu prevederile prezentului cod;
 [Art.9 al.(1), lit.f1) introdusă prin LP155 din 20.07.17, MO316-321/25.08.17 art.548]
 g) la adresare către angajator, patronate, sindicate, organele administraţiei publice centrale şi locale, organele de jurisdicţie a muncii;
-g1) să informeze de îndată angajatorul sau conducătorul nemijlocit despre imposibilitatea de a se prezenta la serviciu și să prezinte, în termen de 5 zile lucrătoare după reluarea activității de muncă, documentele care justifică absența;
-[Art.9 al.(1), lit.f1) introdusă prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 h) la formare profesională, reciclare şi perfecţionare, în conformitate cu prezentul cod şi cu alte acte normative;
 i) la libera asociere în sindicate, inclusiv la constituirea de organizaţii sindicale şi aderarea la acestea pentru apărarea drepturilor sale de muncă, a libertăţilor şi intereselor sale legitime;
 j) la participare în administrarea unităţii, în conformitate cu prezentul cod şi cu contractul colectiv de muncă;
@@ -206,7 +205,9 @@ d2) să respecte dreptul la demnitate în muncă al celorlalţi salariaţi;
 [Art.9 al.(1), lit.d2) introdusă prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 e) să respecte cerinţele de securitate şi sănătate în muncă;
 f) să manifeste o atitudine gospodărească faţă de bunurile angajatorului şi ale altor salariaţi;
-g) să informeze de îndată angajatorul sau conducătorul nemijlocit despre orice situaţie care prezintă pericol pentru viaţa şi sănătatea oamenilor sau pentru integritatea patrimoniului angajatorului.
+g) să informeze de îndată angajatorul sau conducătorul nemijlocit despre orice situaţie care prezintă pericol pentru viaţa şi sănătatea oamenilor sau pentru integritatea patrimoniului angajatorului;
+g1) să informeze de îndată angajatorul sau conducătorul nemijlocit despre imposibilitatea de a se prezenta la serviciu și să prezinte, în termen de 5 zile lucrătoare după reluarea activității de muncă, documentele care justifică absența;
+[Art.9 al.(1), lit.f1) introdusă prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 h) să achite contribuţiile de asigurări sociale de stat obligatorii şi primele de asigurare obligatorie de asistenţă medicală în modul stabilit;
 [Art.9 al.(2), lit.h) introdusă prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 i) să îndeplinească alte obligaţii prevăzute de legislaţia în vigoare, de contractul colectiv de muncă şi de convenţiile colective.
@@ -2204,7 +2205,7 @@ Articolul 247. Garanţii la angajare pentru femeile
 gravide şi persoanele cu copii în vîrstă
 de pînă la 4 ani
 [Art.247 denumirea modificată prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
-(1) Refuzul de angajare sau reducerea cuantumului salariului pentru motive de graviditate sau de existenţă a copiilor în vîrstă de pînă la 6 ani este interzis. Refuzul de angajare a unei femei gravide sau a unei persoane cu copil în vîrstă de pînă la 4 ani din alte cauze trebuie să fie motivat, angajatorul informînd în scris persoana în cauză în decurs de 5 zile calendaristice de la data înregistrării în unitate a cererii de angajare. Refuzul de angajare poate fi atacat în instanţa de judecată.
+(1) Refuzul de angajare sau reducerea cuantumului salariului pentru motive de graviditate sau de existenţă a copiilor în vîrstă de pînă la 4 ani este interzis. Refuzul de angajare a unei femei gravide sau a unei persoane cu copil în vîrstă de pînă la 4 ani din alte cauze trebuie să fie motivat, angajatorul informînd în scris persoana în cauză în decurs de 5 zile calendaristice de la data înregistrării în unitate a cererii de angajare. Refuzul de angajare poate fi atacat în instanţa de judecată.
 [Art.247 al.(1) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.247 al.(2) exclus prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 Articolul 248. Lucrările la care este interzisă utilizarea
@@ -2963,23 +2964,21 @@ SUPRAVEGHEREA ŞI CONTROLUL ASUPRA
 RESPECTĂRII LEGISLAŢIEI MUNCII
 Capitolul I
 ORGANELE DE SUPRAVEGHERE ŞI CONTROL
-Articolul 371. Organele de supraveghere şi control
-asupra respectării legislaţiei muncii şi
-a altor acte normative ce conţin norme
-ale dreptului muncii
-Supravegherea şi controlul asupra respectării actelor legislative şi a altor acte normative ce conţin norme ale dreptului muncii, a contractelor colective de muncă şi convenţiilor colective la toate unităţile sînt exercitate de:
+Articolul 371. Organele de supraveghere şi control asupra
+respectării legislaţiei muncii şi a altor acte
+normative ce conţin norme ale dreptului muncii
+Supravegherea şi controlul asupra respectării actelor legislative şi altor acte normative ce conţin norme ale dreptului muncii, a convențiilor colective și contractelor colective de muncă la toate unităţile sînt exercitate de:
 a) Inspectoratul de Stat al Muncii;
-b) Serviciul Sanitaro-Epidemiologic de Stat;
-c) Ministerul Economiei;
-[Art.371 lit.c) în redacția LP109 din 04.06.10, MO131-134/30.07.10 art.443]
-d) Serviciul Protecţiei Civile şi Situaţiilor Excepţionale;
-e) alte organe abilitate cu funcţii de supraveghere şi control în conformitate cu legea;
-[Art.371 lit.e) modificată prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
-f) sindicate.
+b) autorităţile competente în domeniul siguranţei ocupaţionale, conform Legii nr. 131/2012 privind controlul de stat asupra activităţii de întreprinzător;
+c) sindicate.
+[Art.371 în redacția LP185 din 21.09.17, MO371-382/27.10.17 art.632; în vigoare 27.10.17]
+[Art.371 modificat prin LP109 din 04.06.10, MO131-134/30.07.10 art.443]
+[Art.371 modificată prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
 Capitolul II
 SUPRAVEGHEREA ŞI CONTROLUL DE STAT
 Articolul 372. Inspectoratul de Stat al Muncii
-(1) Inspectoratul de Stat al Muncii este autoritate administrativă, subordonată Ministerului Muncii şi Protecţiei Sociale, care exercită controlul de stat asupra respectării actelor legislative şi a altor acte normative ce conţin norme ale dreptului muncii, a convenţiilor colective şi a contractelor colective de muncă la toate unităţile, de către angajatori persoane fizice, precum şi în autorităţile publice centrale şi locale.
+(1) Inspectoratul de Stat al Muncii este autoritate administrativă, subordonată Ministerului Muncii şi Protecţiei Sociale, care exercită controlul de stat asupra respectării actelor legislative şi a altor acte normative ce conţin norme ale dreptului muncii, cu excepția legislației privind securitatea și sănătatea în muncă, a convenţiilor colective şi a contractelor colective de muncă la toate unităţile, de către angajatori persoane fizice, precum şi în autorităţile publice centrale şi locale.
+[Art.372 al.(1) modificat prin LP185 din 21.09.17, MO371-382/27.10.17 art.632; în vigoare 27.10.17]
 [Art.372 al.(1) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
 [Art. 372 al.(1) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (11) Modul, condiţiile şi procedura efectuării la unităţi a controlului prevăzut la alin.(1) se stabilesc expres în lege.
