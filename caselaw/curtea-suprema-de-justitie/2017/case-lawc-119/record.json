@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-1408/17, din 19.11.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 119,
+  "number": "3ra-1408/17",
+  "decision_date": "2017-11-19",
+  "decision_date_source_quote": "19 noiembrie 2017",
+  "record_date": "2017-11-19",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=119",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=119",
+  "source_sha256": "01ea4ce8a5855fcf4418a33aaebe63346c7596068348acf0b789c98dbd2503f4",
+  "pdf_pages": 6,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2046,
+    "pdftotext_words": 2034,
+    "common_ratio": [
+      0.9927,
+      0.9985
+    ]
+  },
+  "first_law": null
+}
