@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Plenul Colegiului penal), nr. 4-1re-266/2017, din 07.12.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "plen_penal",
+  "database_label": "Plenul Colegiului penal",
+  "source_id": 1438,
+  "number": "4-1re-266/2017",
+  "decision_date": "2017-12-07",
+  "decision_date_source_quote": "07 decembrie 2017",
+  "record_date": "2017-12-07",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_plen_penal.php?id=1438",
+  "listing": "http://jurisprudenta.csj.md/db_plen_penal.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_plen_penal.php?id=1438",
+  "source_sha256": "0ad78368401f38442230624b734c17c5f7d951dfe8fe6bf3f806cb9c7ee13e15",
+  "pdf_pages": 19,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "database of decisions about individual persons (penal / CSM contestations)",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 8660,
+    "pdftotext_words": 8660,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
