@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2r-868/17, din 13.12.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 123,
+  "number": "2r-868/17",
+  "decision_date": "2017-12-13",
+  "decision_date_source_quote": "13 decembrie 2017",
+  "record_date": "2017-12-13",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=123",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=123",
+  "source_sha256": "7b0fc14759f52dd4122031e0564e517792bcfa4cb6476b4349c07216cabbc564",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "text contains an unmasked personal identifier, birth date or address",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 3283,
+    "pdftotext_words": 3265,
+    "common_ratio": [
+      0.9936,
+      0.9991
+    ]
+  },
+  "first_law": null
+}
