@@ -1,0 +1,30 @@
+{
+  "title": "Hotărîrea explicativă a Plenului CSJ (Hotărîrile explicative ale Plenului), nr. 40, din 18.12.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "hot_expl",
+  "database_label": "Hotărîrile explicative ale Plenului",
+  "source_id": 307,
+  "number": "40",
+  "decision_date": "2017-12-18",
+  "decision_date_source_quote": "18 decembrie 2017",
+  "record_date": "2017-12-18",
+  "in_force": "2017-12-18",
+  "source": "http://jurisprudenta.csj.md/search_hot_expl.php?id=307",
+  "listing": "http://jurisprudenta.csj.md/db_hot_expl.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_hot_expl.php?id=307",
+  "source_sha256": "c68c01c0a7f3af207717330d7cd7197dee8292a0c8b398f8d6c4034700fc5f34",
+  "pdf_pages": 3,
+  "record_type": "court-decision",
+  "text_status": "official-pdf-text-layer",
+  "privacy_basis": null,
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 758,
+    "pdftotext_words": 758,
+    "common_ratio": [
+      1.0,
+      1.0
+    ]
+  },
+  "first_law": null
+}
