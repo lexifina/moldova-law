@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2ra-2183/17, din 20.12.2017",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 124,
+  "number": "2ra-2183/17",
+  "decision_date": "2017-12-20",
+  "decision_date_source_quote": "20 decembrie 2017",
+  "record_date": "2017-12-20",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=124",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=124",
+  "source_sha256": "187eece02d868573a19aed914f2460f4d324d6237ba1d0dee35af8436a9f6a9c",
+  "pdf_pages": 9,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 4197,
+    "pdftotext_words": 4183,
+    "common_ratio": [
+      0.9955,
+      0.9988
+    ]
+  },
+  "first_law": null
+}
