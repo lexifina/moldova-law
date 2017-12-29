@@ -14,6 +14,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17
 LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17
 HCC22 din 27.06.17, MO352-355/29.09.17 art.92; în vigoare 27.06.17
 LP164 din 20.07.17, MO277-288/04.08.17 art.485
@@ -2971,7 +2972,8 @@ f) cu obţinerea unui profit în proporţii deosebit de mari
 se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.241 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 2411. Practicarea ilegală a activităţii financiare
-(1) Practicarea activităţii financiare fără înregistrare şi fără autorizare în modul prevăzut de legislaţie
+(1) Practicarea activităţii financiare fără înregistrare şi/sau fără autorizare (licenţiere), în modul prevăzut de legislaţie, dacă aceasta a cauzat daune în proporţii mari
+[Art.2411 al.(1) dispoziția modificată prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepseşte cu amendă în mărime de la 500 la 750 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
 [Art.2411 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune care a cauzat daune în proporţii deosebit de mari
@@ -3042,8 +3044,10 @@ se pedepseşte cu amendă în mărime de la 1350 la 2350 de unităţi convenţio
 se pedepseşte cu amendă în mărime de la 2350 la 3350 de unităţi convenţionale sau cu închisoare de pînă la 3 ani.
 [Art.2441 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2441 introdus prin LP206 din 21.10.11, MO197-202/18.11.11 art.571]
-Articolul 245. Abuzurile la emiterea titlurilor de valoare
-(1) Includerea în prospectul emisiei sau în alte documente, în temeiul cărora se înregistrează emisia titlurilor de valoare, a informaţiilor neautentice sau care pot induce în eroare, aprobarea cu bună-ştiinţă a prospectului emisiei care conţine informaţii neautentice sau care pot induce în eroare, precum şi aprobarea rezultatelor emisiei vădit neautentice, dacă aceste acţiuni au cauzat daune în proporţii mari,
+Articolul 245. Abuzurile la emiterea instrumentelor financiare
+[Art.245 titlul modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
+(1) Includerea în prospectul emisiei sau în alte documente, în temeiul cărora se înregistrează emisia instrumentelor financiare, a informaţiilor neautentice sau care pot induce în eroare, aprobarea cu bună-ştiinţă a prospectului emisiei care conţine informaţii neautentice sau care pot induce în eroare, precum şi aprobarea rezultatelor emisiei vădit neautentice, dacă aceste acţiuni au cauzat daune în proporţii mari,
+[Art.245 al.(1) dispoziția modificată prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepsesc cu amendă în mărime de la 3000 la 6000 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.245 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni:
@@ -3052,11 +3056,14 @@ b) săvîrşite de două sau mai multe persoane;
 c) care au cauzat daune în proporţii deosebit de mari
 se pedepsesc cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.245 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2451. Manipularea pe piaţa valorilor mobiliare
-(1) Acţiunile de manipulare, în proporţii mari, pe piaţa valorilor mobiliare prin:
-a) tranzacţii sau ordine de tranzacţionare care oferă sau pot oferi informaţii false sau care induc în eroare în legătură cu cererea, oferta sau preţul valorilor mobiliare; care menţin, prin acţiunea unei sau a mai multor persoane ce activează împreună, preţul unuia sau al mai multor valori mobiliare la un nivel anormal ori artificial;
-b) tranzacţii sau ordine de tranzacţionare care presupun procedee fictive sau orice altă formă de înşelăciune;
-c) difuzarea şi/sau răspîndirea, prin intermediul mijloacelor de informare în masă, inclusiv Internet sau prin orice alt mijloc, a informaţiilor care oferă sau pot oferi informaţii false sau care induc în eroare asupra valorilor mobiliare, inclusiv difuzarea şi/sau răspîndirea zvonurilor şi ştirilor false sau care induc în eroare,
+Articolul 2451. Manipularea pe piaţa de capital
+[Art.2451 titlul modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
+(1) Acţiunile de manipulare pe piaţa de capital prin cel puţin una dintre următoarele acţiuni, dacă aceasta a cauzat daune în proporţii mari:
+a) tranzacţii sau ordine de tranzacţionare care oferă sau pot oferi informaţii false ori care induc în eroare în ceea ce priveşte cererea, oferta sau preţul instrumentelor financiare, ori care, prin acţiunea uneia sau mai multor persoane ce activează în mod concertat, influenţează stabilirea preţului unuia sau mai multor instrumente financiare la un nivel anormal sau artificial;
+b) efectuarea de tranzacţii fictive sau prin înşelăciune;
+c) aplicarea de ordine de tranzacţionare fictive;
+d) difuzarea şi/sau răspîndirea, prin intermediul mijloacelor de informare în masă, inclusiv prin Internet sau prin orice alt mijloc, a informaţiilor ce oferă sau pot oferi indicaţii false despre instrumentele financiare, în cazul în care persoana care a difuzat informaţiile ştia ori trebuia să ştie că informaţiile în cauză sînt false,
+[Art.2451 al.(1) dispoziția în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepsesc cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 2 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 3000 la 5000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2451 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni care au cauzat daune în proporţii deosebit de mari,
@@ -3065,9 +3072,11 @@ se pedepsesc cu amendă în mărime de la 2350 la 3350 unităţi convenţionale 
 [Art.2451 în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 2452. Încălcarea legislaţiei la ţinerea
 registrului deţinătorilor de valori
-mobiliare
+mobiliare/unităţi de fond
+[Art.2452 titlul modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 [Art.2452 titlul în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-(1) Accesarea de către persoane neautorizate a sistemelor electronice de ţinere a registrului deţinătorilor de valori mobiliare, includerea intenţionată în registrul deţinătorilor de valori mobiliare a informaţiilor neautentice, denaturate, false, urmată de transferul dreptului de proprietate către o altă persoană, eliberarea de către deţinătorul de registru a listei acţionarilor în alte cazuri decît cele prevăzute de legislaţie, precum şi folosirea listei acţionarilor de către orice persoană în scopul achiziţionării sau vînzării de acţiuni ale societăţii, dacă aceste acţiuni au cauzat daune în proporţii mari.
+(1) Admiterea accesului persoanelor neautorizate la datele din conturile deţinătorilor de valori mobiliare/unităţi de fond şi/sau includerea intenţionată în conturile deţinătorilor de valori mobiliare/unităţi de fond a informaţiilor neautentice, denaturate, false, urmată de transferul dreptului de proprietate către o altă persoană şi/sau eliberarea de către entitatea care ține evidența deținătorilor de valori mobiliare a listei acţionarilor în alte cazuri decît cele prevăzute de legislaţie, și/sau refuzul de a elibera lista acţionarilor, extrasul de cont, şi/sau folosirea listei acţionarilor de către orice persoană în scopul achiziţionării sau înstrăinării de acţiuni ale societăţii, dacă aceste acţiuni au cauzat daune în proporţii mari,
+[Art.2452 al.(1) dispoziția în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 [Art.2452 al.(1) în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 se pedepseşte cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2452 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3081,13 +3090,16 @@ b) care a cauzat daune în proporţii deosebit de mari,
 se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2452 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 2453. Utilizarea abuzivă a informaţiilor
-privilegiate pe piaţa valorilor mobiliare
-(1) Utilizarea de către orice persoană a informaţiilor privilegiate cu intenţia de a dobîndi sau înstrăina, pe cont propriu sau pe contul unei terţe persoane, direct ori indirect, valori mobiliare la care aceste informaţii se referă, dacă aceste acţiuni au cauzat daune în proporţii mari,
+privilegiate pe piaţa de capital
+[Art.2453 titlul modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
+(1) Utilizarea de către orice persoană a informaţiilor privilegiate cu intenţia de a dobîndi sau înstrăina, pe cont propriu sau pe contul unei terţe persoane, direct ori indirect, instrumente financiare la care aceste informaţii se referă, dacă aceste acţiuni au cauzat daune în proporţii mari,
+[Art.2453 al.(1) dispoziția modificată prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepseşte cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu (sau fără) privarea de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 3000 la 5000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2453 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni:
-urmate de dobîndirea sau înstrăinarea de valori mobiliare;
+urmate de dobîndirea sau înstrăinarea de instrumente financiare;
 care au cauzat daune în proporţii deosebit de mari,
+[Art.2453 al.(2) dispoziția modificată prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepsesc cu amendă în mărime de la 1350 la 3350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2423 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2453 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
@@ -3105,37 +3117,37 @@ Articolul 2455. Refuzul intenţionat de a dezvălui şi/sau
 prezenta informaţiile prevăzute de legislaţia
 privind piaţa financiară nebancară sau
 bancară
-(1) Refuzul intenţionat de a dezvălui şi/sau prezenta informaţiile prevăzute de legislaţia privind piaţa financiară nebancară sau bancară, sau prezentarea intenţionată a unor informaţii neautentice, denaturate sau false, dacă aceste acţiuni au cauzat daune în proporţii mari,
+(1) Refuzul intenţionat de a dezvălui şi/sau a prezenta informaţii privind activitatea economico-financiară a societăţii pe acţiuni, deţinerile de acţiuni, rapoartele, declaraţiile, actele de constituire ori evenimentele care influenţează emitentul, informaţii a căror prezentare ori dezvăluire este obligatorie, sau prezentarea intenţionată a unor informaţii neautentice, denaturate ori false, dacă aceste acţiuni au cauzat daune în proporţii mari,
+[Art.2455 al.(1) dispoziția în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţionale, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale.
 [Art.2455 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni care au cauzat daune în proporţii deosebit de mari sau au condus la intentarea procesului de insolvabilitate,
 se pedepsesc cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2455 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2455 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 2456. Practicarea activităţilor profesioniste
-pe piaţa financiară nebancară fără
-licenţă
-(1) Practicarea activităţilor profesioniste pe piaţa financiară nebancară fără licenţă, dacă aceste acţiuni au cauzat daune în proporţii mari,
+Articolul 2456. Practicarea de activităţi pe piaţa financiară
+nebancară cu încălcarea condiţiilor de licenţiere
+(autorizare)
+[Art.2456 titlul în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
+(1) Nerespectarea de către participantul la piaţa financiară nebancară a condiţiilor de licenţiere (autorizare), a regulilor prudenţiale stabilite prin lege şi prin actele normative ale Comisiei Naţionale a Pieţei Financiare, dacă aceste acţiuni au cauzat daune în proporţii mari,
+[Art.2456 al.(1) dispoziția în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepseşte cu amendă în mărime de la 850 la 2350 unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2456 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(2) Aceleaşi acţiuni care au cauzat daune în proporţii deosebit de mari,
+(2) Aceleaşi acţiuni care au cauzat daune în proporţii deosebit de mari, sau au condus la intentarea procesului de insolvabilitate
+[Art.2456 al.(2) dispoziția modificată prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepsesc cu amendă în mărime de la 1350 la 3350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2456 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2456 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 2457. Încălcarea cerinţelor privind activitatea
-profesionistă pe piaţa financiară nebancară
-(1) Nerespectarea de către participantul profesionist la piaţa financiară nebancară a condiţiilor stabilite în licenţă, a regulilor prudenţiale stabilite prin lege şi prin actele normative ale Comisiei Naţionale a Pieţei Financiare, dacă aceste acţiuni au cauzat daune în proporţii mari,
-se pedepseşte cu amendă în mărime de la 850 la 2350 unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 5000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-[Art.2457 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(2) Aceleaşi acţiuni care au cauzat daune în proporţii deosebit de mari sau au condus la intentarea procesului de insolvabilitate,
-se pedepsesc cu amendă în mărime de la 1350 la 3350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-[Art.2457 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.2457 abrogat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
+[Art.2457 modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2457 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 2458. Încălcarea legislaţiei la desfăşurarea
-activităţii de estimare a valorilor
+activităţii de evaluare a valorilor
 mobiliare şi a activelor ce se referă
 la ele
-(1) Desfăşurarea activităţii de estimare a valorilor mobiliare şi a activelor ce se referă la ele cu încălcarea prevederilor legislaţiei, inclusiv acţiunile intenţionate ale estimatorului – participant profesionist la piaţa valorilor mobiliare de subestimare sau supraestimare a valorilor mobiliare, dacă aceste acţiuni au cauzat daune în proporţii mari,
+[Art.2458 titlul modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
+(1) Desfășurarea activității de evaluare a valorilor mobiliare și a activelor ce se referă la ele cu încălcarea cerințelor stabilite în legislație, dacă aceste acțiuni au cauzat daune în proporții mari,
+[Art.2458 al.(1) dispoziția în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepsesc cu amendă în mărime de la 850 la 2350 unităţi convenţionale cu (sau fără) privarea de dreptul de a deţine anumite funcţii sau de a desfăşura o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 3000 la 5000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2458 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni care au cauzat daune în proporţii deosebit de mari sau au condus la intentarea procesului de insolvabilitate,
