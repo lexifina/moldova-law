@@ -14,6 +14,7 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17
 LP178 din 21.07.17, MO301-315/18.08.17 art.537
 LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18
 LP66 din 13.04.17, MO171-180/02.06.17 art.297
@@ -1643,7 +1644,8 @@ a) cu scopul de a reduce capitalul social, prin anularea unui număr de acţiuni
 b) pentru cedarea către personalul şi acţionarii societăţii a unui număr de acţiuni proprii, în limitele şi în condiţiile aprobate de adunarea generală a acţionarilor;
 c) prin efectul succesiunii universale sau al fuziunii ori al unei hotărîri judecătoreşti pronunţate într-o procedură de urmărire silită împotriva unui debitor al societăţii;
 d) cu titlu gratuit;
-e) în scopul regularizării cursului acţiunilor proprii pe piaţa bursieră, în cazul în care acesta scade mai jos decît valoarea de piaţă a acţiunilor, numai cu avizul Comisiei Naţionale a Pieţei Financiare.
+e) în scopul regularizării cursului acţiunilor proprii pe piaţa reglementată şi/sau în cadrul unui sistem multilateral de tranzacţionare, în cazul în care acesta scade mai jos decît preţul echitabil al acţiunilor, stabilit în conformitate cu legislaţia privind piaţa de capital, numai cu avizul Comisiei Naţionale a Pieţei Financiare;
+[Art.162 al.(7), lit.e) în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 [Art.162 al.(7), lit.e) modificată prin LP130-XVI din 07.06.07, MO94-97/06.07.07 art.418]
 f) pentru răscumpărarea acţiunilor la cererea acţionarilor, în cazurile prevăzute de lege.
 [Art.162 al.(7) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
@@ -1654,10 +1656,14 @@ Articolul 163. Obligaţiunile
 (2) Valoarea nominală a tuturor obligaţiunilor plasate de societate nu trebuie să depăşească mărimea capitalului social.
 (3) Obligaţiunea acordă deţinătorului său dreptul la dobînda promisă de emitent, iar la sfîrşitul perioadei pentru care este emisă şi dreptul la valoarea nominală a acesteia. Obligaţiunile pot fi convertite în acţiuni.
 (4) Obligaţiunea nu poate fi emisă pentru o perioadă mai mică de un an.
-(5) Obligaţiunile se emit numai prin ofertă publică şi se achită numai cu mijloace băneşti. Achitarea în rate a obligaţiunii nu se admite.
+(5) Obligaţiunile se emit prin ofertă publică sau prin ofertă închisă şi se achită numai cu mijloace băneşti. Achitarea în rate a obligaţiunii nu se admite.
+[Art.163 al.(5) modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 [Art.163 al.(5) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 (6) Obligaţiunile nu pot fi plasate în scopul constituirii, întregirii sau majorării capitalului social.
-(7) Tipul obligaţiunilor, regimul juridic şi modul lor de circulaţie sînt reglementate de lege.
+(7) Tipul obligaţiunilor, regimul juridic şi modul lor de circulaţie sînt reglementate de legislaţia privind piaţa de capital.
+[Art.163 al.(7) modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
+(8) Emitentul care plasează obligaţiuni dezvăluie public informaţia despre societate în modul prevăzut de legislaţia privind piaţa de capital, pe toată perioada de circulaţie a obligaţiunilor.
+[Art.163 al.(8) introdus prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 Articolul 164. Registrul acţionarilor şi registrul deţinătorilor
 de obligaţiuni
 (1) Societatea emitentă de acţiuni şi obligaţiuni nominative ţine registrul deţinătorilor de acţiuni şi registrul deţinătorilor de obligaţiuni.
@@ -1697,7 +1703,8 @@ e) altor situaţii prevăzute de lege.
 (4) Acţionarul nu are dreptul să ceară răscumpărarea acţiunilor în cazul cînd s-a adoptat o hotărîre de dizolvare a societăţii.
 [Art.166 al.(4) în redacţia LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (5) Hotărîrea de răscumpărare a acţiunilor se adoptă de către adunarea generală a acţionarilor dacă actul de constituire nu atribuie această funcţie consiliului societăţii.
-(6) Acţiunile se răscumpără la preţul de piaţă dacă legea nu prevede altfel.
+(6) Acţiunile se răscumpără la preţul stabilit în conformitate cu legislaţia privind societăţile pe acţiuni.
+[Art.166 al.(6) modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 [Art.166 al.(6) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 Articolul 167. Drepturile suplimentare ale acţionarilor
 care deţin 5% din acţiuni
@@ -3043,7 +3050,8 @@ Articolul 456. Creditorul gajist şi debitorul gajist
 (2) Debitor gajist este proprietarul sau un alt posesor şi uzufructuar legal al bunurilor depuse în gaj care are dreptul de a înstrăina aceste bunuri.
 (3) Gajul poate fi constituit atît de debitorul obligaţiei garantate, cît şi de un terţ.
 Articolul 457. Obiectul gajului
-(1) Obiect al gajului (bun gajat) poate fi orice bun, inclusiv o universalitate de bunuri, titluri de valoare şi drepturi confirmate prin certificate de acţiuni.
+(1) Obiect al gajului (bun gajat) poate fi orice bun, inclusiv o universalitate de bunuri şi instrumente financiare, înregistrate conform legislaţiei, achitate pe deplin.
+[Art.457 al.(1) modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 (11) Tipul de mijloace băneşti care pot constitui obiect al gajului, precum şi particularităţile gajării mijloacelor băneşti se reglementează prin Legea cu privire la gaj.
 [Art.457 al.(11) introdus prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 (2) Nu pot constitui obiect al gajului bunurile retrase din circuitul civil, bunurile inalienabile sau insesizabile.
@@ -3122,7 +3130,8 @@ a) ipoteca se înregistrează, conform legislaţiei privind cadastrul bunurilor 
 [Art.470 al.(2), lit.a) în redacţia LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
 b) gajul de întreprinzător se înregistrează, în conformitate cu prezentul cod, la biroul notarial în a cărui rază teritorială se află întreprinderea;
 [Art.470 al.(2), lit.b) modificată prin LP163-XVI din 09.07.08, MO140-142/01.08.08 art.574]
-c) gajul valorilor mobiliare nominative se înscrie în registrul deţinătorilor de valori mobiliare nominative (în cazul în care evidenţa valorilor mobiliare se ţine în registru) şi/sau în documentele de evidenţă ale deţinătorului nominal (în cazul în care evidenţa valorilor mobiliare se ţine de către deţinătorul nominal);
+c) gajul valorilor mobiliare se înregistrează conform legislaţiei cu privire la gaj;
+[Art.470 al.(2), lit.c) în redacţia LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 [Art.470 al.(2), lit.c) în redacţia LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 d) gajul titlurilor de valoare ale statului se înscrie în registrul deţinătorilor titlurilor de valoare ale statului;
 e) gajul celorlalte bunuri mobile se înscrie în registrul gajului bunurilor mobile;
@@ -3226,7 +3235,8 @@ grevat cu gaj
 (3) Dobînditor de bună-credinţă este prezumată persoana care:
 a) dobîndeşte bunuri grevate cu gaj sub formă de mărfuri care se află în circulaţie şi în proces de prelucrare;
 b) dobîndeşte bunuri grevate cu gaj, a căror vînzare la licitaţie a fost anunţată în mijloacele de informare în masă, cu excepţia bunurilor imobile şi a drepturilor asupra bunurilor imobile;
-c) dobîndeşte documente de plată, conosamente, acţiuni, titluri de creanţă, valori mobiliare grevate cu gaj cotate la bursă.
+c) dobîndeşte documente de plată, conosamente, acţiuni, titluri de creanţă, valori mobiliare grevate cu gaj.
+[Art.486 al.(3), lit.c) modificată prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 (4) Legea poate prevedea şi alte cazuri de recunoaştere a dobînditorului de bună-credinţă.
 S e c ţ i u n e a a 5-a
 EXERCITAREA DREPTULUI DE GAJ
