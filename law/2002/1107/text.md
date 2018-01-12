@@ -14,9 +14,10 @@ Publicat : 22.06.2002
 Nr. 82-86
 art Nr : 661
 MODIFICAT
+LP304 din 21.12.17, MO7-17/12.01.18 art.64; în vigoare 12.01.18
 LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17
 LP178 din 21.07.17, MO301-315/18.08.17 art.537
-LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18
+LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.07.18
 LP66 din 13.04.17, MO171-180/02.06.17 art.297
 LP80 din 05.05.17, MO162-170/26.05.17 art.284
 LP211 din 29.07.16, MO338-341/30.09.16 art.698
@@ -219,11 +220,13 @@ judiciară
 (1) În condiţiile prezentului cod, în privința persoanei fizice care, în urma unei boli mintale ori a unei deficienţe fizice, mintale sau psihologice, nu poate, în mod deplin, conştientiza acţiunile sale ori exprima voinţa poate fi instituită, prin hotărîre judecătorească, măsura de ocrotire judiciară sub forma curatelei, a ocrotirii provizorii sau a tutelei.
 (2) În toate situaţiile, persoana în privința căreia a fost instituită o măsură de ocrotire judiciară este în drept să încheie de sine stătător actele juridice prevăzute la art. 22 alin. (2).
 [Art.24 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
-Articolul 25. Limitarea persoanei fizice în capacitatea de
-exerciţiu
-(1) Persoana care, în urma consumului abuziv de alcool sau consumului de droguri şi de alte substanţe psihotrope, înrăutăţeşte starea materială a familiei sale poate fi limitată de către instanţa de judecată în capacitatea de exerciţiu. Asupra acestei persoane se instituie curatela.
-(2) Persoana indicată la alin.(1) are dreptul să încheie acte juridice cu privire la dispunerea de patrimoniu, să primească şi să dispună de salariu, de pensie sau de alte tipuri de venituri doar cu acordul curatorului.
-(3) Dacă au dispărut temeiurile în care persoana fizică a fost limitată în capacitatea de exerciţiu, instanţa de judecată anulează limitarea. În baza hotărîrii judecătoreşti, curatela asupra ei se anulează.
+Articolul 25. Ineficienţa actului juridic la care este parte
+un minor sau o persoană supusă unei măsuri
+de ocrotire judiciare, încheiat fără încuviințarea
+ori autorizarea necesară
+(1) Actul juridic la care este parte un minor care a împlinit vîrsta de 14 ani și care nu are capacitate deplină de exercițiu sau o persoană în privinţa căreia este instituită o măsură de ocrotire judiciară, încheiat fără încuviinţarea părintelui, a adoptatorului, a curatorului, a tutorelui ori a altui ocrotitor sau fără autorizarea consiliului de familie ori a instanţei de judecată, necesare potrivit legii, nu produce efecte juridice decît după încuviinţarea sau, după caz, autorizarea corespunzătoare.
+(2) Persoana cu capacitate deplină de exerciţiu este obligată să repare prejudiciul cauzat celeilalte părţi dacă se demonstrează că a ştiut sau trebuia să ştie despre temeiul de ineficienţă.
+(3) După ce minorul sau persoana supusă unei măsuri de ocrotire judiciare a dobîndit capacitate deplină de exerciţiu, actul juridic încheiat în condițiile alin. (1) produce efecte juridice doar dacă este confirmat de acesta.
 [Art.25 în redacția LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 Articolul 26. Activitatea de întreprinzător a persoanei
 fizice
@@ -1593,7 +1596,7 @@ c) numărul, tipul şi valoarea nominală a acţiunilor; clasele de acţiuni şi
 d) mărimea aportului şi numărul de acţiuni atribuit fiecărui fondator;
 [Art.157 lit.e) exclusă prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 f) modul de ţinere a registrelor societăţii;
-[Art.157 lit.f) abrogată prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
+[Art.157 lit.f) abrogată prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.07.18]
 g) ordinea de încheiere a contractelor cu conflict de interese.
 Articolul 158. Capitalul social al societăţii pe acţiuni
 (1) Mărimea minimă a capitalului social al societăţii pe acţiuni este stabilită prin lege.
@@ -1620,7 +1623,7 @@ Articolul 161. Acţiunile
 [Art.161 al.(2) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (3) Societăţile pe acţiuni sînt în drept să emită acţiuni nominative. Clasele acţiunilor sînt determinate prin actul de constituire. Acţiunile nominative pot fi emise în formă materială, pe suport de hîrtie, sau în formă dematerializată, prin înscriere în cont.
 (3) Societăţile pe acţiuni sînt în drept să emită acţiuni nominative. Clasele acţiunilor sînt determinate prin actul de constituire. Acţiunile nominative pot fi emise în formă dematerializată, prin înscriere în cont.
-[Art.161 al.(3) modificat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
+[Art.161 al.(3) modificat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.07.18]
 [Art.161 al.(3) în redacţia LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (4) Acţiunile nu pot fi emise pentru o sumă mai mică decît valoarea lor nominală.
 (5) Nu pot fi emise acţiuni noi pînă cînd nu sînt plătite cele din emisiunea precedentă.
@@ -1678,14 +1681,14 @@ c) numărul de acţiuni sau obligaţiuni, tipul, clasa şi valoarea nominală a 
 d) data la care fiecare acţionar sau deţinător de obligaţiuni a dobîndit sau a înstrăinat acţiuni sau obligaţiuni.
 [Art.164 al.(3) modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 (4) Registrul trebuie să aibă o rubrică specială în care se menţionează sechestrul, gajul sau o altă grevare a acţiunilor sau obligaţiunilor fiecărui acţionar sau deţinător de obligaţiuni.
-[Art.164 abrogat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
+[Art.164 abrogat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.07.18]
 [Art.164 modificat prin LP90 din 29.05.14, MO169-173/27.06.14 art.379]
 [Art.164 modificată prin LP130-XVI din 07.06.07, MO94-97/06.07.07 art.418]
 [Art.164 modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 Articolul 165. Certificatul de acţiuni sau obligaţiuni
 (1) Societatea pe acţiuni este obligată să elibereze certificate de acţiuni sau de obligaţiuni deţinătorilor de acţiuni sau de obligaţiuni materializate.
 (2) Certificatul confirmă că persoana căreia îi este eliberat deţine un anumit număr de acţiuni sau de obligaţiuni ale societăţii emitente.
-[Art.165 abrogat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
+[Art.165 abrogat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.07.18]
 [Art.165 modificat prin LP250-XVI din 22.11.07, MO37-39/22.02.08 art.102]
 Articolul 166. Dreptul de înstrăinare a acţiunii şi obligaţia
 de răscumpărare
@@ -1728,7 +1731,7 @@ societăţii pe acţiuni
 (1) Societatea pe acţiuni este obligată să publice, cu cel puţin 10 zile înainte de ţinerea adunării generale anuale a acţionarilor, în publicaţiile sale bilanţul contabil anual, bilanţul profitului şi pierderilor, valoarea contabilă a acţiunilor şi a obligaţiunilor, alte date, conform legii.
 (2) Societatea pe acţiuni este obligată să pună la dispoziţia acţionarilor, în condiţiile legii şi ale actului de constituire, informaţii despre conducerea, administrarea şi reprezentarea societăţii, despre situaţia financiară şi altele, inclusiv actul de constituire, certificatul de înregistrare a societăţii şi a acţiunilor, regulamentele societăţii, procesele-verbale ale adunărilor generale, ale consiliului, lista membrilor consiliului, a administratorilor, contractele cu registratorul, cu auditorul, dările de seamă contabile şi fiscale, rapoartele cenzorului.
 (2) Societatea pe acţiuni este obligată să pună la dispoziţia acţionarilor, în condiţiile legii şi ale actului de constituire, informaţii despre conducerea, administrarea şi reprezentarea societăţii, despre situaţia financiară şi altele, inclusiv actul de constituire, certificatul de înregistrare a societăţii şi a acţiunilor, regulamentele societăţii, procesele-verbale ale adunărilor generale, ale consiliului, lista membrilor consiliului, a administratorilor, contractele cu auditorul, dările de seamă contabile şi fiscale, rapoartele cenzorului.
-[Art.170 al.(2) modificat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
+[Art.170 al.(2) modificat prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.07.18]
 (3) La cererea acţionarilor, societatea este obligată să elibereze, pe cheltuiala solicitanţilor, copii şi extrase de pe documentele indicate la alin.(2).
 S e c ţ i u n e a a 3-a
 COOPERATIVELE
@@ -6415,7 +6418,14 @@ anticipate a creditului
 (1) Dacă debitorul rambursează creditul înainte de scadenţă, creditorul este în drept să ceară reparaţia prejudiciului cauzat prin rambursare anticipată cu deducerea sumelor economisite, luîndu-se în considerare creditul ce s-ar fi putut acorda din contul acestor mijloace. La calcularea prejudiciului, se ţine cont atît de venitul ratat al creditorului, cît şi de cheltuielile evitate de debitor prin rambursarea înainte de termen a creditului.
 (2) În cazul contractelor de credit pentru consumatori, prejudiciul se repară prin compensare, a cărei mărime se stabileşte prin Legea privind contractele de credit pentru consumatori.
 [Art.1245 al.(2) introdus prin LP203 din 12.07.13, MO191-197/06.09.13 art.621, în vigoare 06.03.14; alineatul unic devine al.(1)]
-S e c ţ i u n e a a 4-a
+Articolul 12451. Cesiunea contractului de credit
+(1) Creditorul poate cesiona contractul de credit bancar unei bănci cu sediul sau sucursală în Republica Moldova fără acordul celeilalte părţi contractante. Concomitent cu cesiunea contractului de credit bancar, creditorul poate cesiona, total sau parţial, şi garanţiile şi alte drepturi accesorii constituite în legătură cu obligaţiile asumate prin contractul de credit bancar, fără acordul celeilalte părţi contractante şi/sau al terţilor care le-au constituit.
+(2) Cesionarul se subrogă în drepturile şi obligaţiile cedentului ce decurg din contractul de credit bancar, din garanţiile şi din alte drepturi accesorii cedate împreună cu acesta, în forma în care se aflau la data substituirii părţii contractante. Creditorul iniţial este liberat de obligaţiile sale faţă de contractantul cedat din momentul notificării substituirii conform alin. (4) din prezentul articol.
+(3) Partea contractantă cedată are dreptul să invoce împotriva cesionarului orice mijloc de apărare la care putea recurge împotriva creditorului iniţial.
+(4) Pentru opozabilitate, creditorul cedent va informa cu privire la cesiune cealaltă parte contractantă şi terţii care au constituit garanţii şi alte drepturi accesorii în legătură cu obligaţiile asumate prin contractul de credit bancar, în termen de 10 zile calendaristice de la încheierea contractului de cesiune, prin scrisoare recomandată cu confirmare de primire.
+(5) Prezentul articol nu se aplică contractelor care au ca obiect doar cesiunea de creanţă sau doar preluarea datoriei, în cazul acestora fiind aplicabile dispoziţiile art. 556–571 din prezentul cod.
+(6) Cesiunea contractului de credit bancar nu poate aduce atingere drepturilor debitorului și nu poate face obligația acestuia mai oneroasă.
+[Art.12451 introdus prin LP304 din 21.12.17, MO7-17/12.01.18 art.64; în vigoare 12.01.18]S e c ţ i u n e a a 4-a
 GARANŢIA BANCARĂ
 Articolul 1246. Garanţia bancară
 (1) Garanţia bancară este un angajament scris, asumat de o bancă sau de o altă instituţie financiară (garant), la cererea unei alte persoane (ordonator), de a plăti creditorului ordonatorului (beneficiarului) o sumă de bani în baza cererii scrise a beneficiarului.
@@ -7903,7 +7913,7 @@ c) dacă un drept de proprietate sau alt drept al unei persoane cu privire la ga
 d) formalităţile cerute pentru executarea garanţiei financiare constituite sub formă de instrumente financiare în formă de înscriere în cont, ca urmare a apariţiei unei cauze care determină executarea garanţiei.
 [Art.1606 al.(4) introdus prin LP185 din 22.07.16, MO306-313/16.09.16 art.655; în vigoare 16.03.17]
 (5) Prevederile alin. (1)–(4) se aplică, în măsura în care nu contravin Legii nr. 184/2016 cu privire la contractele de garanție financiară, în cazul în care contractele de garanție financiară au fost încheiate între subiecții stabiliți la art. 3 din legea menționată.
-[Art.1606 al.(5) introdus prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.03.18]
+[Art.1606 al.(5) introdus prin LP58 din 06.04.17, MO119-126/14.04.17 art.197; în vigoare 30.07.18]
 Articolul 1607. Drepturile personale nepatrimoniale
 (1) Dobîndirea, conţinutul şi stingerea dreptului de autor asupra unei opere de creaţie sînt guvernate de legea statului pe al cărui teritoriu această operă a fost adusă pentru prima dată la cunoştinţa publicului prin expunere, difuzare, publicare, reprezentare sau în orice alt mod.
 (2) Dreptul de autor asupra unei opere de creaţie care nu a fost adus la cunoştinţa publicului este guvernat de legea naţională a autorului.
