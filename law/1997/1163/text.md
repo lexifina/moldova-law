@@ -15,6 +15,8 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP295 din 21.12.17, MO7-17/12.01.18 art.58; în vigoare 12.01.18
+LP288 din 15.12.17, MO464-470/29.12.17 art.808; în vigoare 01.01.18
 LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17
 LP185 din 21.09.17, MO371-382/27.10.17 art.632; în vigoare 27.10.17
 LP178 din 21.07.17, MO301-315/18.08.17 art.537
