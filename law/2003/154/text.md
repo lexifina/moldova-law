@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP305 din 21.12.17, MO7-17/12.01.18 art.66
 LP185 din 21.09.17, MO371-382/27.10.17 art.632; în vigoare 27.10.17
 LP188 din 21.09.17, MO364-370/20.10.17 art.622
 LP155 din 20.07.17, MO316-321/25.08.17 art.548
@@ -679,6 +680,7 @@ c) documentele de evidenţă militară – pentru recruţi şi rezervişti;
 d) diploma de studii, certificatul de calificare ce confirmă pregătirea specială – pentru profesiile care cer cunoştinţe sau calităţi speciale;
 e) certificatul medical, în cazurile prevăzute de legislaţia în vigoare;
 f) declaraţia pe propria răspundere cu privire la faptul că, pe durata activităţii la locurile de muncă precedente, nu a încălcat prevederile art. 6 alin. (2) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituționale, cu excepţia cazurilor cînd persoana se încadrează în cîmpul muncii pentru prima dată.
+[Art.57 al.(1), lit.f) modificată prin LP305 din 21.12.17, MO7-17/12.01.18 art.66]
 [Art.57 al.(1), lit.f) introdusă prin LP102 din 21.07.16, MO256-267/12.08.16 art.547; în vigoare 12.11.16]
 (2) Se interzice angajatorilor să ceară de la persoanele care se angajează alte documente decît cele prevăzute la alin.(1), precum şi de alte acte legislative.
 [Art.57 al.(2) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
@@ -989,7 +991,8 @@ j) săvîrșirea unei contravenții sau infracțiuni contra patrimoniului unită
 [Art.86 al.(1), lit.j) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 k) comiterea de către salariatul care gestionează nemijlocit mijloace băneşti sau valori materiale ori care are acces la sistemele informaționale ale angajatorului (sisteme de colectare și gestiune a informației) sau la cele administrate de angajator a unor acţiuni culpabile, dacă aceste acţiuni pot servi drept temei pentru pierderea încrederii angajatorului faţă de salariatul respectiv;
 [Art.86 al.(1), lit.k) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
-k1) încălcarea obligației prevăzute la art. 6 alin. (2) lit. a) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale;
+k1) încălcarea obligației prevăzute la art. 7 alin. (2) lit. a) din Legea nr. 325 din 23 decembrie 2013 privind evaluarea integrităţii instituţionale;
+[Art.86 al.(1), lit.k1) modificată prin LP305 din 21.12.17, MO7-17/12.01.18 art.66]
 [Art.86 al.(1), lit.k1) introdusă prin LP102 din 21.07.16, MO256-267/12.08.16 art.547; în vigoare 12.11.16]
 l) încălcarea gravă repetată, pe parcursul unui an, a statutului instituţiei de învăţămînt de către un cadru didactic (art.301);
 m) comiterea de către salariatul care îndeplineşte funcţii educative a unei fapte imorale incompatibile cu funcţia deţinută;
