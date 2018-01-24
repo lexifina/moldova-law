@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 2rhc-12/18, din 24.01.2018",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 127,
+  "number": "2rhc-12/18",
+  "decision_date": "2018-01-24",
+  "decision_date_source_quote": "24 ianuarie 2018",
+  "record_date": "2018-01-24",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=127",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=127",
+  "source_sha256": "0afbad2ec7b4d33c2a21d8a2ab4521f0f65fe46c3d9711e05d0136dc6d604c63",
+  "pdf_pages": 7,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2919,
+    "pdftotext_words": 2899,
+    "common_ratio": [
+      0.9887,
+      0.9955
+    ]
+  },
+  "first_law": null
+}
