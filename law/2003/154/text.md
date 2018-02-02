@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+HCC34 din 08.12.17, MO33-39/02.02.18 art.6
 LP305 din 21.12.17, MO7-17/12.01.18 art.66
 LP185 din 21.09.17, MO371-382/27.10.17 art.632; în vigoare 27.10.17
 LP188 din 21.09.17, MO364-370/20.10.17 art.622
@@ -1020,6 +1021,7 @@ Articolul 87. Interzicerea concedierii fără acordul
 organului sindical
 (1) Concedierea salariaţilor membri de sindicat se admite cu consultarea prealabilă a organului (organizatorului) sindical din unitate.
 [Art.87 al.(1) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
+[Art.87 al.(1) teza întâi „Concedierea salariaţilor membri de sindicat în cazurile stipulate la art.86 alin.(1) lit. c), e) şi g) poate avea loc doar cu acordul preliminar scris al organului (organizatorului) sindical din unitate” declarată neconstituțională prin HCC34 din 08.12.17, MO33-39/02.02.18 art.6]
 [Art.87 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.87 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (2) Concedierea persoanei alese în organul sindical şi neeliberate de la locul de muncă de bază se admite cu respectarea modului general de concediere şi doar cu acordul preliminar al organului sindical al cărui membru este persoana în cauză.
