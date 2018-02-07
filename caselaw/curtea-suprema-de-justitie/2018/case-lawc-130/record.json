@@ -1,0 +1,30 @@
+{
+  "title": "Decizia CSJ (Jurisprudența relevantă cauzelor civile), nr. 3ra-70/18, din 07.02.2018",
+  "court": "Curtea Supremă de Justiție a Republicii Moldova",
+  "database": "case_lawc",
+  "database_label": "Jurisprudența relevantă cauzelor civile",
+  "source_id": 130,
+  "number": "3ra-70/18",
+  "decision_date": "2018-02-07",
+  "decision_date_source_quote": "07 februarie 2018",
+  "record_date": "2018-02-07",
+  "in_force": null,
+  "source": "http://jurisprudenta.csj.md/search_case_lawc.php?id=130",
+  "listing": "http://jurisprudenta.csj.md/db_case_lawc.php",
+  "official_pdf": "http://jurisprudenta.csj.md/search_case_lawc.php?id=130",
+  "source_sha256": "0fdfd938972f2bc47d24f22ff39e5ca3cda3bd17d79789f37087d15dc20e0c4a",
+  "pdf_pages": 6,
+  "record_type": "court-decision",
+  "text_status": "metadata-only-personal-data",
+  "privacy_basis": "heading names a party that is not an organisation",
+  "source_credit": "Curtea Supremă de Justiție a Republicii Moldova",
+  "text_check": {
+    "pymupdf_words": 2796,
+    "pdftotext_words": 2790,
+    "common_ratio": [
+      0.9975,
+      0.9996
+    ]
+  },
+  "first_law": null
+}
