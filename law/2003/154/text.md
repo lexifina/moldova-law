@@ -14,7 +14,8 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
-HCC34 din 08.12.17, MO33-39/02.02.18 art.6
+LP4 din 08.02.18, MO68-76/02.03.18 art.145
+HCC34 din 08.12.17, MO33-39/02.02.18 art.6; în vigoare 08.12.17
 LP305 din 21.12.17, MO7-17/12.01.18 art.66
 LP185 din 21.09.17, MO371-382/27.10.17 art.632; în vigoare 27.10.17
 LP188 din 21.09.17, MO364-370/20.10.17 art.622
@@ -832,7 +833,7 @@ b) urmare a unui curs de formare profesională sau de stagiere cu scoaterea din 
 c) şomaj tehnic;
 d) îngrijire a copilului bolnav în vîrstă de pînă la 10 ani;
 [Art.77 lit.d) modificată prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
-e) îngrijire a copilului cu dizabilităţi;
+[Art.77 lit.e) abrogată prin LP4 din 08.02.18, MO68-76/02.03.18 art.145]
 [Art.77 lit.e) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.77 lit.e) modificată prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 [Art.77 lit.e) modificată prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
@@ -844,7 +845,10 @@ de muncă la iniţiativa uneia dintre părţi
 (1) Contractul individual de muncă se suspendă din iniţiativa salariatului în caz de:
 a) concediu pentru îngrijirea copilului în vîrstă de pînă la 4 ani;
 [Art.78 al.(1), lit.a) modificată prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
-b) concediu pentru îngrijirea unui membru bolnav al familiei cu durata de pînă la un an, conform certificatului medical;
+b) concediu pentru îngrijirea unui membru bolnav al familiei cu durata de pînă la doi ani, conform certificatului medical;
+[Art.78 al.(1), lit.b) modificată prin LP4 din 08.02.18, MO68-76/02.03.18 art.145]
+b1) concediu pentru îngrijirea copilului cu dizabilități cu durata de pînă la 2 ani;
+[Art.78 al.(1), lit.b1) introdusă prin LP4 din 08.02.18, MO68-76/02.03.18 art.145]
 c) urmare a unui curs de formare profesională în afara unităţii, potrivit art.214 alin.(3);
 d) ocupare a unei funcţii elective în autorităţile publice, în organele sindicale sau în cele patronale;
 d1) neachitare sau achitare parţială, cel puţin 2 luni consecutive, a salariului sau a altor plăţi obligatorii;
@@ -1021,7 +1025,7 @@ Articolul 87. Interzicerea concedierii fără acordul
 organului sindical
 (1) Concedierea salariaţilor membri de sindicat se admite cu consultarea prealabilă a organului (organizatorului) sindical din unitate.
 [Art.87 al.(1) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
-[Art.87 al.(1) teza întâi „Concedierea salariaţilor membri de sindicat în cazurile stipulate la art.86 alin.(1) lit. c), e) şi g) poate avea loc doar cu acordul preliminar scris al organului (organizatorului) sindical din unitate” declarată neconstituțională prin HCC34 din 08.12.17, MO33-39/02.02.18 art.6]
+[Art.87 al.(1) teza întâi „Concedierea salariaţilor membri de sindicat în cazurile stipulate la art.86 alin.(1) lit. c), e) şi g) poate avea loc doar cu acordul preliminar scris al organului (organizatorului) sindical din unitate” declarată neconstituțională prin HCC34 din 08.12.17, MO33-39/02.02.18 art.6; în vigoare 08.12.17]
 [Art.87 al.(1) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 [Art.87 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (2) Concedierea persoanei alese în organul sindical şi neeliberate de la locul de muncă de bază se admite cu respectarea modului general de concediere şi doar cu acordul preliminar al organului sindical al cărui membru este persoana în cauză.
