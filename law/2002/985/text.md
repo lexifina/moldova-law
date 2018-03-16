@@ -14,7 +14,8 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
-HCC33 din 07.12.17, MO27-32/26.01.18 art.4
+LP18 din 15.02.18, MO84-93/16.03.18 art.173
+HCC33 din 07.12.17, MO27-32/26.01.18 art.4. în vigoare 07.12.17
 LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17
 LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17
 HCC22 din 27.06.17, MO352-355/29.09.17 art.92; în vigoare 27.06.17
@@ -2764,9 +2765,10 @@ se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale
 [Art.230 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 231. Tăierea ilegală a vegetaţiei
 forestiere
-Tăierea ilegală a arborilor şi arbuştilor din fondul silvic sau din fondul ariilor naturale protejate de stat, săvîrşită:
+Tăierea ilegală a arborilor și/sau arbuștilor din fondul forestier sau din fondul ariilor naturale protejate de stat, săvîrşită:
 a) de persoane responsabile de protecţia şi paza vegetaţiei forestiere;
 b) în proporţii ce depăşesc 500 de unităţi convenţionale,
+[Art.231 dispoziția modificată prin LP18 din 15.02.18, MO84-93/16.03.18 art.173
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.231 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 232. Distrugerea sau deteriorarea
@@ -4197,7 +4199,7 @@ se pedepsesc cu amendă în mărime de la 4000 la 6000 unităţi convenţionale 
 [Art.326 al.(4) introdus prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
 Articolul 327. Abuzul de putere sau abuzul de serviciu
 (1) Folosirea intenţionată de către o persoană publică a situaţiei de serviciu, dacă aceasta a cauzat daune în proporţii considerabile intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice,
-[Art.327 al.(1) sintagma „intereselor publice sau” declarată neconstituțional prin HCC33 din 07.12.17, MO27-32/26.01.18 art.4]
+[Art.327 al.(1) sintagma „intereselor publice sau” declarată neconstituțional prin HCC33 din 07.12.17, MO27-32/26.01.18 art.4; în vigoare 07.12.17]
 [Art.327 al.(1) modificat prin LP60 din 07.04.16, MO123-127/06.05.16 art.246]
 [Art.327 al.(1) modificat prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
 se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
@@ -4577,7 +4579,7 @@ a) - exclusă
 b) săvîrşite de două sau mai multe persoane;
 c) săvîrşite referitor la un document de importanţă deosebită;
 d) soldate cu daune în proporţii mari intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice
-[Art.361 al.(2) lit.d), sintagma „intereselor publice sau” declarată neconstituțional prin HCC33 din 07.12.17, MO27-32/26.01.18 art.4]
+[Art.361 al.(2), lit.d) sintagma „intereselor publice sau” declarată neconstituțional prin HCC33 din 07.12.17, MO27-32/26.01.18 art.4; în vigoare 07.12.17]
 se pedepsesc cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 5 ani.
 [Art.361 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 362. Trecerea ilegală a frontierei de stat
