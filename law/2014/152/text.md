@@ -7,13 +7,14 @@ PARLAMENTUL
 COD
 Nr. 152
 din 17.07.2014
-CODUL EDUCAŢIEI AL REPUBLICII MOLDOVA
+EDUCAŢIEI AL REPUBLICII MOLDOVA
 Publicat : 24.10.2014
 în Monitorul Oficial
 Nr. 319-324
 art Nr : 634
 Data intrarii in vigoare : 23.11.2014
 MODIFICAT
+LP36 din 16.03.18, MO126-132/20.04.18 art.251
 LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18
 LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17
 HCC7 din 16.02.17, MO201-213/23.06.17 art.71; în vigoare 16.02.17
@@ -254,7 +255,6 @@ b) în învăţămîntul profesional tehnic şi în învăţămîntul superior:
 – la nivel naţional – de Ministerul Educaţiei, ministerele de resort şi Agenţia Națională de Asigurare a Calității în Educație și Cercetare;
 – la nivel instituţional – de structurile respective de asigurare a calităţii în învăţămînt.
 (8) Agenţia Națională de Asigurare a Calității în Educație și Cercetare activează în baza regulamentului aprobat de Guvern, în condiţiile prezentului cod.
-(9) Agenţia Națională de Asigurare a Calității în Educație și Cercetare este instituţia responsabilă de evaluarea învăţămîntului general, de acreditarea instituţiilor şi de asigurarea calităţii în învăţămîntul general. Modul de organizare şi de funcţionare a Agenţia Națională de Asigurare a Calității în Educație și Cercetare este stabilit de Guvern.
 [Art.8 al.(9) abrogat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (10) Actele administrative şi deciziile de interes general aprobate de entităţile sistemului de învăţămînt se publică pe paginile web oficiale ale autorităţilor şi instituţiilor respective.
 Articolul 19. Sprijinirea elevilor şi studenţilor
@@ -455,11 +455,13 @@ Articolul 45. Evaluarea cadrelor didactice
 (2) Evaluarea externă a cadrelor didactice din învăţămîntul general se efectuează o dată la 5 ani de către organele abilitate, în baza unei metodologii de evaluare aprobate de Ministerul Educaţiei.
 (3) Metodologia de evaluare prevede, în mod obligatoriu, consultarea opiniilor elevilor, părinţilor şi ale altor cadre didactice din instituţia de învăţămînt respectivă.
 Articolul 46. Evaluarea cadrelor de conducere
-(1) Evaluarea activităţii cadrelor de conducere ale instituţiilor de învăţămînt general se efectuează de către organul local de specialitate în domeniul învăţămîntului şi Agenţia Națională de Asigurare a Calității în Educație și Cercetare, în baza unei metodologii de evaluare aprobate de Ministerul Educaţiei.
+(1) Evaluarea activităţii cadrelor de conducere ale instituţiilor de învăţămînt general se efectuează de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare, în baza unei metodologii de evaluare aprobate de Ministerul Educaţiei.
+[Art.46 al.(1) modificat prin LP36 din 16.03.18, MO126-132/20.04.18 art.251]
 (2) Evaluarea cadrelor de conducere din învăţămîntul general este obligatorie cel puţin o dată la 5 ani.
 (3) Directorul instituţiei de învăţămînt general prezintă raportul anual de activitate la adunarea comună a consiliului profesoral şi consiliului de administraţie ale instituţiei.
 Articolul 47. Evaluarea instituţiilor
-(1) Evaluarea activităţii instituţiilor de învăţămînt general se efectuează de către organul local de specialitate în domeniul învăţămîntului şi de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare, în baza standardelor de calitate aprobate de Ministerul Educaţiei, la cererea conducătorului instituţiei, precum şi la iniţiativa Agenţiei Naționale de Asigurare a Calității în Educație și Cercetaresau a organului local de specialitate în domeniul învăţămîntului.
+(1) Evaluarea activităţii instituţiilor de învăţămînt general se efectuează de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare, în baza standardelor de calitate aprobate de Ministerul Educaţiei, la cererea conducătorului instituţiei, precum şi la iniţiativa Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare sau a organului local de specialitate în domeniul învăţămîntului.
+[Art.47 al.(1) modificat prin LP36 din 16.03.18, MO126-132/20.04.18 art.251]
 (2) Raportul de evaluare a instituţiei de învăţămînt general se publică pe pagina web oficială a Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare, a organului local de specialitate în domeniul învăţămîntului şi pe cea a instituţiei de învăţămînt.
 Capitolul XI. Managementul învăţămîntului general
 Articolul 48. Structurile de conducere ale organului local
@@ -1196,7 +1198,6 @@ de funcţionare provizorie sau acreditării
 (10) Decizia cu privire la autorizarea de funcţionare provizorie, la acreditare, neacreditare sau la retragerea dreptului de activitate a unei instituţii de învăţămînt superior sau de organizare a unui program de studii se adoptă de Guvern la propunerea Ministerului Educaţiei, în baza rezultatelor evaluării efectuate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
 Articolul 115. Agenţia Națională de Asigurare a Calității
 în Educație și Cercetare
-(1) Agenţia Națională de Asigurare a Calității în Educație și Cercetare este autoritate administrativă de interes naţional, cu personalitate juridică, autonomă faţă de Guvern, independentă în decizii şi organizare, finanţată din bugetul de stat şi din venituri proprii.
 (1) Agenţia Naţională de Asigurare a Calităţii în Educație şi Cercetare este o autoritate administrativă în subordinea Ministerului Educaţiei, Culturii și Cercetării, instituită de Guvern, finanţată din bugetul de stat şi din venituri proprii.
 [Art.115 al.(1) în redacția LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (2) Agenţia Națională de Asigurare a Calității în Educație și Cercetare are următoarele atribuţii şi responsabilităţi:
@@ -1229,16 +1230,12 @@ b) comisiile de profil;
 c) aparatul administrativ.
 (5) În cadrul Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare funcţionează subdiviziunea de evaluare a programelor şi a instituţiilor ofertante de programe de formare profesională din învăţămîntul superior, subdiviziunea de acreditare a programelor şi instituţiilor ofertante de programe de formare profesională din învăţămîntul superior, subdiviziunea dedicată învăţămîntului profesional tehnic, precum şi alte subdiviziuni necesare pentru realizarea atribuţiilor sale, constituite de către Consiliul de conducere.
 (6) Pe lîngă subdiviziuni funcţionează, conform regulamentului propriu de organizare şi funcţionare, comisii pe specialităţi, care îşi întocmesc registre de experţi-evaluatori pe bază de concurs deschis.
-(7) Conducerea executivă a Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare este exercitată de către preşedintele Consiliului de conducere, asistat de vicepreşedinte şi secretarul general.
 (7) Conducerea executivă a Agenţiei Naţionale de Asigurare a Calităţii în Învăţămîntul Profesional este exercitată de către preşedintele Consiliului de conducere, numit în funcţie de Guvern, asistat de vicepreşedinte şi secretarul general.
 [Art.115 al.(7) modificat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (8) Consiliul de conducere este constituit din 15 membri: cadre cu funcţii ştiinţifico-didactice şi ştiinţifice şi cîte un reprezentant al studenţilor şi al mediului de afaceri. Membrii Consiliului de conducere nu pot deţine funcţii de demnitate publică, funcţia de rector sau de director al instituţiei de învăţămînt.
-(9) Membrii Consiliului de conducere sînt selectaţi prin concurs deschis, jurizat internaţional, din rîndul tuturor celor interesaţi, pentru un mandat de 4 ani, care poate fi reînnoit o singură dată. Concursul este organizat de membrii Consiliului de conducere.
 [Art.115 al.(9) abrogat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
-(10) La fiecare 4 ani sînt aleşi 8 membri noi ai Consiliului de conducere.
 [Art.115 al.(10) abrogat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (11) Preşedintele, vicepreşedintele şi secretarul general al Consiliului de conducere sînt aleşi din rîndul membrilor acestuia, pentru un mandat de 4 ani.
-(12) Atribuţiile preşedintelui, vicepreşedintelui, secretarului general şi ale comisiilor de profil, condiţiile, procedurile de selectare şi desemnare a membrilor Consiliului de conducere şi ai comisiilor de profil, structura şi efectivul-limită ale aparatului administrativ, precum şi taxele percepute pentru procedurile de evaluare se stabilesc de Consiliul de conducere prin Regulamentul de organizare şi funcţionare al Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare şi se aprobă de Guvern.
 (12) Modul de funcționare a Agenţiei Naţionale de Asigurare a Calităţii în Educație şi Cercetare, atribuţiile președintelui, vicepreședintelui, secretarului general şi ale comisiilor de profil, condiţiile, procedurile de selectare şi desemnare a acestora, structura şi efectivul-limită ale aparatului administrativ, metodologia de calculare a taxelor, precum şi taxele percepute pentru procedurile de evaluare se stabilesc prin regulamentul aprobat de Guvern.
 [Art.115 al.(12) în redacția LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 Capitolul IV. Cercetarea ştiinţifică în învăţămîntul superior
@@ -1247,10 +1244,8 @@ Articolul 116. Cercetarea ştiinţifică
 (2) În instituţiile de învăţămînt superior, activităţile de cercetare, dezvoltare şi inovare se efectuează în cadrul catedrelor, departamentelor, laboratoarelor şi altor unităţi proprii şi/sau în parteneriat cu alte instituţii, agenţi economici sau autorităţi publice.
 (3) Finanţarea cercetării în instituţiile ofertante de programe de master şi doctorat se face, în baza criteriilor de calitate şi performanţă, prin mecanisme distincte, stabilite printr-un regulament aprobat de Guvern, şi din alte surse legal constituite.
 (4) Modul de organizare şi desfăşurare a cercetării ştiinţifice în instituţiile de învăţămînt superior se reglementează prin Carta universitară, prin regulamentele de organizare şi funcţionare a şcolii doctorale, a programelor de studii superioare de doctorat, aprobate de senat, şi prin alte acte normative.
-(5) Finanţarea de la bugetul de stat a proiectelor de cercetare, dezvoltare şi inovare, de creaţie artistică şi sport se efectuează, exclusiv, pe bază de concurs, organizat de autoritatea naţională pentru cercetare, dezvoltare şi inovare.
 (5) Finanţarea de la bugetul de stat a proiectelor de cercetare, dezvoltare şi inovare, de creaţie artistică şi sport se efectuează exclusiv pe bază de concurs, organizat de Agenția Națională pentru Cercetare și Dezvoltare.
 [Art.116 al.(5) în redacția LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
-(6) Pentru activităţile de cercetare desfăşurate, instituţiile de învăţămînt superior pot beneficia de finanţare instituţională acordată, prin concurs, în baza evaluării relevanţei internaţionale şi a impactului economic şi social al rezultatelor obţinute. Condiţiile concursului, metodologia evaluării relevanţei internaţionale şi a impactului economic şi social, inclusiv volumul finanţării instituţionale, se stabilesc de autoritatea naţională pentru cercetare, dezvoltare şi inovare şi se aprobă de Guvern.
 (6) Instituțiile de învățămînt superior pot beneficia de finanțare instituțională pentru domeniile cercetării și inovării în conformitate cu prevederile Codului cu privire la ştiinţă şi inovare.
 [Art.116 al.(6) în redacția LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (7) Instituţiile de învăţămînt superior sînt deţinătoare de drept a proprietăţii intelectuale generate din propria activitate de cercetare finanţată de la bugetul de stat şi sînt autonome în valorificarea rezultatelor cercetărilor ştiinţifice.
