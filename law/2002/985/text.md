@@ -14,6 +14,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+HCC12 din 14.05.18, MO176-180/01.06.18 art.88; în vigoare 14.05.18
 LP18 din 15.02.18, MO84-93/16.03.18 art.173
 HCC33 din 07.12.17, MO27-32/26.01.18 art.4. în vigoare 07.12.17
 LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17
@@ -4578,6 +4579,7 @@ se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale 
 a) - exclusă
 b) săvîrşite de două sau mai multe persoane;
 c) săvîrşite referitor la un document de importanţă deosebită;
+[Art.361 al.(2), lit.c) declarată neconstituțională prin HCC12 din 14.05.18, MO176-180/01.06.18 art.88; în vigoare 14.05.18]
 d) soldate cu daune în proporţii mari intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice
 [Art.361 al.(2), lit.d) sintagma „intereselor publice sau” declarată neconstituțional prin HCC33 din 07.12.17, MO27-32/26.01.18 art.4; în vigoare 07.12.17]
 se pedepsesc cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 5 ani.
