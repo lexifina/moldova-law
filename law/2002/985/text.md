@@ -14,6 +14,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP66 din 24.05.18, MO181/01.06.18 art.327; în vigoare 01.06.18
 HCC12 din 14.05.18, MO176-180/01.06.18 art.88; în vigoare 14.05.18
 LP18 din 15.02.18, MO84-93/16.03.18 art.173
 HCC33 din 07.12.17, MO27-32/26.01.18 art.4. în vigoare 07.12.17
@@ -4198,6 +4199,16 @@ se pedepsesc cu amendă în mărime de la 4000 la 6000 unităţi convenţionale 
 [Art.326 al.(3), sancţiunea modificată prin LP78 din 12.04.12, MO99-102/25.05.12 art.334]
 (4) Persoana care a promis, a oferit sau a dat bunuri ori servicii enumerate la alin. (1) este liberată de răspundere penală dacă ele i-au fost extorcate sau dacă persoana s-a autodenunţat neştiind că organele de urmărire penală sînt la curent cu infracţiunea pe care a săvîrşit-o.
 [Art.326 al.(4) introdus prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
+Articolul 3261. Exercitarea atribuțiilor în sectorul public în situație
+de conflict de interese
+(1) Fapta persoanei publice care, în exercitarea atribuțiilor de serviciu, a soluționat cereri, demersuri sau plîngeri, a adoptat un act administrativ, a încheiat, direct sau prin intermediul unei persoane terțe, un act juridic, a luat o decizie sau a participat la luarea unei decizii în vederea obținerii, directe sau indirecte, a unui avantaj patrimonial a cărui valoare depășește 10000 de unități convenționale, pentru sine sau pentru o persoană apropiată în sensul Legii nr. 133/2016 privind declararea averii și a intereselor personale, dacă conflictul de interese nu a fost declarat și soluționat în conformitate cu legislația privind declararea și controlul averii și a intereselor personale,
+se pedepsește cu amendă în mărime de la 10000 la 15000 de unități convenționale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu privarea de dreptul de a ocupa funcții publice pe un termen de la 5 la 7 ani.
+(2) Fapta prevăzută la alin. (1):
+a) săvîrșită de către o persoană cu funcție de demnitate publică;
+b) săvîrșită în legătură cu negocierea, gestionarea sau executarea mijloacelor financiare din fonduri publice sau din fonduri externe,
+se pedepsește cu amendă în mărime de la 15000 la 20000 de unități convenționale sau cu închisoare de la 2 la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa funcții publice pe un termen de la 5 la 10 ani.
+(3) Dispozițiile prezentului articol nu se aplică în cazul emiterii, aprobării sau adoptării unor acte normative.
+[Art.3261 introdus prin LP66 din 24.05.18, MO181/01.06.18 art.327; în vigoare 01.06.18]
 Articolul 327. Abuzul de putere sau abuzul de serviciu
 (1) Folosirea intenţionată de către o persoană publică a situaţiei de serviciu, dacă aceasta a cauzat daune în proporţii considerabile intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice,
 [Art.327 al.(1) sintagma „intereselor publice sau” declarată neconstituțional prin HCC33 din 07.12.17, MO27-32/26.01.18 art.4; în vigoare 07.12.17]
