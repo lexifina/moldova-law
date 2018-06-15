@@ -13,6 +13,7 @@ Publicat : 26.04.2001
 Nr. 47-48
 art Nr : 210
 MODIFICAT
+LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18
 LP83 din 25.05.17, MO229-243/07.07.17 art.362
 LP66 din 13.04.17, MO171-180/02.06.17 art.297
@@ -37,8 +38,8 @@ TITLUL I
 DISPOZIŢII GENERALE
 Capitolul 1
 LEGISLAŢIA FAMILIALĂ
-Articolul 1. Legislaţia familială şi alte acte ce conţin
-norme ale dreptului familiei
+Articolul 1. Legislaţia familială şi alte acte ce conţin norme
+ale dreptului familiei
 (1) Legislaţia familială constă din prezentul cod şi din alte acte normative adoptate în cazurile şi în limitele prevăzute de acesta.
 (2) Guvernul este în drept să adopte acte normative în domeniul dreptului familiei în cazurile prevăzute de prezentul cod, de alte legi şi de decretele Preşedintelui Republicii Moldova.
 (3) Dacă există divergenţe între prezentul cod şi convenţiile şi tratatele ce reglementează relaţiile familiale, la care Republica Moldova este parte, au prioritate reglementările internaţionale.
@@ -57,8 +58,7 @@ FAMILIALE
 Articolul 5. Egalitatea în relaţiile familiale
 (1) Toate persoanele căsătorite au drepturi şi obligaţii egale în relaţiile familiale, indiferent de sex, rasă, naţionalitate, origine etnică, limbă, religie, opinie, apartenenţă politică, avere şi origine socială.
 (2) Drepturile şi obligaţiile familiale sînt legate de titularii lor şi nu pot fi cedate persoanelor terţe.
-Articolul 6. Realizarea drepturilor şi îndeplinirea
-obligaţiilor familiale
+Articolul 6. Realizarea drepturilor şi îndeplinirea obligaţiilor familiale
 (1) Persoanele fizice îşi realizează de sine stătător drepturile ce le aparţin şi iau naştere din relaţiile familiale, dacă prezentul cod nu prevede altfel.
 [Art.6 al.(1) modificat prin LP150 din 01.07.16, MO206-214/15.07.16 art.452]
 (2) Realizarea drepturilor şi îndeplinirea obligaţiilor familiale nu trebuie să lezeze drepturile, obligaţiile, libertăţile şi interesele legitime ale altor membri ai familiei şi ale altor persoane.
@@ -101,7 +101,8 @@ să se căsătorească
 [Art.13 al.(1) modificat prin LP107 din 11.05.12, MO120-125/15.06.12 art.396]
 (2) Rezultatul examenului medical se comunică numai persoanei examinate.
 [Art.13 al.(2) modificat prin LP107 din 11.05.12, MO120-125/15.06.12 art.396]
-(3) Modul, termenul şi limitele examenului medical sînt stabilite de Ministerul Sănătăţii.
+(3) Modul, termenul şi limitele examenului medical sînt stabilite de Ministerul Sănătății, Muncii și Protecției Sociale.
+[Art.13 al.(3) modificat prin LP79 din 24.05.18, MO195-209/15.06.18 art.338]
 [Art.13 al.(3) modificat prin LP107 din 11.05.12, MO120-125/15.06.12 art.396]
 Articolul 14. Vîrsta matrimonială
 (1) Vîrsta matrimonială minimă este de 18 ani.
@@ -186,7 +187,7 @@ devălmăşie a soţilor
 (3) La împărţirea proprietăţii în devălmăşie a soţilor, datoriile comune se împart între ei proporţional cotelor-părţi ce le-au fost repartizate.
 Capitolul 6
 REGIMUL CONTRACTUAL AL BUNURILOR
-OŢILOR
+SOŢILOR
 Articolul 27. Contractul matrimonial
 Contractul matrimonial este convenţia încheiată benevol între persoanele care doresc să se căsătorească sau între soţi, în care se determină drepturile şi obligaţiile patrimoniale ale acestora în timpul căsătoriei şi/sau în cazul desfacerii acesteia.
 Articolul 28. Încheierea contractului matrimonial
@@ -202,8 +203,7 @@ Articolul 29. Conţinutul contractului matrimonial
 [Art.29 al.(41) introdus prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
 (5) Drepturile şi obligaţiile prevăzute în contractul matrimonial pot fi limitate la un anumit termen sau pot fi puse în dependenţă de survenirea sau nesurvenirea anumitelor condiţii.
 (6) Părţile nu sînt în drept să stipuleze în contractul matrimonial clauze care ar afecta capacitatea juridică sau de exerciţiu a soţilor, dreptul lor de adresare în instanţa judecătorească pentru reglementarea relaţiilor personale dintre ei, inclusiv a drepturilor şi obligaţiilor dintre ei şi copiii lor, care ar limita dreptul soţului inapt de muncă la întreţinere, care ar leza drepturile şi interesele legitime ale soţilor sau ale unuia dintre ei, precum şi clauze care contravin principiilor şi naturii relaţiilor familiale.
-Articolul 30. Modificarea şi rezilierea contractului
-matrimonial
+Articolul 30. Modificarea şi rezilierea contractului matrimonial
 (1) Contractul matrimonial poate fi modificat sau reziliat în orice moment, în baza acordului dintre soţi. Acordul privind modificarea sau rezilierea contractului matrimonial se întocmeşte în scris şi se autentifică notarial.
 (2) Nu se admite refuzul unilateral de executare a clauzelor contractului matrimonial.
 (3) La cererea unuia dintre soţi, instanţa judecătorească poate modifica sau rezilia contractul matrimonial în modul şi temeiurile prevăzute de Codul civil.
@@ -214,8 +214,7 @@ matrimonial
 (3) La cererea unuia dintre soţi sau a autorităţii tutelare, instanţa judecătorească este în drept să declare nulitatea, totală sau parţială, a contractului matrimonial dacă acesta conţine clauze care lezează drepturile şi interesele unuia dintre soţi, ale copiilor minori ori ale altor persoane ocrotite prin lege.
 [Art.31 al.(3) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 Articolul 32. Garanţiile drepturilor creditorilor la încheierea,
-modificarea şi rezilierea contractului
-matrimonial
+modificarea şi rezilierea contractului matrimonial
 (1) Fiecare dintre soţi este obligat să înştiinţeze creditorii săi despre încheierea, modificarea sau rezilierea contractului matrimonial. În cazul neexecutării acestei obligaţii, soţul debitor răspunde pentru obligaţiile sale indiferent de conţinutul contractului.
 (2) Creditorii soţului debitor pot cere modificarea sau rezilierea contractului matrimonial dacă acesta le lezează drepturile şi interesele ocrotite prin lege.
 Capitolul 7
@@ -242,8 +241,7 @@ c) a fost condamnat la privaţiune de libertate pe un termen mai mare de 3 ani.
 [Art.36 al.(4) modificat prin LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 (5) Dacă, după desfacerea căsătoriei de către organul de stare civilă, între soţi apar litigii referitoare la partaj, la întreținerea, educația și domiciliul copiilor minori comuni sau la întreținerea unuia dintre soți, acestea se vor soluţiona pe cale judecătorească.
 [Art.36 al.(5) modificat prin LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
-Articolul 37. Desfacerea căsătoriei de către instanţa
-judecătorească
+Articolul 37. Desfacerea căsătoriei de către instanţa judecătorească
 (1) Dacă soţii au copii minori comuni și nu au ajuns la un acord privind întreținerea, educația și domiciliul acestora sau în lipsa acordului la divorţ al unuia dintre soţi, cu excepţia cazurilor prevăzute la art. 36 alin. (2), desfacerea căsătoriei are loc pe cale judecătorească.
 [Art.37 al.(1) în redacția LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 (2) Desfacerea căsătoriei are loc pe cale judecătorească şi în cazurile cînd există acordul la divorţ al ambilor soţi, însă unul dintre ei refuză să se prezinte la organul de stare civilă pentru soluţionarea problemei.
@@ -251,9 +249,8 @@ judecătorească
 (4) Dacă, în procesul examinării cererii de desfacere a căsătoriei, unul dintre soţi nu-şi dă acordul la divorţ, instanţa judecătorească va amîna examinarea cauzei, stabilind un termen de împăcare de la o lună la 6 luni, cu excepţia cauzelor de divorţ pornite pe motivul violenţei în familie confirmate prin probe.
 [Art.37 al.(4) modificat prin LP167 din 09.07.10, MO155-158/03.09.10 art.551]
 (5) Dacă măsurile de împăcare nu au dat efecte şi soţii continuă să insiste asupra divorţului, instanţa judecătorească va satisface cererea respectivă.
-Articolul 38. Soluţionarea litigiilor de către instanţa
-judecătorească în procesul desfacerii
-căsătoriei
+Articolul 38. Soluţionarea litigiilor de către instanţa judecătorească
+în procesul desfacerii căsătoriei
 (1) La desfacerea căsătoriei, soţii pot prezenta instanţei judecătoreşti un acord privind împărţirea bunurilor lor proprietate în devălmăşie şi plata pensiei de întreţinere a copiilor şi a unuia dintre soți, indicînd mărimea acesteia, precum şi privind determinarea părintelui împreună cu care vor locui copiii minori comuni.
 [Art.38 al.(1) modificat prin LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 (2) În cazul lipsei unui acord între soţi prevăzut la alin.(1) sau dacă se va dovedi că acordul lezează drepturile şi interesele copiilor minori sau ale unuia dintre soţi, instanţa judecătorească este obligată:
