@@ -14,6 +14,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP66 din 24.05.18, MO181/01.06.18 art.327; în vigoare 01.06.18
 HCC12 din 14.05.18, MO176-180/01.06.18 art.88; în vigoare 14.05.18
 LP18 din 15.02.18, MO84-93/16.03.18 art.173
@@ -1452,7 +1453,8 @@ Articolul 159. Provocarea ilegală a avortului
 (1) Întreruperea cursului sarcinii, prin orice mijloace, săvîrşită:
 a) în afara instituţiilor medicale sau cabinetelor medicale autorizate în acest scop;
 b) de către o persoană care nu are studii medicale superioare speciale;
-c) în cazul sarcinii ce depăşeşte 12 săptămîni, în lipsa indicaţiilor medicale, stabilite de Ministerul Sănătăţii;
+c) în cazul sarcinii ce depăşeşte 12 săptămîni, în lipsa indicaţiilor medicale, stabilite de Ministerul Sănătății, Muncii și Protecției Sociale;
+[Art.159 al.(1), lit.c) modificată prin LP79 din 24.05.18, MO195-209/15.06.18 art.338]
 d) în cazul contraindicaţiilor medicale pentru efectuarea unei asemenea operaţii;
 e) în condiţii antisanitare
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani, sau cu închisoare de pînă la 2 ani.
@@ -2263,7 +2265,8 @@ de metale sau cu alte aparate
 de teledetecţie și utilizarea lor
 în siturile arheologice sau în zonele
 cu potențial arheologic
-Accesul cu detectoare de metale sau cu alte aparate de teledetecţie și utilizarea lor în siturile arheologice sau în zonele cu potențial arheologic fără autorizarea Ministerului Culturii
+Accesul cu detectoare de metale sau cu alte aparate de teledetecţie și utilizarea lor în siturile arheologice sau în zonele cu potențial arheologic fără autorizarea Ministerului Educației, Culturii și Cercetării
+[Art.1995 dispoziția modificată prin LP79 din 24.05.18, MO195-209/15.06.18 art.338]
 se pedepseşte cu amendă de la 1350 la 2350 de unităţi convenţionale sau cu închisoare de pînă la 1 an.
 [Art.1995 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.1995 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
