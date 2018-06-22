@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP85 din 24.05.18, MO210-223/22.06.18 art.350
 LP4 din 08.02.18, MO68-76/02.03.18 art.145
 HCC34 din 08.12.17, MO33-39/02.02.18 art.6; în vigoare 08.12.17
 LP305 din 21.12.17, MO7-17/12.01.18 art.66
@@ -491,11 +492,13 @@ Articolul 421. Informarea și consultarea salariaților
 (2) Obligația informării vizează:
 a) evoluţia recentă şi evoluţia probabilă a activităţilor şi situaţiei economice a unităţii;
 b) situaţia, structura şi evoluţia probabilă a ocupării forţei de muncă în cadrul unităţii, precum şi eventualele măsuri de anticipare preconizate, în special atunci cînd există o ameninţare la adresa locurilor de muncă;
-c) deciziile care pot genera modificări importante în organizarea muncii sau în relaţiile contractuale, inclusiv cele legate de reducerea în masă a locurilor de muncă sau schimbarea proprietarului unității;
+c) deciziile care pot genera modificări importante în organizarea muncii sau în relaţiile contractuale, inclusiv cele legate de concedierile colective sau schimbarea proprietarului unității;
+[Art.421 al.(2), lit.c) modificată prin LP85 din 24.05.18, MO210-223/22.06.18 art.350]
 d) situația privind securitatea și sănătatea în muncă la unitate, precum și orice măsuri de natură să afecteze asigurarea acestora, inclusiv planificarea şi introducerea de noi tehnologii, alegerea echipamentului de lucru și de protecție, instruirea salariaților în materie de securitate și sănătate în muncă etc.
 (3) Informarea se face prin transmiterea, în forma scrisă, către reprezentanții salariaților a datelor relevante, complete și veridice privind subiectele enumerate la alin. (2), în timp util, care le-ar permite reprezentanților salariaților să pregătească, în caz de necesitate, consultarea.
 (4) Informarea are loc ori de cîte ori este necesară în virtutea circumstanțelor intervenite, precum și periodic, la intervalele prevăzute de contractul colectiv de muncă. Informarea periodică asupra subiectelor menționate la alin. (2) nu poate avea loc mai rar decît o dată pe an, cel tîrziu în primul semestru al anului următor celui de gestiune.
-(5) În cazul în care sînt preconizate anumite măsuri cu privire la salariați, informarea se va efectua cu cel puțin 30 de zile calendaristice înainte de punerea în aplicare a măsurilor de rigoare. În caz de lichidare a unității sau reducere a numărului ori a statelor de personal, salariații vor fi informați despre acest lucru cu cel puțin 30 de zile calendaristice înainte de declanșarea procedurilor prevăzute la art. 88. Pentru reducerea în masă a locurilor de muncă se vor aplica condițiile de informare și consultare prevăzute la art. 88 alin. (1) lit. i).
+(5) În cazul în care sînt preconizate anumite măsuri cu privire la salariați, informarea se va efectua cu cel puțin 30 de zile calendaristice înainte de punerea în aplicare a măsurilor de rigoare. În caz de lichidare a unității sau reducere a numărului ori a statelor de personal, salariații vor fi informați despre acest lucru cu cel puțin 30 de zile calendaristice înainte de declanșarea procedurilor prevăzute la art. 88.
+[Art.421 al.(5) modificat prin LP85 din 24.05.18, MO210-223/22.06.18 art.350]
 (6) Dacă în cadrul unităţii nu există nici sindicat, nici reprezentanți aleși, informația menționată la alin. (2) se aduce la cunoștința salariaților printr-un anunţ public plasat pe un panou informativ cu acces general la sediul unităţii (inclusiv la fiecare din filialele sau reprezentanţele acesteia), precum şi, după caz, prin intermediul paginii web sau al mesajelor electronice.
 (7) Consultarea are loc:
 a) în cadrul unor întîlniri cu reprezentanți ai angajatorului de nivel relevant în raport cu subiectul discutat;
@@ -1048,7 +1051,7 @@ f) va acorda salariatului ce urmează a fi concediat o zi lucrătoare pe săptă
 g) va prezenta, în modul stabilit, cu 2 luni înainte de concediere, agenţiei pentru ocuparea forţei de muncă informaţiile privind persoanele ce urmează a fi disponibilizate;
 h) se va adresa organului (organizatorului) sindical în vederea obţinerii opiniei consultative privind concedierea salariatului respectiv;
 [Art.88 al.(1), lit.h) în redacția LP188 din 21.09.17, MO364-370/20.10.17 art.622]
-i) în cazul în care reorganizarea sau lichidarea unităţii presupune reducerea în masă a locurilor de muncă, va informa în scris, cu cel puţin 3 luni înainte, despre acest lucru organele sindicale din unitatea şi ramura respectivă şi va iniţia negocieri în vederea respectării drepturilor şi intereselor salariaţilor. Criteriile vizînd reducerea în masă a locurilor de muncă se stabilesc prin convenţiile colective.
+[Art.88 al.(1), lit.i) abrogată prin LP85 din 24.05.18, MO210-223/22.06.18 art.350]
 [Art.88 al.(1), lit.i) modificată prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (2) În cazul în care, după expirarea termenului de preavizare de 2 luni, nu a fost emis ordinul (dispoziţia, decizia, hotărîrea) de concediere a salariatului, această procedură nu poate fi repetată în cadrul aceluiaşi an calendaristic. În termenul de preavizare nu se include perioada aflării salariatului în concediul anual de odihnă, în concediul de studii şi în concediul medical.
 [Art.88 al.(2) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
@@ -1869,6 +1872,25 @@ cu schimbarea proprietarului unităţii
 (1) În caz de schimbare a proprietarului unităţii, noul proprietar, într-un termen de cel mult 3 luni din ziua apariţiei dreptului de proprietate, în temeiul art.86 alin.(1) lit.f), este în drept să desfacă contractele individuale de muncă încheiate cu conducătorul unităţii, cu adjuncţii acestuia, cu contabilul-şef.
 (2) Noul proprietar acordă persoanelor concediate conform alin.(1) cîte o compensaţie suplimentară dacă acest lucru este prevăzut de contractul individual de muncă.
 [Art.185 în redacția LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
+Articolul 1851. Garanții în caz de concedieri colective
+(1) Concedierile colective sînt concedierile efectuate de angajator din unul sau din mai multe motive neimputabile salariatului, dacă, într-o perioadă de 30 de zile, numărul concedierilor constituie:
+a) cel puțin 10 în unitățile în care sînt încadrați între 20 și 99 de salariați;
+b) cel puțin 10% din numărul salariaților în unitățile în care sînt încadrați între 100 și 299 de salariați;
+c) cel puțin 30 în unitățile în care sînt încadrați 300 și mai mulți salariați.
+(2) La stabilirea numărului efectiv de salariaţi concediaţi colectiv, potrivit alin. (1), se iau în calcul şi acei salariaţi cărora le-au încetat contractele individuale de muncă la iniţiativa angajatorului din unul sau mai multe motive neimputabile salariatului (prevăzute la art. 86 alin. (1) lit. z)), cu condiţia existenţei a cel puţin 5 concedieri.
+(3) În cazul în care la unitate sînt preconizate măsuri care presupun concedieri colective, cu cel puțin 3 luni înainte (incluzînd perioada de preavizare prevăzută la alin. (7)), angajatorul este obligat să notifice despre acest lucru reprezentanții salariaților din unitate și agenția pentru ocuparea forței de muncă și să iniţieze consultări cu reprezentanții salariaților în vederea încheierii unui acord.
+(4) Pentru a permite reprezentanților salariaților să formuleze propuneri constructive, cu cel puțin 5 zile lucrătoare înainte de a iniția consultările, angajatorul este obligat să le furnizeze acestora, în scris, toate informațiile utile disponibile cu privire la:
+a) motivele concedierilor preconizate;
+b) numărul și categoriile de salariați care vor fi concediați;
+c) numărul și categoriile de salariați încadrați la unitate;
+d) perioada în care vor avea loc concedierile;
+e) criteriile de selectare a salariaților care urmează a fi concediați, prevăzute de lege, de convențiile colective sau contractele colective de muncă;
+f) metoda de calcul al oricăror indemnizații aferente concedierii, prevăzute în contractul colectiv de muncă sau în actele normative la nivel de unitate, cu excepția celor prevăzute de legislația în vigoare.
+(5) Consultările durează pînă la încheierea unui acord, dar în orice caz nu mai mult de 30 de zile calendaristice din momentul informării reprezentanților salariaților despre concedierile colective preconizate.
+(6) În cazul în care nu se ajunge la un acord și decizia unilaterală a angajatorului este de a continua procesul de concediere colectivă, această decizie este comunicată, prin notificare, reprezentanților salariaților și agenției pentru ocuparea forței de muncă. Notificarea agenției pentru ocuparea forței de muncă va conține cel puțin elementele prevăzute la alin. (4) lit. a)–e), precum și orice informații utile cu privire la concedierile preconizate și la consultările cu reprezentanții salariaților. Obligația notificării vizează fiecare concediere preconizată în cadrul concedierilor colective.
+(7) Preavizarea, sub semnătură, a salariaților cu privire la concedierile colective se realizează cu 2 luni înainte de concediere, respectîndu-se procedurile de concediere stabilite la art. 88.
+(8) Agenția pentru ocuparea forței de muncă utilizează perioada premergătoare concedierilor pentru a căuta soluții la problemele ridicate de acestea și pentru a acorda, împreună cu angajatorul și reprezentanții salariaților, asistență în vederea încadrării în cîmpul muncii a salariaților ce urmează a fi concediați, prezentîndu-le oportunitățile de angajare și de recalificare.
+[Art.1851 introdus prin LP85 din 24.05.18, MO210-223/22.06.18 art.350]
 Articolul 186. Indemnizaţia de eliberare din serviciu
 (1) Salariaţilor concediaţi în legătură cu lichidarea unităţii sau cu încetarea activităţii angajatorului persoană fizică (art.86 alin.(1) lit.b)), sau cu reducerea numărului ori a statelor de personal la unitate (art.86 alin.(1) lit.c)) li se garantează:
 a) pentru prima lună, plata unei indemnizaţii de eliberare din serviciu egală cu mărimea sumată a unui salariu mediu săptămînal pentru fiecare an complet lucrat la unitatea în cauză, dar nu mai mare decît șase salarii medii lunare și nu mai mică decît un salariu mediu lunar. Dacă unitatea a fost succesorul de drept al unei unităţi reorganizate anterior şi contractul individual de muncă cu salariaţii în cauză nu a încetat anterior (art.81), se vor lua în calcul toţi anii de activitate;
