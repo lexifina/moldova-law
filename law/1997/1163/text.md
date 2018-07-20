@@ -15,6 +15,8 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP118 din 05.07.18, MO276/20.07.18 art.409
+LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP295 din 21.12.17, MO7-17/12.01.18 art.58; în vigoare 12.01.18
 LP288 din 15.12.17, MO464-470/29.12.17 art.808; în vigoare 01.01.18
 LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17
@@ -129,6 +131,7 @@ LP35-XVI din 15.04.05, MO67-68/06.05.05 art.263
 LP22-XVI din 08.04.05, MO65-69/29.04.05 art.234
 LP20-XVI din 08.04.05, MO65-66/29.04.05 art.234
 NOTĂ:
+În textul Codului sintagmele „Ministerul Sănătății” și „Ministerul Muncii, Protecției Sociale și Familiei”, la orice formă gramaticală, se substituie cu sintagma „Ministerul Sănătății, Muncii și Protecției Sociale” la forma gramaticală corespunzătoare, sintagma „Ministerul Agriculturii și Industriei Alimentare” – cu sintagma „Ministerul Agriculturii, Dezvoltării Regionale și Mediului”, iar sintagma „Ministerul Transporturilor și Infrastructurii Drumurilor” – cu sintagma „Ministerul Economiei și Infrastructurii” LP79 din 24.05.18, MO195-209/15.06.18 art.338
 În textul codului, sintagma „organ cadastral”, la orice formă gramaticală, se substituie cu sintagma „organ cadastral teritorial” la forma gramaticală corespunzătoare prin LP80 din 05.05.17, MO162-170/26.05.17 art.284
 În textul codului, sintagmele „Inspectoratul Fiscal Principal de Stat de pe lîngă Ministerul Finanţelor”, „Inspectoratul Fiscal Principal de Stat”, „inspectorat fiscal de stat teritorial”, „inspectorat fiscal de stat specializat”, „organ fiscal teritorial”, „organ fiscal”, la orice formă gramaticală, se substituie cu cuvintele „Serviciul Fiscal de Stat” la forma gramaticală corespunzătoare, cu excepţia cazurilor cînd prezenta lege prevede altfel prin LP281 din 16.12.16, MO472-477/27.12.16 art.947; în vigoare 01.01.17
 În textul codului, cuvîntul „patron” se substituie cu cuvîntul „angajator” prin LP138 din 17.06.16, MO184-192/01.07.16 art.401
