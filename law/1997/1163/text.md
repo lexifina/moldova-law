@@ -15,7 +15,9 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
-LP118 din 05.07.18, MO276/20.07.18 art.409
+HCC20 din 04.07.18, MO267-275/20.07.18 art.119; în vigoare 04.07.18
+LP117 din 05.07.18, MO277-284/27.07.18 art.419; în vigoare 27.07.18
+LP118 din 05.07.18, MO276/20.07.18 art.409; în vigoare 20.07.18
 LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP295 din 21.12.17, MO7-17/12.01.18 art.58; în vigoare 12.01.18
 LP288 din 15.12.17, MO464-470/29.12.17 art.808; în vigoare 01.01.18
