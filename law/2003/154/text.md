@@ -14,7 +14,10 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP184 din 26.07.18, MO336-346/07.09.18 art.567; în vigoare 01.01.19
+LP123 din 12.07.18, MO277-284/27.07.18 art.423
 LP85 din 24.05.18, MO210-223/22.06.18 art.350
+LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP4 din 08.02.18, MO68-76/02.03.18 art.145
 HCC34 din 08.12.17, MO33-39/02.02.18 art.6; în vigoare 08.12.17
 LP305 din 21.12.17, MO7-17/12.01.18 art.66
@@ -61,6 +64,7 @@ LP294-XV din 28.07.04, MO138-146/13.08.04 art.747
 LP28-XV din 13.02.04, MO39-41/05.03.04 art.226
 RMO204 din 26.09.03, MO204/26.09.03 pag.6
 NOTĂ:
+În textul Codului, sintagma „Ministerul Muncii, Protecției Sociale și Familiei”, la orice formă gramaticală, se substituie cu sintagma „Ministerul Sănătății, Muncii și Protecției Sociale” la forma gramaticală corespunzătoare prin LP79 din 24.05.18, MO195-209/15.06.18 art.338
 În cuprinsul codului, sintagma „Inspecţia Muncii” se substituie cu sintagma „Inspectoratul de Stat al Muncii” prin LP139 din 14.06.13, MO152-158/19.07.13 art.477
 În cuprinsul codului, sintagmele „protecţia şi igiena muncii” şi „protecţia muncii” se înlocuiesc cu sintagma „securitatea şi sănătatea în muncă” prin LP254 din 09.12.11, MO25-28/03.02.12 art.79
 În cuprinsul codului, sintagma „Ministerul Economiei şi Comerţului” se substituie prin sintagma „Ministerul Muncii, Protecţiei Sociale şi Familiei” prin LP109 din 04.06.10, MO131-134/30.07.10 art.443
@@ -112,7 +116,7 @@ Raporturile de muncă şi alte raporturi legate nemijlocit de acestea sînt regl
 a) hotărîrile Parlamentului;
 b) decretele Preşedintelui Republicii Moldova;
 c) hotărîrile şi dispoziţiile Guvernului;
-d) actele referitoare la muncă emise de Ministerul Muncii, Protecţiei Sociale şi Familiei, de alte autorităţi centrale de specialitate, în limita împuternicirilor delegate de Guvern;
+d) actele referitoare la muncă emise de Ministerul Sănătății, Muncii și Protecției Sociale, de alte autorităţi centrale de specialitate, în limita împuternicirilor delegate de Guvern;
 e) actele autorităţilor publice locale;
 f) actele normative la nivel de unitate;
 g) contractele colective de muncă şi convenţiile colective; precum şi
@@ -455,7 +459,7 @@ Articolul 37. Modul de elaborare a proiectului şi de
 (5) Convenţia colectivă este semnată de reprezentanţii părţilor.
 Articolul 38. Acţiunea convenţiei colective
 (1) Convenţia colectivă încheiată la nivel naţional (Convenţia generală) intră în vigoare la data publicării ei în Monitorul Oficial al Republicii Moldova.
-(2) Convenţiile colective de nivel ramural şi teritorial intră în vigoare la momentul semnării de către părţi sau la data stabilită în convenţie. Un exemplar al convenţiei colective de nivel ramural sau teritorial se remite de una dintre părţile semnatare, în termen de 7 zile calendaristice de la data încheierii, la Ministerul Muncii, Protecţiei Sociale şi Familiei.
+(2) Convenţiile colective de nivel ramural şi teritorial intră în vigoare la momentul semnării de către părţi sau la data stabilită în convenţie. Un exemplar al convenţiei colective de nivel ramural sau teritorial se remite de una dintre părţile semnatare, în termen de 7 zile calendaristice de la data încheierii, la Ministerul Sănătății, Muncii și Protecției Sociale.
 [Art.38 al.(2) în redacția LP205 din 20.11.15, MO340-346/18.12.15 art.658]
 (3) Termenul convenţiei colective este stabilit de părţi şi nu poate fi mai mic de un an.
 (4) În cazul în care salariaţii cad sub incidenţa concomitentă a mai multor convenţii colective, prioritate au dispoziţiile mai favorabile ale acestora.
@@ -1425,6 +1429,8 @@ parţial plătit pentru îngrijirea copilului
 (1) Femeilor salariate şi ucenicelor, precum şi soţiilor aflate la întreţinerea salariaţilor, li se acordă un concediu de maternitate ce include concediul prenatal cu o durată de 70 de zile calendaristice (în cazul sarcinilor cu 3 şi mai mulţi feţi – 112 zile calendaristice) şi concediul postnatal cu o durată de 56 de zile calendaristice (în cazul naşterilor complicate sau naşterii a doi sau mai mulţi copii – 70 de zile calendaristice), plătindu-li-se pentru această perioadă indemnizaţii în modul prevăzut la art.123 alin.(2).
 [Art.124 al.(1) modificat prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
 (2) În baza unei cereri scrise, persoanelor indicate la alin.(1), după expirarea concediului de maternitate, li se acordă un concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, cu achitarea indemnizaţiei din bugetul asigurărilor sociale de stat.
+(2) În baza unei cereri scrise, persoanelor asigurate indicate la alin. (1), după expirarea concediului de maternitate, li se acordă un concediu parțial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, cu achitarea indemnizației din bugetul asigurărilor sociale de stat.
+[Art.124 al.(2) în redacția LP184 din 26.07.18, MO336-346/07.09.18 art.567; în vigoare 01.01.19]
 [Art.124 al.(2) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 (3) Concediul parţial plătit pentru îngrijirea copilului poate fi folosit integral sau pe părţi în orice timp, pînă cînd copilul va împlini vîrsta de 3 ani. Acest concediu se include în vechimea în muncă, inclusiv în vechimea în muncă specială, şi în stagiul de cotizare.
 [Art.124 al.(3) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
@@ -1438,6 +1444,8 @@ Articolul 1241. Concediul paternal
 (2) Tatăl copilului nou-născut beneficiază de dreptul la un concediu paternal de 14 zile calendaristice.
 (3) Concediul paternal se acordă în baza unei cereri în formă scrisă, în primele 56 de zile de la naşterea copilului. La cerere se anexează o copie a certificatului de naştere al copilului.
 (4) Pe perioada concediului paternal, salariatul beneficiază de o indemnizaţie paternală care nu poate fi mai mică decît mărimea salariului mediu cuvenit pentru perioada respectivă și care este achitată din fondul de asigurări sociale. Indemnizația paternală pentru funcționarul public cu statut special se achită din bugetul de stat la locul de muncă al acestuia.
+(4) Pe perioada concediului paternal, salariatul beneficiază de o indemnizație paternală care nu poate fi mai mică decît venitul mediu lunar asigurat pentru perioada respectivă și care este achitată din bugetul asigurărilor sociale de stat.
+[Art.1241 al.(4) în redacția LP184 din 26.07.18, MO336-346/07.09.18 art.567; în vigoare 01.01.19]
 [Art.1241 al.(4) modificat prin LP28 din 17.03.17, MO134-143/28.04.17 art.214]
 (5) Angajatorul este obligat să încurajeze salariaţii în vederea beneficierii de concediu paternal.
 (6) Cazurile în care angajatorul creează situații cu efect de dezavantajare a angajaţilor care iau concediu paternal sînt considerate cazuri de discriminare din partea angajatorilor şi se sancţionează conform legii.
@@ -2189,7 +2197,7 @@ o) reglementarea asigurării salariaţilor cu echipament de protecţie individua
 (3) Realizarea politicii statului în domeniul securităţii şi sănătăţii în muncă se asigură prin acţiuni coordonate ale autorităţilor publice centrale şi locale, ale patronatelor, sindicatelor, angajatorilor, reprezentanţilor salariaţilor.
 Articolul 223. Coordonarea securităţii şi sănătăţii
 în muncă
-Ministerul Muncii, Protecţiei Sociale şi Familiei exercită coordonarea securităţii şi sănătăţii în muncă în Republica Moldova.
+Sănătății, Muncii și Protecției Sociale exercită coordonarea securităţii şi sănătăţii în muncă în Republica Moldova.
 Capitolul II
 ORGANIZAREA SECURITĂŢII ŞI SĂNĂTĂŢII ÎN MUNCĂ.
 ASIGURAREA DREPTULUI SALARIAŢILOR LA O MUNCĂ
@@ -2909,18 +2917,20 @@ Articolul 359. Procedura de conciliere
 (5) Preşedintele comisiei de conciliere este ales cu majoritatea voturilor membrilor comisiei.
 (6) Angajatorul este obligat să creeze condiţii normale de lucru comisiei de conciliere.
 (7) Dezbaterile comisiei de conciliere sînt consemnate într-un proces-verbal întocmit în 2 sau mai multe exemplare, după caz, în care se vor indica măsurile generale sau parţiale de soluţionare a conflictului, asupra cărora au convenit părţile.
-(8) În cazul în care membrii comisiei de conciliere au ajuns la o înţelegere asupra revendicărilor înaintate de reprezentanţii salariaţilor, comisia va adopta, în termen de 5 zile lucrătoare, o decizie obligatorie pentru părţile conflictului, pe care o va remite acestora în termen de 24 de ore din momentul adoptării.
+(8) Comisia conciliază părțile conflictului colectiv de muncă în termen de cel mult 10 zile lucrătoare de la data constituirii comisiei. Acest termen poate fi prelungit o singură dată prin acordul scris al membrilor comisiei. În cazul în care membrii comisiei de conciliere au ajuns la o înțelegere asupra revendicărilor înaintate, comisia va adopta o decizie obligatorie pentru părțile conflictului, pe care o va remite acestora în termen de 24 de ore din momentul adoptării.
+[Art.359 al.(8) în redacția LP123 din 12.07.18, MO277-284/27.07.18 art.423]
 [Art.359 al.(8) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 (9) Dacă membrii comisiei de conciliere nu au ajuns la o înţelegere, preşedintele comisiei va informa în scris despre acest lucru părţile conflictului în termen de 24 de ore.
-Articolul 360. Soluţionarea conflictelor colective
-de muncă în instanţa de judecată
-(1) În situaţia în care părţile conflictului nu au ajuns la o înţelegere sau nu sînt de acord cu decizia comisiei de conciliere, fiecare din ele este în drept să depună, în termen de 10 zile lucrătoare de la data adoptării deciziei sau primirii informaţiei respective (art.359 alin.(8) şi (9)), o cerere de soluţionare a conflictului în instanţa de judecată.
+Articolul 360. Soluţionarea conflictelor colective de muncă
+în instanţa de judecată
+(1) În situaţia în care părţile conflictului nu au ajuns la o înţelegere sau nu sînt de acord cu decizia comisiei de conciliere, fiecare dintre ele, în termen de 10 zile lucrătoare de la data expirării termenului de conciliere a conflictului colectiv de muncă de către comisia de conciliere sau, după caz, de la data adoptării deciziei sau a primirii informaţiei respective (art. 359 alin. (8) şi (9)), este în drept să depună o cerere de soluţionare a conflictului în instanţa de judecată.
+[Art.360 al.(1) în redacția LP123 din 12.07.18, MO277-284/27.07.18 art.423]
 [Art.360 al.(1) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 (2) Instanţa de judecată va convoca părţile conflictului în timp de 10 zile lucrătoare de la data înregistrării cererii.
 [Art.360 al.(2) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
 (3) Instanţa de judecată va examina cererea de soluţionare a conflictului colectiv de muncă în termen de cel mult 30 de zile lucrătoare de la data înregistrării acesteia şi va emite o hotărîre cu drept de atac conform Codului de procedură civilă.
 [Art.360 al.(3) modificat prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
-[Art. 360 al.(3) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
+[Art.360 al.(3) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
 (4) Instanţa de judecată va remite hotărîrea sa părţilor în termen de 3 zile calendaristice de la data emiterii.
 Articolul 361. Constatarea nulităţii contractului colectiv
 de muncă sau a convenţiei colective şi a
@@ -3008,7 +3018,7 @@ c) sindicate.
 Capitolul II
 SUPRAVEGHEREA ŞI CONTROLUL DE STAT
 Articolul 372. Inspectoratul de Stat al Muncii
-(1) Inspectoratul de Stat al Muncii este autoritate administrativă, subordonată Ministerului Muncii şi Protecţiei Sociale, care exercită controlul de stat asupra respectării actelor legislative şi a altor acte normative ce conţin norme ale dreptului muncii, cu excepția legislației privind securitatea și sănătatea în muncă, a convenţiilor colective şi a contractelor colective de muncă la toate unităţile, de către angajatori persoane fizice, precum şi în autorităţile publice centrale şi locale.
+(1) Inspectoratul de Stat al Muncii este autoritate administrativă, subordonată Ministerului Sănătății, Muncii și Protecției Sociale, care exercită controlul de stat asupra respectării actelor legislative şi a altor acte normative ce conţin norme ale dreptului muncii, cu excepția legislației privind securitatea și sănătatea în muncă, a convenţiilor colective şi a contractelor colective de muncă la toate unităţile, de către angajatori persoane fizice, precum şi în autorităţile publice centrale şi locale.
 [Art.372 al.(1) modificat prin LP185 din 21.09.17, MO371-382/27.10.17 art.632; în vigoare 27.10.17]
 [Art.372 al.(1) modificat prin LP139 din 14.06.13, MO152-158/19.07.13 art.477]
 [Art. 372 al.(1) modificat prin LP60-XVI din 21.03.08, MO115-116/01.07.08 art.441]
