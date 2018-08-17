@@ -14,6 +14,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18
 LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP66 din 24.05.18, MO181/01.06.18 art.327; în vigoare 01.06.18
 HCC12 din 14.05.18, MO176-180/01.06.18 art.88; în vigoare 14.05.18
@@ -642,6 +643,8 @@ de pedeapsa penală
 (2) Liberarea de pedeapsa penală se efectuează prin:
 a) condamnarea cu suspendare condiţionată a executării pedepsei;
 b) liberarea condiţionată de pedeapsă înainte de termen;
+b1) liberarea de pedeapsă în cazul săvîrșirii infracțiunii pentru prima oară și al reparării prejudiciului;
+[Art.89 al.(2), lit.b1) introdusă prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 c) înlocuirea părţii neexecutate din pedeapsă cu o pedeapsă mai blîndă;
 d) liberarea de pedeapsă a minorilor;
 e) liberarea de pedeapsă datorită schimbării situaţiei;
@@ -738,6 +741,16 @@ a) condamnatul se eschivează cu premeditare de la îndeplinirea obligaţiilor s
 [Art.91 al.(8), lit.a) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 b) condamnatul săvîrşeşte din imprudenţă o nouă infracţiune, anularea sau menţinerea liberării condiţionate de pedeapsă înainte de termen se decide de instanţa de judecată;
 c) condamnatul săvîrşeşte cu intenţie o nouă infracţiune, instanţa de judecată îi stabileşte pedeapsa în condiţiile art.85. În acelaşi mod se aplică pedeapsa şi în cazul săvîrşirii unei noi infracţiuni din imprudenţă dacă instanţa de judecată anulează liberarea condiţionată de pedeapsă înainte de termen.
+Articolul 911. Liberarea de pedeapsă penală
+în cazul săvîrșirii infracțiunii
+pentru prima oară și al reparării
+prejudiciului
+(1) Persoana este liberată de pedeapsă penală în cazul săvîrșirii unei infracțiuni prevăzute la art. 241, 242, 244, 2441, 246, 2461, 250, 257, 258 și 262 din Partea specială a prezentului cod dacă întrunește cumulativ următoarele condiții:
+a) nu a fost liberată anterior de pedeapsă penală pentru comiterea aceleiași fapte;
+b) a înlăturat încălcările și a reparat prejudiciul cauzat prin infracțiune;
+c) a achitat la bugetul de stat o sumă egală cu valoarea prejudiciului material cauzat, dar nu mai mică decît dublul limitei maxime a amenzii prevăzute de sancțiunea articolului corespunzător din Partea specială a codului.
+(2) Persoana este liberată de pedeapsă penală în condițiile alin. (1) doar dacă fapta nu a fost săvîrșită prin aplicarea constrîngerii fizice sau psihice, nu s-a soldat cu cauzarea de prejudicii vieții și sănătății persoanei sau nu a fost săvîrșită de un grup criminal organizat sau de o organizație criminală.
+[Art.911 introdus prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 Articolul 92. Înlocuirea părţii neexecutate din pedeapsă
 cu o pedeapsă mai blîndă
 (1) În privinţa persoanelor care execută pedeapsa cu închisoare pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave și grave, instanţa de judecată, ţinînd cont de comportarea lor în timpul executării pedepsei, poate pronunţa o încheiere cu privire la înlocuirea părţii neexecutate din pedeapsă cu o pedeapsă mai blîndă. Totodată, persoana poate fi liberată, în întregime sau parţial, de la pedeapsa complementară.
@@ -1014,13 +1027,7 @@ Articolul 124. Persoana care gestionează o organizaţie
 comercială, obştească sau altă organizaţie
 nestatală
 Prin persoană care gestionează o organizaţie comercială, obştească sau altă organizaţie nestatală se înţelege persoana căreia, în organizaţia indicată sau într-o subdiviziune a acesteia, i se acordă, permanent sau provizoriu, prin numire, alegere sau în virtutea unei însărcinări, anumite drepturi şi obligaţii în vederea exercitării funcţiilor sau acţiunilor administrative de dispoziţie ori organizatorico-economice.
-Articolul 125. Desfăşurarea ilegală a activităţii
-de întreprinzător
-Prin desfăşurare ilegală a activităţii de întreprinzător se înţelege:
-a) desfăşurarea activităţii de întreprinzător fără înregistrarea (reînregistrarea) la organele autorizate;
-b) desfăşurarea unor genuri de activitate interzise de legislaţie;
-c) desfăşurarea activităţii de întreprinzător prin intermediul filialelor, reprezentanţelor, sucursalelor, secţiilor, magazinelor, depozitelor, unităţilor comerciale şi altor unităţi neînregistrate în modul stabilit de legislaţie;
-d) desfăşurarea activităţii de întreprinzător fără utilizarea mărcilor comerciale şi de fabrică şi fără indicarea în documente a codurilor fiscale, în cazul cînd folosirea sau indicarea lor este prevăzută de legislaţie, ori desfăşurarea acestei activităţi cu utilizarea unor coduri fiscale străine sau plastografiate.
+[Art.125 abrogat prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 Articolul 126. Proporţii deosebit de mari, proporţii
 mari, daune considerabile şi daune
 esenţiale
@@ -2072,13 +2079,14 @@ se pedepsesc cu închisoare de la 11 la 13 ani.
 se pedepsesc cu închisoare de la 13 la 15 ani.
 [Art.189 al.(6) sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 Articolul 190. Escrocheria
-(1) Escrocheria, adică dobîndirea ilicită a bunurilor altei persoane prin înşelăciune sau abuz de încredere,
+(1) Escrocheria, adică dobîndirea ilicită a bunurilor altei persoane prin inducerea în eroare a unei sau a mai multor persoane prin prezentarea ca adevărată a unei fapte mincinoase sau ca mincinoasă a unei fapte adevărate, în privința naturii, calităților substanțiale ale obiectului, părților (în cazul în care identitatea acestora este motivul determinant al încheierii actului juridic) actului juridic nul sau anulabil, ori dacă încheierea acestuia este determinată de comportamentul dolosiv sau viclean care a produs daune considerabile,
+[Art.190 al.(1) dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 240 de ore, sau cu închisoare de pînă la 3 ani.
-[Art.190 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.190 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Escrocheria săvîrşită:
 a)- exclusă
 b) de două sau mai multe persoane;
-c) cu cauzarea de daune în proporţii considerabile;
+[Art.190 al.(2), lit.c) exclusă prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 d) cu folosirea situaţiei de serviciu
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de la 2 la 6 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.190 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2097,7 +2105,8 @@ se pedepsesc cu închisoare de la 7 la 10 ani cu privarea de dreptul de a ocupa 
 [Art.190 al.(5), dispoziția modificată prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 se pedepsesc cu închisoare de la 8 la 15 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 Articolul 191. Delapidarea averii străine
-(1) Delapidarea averii străine, adică însuşirea ilegală a bunurilor altei persoane, încredinţate în administrarea vinovatului,
+(1) Delapidarea averii străine, adică însușirea, dispunerea sau folosirea ilegală a bunurilor altei sau ale altor persoane de către cel căruia i-au fost încredințate în baza unui titlu și cu un anumit scop ori refuzul de a le restitui, care a produs daune considerabile,
+[Art.191 al.(1) dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 se pedepseşte cu amendă în mărime de pînă la 850 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.191 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Delapidarea averii străine, săvîrşită:
@@ -2897,21 +2906,17 @@ b) în proporţii deosebit de mari;
 c) de o persoană publică, de o persoană cu funcţie de răspundere, de o persoană cu funcţie de demnitate publică, de o persoană publică străină sau de un funcţionar internaţional
 se pedepsesc cu amendă în mărime de la 6000 la 8000 de unităţi convenţionale sau cu închisoare de la 6 la 10 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 4 la 7 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 7000 la 9000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 4 la 5 ani sau cu lichidarea persoanei juridice.
 [Art.240 în redacția LP105 din 26.05.16, MO184-192/01.07.16 art.391]
-Articolul 2401. Comercializarea motorinei importate pentru
-consum propriu sau utilizarea acesteia contrar
-destinației
-(1) Comercializarea pe piaţa internă a motorinei importate pentru consum propriu sau utilizarea ei în alte scopuri decît pentru consum propriu, săvîrșită în proporții ce depășesc 500 de unități convenționale,
-se pedepsește cu amendă în mărime de la 850 la 1350 de unități convenționale sau cu muncă neremunerată în folosul comunității de la 180 la 240 de ore, sau cu închisoare de pînă la 1 an, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcții sau de a exercita o anumită activitate pe un termen de pînă la 3 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 2000 la 5000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate.
-[Art.2401 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(2) Aceleași acțiuni săvîrșite în proporţii mari sau deosebit de mari
-se pedepsesc cu amendă în mărime de la 1350 la 5350 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 6000 la 11000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-[Art.2401 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-[Art.2401 introdusă prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
+[Art.2401 abrogat prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+[Art.2401 modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.2401 introdus prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
 Articolul 241. Practicarea ilegală a activităţii
 de întreprinzător
-(1) Practicarea ilegală a activităţii de întreprinzător, soldată cu obţinerea unui profit în proporţii mari,
-se pedepseşte cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de pînă la 200 de ore, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
-[Art.241 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+(1) Practicarea ilegală a activității de întreprinzător, soldată cu obținerea unui profit în proporții mari, săvîrșită prin:
+a) desfășurarea activității fără înregistrare (reînregistrare), licență și/sau fără autorizare obligatorii, conform legii, pentru desfășurarea activității în cauză;
+b) desfășurarea unor genuri de activitate interzise de lege,
+se pedepsește cu amendă în mărime de la 1350 la 2350 de unități convenționale sau cu muncă neremunerată în folosul comunității de pînă la 200 de ore, iar persoana juridică se pedepsește cu amendă în mărime de la 2000 la 4000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate.
+[Art.241 al.(1) în redacția prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+[Art.241 modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită:
 a) - exclusă
 b) de două sau mai multe persoane;
@@ -2919,20 +2924,24 @@ c) cu folosirea situaţiei de serviciu;
 d) - exclusă
 e) - exclusă
 f) cu obţinerea unui profit în proporţii deosebit de mari
-se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+[Art.241 al.(2), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.241 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 2411. Practicarea ilegală a activităţii financiare
 (1) Practicarea activităţii financiare fără înregistrare şi/sau fără autorizare (licenţiere), în modul prevăzut de legislaţie, dacă aceasta a cauzat daune în proporţii mari
 [Art.2411 al.(1) dispoziția modificată prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
-se pedepseşte cu amendă în mărime de la 500 la 750 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
+se pedepseşte cu amendă în mărime de la 1000 la 1500 de unităţi convenţionale.
+[Art.2411 al.(1), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.2411 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune care a cauzat daune în proporţii deosebit de mari
-se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de la 2 pînă la 6 ani.
+se pedepseşte cu amendă în mărime de la 1700 la 2700 de unităţi convenţionale sau cu închisoare de la 2 pînă la 5 ani.
+[Art.2411 al.(2), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.2411 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2411 introdus prin LP128 din 08.06.12, MO143-148/13.07.12 art.473]
 Articolul 242. Pseudoactivitatea de întreprinzător
 Pseudoactivitatea de întreprinzător, adică crearea de întreprinderi fără intenţia de a desfăşura activitatea de întreprinzător sau bancară pentru acoperirea genurilor activităţii de întreprinzător ilicite, dacă aceasta a cauzat daune în proporţii mari,
-se pedepseşte cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+se pedepseşte cu amendă în mărime de la 2025 la 3525 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+[Art.242 sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.242 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 2421. Manipularea unui eveniment
 (1) Încurajarea, influenţarea sau instruirea unui participant la un eveniment sportiv sau la un eveniment de pariat să întreprindă acţiuni care ar produce un efect viciat asupra evenimentului respectiv, cu scopul de a obţine bunuri, servicii, privilegii sau avantaje sub orice formă, care nu i se cuvin, pentru sine sau pentru o altă persoană,
@@ -2944,12 +2953,14 @@ se pedepsesc cu amendă de la 3350 la 5350 de unităţi convenţionale sau cu î
 [Art.2421 introdus prin LP38 din 21.03.13,MO75-81/12.04.13 art.233]
 Articolul 2422. Pariurile aranjate
 (1) Parierea pe un eveniment sportiv sau pe un alt eveniment de pariat fie informarea altor persoane despre existenţa unei înţelegeri în privinţa trucării acelui eveniment în intenţia de a le determina să participe la pariul respectiv, săvîrşită de către o persoană care cunoaşte cu certitudine despre existenţa unei înţelegeri privind trucarea acelui eveniment,
-se pedepseşte cu amendă de la 2350 la 4350 de unităţi convenţionale sau cu închisoare de la 1 la 3 ani, iar persoana juridică se pedepseşte cu amendă de la 6000 la 8000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+se pedepseşte cu amendă de la 2350 la 4350 de unităţi convenţionale, iar persoana juridică se pedepseşte cu amendă de la 6000 la 8000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+[Art.2422 al.(1), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.2422 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Acţiunile prevăzute la alin. (1):
 a) săvîrşite de un grup criminal organizat sau de o organizaţie criminală;
 b) care au cauzat daune în proporţii deosebit de mari,
-se pedepsesc cu amendă de la 3350 la 5350 de unităţi convenţionale sau cu închisoare de la 2 la 6 ani, iar persoana juridică se pedepseşte cu amendă de la 9000 la 11000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+se pedepsesc cu amendă de la 3350 la 5350 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă de la 9000 la 11000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+[Art.2422 al.(2), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.2422 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2422 introdus prin LP38 din 21.03.13,MO75-81/12.04.13 art.233]
 Articolul 243. Spălarea banilor
@@ -2976,22 +2987,27 @@ se pedepsesc cu închisoare de la 5 la 10 ani, cu amendă, aplicată persoanei j
 (4) Acţiuni ilicite constituie şi faptele comise în afara teritoriului ţării dacă acestea conţin elementele constitutive ale unei infracţiuni în statul în care au fost comise şi pot constitui elementele constitutive ale unei infracţiuni comise pe teritoriul Republicii Moldova.
 Articolul 244. Evaziunea fiscală a întreprinderilor,
 instituţiilor şi organizaţiilor
-(1) Evaziunea fiscală a întreprinderilor, instituţiilor şi organizaţiilor fie prin includerea în documentele contabile, fiscale sau financiare a unor date denaturate privind veniturile sau cheltuielile, a unor cheltuieli care nu au la bază operaţiuni reale ori care au la bază operaţiuni ce nu au existat, fie prin tăinuirea unor obiecte impozabile, dacă suma impozitului care trebuia să fie plătit depăşeşte 1500 unităţi convenţionale,
-se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 3000 la 6000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
-[Art.244 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+(1) Evaziunea fiscală a întreprinderilor, instituțiilor și organizațiilor prin includerea intenționată în documentele contabile, fiscale şi/sau financiare, inclusiv în cele electronice, a unor date vădit denaturate privind veniturile sau cheltuielile care nu au la bază operațiuni reale ori care au la bază operațiuni ce nu au existat, fie prin tăinuirea intenționată a unor obiecte impozabile, acte contabile, fiscale şi/sau financiare, dacă suma cumulativă a impozitului, taxei prevăzute de Codul fiscal, contribuției de asigurări sociale de stat obligatorii sau primei de asigurare obligatorie de asistență medicală aferente unui an fiscal depășește 50 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei,
+se pedepsește cu amendă în mărime de la 3500 la 5000 de unități convenționale sau cu închisoare de pînă la 2 ani și 6 luni, cu privarea de dreptul de a ocupa anumite funcții sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 5000 la 8000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate.
+[Art.244 al.(1) în redacția LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+[Art.244 al.(1)modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.244 al.(1) în redacţia LP262 din 19.12.11, MO21-24/27.01.12 art.54]
 (2) Aceeaşi acţiune:
 a) - exclusă
-b) care a condus la neachitarea impozitului în proporţii deosebit de mari
-se pedepseşte cu amendă în mărime de la 3350 la 5350 unităţi convenţionale sau cu închisoare de pînă la 6 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+b) dacă suma cumulativă a impozitului, taxei prevăzute de Codul fiscal, contribuției de asigurări sociale de stat obligatorii sau primei de asigurare obligatorie de asistență medicală aferente unui an fiscal depășește 100 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei,
+[Art.244 al.(2), lit.b) în redacția LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+se pedepsește cu amendă în mărime de la 5000 la 7000 de unități convenționale sau cu închisoare de pînă la 5 ani cu privarea de dreptul de a ocupa anumite funcții sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 10000 la 16000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
+[Art.244 al.(2), sancțiunea în redacția LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.244 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.244 al.(2) sancţiunea în redacţia LP262 din 19.12.11, MO21-24/27.01.12 art.54]
 Articolul 2441. Evaziunea fiscală a persoanelor fizice
 (1) Evaziunea fiscală a persoanelor fizice care nu practică activitate de întreprinzător prin eschivarea de la prezentarea declaraţiei cu privire la impozitul pe venit sau prin includerea în declaraţie a unor date denaturate, dacă suma impozitului pe venit care trebuia să fie achitat depăşeşte 2500 de unităţi convenţionale,
-se pedepseşte cu amendă în mărime de la 1350 la 2350 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 1 an.
+se pedepseşte cu amendă în mărime de la 1350 la 2350 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore.
+[Art.2441 al.(1), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.2441 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune care a condus la neachitarea impozitului în proporţii deosebit de mari
-se pedepseşte cu amendă în mărime de la 2350 la 3350 de unităţi convenţionale sau cu închisoare de pînă la 3 ani.
+se pedepseşte cu amendă în mărime de la 2350 la 3350 de unităţi convenţionale sau cu închisoare de pînă la 1 an.
+[Art.2441 al.(2), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.2441 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2441 introdus prin LP206 din 21.10.11, MO197-202/18.11.11 art.571]
 Articolul 245. Abuzurile la emiterea instrumentelor financiare
@@ -3170,8 +3186,10 @@ se pedepsesc cu amendă în mărime de la 1350 la 3350 de unități convenționa
 [Art.24512 al.(4) introdus prin LP149 din 14.07.17, MO277-288/04.08.17 art.481]
 [Art.24512 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 246. Limitarea concurenţei libere
-Limitarea concurenţei libere prin încheierea unui acord ilegal care prevede diviziunea pieţei, limitarea accesului la piaţă, cu înlăturarea altor agenţi economici, majorarea sau menţinerea preţurilor unice, dacă prin aceasta a fost obţinut un profit în proporţii deosebit de mari sau au fost cauzate daune în proporţii deosebit de mari unei terţe persoane,
-se pedepseşte cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
+(1) Limitarea concurenţei libere prin încheierea unui acord anticoncurenţial orizontal care constituie un cartel dur interzis de legislaţia din domeniul concurenţei, care are ca obiect fixarea preţurilor de vînzare a produselor către terţi, limitarea producţiei sau a vînzărilor, împărţirea pieţelor sau a clienţilor sau participarea cu oferte trucate la licitaţii sau la alte forme de concurs de oferte, dacă prin aceasta a fost obţinut un profit în proporţii deosebit de mari sau au fost cauzate daune în proporţii deosebit de mari unei terţe persoane,
+se pedepseşte cu amendă în mărime de la 3000 la 4000 de unităţi convenţionale sau cu închisoare de pînă la 3 ani.
+(2) Persoana care a săvîrșit fapta prevăzută la alin. (1) este liberată de răspundere penală în cazul în care aceasta beneficiază de clemenţă conform legislaţiei din domeniul concurenţei.
+[Art.246 în redacția LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.246 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 2461. Concurenţa neloială
 Orice act de concurenţă neloială, inclusiv:
@@ -3203,8 +3221,10 @@ c) de un grup criminal organizat sau de o organizaţie criminală
 se pedepseşte cu amendă în mărime de la 6000 la 7000 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
 [Art.247 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 248. Contrabanda
-(1) Trecerea peste frontiera vamală a Republicii Moldova a mărfurilor, obiectelor şi a altor valori în proporţii mari, eludîndu-se controlul vamal ori tăinuindu-le de el, prin ascundere în locuri special pregătite sau adaptate în acest scop, ori cu folosirea frauduloasă a documentelor sau a mijloacelor de identificare vamală, ori prin nedeclarare sau declarare neautentică în documentele vamale sau în alte documente de trecere a frontierei,
-se pedepseşte cu amendă în mărime de la 500 la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore sau cu închisoare de pînă la 2 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+(1) Trecerea peste frontiera vamală a Republicii Moldova a bunurilor valoarea cărora depășește 100 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei, eludîndu-se controlul vamal ori tăinuindu-le de el, prin ascundere în locuri special pregătite sau adaptate în acest scop, ori cu folosirea frauduloasă a documentelor sau a mijloacelor de identificare vamală, ori prin nedeclarare sau declarare neautentică în documentele vamale sau în alte documente de trecere a frontierei,
+[Art.248 al.(1), dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+se pedepseşte cu amendă în mărime de la 1500 la 2000 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore sau cu închisoare de pînă la 2 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
+[Art.248 al.(1), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.248 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Trecerea peste frontiera vamală a Republicii Moldova a substanțe stupefiante cu efecte puternice, toxice, otrăvitoare, radioactive şi explozive, precum şi a deşeurilor nocive şi a produselor cu destinaţie dublă, eludîndu-se controlul vamal ori tăinuindu-le de el, prin ascundere în locuri special pregătite sau adaptate în acest scop, ori cu folosirea frauduloasă a documentelor sau a mijloacelor de identificare vamală, ori prin nedeclarare sau declarare neautentică în documentele vamale sau în alte documente de trecere a frontierei,
 [Art.248 al.(2), dispoziția modificată prin LP141 din 13.07.17, MO277-288/04.08.17 art.469]
@@ -3220,13 +3240,16 @@ se pedepsesc cu închisoare de la 3 la 8 ani, iar persoana juridică se pedepse�
 a) - exclusă
 b) de două sau mai multe persoane;
 c) de o persoană cu funcţie de răspundere, cu folosirea situaţiei de serviciu;
-d) în proporţii deosebit de mari,
+d) în valoarea sumei drepturilor de import care depășește 200 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei,
+[Art.248 al.(5), lit.d) în redacția LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 se pedepsesc cu închisoare de la 3 la 10 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 11000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
-[Art.247 al.(5), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.248 al.(5), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (6) - exclus
 Articolul 249. Eschivarea de la achitarea
-plăţilor vamale
-(1) Eschivarea de la achitarea plăţilor vamale în proporţii mari
+drepturilor de import
+[Art.249 denumirea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+(1) Eschivarea de la achitarea drepturilor de import care depășește 100 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei
+[Art.249 al.(1) dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 180 de ore, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 3000 unităţi convenţionale.
 [Art.249 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită:
@@ -3234,7 +3257,8 @@ a) - exclusă
 b) de două sau mai multe persoane
 se pedepseşte cu amendă în mărime de la 650 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, cu amendă, aplicată persoanei juridice, în mărime de la 2500 la 3000 unităţi convenţionale.
 [Art.249 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(3) Eschivarea de la achitarea plăţilor vamale în proporţii deosebit de mari
+(3) Eschivarea de la achitarea drepturilor de import care depășește 200 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei
+[Art.249 al.(3) dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, cu amendă, aplicată persoanei juridice, în mărime de la 3000 la 6000 unităţi convenţionale.
 [Art.247 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 250. Transportarea, păstrarea sau
@@ -3253,7 +3277,8 @@ Articolul 2501. Fabricarea ilegală a semnelor de
 marcare de stat, punerea în circulaţie
 şi utilizarea acestora
 (1) Falsificarea semnelor de marcare de stat, punerea în circulaţie şi utilizarea acestora, precum şi fabricarea, comercializarea articolelor din metale preţioase şi pietre preţioase cu marcaj fals
-se pedepsesc cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de pînă la 5 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 8000 la 11000 unităţi convenţionale sau cu privarea de a exercita o anumită activitate, sau cu lichidarea persoanei juridice.
+se pedepsesc cu amendă în mărime de la 2025 la 3525 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 8000 la 11000 unităţi convenţionale sau cu privarea de a exercita o anumită activitate, sau cu lichidarea persoanei juridice.
+[Art.2501 al.(1), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.2501 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni săvîrşite:
 a) de un grup criminal organizat sau de o organizaţie criminală;
@@ -4243,6 +4268,9 @@ se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale
 [Art.328 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.328 al.(1), sancţiunea modificată prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
 [Art.328 sancţiunea modificată prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
+(11) Refuzul neîntemeiat de eliberare a actului permisiv care a condus la restrîngerea dreptului de desfășurare a activității de întreprinzător, inclusiv desfășurarea neîntemeiată a unor controale, dacă aceasta a cauzat daune drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice, în valoare de cel puțin 10 salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei,
+se pedepsește cu amendă de la 1200 la 4000 de unități convenționale sau cu închisoare de pînă la 6 luni, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcții sau de a exercita o anumită activitate pe un termen de la 2 pînă la 5 ani.
+[Art.328 al.(11) introdus prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 (2) Aceleaşi acţiuni însoţite:
 [Art.328 al.(2), lit.a) abrogată prin LP252 din 08.11.12, MO263-269/21.12.12 art.855]
 b) de aplicarea armei;
