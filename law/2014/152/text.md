@@ -14,6 +14,7 @@ Nr. 319-324
 art Nr : 634
 Data intrarii in vigoare : 23.11.2014
 MODIFICAT
+LP140 din 27.07.18, MO309-320/17.08.18 art.478; în vigoare 17.08.18
 LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP36 din 16.03.18, MO126-132/20.04.18 art.251
 LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18
@@ -259,8 +260,8 @@ b) în învăţămîntul profesional tehnic şi în învăţămîntul superior:
 (8) Agenţia Națională de Asigurare a Calității în Educație și Cercetare activează în baza regulamentului aprobat de Guvern, în condiţiile prezentului cod.
 [Art.8 al.(9) abrogat prin LP190 din 21.09.17, MO364-370/20.10.17 art.624; în vigoare 20.02.18]
 (10) Actele administrative şi deciziile de interes general aprobate de entităţile sistemului de învăţămînt se publică pe paginile web oficiale ale autorităţilor şi instituţiilor respective.
-Articolul 19. Sprijinirea elevilor şi studenţilor
-capabili de performanţe înalte
+Articolul 19. Sprijinirea elevilor şi studenţilor capabili
+de performanţe înalte
 (1) Statul sprijină elevii şi studenţii capabili de performanţe înalte în instituţiile de învăţămînt, inclusiv în centrele de excelenţă.
 (2) Coordonarea acţiunilor prevăzute la alin. (1) este asigurată de Ministerul Educației, Culturii și Cercetării.
 (3) Resursele umane, curriculare, informaţionale, materiale şi financiare pentru susţinerea elevilor şi studenţilor capabili de performanţe înalte se asigură de instituţiile de învăţămînt şi de alte entităţi conform metodologiei aprobate de Ministerul Educaţiei, Culturii și Cercetării.
@@ -288,8 +289,8 @@ e) asigură armonizarea componentei şcolare a curriculumului cu cerinţele, int
 (5) În învăţămîntul general, instituţiile de învăţămînt pot organiza, în caz de necesitate, prestarea de servicii logopedice, de asistenţă psihopedagogică etc., în modul stabilit de Guvern.
 (6) Activitatea instituţiilor de învăţămînt general este regle­mentată printr-un regulament-tip aprobat de Ministerul Educației, Culturii și Cercetării.
 (7) Instituţiile de învăţămînt general sînt obligate să prezinte anual organului local de specialitate în domeniul învăţămîntului un raport de activitate care se publică pe pagina web oficială a acestuia. Procedura de publicare a raportului este stabilită de Ministerul Educației, Culturii și Cercetării.
-Articolul 21. Înfiinţarea, reorganizarea şi lichidarea
-instituţiilor de învăţămînt general
+Articolul 21. Înfiinţarea, reorganizarea şi lichidarea instituţiilor
+de învăţămînt general
 (1) Instituţiile publice de educaţie timpurie (educaţie antepreşcolară şi învăţămînt preşcolar) şi de învăţămînt extraşcolar (de nivel local) sînt înfiinţate, reorganizate şi lichidate de către autorităţile administraţiei publice locale de nivelul întîi. Instituţiile publice de învăţămînt primar, gimnazial, liceal şi extraşcolar (de nivel raional) sînt înfiinţate, reorganizate şi lichidate de către autorităţile administraţiei publice locale de nivelul al doilea şi ale UTA Găgăuzia. Autorităţile administraţiei publice locale au obligaţia de a asigura buna funcţionare a acestor instituţii în conformitate cu regulamentele şi standardele aprobate de Ministerul Educației, Culturii și Cercetării.
 (2) Autorităţile administraţiei publice locale fondatoare sînt obligate să stabilească districte şcolare pentru fiecare instituţie publică de învăţămînt preşcolar, de învăţămînt primar şi/sau gimnazial.
 (3) Instituţiile publice de învăţămînt special şi de învăţămînt profesional tehnic sînt înfiinţate, reorganizate şi lichidate la iniţiativa fondatorilor, cu aprobarea Guvernului.
@@ -357,11 +358,11 @@ b) vocaţională, cu profilurile de arte, de sport, teologic, militar.
 (12) Elevilor care nu au promovat examenul naţional de bacalaureat li se eliberează un certificat de studii liceale, care conferă dreptul de a urma programe de pregătire profesională în instituţii de învăţămînt profesional tehnic secundar şi profesional tehnic postsecundar.
 Capitolul VI. Învăţămîntul pentru copiii şi elevii
 cu cerinţe educaţionale speciale. Educaţia incluzivă
-Articolul 32. Învăţămîntul pentru copiii şi elevii
-cu cerinţe educaţionale speciale
+Articolul 32. Învăţămîntul pentru copiii şi elevii cu cerinţe
+educaţionale speciale
 Învăţămîntul pentru copiii şi elevii cu cerinţe educaţionale spe­ciale este parte integrantă a sistemului de învăţămînt şi are drept scop educarea, reabilitarea şi/sau recuperarea şi incluziunea educaţională, socială şi profesională a persoanelor cu dificultăţi de învăţare, de comunicare şi inter­acţiune, cu deficienţe senzoriale şi fizice, emoţionale şi comportamentale, sociale.
-Articolul 33. Organizarea învăţămîntului pentru copiii
-şi elevii cu cerinţe educaţionale speciale
+Articolul 33. Organizarea învăţămîntului pentru copiii şi elevii
+cu cerinţe educaţionale speciale
 (1) Învăţămîntul pentru copiii şi elevii cu cerinţe educaţionale spe­ciale este gratuit, se organizează în instituţiile de învăţămînt general, inclusiv în instituţiile de învăţămînt spe­cial, sau prin învăţămînt la domiciliu.
 (2) Statul asigură integrarea în sistemul de învăţămînt a copiilor şi elevilor cu cerinţe educaţionale speciale prin:
 a) înscrierea copilului sau elevului cu cerinţe educaţionale speciale în grupa sau clasa corespunzătoare din instituţia de învăţămînt special;
@@ -473,8 +474,8 @@ de specialitate în domeniul învăţămîntului
 (2) Consiliul de administraţie se constituie prin ordinul conducătorului organului local de specialitate în domeniul învăţămîntului.
 (3) Componenţa nominală a consiliului consultativ se aprobă prin decizia autorităţii administraţiei publice locale de nivelul al doilea, iar în UTA Găgăuzia – prin hotărîrea Adunării Populare a Găgăuziei.
 (4) Conducătorul organului local de specialitate în domeniul învăţămîntului este desemnat prin concurs, în modul stabilit de Ministerul Educației, Culturii și Cercetării, şi numit în funcţie, pentru un termen de 4 ani, prin decizia autorităţii administraţiei publice locale de nivelul al doilea/prin hotărîrea Adunării Populare a Găgăuziei. Una şi aceeaşi persoană poate deţine funcţia de conducător al organului local de specialitate în domeniul învăţămîntului pentru cel mult două termene consecutive.
-Articolul 49. Organele de conducere ale instituţiei
-de învăţămînt general
+Articolul 49. Organele de conducere ale instituţiei de învăţămînt
+general
 (1) La nivelul instituţiei de învăţămînt general funcţionează:
 a) consiliul de administraţie al instituţiei de învăţămînt, cu rol de decizie în domeniul administrativ, care este format din: director, un direc­tor adjunct, un reprezentant delegat de administraţia publică din unitatea administrativ-teritorială de nivelul întîi în care se află instituţia, trei reprezentanţi ai părinţilor, delegaţi de adunarea generală a părinţilor, doi reprezentanţi ai cadrelor didactice, delegaţi de consilul profesoral, şi un reprezentant al elevilor, delegat de consiliul elevilor din instituţie;
 b) consiliul profesoral al instituţiei de învăţămînt, cu rol de decizie în domeniul educaţional, care este format din personalul didactic din instituţia respectivă şi este condus de directorul instituţiei de învăţămînt.
@@ -519,8 +520,8 @@ a personalului
 (5) Schema de încadrare a personalului în instituţiile de învăţămînt publice este elaborată în fiecare an de către conducerea instituţiei de învăţămînt, în funcţie de numărul de clase, este avizată de consiliul de administraţie al instituţiei şi prezentată pentru aprobare organului local de specialitate în domeniul învăţămîntului pînă la sfîrşitul lunii martie.
 (6) Numărul de clase şi schema de încadrare a personalului pentru instituţiile de învăţămînt publice aprobate sînt comunicate instituţiilor de învăţămînt pînă la sfîrşitul lunii aprilie. Instituţiile de învăţămînt sînt obligate să facă public numărul de clase pînă la sfîrşitul lunii mai.
 (7) Numărul de clase şi schema de încadrare servesc drept bază pentru planificarea instituţională, angajarea de personal, precum şi pentru elaborarea proiectului bugetului.
-Articolul 52. Preluarea managementului instituţiei de
-învăţămînt în caz de gestionare defectuoasă
+Articolul 52. Preluarea managementului instituţiei de învăţămînt
+în caz de gestionare defectuoasă
 (1) În caz de gestionare defectuoasă a instituţiei publice de învăţămînt general, constatată într-un raport de evaluare al Agenţiei Naționale de Asigurare a Calității în Educație și Cercetare, Ministerul Educației, Culturii și Cercetării are dreptul să preia de la autoritatea publică respectivă managementul instituţiei respective şi finanţarea aferentă acesteia.
 (2) Criteriile şi procedurile de preluare a managementului, în caz de gestionare defectuoasă a instituţiei de învăţămînt general, sînt stabilite de Ministerul Educației, Culturii și Cercetării.
 (3) După preluarea de către Ministerul Educației, Culturii și Cercetării a managementului instituţiei publice de învăţămînt general, contractul individual de muncă încheiat cu directorul instituţiei de învăţămînt în cauză se reziliază.
@@ -571,8 +572,7 @@ g) activităţi de elaborare a planurilor educaţionale individualizate şi de p
 Articolul 56. Grade didactice şi manageriale
 (1) Cadrelor didactice şi de conducere din învăţămîntul general li se pot acorda următoarele grade didactice şi manageriale: doi, unu şi superior.
 (2) Procedura de acordare a gradelor didactice şi manageriale se stabileşte de Ministerul Educației, Culturii și Cercetării.
-Articolul 57. Angajarea personalului didactic auxiliar
-şi nedidactic
+Articolul 57. Angajarea personalului didactic auxiliar și nedidactic
 Angajarea personalului didactic auxiliar şi nedidactic în instituţiile de învăţămînt se face prin încheierea unui contract individual de muncă cu directorul instituţiei, conform legislaţiei în vigoare.
 Articolul 58. Activitatea de mentorat
 (1) În învăţămîntul general este promovată activitatea de mentorat prin care o persoană cu experienţă (mentorul) oferă sprijin, ajutor şi schimb de experienţă şi cunoştinţe unei alte persoane pentru a-i favoriza dezvoltarea profesională şi achiziţia de competenţe sau cunoştinţe.
@@ -619,11 +619,10 @@ c) programe de formare profesională tehnică postsecundară nonterţiară (nive
 (3) Învăţămîntul profesional tehnic se organizează şi în instituţii rezidenţiale – pentru copiii orfani sau cei rămaşi fără îngrijire părintească, în instituţii de învăţămînt special, în instituţii penitenciare şi în instituţii medicale.
 (4) Învăţămîntul profesional tehnic secundar se organizează ca învăţămînt cu frecvenţă.
 (5) Învăţămîntul profesional tehnic postsecundar şi postsecundar nonterţiar se organizează ca învăţămînt cu frecvenţă sau cu frecvenţă redusă.
-Articolul 62. Programele de formare profesională
-tehnică secundară
+Articolul 62. Programele de formare profesională tehnică
+secundară
 (1) Programele de formare profesională tehnică secundară asigură formarea profesională iniţială şi continuă a muncitorilor calificaţi, în limitele categoriilor de calificare existente.
-(2) Învăţămîntul profesional tehnic secundar are
-durata de:
+(2) Învăţămîntul profesional tehnic secundar are durata de:
 a) 3 ani – pentru instruirea în meserii conexe, în baza studiilor gimnaziale;
 b) 2 ani – pentru instruirea într-o meserie, în baza studiilor gimnaziale;
 c) 1–2 ani – pentru învăţămîntul dual, în baza studiilor gimnaziale;
@@ -690,8 +689,7 @@ Articolul 66. Calificările în învăţămîntul profesional tehnic
 (5) Examenul de calificare, de certificare a competenţelor dobîndite în contextul educaţiei nonformale şi informale şi/sau susţinerea tezei sau proiectului de diplomă se desfăşoară conform criteriilor stabilite de Agenţia Națională de Asigurare a Calității în Educație și Cercetare în colaborare cu Ministerul Educației, Culturii și Cercetării şi cu organele centrale de resort.
 (6) Calificările acordate de instituţiile de învăţămînt profesional tehnic se introduc în Registrul Naţional al Calificărilor în Învăţămîntul Profesional, elaborat de Ministerul Educației, Culturii și Cercetării în colaborare cu organele centrale de resort.
 (7) Modulele/disciplinele din programele de formare profesională, în baza cărora se atribuie calificările, pot fi exprimate în credite, conform Sistemului european de credite transferabile, în baza acordurilor încheiate între instituţiile ofertante de programe de formare profesională.
-Articolul 67. Stagiile de practică şi relaţiile cu piaţa
-muncii
+Articolul 67. Stagiile de practică şi relaţiile cu piaţa muncii
 (1) Stagiile de practică ale elevilor/studenţilor, de a căror organizare sînt responsabile instituţiile de învăţămînt profesional tehnic, se desfăşoară în atelierele, laborat­oarele şi gospodăriile instituţiei de învăţămînt respective, în întreprinderi, instituţii şi alte organizaţii interesate să funcţioneze ca bază de practică, inclusiv cele de creaţie.
 (2) Agenţii economici pot oferi locuri pentru stagiile de practică elevilor/studenţilor din insti­tu­ţiile de învăţămînt profesional tehnic în conformitate cu acordurile sau contractele încheiate cu instituţiile de învăţămînt respective.
 (3) Parteneriatul dintre instituţiile de învăţămînt profesional tehnic şi mediul de afaceri se realizează prin:
@@ -714,8 +712,7 @@ d) alte activităţi prevăzute de regulamentele instituţionale.
 (2) Norma didactică de predare-învăţare-evaluare şi instruire practică se diferenţiază în funcţie de nivelul de învăţămînt, de profil şi specialitate, de planul de învăţămînt, în modul stabilit de Ministerul Educației, Culturii și Cercetării.
 Capitolul III. Managementul învăţămîntului
 profesional tehnic
-Articolul 69. Administrarea învăţămîntului profesional
-tehnic
+Articolul 69. Administrarea învăţămîntului profesional tehnic
 (1) Instituţiile de învăţămînt profesional tehnic sînt subordonate Ministerului Educației, Culturii și Cercetării şi, după caz, organelor centrale de resort.
 (2) Instituţiile de învăţămînt profesional tehnic funcţionează în baza unui regulament propriu, elaborat în conformitate cu regulamentul-cadru aprobat de Ministerul Educației, Culturii și Cercetării.
 (3) Directorii instituţiilor publice de învăţămînt profesional tehnic sînt selectaţi prin concurs, organizat de Ministerul Educației, Culturii și Cercetării sau de ministerele de resort, şi sînt numiţi în funcţie pe un termen de 5 ani, una şi aceeaşi persoană avînd dreptul la cel mult două mandate consecutive, conform regulamentului aprobat de Ministerul Educației, Culturii și Cercetării.
@@ -737,14 +734,14 @@ b) personal didactic;
 c) personal didactic auxiliar;
 d) personal nedidactic, constituit din personal administrativ gospodăresc, auxiliar şi de deservire.
 (2) Structura instituţiei şi numărul posturilor pentru fiecare categorie de personal se stabilesc prin statele de personal aprobate de fondator.
-Articolul 71. Personalul de conducere, didactic şi
-didactic auxiliar
+Articolul 71. Personalul de conducere, didactic şi didactic
+auxiliar
 (1) Funcţiile de conducere sînt: director, director adjunct, şef de secţie.
 (2) Personalul didactic este format din cadre didactice (pro­fe­sor, maistru-instructor), metodist, psiholog, psihopedagog, maestru de concert, conducător de cerc, dirijor de cor, dirijor de orchestră.
 (3) Personalul didactic auxiliar este format din bibliotecar, laborant şi pedagogul social din căminele pentru elevi.
 (4) Angajarea personalului de conducere şi a personalului didactic se face prin concurs, organizat în conformitate cu regulamentul aprobat de Ministerul Educației, Culturii și Cercetării.
-Articolul 72. Formarea personalului didactic
-din învăţămîntul profesional tehnic
+Articolul 72. Formarea personalului didactic din învăţămîntul
+profesional tehnic
 (1) Formarea iniţială a profesorilor, metodiştilor, psihologilor şi psihopedagogilor din învăţămîntul profesional tehnic se realizează în instituţiile de învăţămînt superior, iar a profesorilor de discipline de specialitate şi a pedagogilor sociali din căminele pentru elevi – în instituţiile de învăţămînt profesional tehnic postsecundar nonterţiar şi în cele de învăţămînt superior, în cadrul programelor de profil.
 (2) Posturile de maistru-instructor şi conducător de cerc pot fi ocupate de persoane cu calificare şi experienţă profesională în domeniu, indiferent de nivelul formării iniţiale.
 (3) Specialiştii proveniţi din sectorul economic sau artistic vor urma modulul de pregătire psihopeda­gogică pentru a obţine dreptul de a profesa în cali­tate de cadru didactic.
@@ -764,8 +761,7 @@ a) crearea, păstrarea şi diseminarea cunoaşterii la cel mai înalt nivel de e
 b) formarea specialiştilor de înaltă calificare competitivi pe piaţa naţională şi internaţională a muncii;
 c) crearea oportunităţilor de formare profesională pe parcursul întregii vieţi;
 d) păstrarea, dezvoltarea şi promovarea valorilor naţionale cultural-istorice în contextul diversităţii culturale.
-Articolul 76. Structura generală a învăţămîntului
-superior
+Articolul 76. Structura generală a învăţămîntului superior
 (1) Învăţămîntul superior se realizează pe două filiere: academică şi profesională avansată.
 (2) Învăţămîntul superior este structurat pe trei cicluri:
 a) ciclul I – studii superioare de licenţă (nivelul 6 ISCED);
@@ -780,8 +776,7 @@ Articolul 77. Organizarea învăţămîntului superior
 a) ciclul de învăţămînt superior;
 b) domeniul de formare profesională;
 c) forma de organizare a învăţămîntului superior.
-Articolul 78. Forme de organizare a învăţămîntului
-superior
+Articolul 78. Forme de organizare a învăţămîntului superior
 (1) Studiile superioare de licenţă şi de master se organizează în următoarele forme de învăţămînt:
 a) cu frecvenţă;
 b) cu frecvenţă redusă;
@@ -822,8 +817,8 @@ c) pe locuri cu finanţare mixtă.
 a) au pierdut capacitatea de muncă, în condiţiile prevăzute de Codul muncii, la profesarea în specialitatea (profesia) obţinută anterior;
 b) suferă de o boală profesională şi/sau dizabilitate;
 c) optează pentru programe speciale lansate pe piaţa muncii de Guvern.
-Articolul 81. Nomenclatorul domeniilor de formare
-profesională şi al specialităţilor
+Articolul 81. Nomenclatorul domeniilor de formare profesională
+şi al specialităţilor
 (1) Studiile superioare se reglementează prin Nomenclatorul domeniilor de formare profesională şi al specialităţilor.
 (2) Nomenclatorul domeniilor de formare profesională şi al specialităţilor este parte componentă a standardelor educaţionale de stat şi determină domeniile şi specialităţile în baza cărora se realizează formarea profesională în învăţămîntul superior.
 (3) Nomenclatorul domeniilor de formare profesională şi al specialităţilor se aprobă de Guvern, la propunerea Ministerului Educației, Culturii și Cercetării de comun acord cu ministerele de resort.
@@ -979,8 +974,8 @@ Articolul 95. Programele de postdoctorat
 (4) Programele de postdoctorat se finanţează prin concurs de proiecte, organizat de instituţii publice şi private, din surse externe, granturi, burse, precum şi din fonduri speciale ale instituţiilor de învăţămînt superior şi ale organizaţiilor din sfera ştiinţei şi inovării, în condiţiile legii.
 (5) Pe durata realizării programului de postdoctorat, postdoctorandul se poate încadra, prin cumul, în funcţia de cercetător ştiinţific în instituţii de învăţămînt superior sau în organizaţii din sfera ştiinţei şi inovării în conformitate cu prevederile legislaţiei în domeniul muncii.
 (6) Programele de postdoctorat se finalizează cu susţinerea publică a tezei de doctor habilitat sau în baza sintezei lucrărilor ştiinţifice publicate. Titlul de doctor habilitat se conferă de către instituţia care a organizat programul de postdoctorat. Confirmarea titlului şi eliberarea diplomei se realizează de către autoritatea naţională abilitată pentru confirmarea titlurilor ştiinţifice.
-Articolul 96. Standardele educaţionale de stat în
-învăţămîntul superior
+Articolul 96. Standardele educaţionale de stat în învăţămîntul
+superior
 (1) Învăţămîntul superior se organizează şi se desfăşoară în baza standardelor de conţinut, standardelor de competenţe, standardelor naţionale de referinţă şi standardelor de acreditare.
 (2) Standardele de conţinut şi standardele de competenţe se elaborează de Ministerul Educației, Culturii și Cercetării pe domenii de formare profesională şi se aprobă de Guvern.
 (3) Standardele naţionale de referinţă şi standardele de acreditare se elaborează pe domenii de formare profesională de către Agenţia Națională de Asigurare a Calității în Educație și Cercetare, se coordonează cu ministerele de resort şi se aprobă de Guvern.
@@ -1026,8 +1021,8 @@ a) principiul autonomiei universitare şi libertăţii academice;
 b) principiul responsabilităţii publice;
 c) principiul conducerii strategice;
 d) principiul gestionării eficiente şi transparente.
-Articolul 102. Sistemul organelor de conducere ale
-instituţiilor de învăţămînt superior
+Articolul 102. Sistemul organelor de conducere ale instituţiilor
+de învăţămînt superior
 Sistemul organelor de conducere ale instituţiilor de învăţămînt superior este format din senat, consiliul pentru dezvoltare strategică instituţională, consiliul ştiinţific, consiliul facultăţii, consiliul de administraţie şi rectorul instituţiei.
 Articolul 103. Senatul
 (1) Senatul instituţiei de învăţămînt superior reprezintă organul colectiv suprem de conducere, format din personal ştiinţifico-didactic şi nedidactic, ales prin votul secret al corpului profesoral-didactic al facultăţilor, departamentelor, centrelor ştiinţifice, din studenţi, aleşi de formaţiunile academice şi asociaţiile studenţeşti, din reprezentanţi ai organelor sindicale, în conformitate cu regulamentul instituţional elaborat în baza unui regulament-cadru aprobat de Ministerul Educației, Culturii și Cercetării. Sînt din oficiu membri ai senatului rectorul, prorectorii şi decanii.
@@ -1042,8 +1037,7 @@ f) aprobă structura organizatorică şi funcţională a instituţiei de învă�
 g) elaborează şi aprobă regulamentul privind modul de alegere a rectorului, în baza regulamentului-cadru aprobat de Ministerul Educației, Culturii și Cercetării;
 h) confirmă, fără drept de modificare, lista membrilor Consiliului pentru dezvoltare strategică instituţională.
 (4) Senatul este condus de rectorul instituţiei.
-Articolul 104. Consiliul pentru dezvoltare strategică
-instituţională
+Articolul 104. Consiliul pentru dezvoltare strategică instituţională
 (1) Consiliul pentru dezvoltare strategică instituţională are următoarele competenţe şi atribuţii:
 a) coordonează elaborarea Planului de dezvoltare strategică instituţională, care cuprinde viziunea, misiunea, strategia de dezvoltare a instituţiei de învăţămînt şi acţiunile principale pentru o perioadă de cel puţin 5 ani, şi îl prezintă senatului pentru aprobare;
 b) monitorizează, evaluează eficienţa utilizării resurselor financiare şi prezintă senatului pentru aprobare proiectul bugetului instituţiei de învăţămînt;
@@ -1143,8 +1137,7 @@ k) orice alte aspecte considerate relevante de către senat şi care corespund l
 (3) Carta universitară se elaborează şi se adoptă de senat numai după consultarea comunităţii universitare.
 (4) Carta universitară se adoptă după obţinerea avizului favorabil din partea Ministerului Educației, Culturii și Cercetării. Avizul se emite de Ministerul Educației, Culturii și Cercetării în cel mult 30 de zile de la data solicitării instituţiei de învăţămînt superior.
 (5) În cazul în care Ministerul Educației, Culturii și Cercetării nu răspunde solicitării instituţiei de învăţămînt superior în termenul prevăzut la alin. (4), Carta universitară se consideră avizată favorabil.
-Articolul 110. Relaţiile cu piaţa muncii şi mediul
-de afaceri
+Articolul 110. Relaţiile cu piaţa muncii şi mediul de afaceri
 (1) Instituţiile de învăţămînt superior colaborează cu mediul de afaceri la formarea cadrelor de înaltă calificare.
 (2) Relaţiile de parteneriat ale instituţiilor de învăţămînt superior cu mediul de afaceri se realizează prin:
 a) stabilirea rolurilor, interdependenţei şi responsabilităţilor tuturor actorilor implicaţi în procesul de formare şi inserţie profesională;
@@ -1188,8 +1181,8 @@ c) calitatea programelor de formare profesională iniţială şi continuă;
 d) managementul instituţional al calităţii;
 e) rezultatele cercetărilor ştiinţifice şi/sau ale creaţiei artistice;
 f) concordanţa dintre evaluarea internă şi situaţia reală.
-Articolul 114. Evaluarea externă în vederea autorizării
-de funcţionare provizorie sau acreditării
+Articolul 114. Evaluarea externă în vederea autorizării de funcţionare
+provizorie sau acreditării
 (1) Orice persoană juridică, publică sau privată, interesată în oferirea de programe de studii superioare se supune obligatoriu procesului de evaluare externă, în vederea autorizării de funcţionare provizorie, înainte de a începe să activeze.
 (2) Autorizarea de funcţionare provizorie a programelor de studii din învăţămîntul superior expiră după prima promoţie de absolvenţi.
 (3) Acreditării sînt supuse atît instituţia de învăţămînt superior, cît şi programele de studii.
@@ -1198,8 +1191,10 @@ de funcţionare provizorie sau acreditării
 (6) În instituţiile care nu au drept misiune principală oferirea de programe de studii, evaluarea instituţională se face, exclusiv, pe subdiviziunea administrativă care organizează programele de studii.
 (7) Evaluarea externă în vederea autorizării de funcţionare provizorie sau acreditării se declanşează şi se desfăşoară conform metodologiilor elaborate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare şi aprobate de Guvern.
 (8) După obţinerea acreditării, programele de studii şi instituţiile de învăţămînt superior sînt supuse evaluării externe periodic, în vederea reacreditării, cel puţin o dată la 5 ani.
-(9) În cazul obţinerii rezultatelor negative la evaluarea externă a instituţiilor de învăţămînt superior, Ministerul Educației, Culturii și Cercetării propune Guvernului retragerea dreptului de activitate a instituţiilor sau de organizare a programelor de studii, studenţii fiind repartizaţi la programe similare din alte instituţii de învăţămînt pînă la înlăturarea motivelor care au stat la baza rezultatelor negative ale evaluării. Prevederile prezentului alineat se aplică şi programelor de studii superioare de doctorat oferite de organizaţiile din sfera ştiinţei şi inovării, precum şi organizaţiilor respective în ceea ce priveşte organizarea studiilor superioare de doctorat.
-(10) Decizia cu privire la autorizarea de funcţionare provizorie, la acreditare, neacreditare sau la retragerea dreptului de activitate a unei instituţii de învăţămînt superior sau de organizare a unui program de studii se adoptă de Guvern la propunerea Ministerului Educației, Culturii și Cercetării, în baza rezultatelor evaluării efectuate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
+(9) În cazul obţinerii rezultatelor negative la evaluarea externă a instituţiilor de învăţămînt superior, Ministerul Educației, Culturii și Cercetării retrage dreptul de activitate a instituţiilor sau de organizare a programelor de studii, studenţii fiind repartizaţi la programe similare din alte instituţii de învăţămînt pînă la înlăturarea motivelor care au stat la baza rezultatelor negative ale evaluării. Prevederile prezentului alineat se aplică şi programelor de studii superioare de doctorat oferite de organizaţiile din sfera ştiinţei şi inovării, precum şi organizaţiilor respective în ceea ce priveşte organizarea studiilor superioare de doctorat.
+[Art.114 al.(9) modificat prin LP140 din 27.07.18, MO309-320/17.08.18 art.478; în vigoare 17.08.18]
+(10) Decizia cu privire la autorizarea de funcţionare provizorie, la acreditare, neacreditare sau la retragerea dreptului de activitate a unei instituţii de învăţămînt superior sau de organizare a unui program de studii se adoptă de Ministerul Educației, Culturii și Cercetării, în baza rezultatelor evaluării efectuate de Agenţia Națională de Asigurare a Calității în Educație și Cercetare.
+[Art.114 al.(10) modificat prin LP140 din 27.07.18, MO309-320/17.08.18 art.478; în vigoare 17.08.18]
 Articolul 115. Agenţia Națională de Asigurare a Calității
 în Educație și Cercetare
 (1) Agenţia Naţională de Asigurare a Calităţii în Educație şi Cercetare este o autoritate administrativă în subordinea Ministerului Educaţiei, Culturii și Cercetării, instituită de Guvern, finanţată din bugetul de stat şi din venituri proprii.
@@ -1272,16 +1267,15 @@ b) ştiinţifico-didactice – conferenţiar universitar şi profesor universita
 (6) Personalul din învăţămîntul superior are drepturi şi îndatoriri care decurg din Carta universitară, din contractul individual de muncă, precum şi din legislaţia în vigoare.
 (7) Protecţia drepturilor salariaţilor, precum şi a drepturilor de proprietate intelectuală asupra rezultatelor creaţiei ştiinţifice, culturale sau artistice este garantată şi se asigură în conformitate cu prevederile Cartei universitare şi cu legislaţia în vigoare.
 (8) Personalul ştiinţifico-didactic şi ştiinţific are dreptul de a publica studii, articole, volume sau opere de artă, de a candida la obţinerea de granturi naţionale şi internaţionale, fără restricţii ale libertăţii academice.
-Articolul 118. Ocuparea funcţiilor didactice, ştiinţifico-
-didactice şi ştiinţifice
+Articolul 118. Ocuparea funcţiilor didactice, ştiinţifico-didactice
+şi ştiinţifice
 (1) Funcţiile didactice, ştiinţifico-didactice şi ştiinţifice în învăţămîntul superior se ocupă prin concurs, în conformitate cu regulamentul-cadru aprobat de Ministerul Educației, Culturii și Cercetării.
 (2) Angajarea prin cumul a personalului didactic, ştiinţifico-didactic şi ştiinţific se realizează în baza echivalării funcţiilor, după cum urmează:
 a) funcţia de cercetător ştiinţific se echivalează cu funcţia de asistent universitar şi viceversa;
 b) funcţia de cercetător ştiinţific superior se echivalează cu funcţia de lector universitar şi viceversa;
 c) funcţia de cercetător ştiinţific coordonator se echivalează cu funcţia de conferenţiar universitar şi viceversa;
 d) funcţia de cercetător ştiinţific principal se echivalează cu funcţia de profesor universitar şi viceversa.
-Articolul 119. Normarea activităţii ştiinţifico-didactice
-şi de cercetare
+Articolul 119. Normarea activităţii ştiinţifico-didactice şi de cercetare
 (1) Norma ştiinţifico-didactică se constituie din:
 a) activitatea didactică auditorială (contact direct cu studenţii), realizată prin:
 – ore de curs;
@@ -1328,8 +1322,8 @@ d) activitatea metodică, realizată prin:
 (10) Norma de activitate a altor categorii de personal din învăţămîntul superior se stabileşte în conformitate cu Codul muncii.
 (11) Personalul de conducere din învăţămîntul superior (rector, prorector, decan, şef de departament sau şef de catedră) poate cumula funcţii ştiinţifico-didactice şi ştiinţifice în conformitate cu regulamentele instituţionale.
 (12) Norma didactică constituită din activităţile prevăzute la alin. (1) lit. a) şi b) poate fi redusă pentru realizarea activităţilor prevăzute la alin. (1) lit. c) şi d), în baza metodologiei aprobate de senat.
-Articolul 120. Evaluarea personalului didactic,
-ştiinţifico-didactic şi ştiinţific
+Articolul 120. Evaluarea personalului didactic, ştiinţifico-didactic
+şi ştiinţific
 (1) Evaluarea personalului implicat în activitatea didactică şi de cercetare din învăţămîntul superior face parte din sistemul de asigurare a calităţii şi se realizează periodic în conformitate cu regulamentele instituţionale.
 (2) Evaluarea personalului implicat în activitatea didactică şi de cercetare din învăţămîntul superior se efectuează în funcţie de performanţele didactice, performanţele de cercetare, participarea la viaţa academică, de alte criterii prevăzute în regulamentul instituţional.
 (3) Evaluarea personalului ştiinţifico-didactic este realizată de către:
@@ -1341,12 +1335,10 @@ e) studenţi;
 f) alte structuri abilitate.
 (4) Evaluarea personalului ştiinţifico-didactic de către studenţi este obligatorie.
 TITLUL VI
-ÎNVĂŢĂMÎNTUL SUPERIOR MEDICAL
-ŞI FARMACEUTIC. ÎNVĂŢĂMÎNTUL ÎN
-DOMENIILE MILITĂRIEI, SECURITĂŢII
+ÎNVĂŢĂMÎNTUL SUPERIOR MEDICAL ŞI FARMACEUTIC.
+ÎNVĂŢĂMÎNTUL ÎN DOMENIILE MILITĂRIEI, SECURITĂŢII
 ŞI ORDINII PUBLICE
-Articolul 121. Învăţămîntul superior medical
-şi farmaceutic
+Articolul 121. Învăţămîntul superior medical şi farmaceutic
 (1) Învăţămîntul superior medical şi farmaceutic se realizează în instituţii de învăţămînt publice acreditate sau autorizate provizoriu prin studii superioare integrate de specialitate şi studii de rezidenţiat şi formare profesională medicală continuă.
 (2) Programele de studii superioare în domeniul medical şi farmaceutic se organizează în exclusivitate ca învăţămînt cu frecvenţă, cu durata de 4–6 ani, pentru fiecare semestru alocîndu-se cîte 30 de credite de studii transferabile.
 (3) Admiterea în programele de studii superioare în domeniul medical şi farmaceutic se face în baza diplomei de bacalaureat, prin concurs, conform criteriilor stabilite de Ministerul Educației, Culturii și Cercetării prin coordonare cu Ministerul Sănătății, Muncii și Protecției Sociale.
@@ -1358,8 +1350,8 @@ Articolul 121. Învăţămîntul superior medical
 (9) Studiile de secundariat clinic se finalizează cu susţinerea examenului de absolvire şi cu eliberarea unui certificat care conferă dreptul de a desfăşura activitate practică independentă conform calificării obţinute.
 (10) Formarea continuă în domeniul medical şi farmaceutic este obligatorie pe parcursul întregii activităţi profesionale şi se organizează sub diverse forme de instruire reglementate de Ministerul Sănătății, Muncii și Protecției Sociale.
 [Art.121 al.(10) modificat prin LP79 din 24.05.18, MO195-209/15.06.18 art.338]
-Articolul 122. Învăţămîntul în domeniile milităriei,
-securităţii şi ordinii publice
+Articolul 122. Învăţămîntul în domeniile milităriei, securităţii
+şi ordinii publice
 (1) Învăţămîntul în domeniile milităriei, securităţii şi ordinii publice este parte integrantă a sistemului naţional de învăţămînt.
 (2) Învăţămîntul în domeniile milităriei, securităţii şi ordinii pub­lice se organizează şi se realizează în conformitate cu prevederile prezentului cod, cu regulamentele-cadru elaborate de autorităţile de resort, prin coordonare cu Ministerul Educației, Culturii și Cercetării, şi aprobate de Guvern, precum şi în conformitate cu regulamentele instituţionale.
 (3) Învăţămîntul în domeniile milităriei, securităţii şi ordinii pub­lice asigură:
@@ -1382,8 +1374,7 @@ d) servicii de consultanţă, suport ştiinţific şi expertiză în domeniile a
 TITLUL VII
 ÎNVĂŢAREA PE TOT PARCURSUL VIEŢII
 Capitolul I. Dispoziţii generale
-Articolul 123. Cadrul general al învăţării pe tot
-parcursul vieţii
+Articolul 123. Cadrul general al învăţării pe tot parcursul vieţii
 (1) Învăţarea pe tot parcursul vieţii include activităţile de învăţare realizate de o persoană pe parcursul vieţii, în scopul formării sau dezvoltării competenţelor din perspectivă personală, civică, socială şi profesională.
 (2) Învăţarea pe tot parcursul vieţii cuprinde învăţămîntul general, profesional-tehnic şi superior, precum şi formarea profesională continuă a adulţilor.
 (3) Programele de formare profesională continuă în cadrul învăţării pe tot parcursul vieţii se supun evaluării în vederea acreditării sau autorizării de funcţionare provizorie, în condiţiile legii.
@@ -1410,13 +1401,11 @@ f) asociaţii profesionale, culturale, sindicale;
 g) organizaţii nonguvernamentale;
 h) alte organizaţii.
 (3) Învăţarea pe tot parcursul vieţii în contextul educaţiei informale se realizează prin activităţi organizate în familie, la locul de muncă, în comunitate, în reţele sociale, prin activităţi de voluntariat, sportive, culturale etc. şi poate conduce la formarea de competenţe şi calificări.
-Articolul 125. Finanţarea învăţării pe tot
-parcursul vieţii
+Articolul 125. Finanţarea învăţării pe tot parcursul vieţii
 (1) Statul garantează accesul şi susţine, inclusiv financiar, învăţarea pe tot parcursul vieţii.
 (2) Finanţarea învăţării pe tot parcursul vieţii se realizează din surse publice şi/sau private, în bază de parteneriat public-privat, prin finanţare şi cofinanţare de către angajatori, organizaţii nonguvernamentale, din fonduri nerambursabile în cadrul programelor internaţionale, precum şi prin contribuţia beneficiarilor.
 Capitolul II. Formarea continuă a adulţilor
-Articolul 126. Organizarea formării continue
-a adulţilor
+Articolul 126. Organizarea formării continue a adulţilor
 (1) Formarea continuă a adulţilor include:
 a) educaţia generală, prin care se asigură dezvoltarea generală a adulţilor sub aspect cul­tural, socioeconomic, tehnologic, ecologic;
 b) formarea profesională continuă, prin care se înţelege orice proces de instruire în cadrul căruia un salariat, avînd deja o calificare ori o profesie, îşi completează competenţele profesionale prin aprofundarea cunoştinţelor în domeniul specialităţii de bază sau prin deprinderea unor noi metode sau procedee aplicate în cadrul specialităţii respective.
@@ -1438,9 +1427,8 @@ Articolul 128. Bibliotecile din învăţămînt
 (4) Bibliotecile din învăţămînt funcţionează în baza unui regula­ment-cadru, aprobat de Ministerul Educației, Culturii și Cercetării, şi a altor acte nor­mative în domeniu.
 (5) Bibliotecile din instituţiile de învăţămînt pot crea consorţii pentru achiziţia partajată şi utilizarea în comun a surselor documentare (baze de date, reviste electronice).
 (6) La nivel naţional pot fi organizate biblioteci şcolare virtuale cu funcţii de e-learning, cu fonduri de curricula şcolare, proiecte didactice, ghiduri metodologice, manuale electronice, exemple de teste docimologice etc.
-Articolul 129. Centrul Republican de Asistenţă
-Psihopedagogică şi serviciile locale
-de asistenţă psihopedagogică
+Articolul 129. Centrul Republican de Asistenţă Psihopedagogică
+şi serviciile locale de asistenţă psihopedagogică
 (1) Centrul Republican de Asistenţă Psihopedagogică este subordonat Ministerului Educației, Culturii și Cercetării şi are drept scop:
 a) acordarea de asistenţă psihopedagogică la nivel naţional;
 b) monitorizarea activităţii serviciilor locale de asistenţă psihopedagogică şi oferirea de asistenţă metodologică acestora;
@@ -1452,8 +1440,7 @@ a) evaluarea situaţiei copiilor;
 b) acordarea de asistenţă psihopedagogică copiilor;
 c) constatarea cerinţelor educaţionale speciale şi elaborarea de recomandări privind măsurile de intervenţie şi serviciile de sprijin pentru incluziunea educaţională.
 (3) Activitatea Centrului Republican de Asistenţă Psihopedagogică şi a serviciilor locale de asistenţă psihopedagogică este reglementată de Guvern.
-Articolul 130. Centrele de ghidare şi consiliere
-în carieră
+Articolul 130. Centrele de ghidare şi consiliere în carieră
 (1) Centrele de ghidare şi consiliere în carieră au misiunea de a susţine elevii şi studenţii în procesul de proiectare a carierei şi de realizare a educaţiei pentru carieră.
 (2) Centrele de ghidare şi consiliere în carieră pot fi înfiinţate de autorităţile administraţiei publice locale, Agenţia Naţională pentru Ocuparea Forţei de Muncă, instituţiile de învăţămînt, organizaţiile nonguvernamentale, precum şi de alţi prestatori de astfel de servicii privaţi.
 TITLUL IX
@@ -1466,9 +1453,8 @@ Articolul 131. Prevederi generale
 (3) Personalul didactic din învăţămîntul general şi profesional tehnic care confirmă un stagiu de activitate de 30 de ani în învăţămînt sau care a atins vîrsta de pensionare îşi păstrează gradul didactic deţinut.
 (4) Pentru gradele didactice şi manageriale şi pentru titlurile ştiinţifice se acordă spor la salariu conform actelor normative aprobate de Guvern.
 (5) În instituţiile de învăţămînt superior, cel puţin 50% din funcţiile ştiinţifico-didactice trebuie să fie ocupate de cadre didactice titulare.
-Articolul 132. Cerinţele minime de calificare pentru
-ocuparea funcţiilor didactice
-şi ştiinţifico-didactice
+Articolul 132. Cerinţele minime de calificare pentru ocuparea
+funcţiilor didactice şi ştiinţifico-didactice
 (1) Cerinţele minime de calificare pentru ocuparea funcţiilor didactice sînt:
 a) în educaţia timpurie – deţinerea unei calificări în domeniu de cel puţin nivelul 4 ISCED – învăţămînt profesional tehnic postsecundar;
 [Art.132 al.(1), lit.a) modificată prin LP191 din 21.07.17, MO301-315/18.08.17 art.539; în vigoare 18.08.17]
@@ -1488,9 +1474,8 @@ b) participare, ca parteneri, la proiecte educaţionale şi/sau de cercetare na�
 c) participare cu comunicări şi/sau lucrări la conferinţe, seminare, simpozioane, expoziţii internaţionale.
 (3) În cadrul formării profesionale continue realizate prin stagii în instituţii de învăţămînt şi cercetare acreditate, cadrele didactice din învăţămînt pot obţine credite de dezvoltare profesională.
 Capitolul II. Drepturi şi obligaţii
-Articolul 134. Drepturile şi garanţiile sociale ale
-personalului didactic, ştiinţifico-didactic
-şi ştiinţific
+Articolul 134. Drepturile şi garanţiile sociale ale personalului didactic,
+ştiinţifico-didactic şi ştiinţific
 (1) Personalul didactic, ştiinţifico-didactic şi ştiinţific are dreptul să aleagă şi să utilizeze atît tehnologiile didactice, manualele şi materialele didactice aprobate de Ministerul Educației, Culturii și Cercetării, cît şi pe cele alternative, pe care le consideră adecvate realizării standardelor educaţionale de stat.
 (2) Personalul didactic, ştiinţifico-didactic şi ştiinţific are dreptul:
 a) să aleagă şi să fie ales în organele de conducere, administrative şi consultative ale instituţiei de învăţămînt;
@@ -1507,8 +1492,8 @@ c) dreptul la compensaţii băneşti anuale pentru procurarea de suporturi didac
 (7) În primii trei ani de activitate pedagogică, cadrele didactice din instituţiile de învăţămînt general publice beneficiază de sprijin pentru inserţie profesională, inclusiv de reducerea la 75% a normei didactice pentru un salariu de funcţie, precum şi de asistenţă din partea cadrului didactic mentor.
 (8) Personalul didactic, ştiinţifico-didactic şi ştiinţific din instituţiile de învăţămînt care s-a evidenţiat prin excelenţă în munca de predare şi educaţie se poate învrednici de distincţii de stat în condiţiile stabilite de legislaţie.
 (9) Pentru atragerea absolvenţilor în activitatea didactică şi pentru promovarea profesiei de cadru didactic, autorităţile administraţiei publice locale şi centrale care au instituţii de învăţămînt în subordine pot prevedea garanţii sociale suplimentare pentru cadrele didactice.
-Articolul 135. Obligaţiile personalului didactic, știinţifico
-- didactic, ştiinţific şi de conducere
+Articolul 135. Obligaţiile personalului didactic, știinţifico- didactic,
+ştiinţific şi de conducere
 (1) Personalul didactic, ştiinţifico-didactic, ştiinţific şi de conducere are următoarele obligaţii:
 a) să asigure calitatea procesului de învăţămînt prin respectarea standardelor educaţionale de stat şi a Curriculumului naţional;
 b) să respecte deontologia profesională;
@@ -1558,9 +1543,8 @@ a) să respecte regulamentele instituţiilor de învăţămînt în care învaţ
 b) să manifeste un comportament civilizat, să respecte normele de convieţuire în comunitatea academică, să păstreze bunurile din patrimoniul instituţiei de învăţămînt.
 (2) Elevii au obligaţia să frecventeze învăţămîntul obligatoriu şi să însuşească materiile prevăzute de programele de studii.
 (3) Elevii şi studenţii care încalcă prevederile actelor normative în vigoare şi/sau ale actelor interne ale instituţiilor de învăţămînt sînt pasibili de sancţionare, în funcţie de gravitatea faptei, conform actelor interne ale instituţiilor de îmvăţămînt, pînă la exmatriculare. Elevii din învăţămîntul obligatoriu nu pot fi exmatriculaţi.
-Articolul 138. Drepturile şi obligaţiile părinţilor sau
-altor reprezentanţi legali ai copiilor
-şi elevilor
+Articolul 138. Drepturile şi obligaţiile părinţilor sau altor reprezentanţi
+legali ai copiilor şi elevilor
 (1) Părinţii sau alţi reprezentanţi legali ai copiilor şi elevilor au dreptul:
 a) să aleagă instituţia de învăţămînt în care să înscrie copilul;
 b) să participe la întocmirea programului de activitate al instituţiei de învăţămînt;
@@ -1576,10 +1560,9 @@ d) să urmărească, în colaborare cu conducerea instituţiei de învăţămîn
 (3) Părinţii sau alţi reprezentanţi legali ai copiilor care nu manifestă responsabilitate şi nu asigură educarea şi instruirea copilului sînt pasibili de răspundere în conformitate cu legislaţia în vigoare.
 TITLUL X
 ADMINISTRAREA SISTEMULUI DE ÎNVĂŢĂMÎNT
-Capitolul I. Atribuţiile în domeniul educaţiei
-ale Guvernului şi Ministerului Educaţiei
-Articolul 139. Atribuţiile Guvernului în domeniul
-educaţiei
+Capitolul I. Atribuţiile în domeniul educaţiei ale Guvernului
+şi Ministerului Educaţiei
+Articolul 139. Atribuţiile Guvernului în domeniul educaţiei
 Guvernul are următoarele atribuţii:
 a) aprobă politicile de stat în domeniul educaţiei;
 b) organizează elaborarea proiectelor de acte legislative în domeniul educaţiei, le aprobă şi le prezintă Parlamentului spre examinare şi adoptare;
@@ -1589,7 +1572,8 @@ e) monitorizează activitatea Ministerului Educaţiei, Culturii și Cercetării;
 f) decide asupra propunerilor Ministerului Educaţiei, Culturii și Cercetării, ale altor autorităţi administrative centrale şi ale instituţiilor publice privind înfiinţarea, reorganizarea sau lichidarea instituţiilor publice de învăţămînt special, profesional tehnic, superior şi de formare continuă;
 g) aprobă planul (comanda de stat) de pregătire a cadrelor de specialitate cu finanţare de la bugetul de stat, pe meserii, specialităţi şi domenii generale de studiu, în instituţiile de învăţămînt profesional tehnic şi superior;
 h) aprobă normativele de timp şi de cheltuieli pentru organizarea şi desfăşurarea examenelor de absolvire în învăţămîntul gimnazial şi liceal şi pentru organizarea şi desfăşurarea evaluării finale în învăţămîntul primar.
-Articolul 140. Atribuţiile Ministerului Educaţiei, Culturii și Cercetării
+Articolul 140. Atribuţiile Ministerului Educaţiei, Culturii și
+Cercetării
 (1) Ministerul Educaţiei, Culturii și Cercetării are următoarele atribuţii:
 a) elaborează şi promovează politicile de stat în domeniul educaţiei şi cercetării din învăţămîntul superior;
 b) elaborează proiecte de acte legislative şi alte acte normative în domeniul educaţiei şi cercetării în învăţămîntul superior şi exercită controlul de stat asupra respectării acestora;
@@ -1621,9 +1605,9 @@ z1) exercită alte atribuţii stabilite de legislaţie şi de regulamentul său 
 (2) Pentru exercitarea atribuţiilor în sfera de competenţă, Ministerul Educaţiei, Culturii și Cercetării poate constitui consilii, comisii, grupuri de experţi şi alte organe consultative.
 Capitolul II. Atribuţiile autorităţilor administraţiei
 publice locale în domeniul educaţiei
-Articolul 141. Atribuţiile autorităţilor administraţiei
-publice locale de nivelul al doilea şi ale
-UTA Găgăuzia în domeniul educaţiei
+Articolul 141. Atribuţiile autorităţilor administraţiei publice locale
+de nivelul al doilea şi ale UTA Găgăuzia în domeniul
+educaţiei
 (1) Autorităţile administraţiei publice locale de nivelul al doilea şi ale UTA Găgăuzia, în limitele competenţelor stabilite de legislaţie, au următoarele atribuţii în domeniul educaţiei:
 a) asigură respectarea legislaţiei în domeniul educaţiei în teritoriul administrat;
 b) realizează conducerea, monitorizarea şi evaluarea instituţiilor de învăţămînt ai căror fondatori sînt;
@@ -1642,9 +1626,8 @@ n) contribuie la plasarea în cîmpul muncii a absolvenţilor orfani.
 (2) Autorităţile administraţiei publice locale de nivelul al doilea şi ale UTA Găgăuzia asigură funcţionarea instituţiilor de învăţămînt ai căror fondatori sînt.
 (3) Autorităţile administraţiei publice locale de nivelul al doilea şi ale UTA Găgăuzia angajează şi eliberează personalul de conducere al instituţiilor de învăţămînt ai căror fondatori sînt.
 (4) Autorităţile administraţiei publice locale de nivelul al doilea şi ale UTA Găgăuzia elaborează şi prezintă Ministerului Educaţiei, Culturii și Cercetării un raport anual privind starea învăţămîntului din teritoriul administrat, pe care îl publică pe paginile web oficiale ale lor. Metodologia de elaborare şi de publicare a raportului este stabilită de Ministerul Educaţiei, Culturii și Cercetării.
-Articolul 142. Atribuţiile autorităţilor administraţiei
-publice locale de nivelul întîi în domeniul
-educaţiei
+Articolul 142. Atribuţiile autorităţilor administraţiei publice locale
+de nivelul întîi în domeniul educaţiei
 Autorităţile administraţiei publice locale de nivelul întîi, în limitele competenţelor stabilite de legislaţie, au următoarele atribuţii în domeniul educaţiei:
 a) contribuie la respectarea legislaţiei în domeniul educaţiei în teritoriul administrat;
 b) realizează conducerea, monitorizarea şi contribuie la evaluarea instituţiilor de învăţămînt ai căror fondatori sînt;
@@ -1676,14 +1659,14 @@ c) granturi, sponsorizări şi donaţii;
 d) alte surse legale.
 (7) Statul garantează finanţarea studiilor superioare pe toată durata acestora în conformitate cu planul de admitere (comanda de stat) aprobat anual de Guvern.
 (8) Relaţiile dintre instituţiile de învăţămînt şi persoanele fizice sau juridice se reglementează printr-un contract de prestare contra plată a serviciilor educaţionale, în care sînt specificate drepturile şi obligaţiile părţilor, durata studiilor şi mărimea taxei de studii.
-Articolul 144. Principiile de finanţare a instituţiilor
-publice de învăţămînt general
+Articolul 144. Principiile de finanţare a instituţiilor publice de
+învăţămînt general
 (1) Instituţiile de învăţămînt general sînt finanţate prin transferuri cu destinaţie specială de la bugetul de stat.
 (2) Autorităţile administraţiei publice locale şi ale UTA Găgăuzia asigură finanţarea instituţiilor publice de învăţămînt general în baza costului standard per copil sau elev, în volum ce asigură respectarea standardelor educaţionale de stat, în modul stabilit Guvern.
 (3) Autorităţile administraţiei publice locale şi ale UTA Găgăuzia au dreptul să suplimenteze fondurile alocate de la bugetul de stat din mijloace proprii.
 (4) Bugetul instituţiei de învăţămînt şi raportul de executare a acestuia se publică pe pagina web oficială a instituţiei şi/sau a organului local de specialitate în domeniul învăţămîntului.
-Articolul 145. Modalităţile de finanţare şi gestionare
-financiară a învăţămîntului
+Articolul 145. Modalităţile de finanţare şi gestionare financiară
+a învăţămîntului
 (1) Finanţarea bugetară a învăţămîntului se face prin patru modalităţi:
 a) finanţare-standard: cost standard per copil/elev/student şi coeficient de ajustare;
 b) finanţare compensatorie: pentru copiii cu cerinţe educaţionale speciale, copiii cu aptitudini deosebite – prin programe experimentale sau alternative şi programe de susţinere a performanţei;
