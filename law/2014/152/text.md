@@ -14,6 +14,7 @@ Nr. 319-324
 art Nr : 634
 Data intrarii in vigoare : 23.11.2014
 MODIFICAT
+LP172 din 27.07.18, MO321-332/24.08.18 art.529; în vigoare 24.08.18
 LP140 din 27.07.18, MO309-320/17.08.18 art.478; în vigoare 17.08.18
 LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP36 din 16.03.18, MO126-132/20.04.18 art.251
@@ -801,7 +802,8 @@ j) asigurarea ordinii şi disciplinei în spaţiul universitar;
 k) găsirea surselor suplimentare de venituri;
 l) stabilirea relaţiilor de colaborare cu diverse instituţii de învăţămînt şi ştiinţifice, centre şi organizaţii din ţară şi din străinătate.
 (4) În plan financiar, autonomia universitară se realizează prin:
-a) administrarea resurselor financiare prin conturi bancare, inclusiv a transferurilor de la bugetul de stat;
+a) administrarea resurselor financiare prin conturi bancare, inclusiv a mijloacelor alocate de la bugetul de stat;
+[Art.79 al.(4), lit.a) modificată prin LP172 din 27.07.18, MO321-332/27.08.18 art.529; în vigoare 24.08.18]
 b) utilizarea resurselor disponibile pentru desfăşurarea activităţii statutare, conform propriilor decizii;
 c) acumularea veniturilor proprii din taxe, servicii acordate, lucrări executate şi din alte activităţi specifice, conform nomenclatorului serviciilor prestate aprobat de Guvern;
 d) administrarea bunurilor proprietate a instituţiei şi asigurarea condiţiilor optime de dezvoltare a bazei materiale a instituţiei;
@@ -1572,8 +1574,7 @@ e) monitorizează activitatea Ministerului Educaţiei, Culturii și Cercetării;
 f) decide asupra propunerilor Ministerului Educaţiei, Culturii și Cercetării, ale altor autorităţi administrative centrale şi ale instituţiilor publice privind înfiinţarea, reorganizarea sau lichidarea instituţiilor publice de învăţămînt special, profesional tehnic, superior şi de formare continuă;
 g) aprobă planul (comanda de stat) de pregătire a cadrelor de specialitate cu finanţare de la bugetul de stat, pe meserii, specialităţi şi domenii generale de studiu, în instituţiile de învăţămînt profesional tehnic şi superior;
 h) aprobă normativele de timp şi de cheltuieli pentru organizarea şi desfăşurarea examenelor de absolvire în învăţămîntul gimnazial şi liceal şi pentru organizarea şi desfăşurarea evaluării finale în învăţămîntul primar.
-Articolul 140. Atribuţiile Ministerului Educaţiei, Culturii și
-Cercetării
+Articolul 140. Atribuţiile Ministerului Educaţiei, Culturii și Cercetării
 (1) Ministerul Educaţiei, Culturii și Cercetării are următoarele atribuţii:
 a) elaborează şi promovează politicile de stat în domeniul educaţiei şi cercetării din învăţămîntul superior;
 b) elaborează proiecte de acte legislative şi alte acte normative în domeniul educaţiei şi cercetării în învăţămîntul superior şi exercită controlul de stat asupra respectării acestora;
@@ -1584,8 +1585,12 @@ f) aprobă procedurile de evaluare a cadrelor didactice şi de conducere din în
 g) gestionează programele şi proiectele naţionale şi organizează achiziţii publice de bunuri, lucrări şi servicii pentru sectorul educaţional în cadrul programelor naţionale;
 h) aprobă manualele şi materialele didactice care urmează a fi utilizate în sistemul de învăţămînt;
 i) elaborează şi aprobă pachetul standard de servicii educaţionale în învăţămîntul obligatoriu;
-j) elaborează planul strategic de cheltuieli pentru sistemul naţional de educaţie şi cercetare în învăţămîntul superior, în colaborare cu autorităţile administraţiei publice centrale şi locale;
-k) elaborează proiectul bugetului de stat pentru instituţiile de învăţămînt şi de cercetare subordonate;
+j) elaborează și publică strategia sectorială de cheltuieli pe termen mediu pentru sistemul naţional de educaţie și participă la elaborarea strategiei sectoriale de cheltuieli pentru domeniul cercetare în învățămîntul superior, în colaborare cu autorităţile administraţiei publice centrale şi locale;
+[Art.140 al.(1), lit.j) modificată prin LP172 din 27.07.18, MO321-332/27.08.18 art.529; în vigoare 24.08.18]
+j1) asigură repartizarea limitei sectoriale de cheltuieli în domeniul educației pe bugetele componente ale bugetului public național și pe autorități publice centrale, inclusiv estimează volumul transferurilor cu destinație specială de la bugetul de stat la bugetele locale;
+[Art.140 al.(1), lit.j1) introdusă prin LP172 din 27.07.18, MO321-332/27.08.18 art.529; în vigoare 24.08.18]
+k) elaborează propuneri la proiectul bugetului de stat, fundamentate pe programe pentru instituțiile de învățămînt și de cercetare subordonate, prezintă rapoarte privind executarea bugetului, inclusiv privind performanța în cadrul programelor de cheltuieli din domeniul de competență, și participă la argumentarea și promovarea acestora;
+[Art.140 al.(1), lit.k) în redacția LP172 din 27.07.18, MO321-332/27.08.18 art.529; în vigoare 24.08.18]
 l) elaborează, prin coordonare cu autorităţile interesate, şi aprobă normele de personal, de muncă şi de finanţare în sistemul naţional de educaţie;
 m) coordonează şi monitorizează activitatea financiară a insti­tuţiilor de învăţămînt publice subordonate;
 n) formulează şi prezintă Guvernului propuneri de perfec­ţionare a remunerării personalului didactic şi a altor categorii de personal din sistemul de învăţămînt;
@@ -1680,7 +1685,8 @@ d) finanţare prin concurs pe bază de proiecte.
 (7) Persoanele fizice şi juridice au dreptul să sprijine din mijloacele proprii, în condiţiile legii, dezvoltarea bazei materiale a instituţiilor de învăţămînt şi să acopere cheltuielile de formare profesională iniţială şi continuă a cadrelor didactice.
 (8) Persoanele fizice și persoanele juridice indiferent de tipul de proprietate şi forma juridică de organizare, care investesc mijloacele proprii în dezvoltarea sistemului de educaţie beneficiază de facilităţi fiscale în modul stabilit de legislaţia în vigoare.
 [Art.145 al.(8) în redacția LP138 din 17.06.16, MO184-192/01.07.16 art.401; în vigoare 01.07.16]
-(9) Veniturile obţinute de instituţia de învăţămînt din prestarea contra plată a serviciilor educaţionale sînt intangibile şi se folosesc exclusiv pentru dezvol­tarea instituţiei.
+(9) Veniturile obținute de instituțiile de învățămînt din prestarea contra plată a serviciilor educaționale se gestionează în conformitate cu principiile, regulile și procedurile stabilite de Legea finanțelor publice și responsabilității bugetar-fiscale nr. 181/2014.
+[Art.145 al.(9) în redacția LP172 din 27.07.18, MO321-332/27.08.18 art.529; în vigoare 24.08.18]
 (10) Veniturile instituţiei de învăţămînt obţinute exclusiv din activitatea de antreprenoriat sînt acumulate şi administrate separat de alte venituri.
 (11) Asigurarea cu manuale şcolare este gestionată prin intermediul Fondului special pentru manuale, care este o structură cu autonomie financiară din sfera de competenţă a Ministerului Educaţiei, Culturii și Cercetării. Modul de funcţionare a Fondului special pentru manuale se stabileşte de Guvern. Conducătorul Fondului special pentru manuale este numit în funcţie, prin concurs, de către Ministerul Educaţiei, Culturii și Cercetării.
 Capitolul II. Bunurile şi baza materială a
