@@ -15,6 +15,15 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP187 din 26.07.18, MO336-346/07.09.18 art.569
+LP191 din 27.07.18, MO321-332/24.08.18 art.535
+LP190 din 27.07.18, MO321-332/24.08.18 art.533
+LP172 din 27.07.18, MO321-332/24.08.18 art.529
+LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18
+LP178 din 26.07.18, MO309-320/17.08.18 art.496; în vigoare 01.10.18
+LP173 din 26.07.18, MO309-320/17.08.18 art.492
+LP141 din 19.07.18, MO309-320/17.08.18 art.480
+LP140 din 27.06.18, MO309-320/17.08.18 art.478
 HCC20 din 04.07.18, MO267-275/20.07.18 art.119; în vigoare 04.07.18
 LP117 din 05.07.18, MO277-284/27.07.18 art.419; în vigoare 27.07.18
 LP118 din 05.07.18, MO276/20.07.18 art.409; în vigoare 20.07.18
@@ -791,6 +800,7 @@ TITLUL III art.93-1182
 TITLUL IV art.119-128
 TITLUL V art.129-275
 TITLUL VI art.276-287
+TITLUL VI1 art.2871-2877
 TITLUL VII art.288-298
 TITLUL VIII art.299-334
 TITLUL IX art.335-366
