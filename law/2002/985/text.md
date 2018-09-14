@@ -7,13 +7,15 @@ PARLAMENTUL
 COD
 Nr. 985
 din 18.04.2002
-CODUL PENAL
-al Republicii Moldova*
+PENAL al Republicii Moldova*
 Publicat : 14.04.2009
 în Monitorul Oficial
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP157 din 26.07.18, MO347-357/14.09.18 art.586
+LP195 din 27.07.18, MO321-332/24.08.18 art.539
+LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18
 LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18
 LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP66 din 24.05.18, MO181/01.06.18 art.327; în vigoare 01.06.18
@@ -118,12 +120,12 @@ Articolul 4. Principiul umanismului
 Articolul 5. Principiul democratismului
 (1) Persoanele care au săvîrşit infracţiuni sînt egale în faţa legii şi sînt supuse răspunderii penale fără deosebire de sex, rasă, culoare, limbă, religie, opinii politice sau orice alte opinii, origine naţională sau socială, apartenenţă la o minoritate naţională, avere, naştere sau orice altă situaţie.
 (2) Apărarea drepturilor şi intereselor unei persoane nu poate fi realizată prin încălcarea drepturilor şi intereselor altei persoane sau a unei colectivităţi.
-Articolul 6. Principiul caracterului personal
-al răspunderii penale
+Articolul 6. Principiul caracterului personal al răspunderii
+penale
 (1) Persoana este supusă răspunderii penale şi pedepsei penale numai pentru fapte săvîrşite cu vinovăţie.
 (2) Răspunderii penale şi pedepsei penale este supusă numai persoana care a săvîrşit cu intenţie sau din imprudenţă o faptă prevăzută de legea penală.
-Articolul 7. Principiul individualizării răspunderii
-penale şi pedepsei penale
+Articolul 7. Principiul individualizării răspunderii penale
+şi pedepsei penale
 (1) La aplicarea legii penale se ţine cont de caracterul şi gradul prejudiciabil al infracţiunii săvîrşite, de persoana celui vinovat şi de circumstanţele cauzei care atenuează ori agravează răspunderea penală.
 (2) Nimeni nu poate fi supus de două ori urmăririi penale şi pedepsei penale pentru una şi aceeaşi faptă.
 Articolul 8. Acţiunea legii penale în timp
@@ -133,8 +135,8 @@ Timpul săvîrşirii faptei se consideră timpul cînd a fost săvîrşită acţ
 Articolul 10. Efectul retroactiv al legii penale
 (1) Legea penală care înlătură caracterul infracţional al faptei, care uşurează pedeapsa ori, în alt mod, ameliorează situaţia persoanei ce a comis infracţiunea are efect retroactiv, adică se extinde asupra persoanelor care au săvîrşit faptele respective pînă la intrarea în vigoare a acestei legi, inclusiv asupra persoanelor care execută pedeapsa ori care au executat pedeapsa, dar au antecedente penale.
 (2) Legea penală care înăspreşte pedeapsa sau înrăutăţeşte situaţia persoanei vinovate de săvîrşirea unei infracţiuni nu are efect retroactiv.
-Articolul 101. Aplicarea legii penale mai favorabile
-în cazul pedepselor definitive
+Articolul 101. Aplicarea legii penale mai favorabile în cazul
+pedepselor definitive
 (1) Dacă, după rămînerea definitivă a hotărîrii de condamnare şi pînă la executarea completă a pedepsei privative de libertate, a muncii neremunerate în folosul comunităţii sau a amenzii, a intervenit o lege care prevede unul din aceste tipuri de pedeapsă, dar cu un maxim mai mic, sancţiunea aplicată se reduce la acest maxim dacă depăşeşte maximul prevăzut de legea nouă pentru infracţiunea săvîrşită.
 (2) Dacă, după rămînerea definitivă a hotărîrii de condamnare la detenţiune pe viaţă şi pînă la executarea ei, a intervenit o lege care prevede pentru aceeaşi faptă numai pedeapsa închisorii, pedeapsa detenţiunii pe viaţă se înlocuieşte cu maximul pedepsei închisorii, prevăzută de legea nouă pentru acea infracţiune.
 (3) Dacă legea nouă prevede în locul pedepsei închisorii numai pedeapsa muncii neremunerate în folosul comunităţii sau a amenzii, pedeapsa aplicată se înlocuieşte cu munca neremunerată în folosul comunităţii, dacă nu sînt interdicţii pentru aplicarea acesteia, fără a se putea depăşi maximul prevăzut de legea nouă. Dacă legea nouă prevede în locul pedepsei închisorii numai pedeapsa amenzii, pedeapsa aplicată se înlocuieşte cu amendă, fără a se depăşi maximul prevăzut în legea nouă. Ţinîndu-se seama de partea executată din pedeapsa închisorii, executarea pedepsei muncii neremunerate în folosul comunităţii sau, după caz, a amenzii poate fi înlăturată în întregime sau în parte.
@@ -180,11 +182,9 @@ Articolul 17. Infracţiunea săvîrşită cu intenţie
 Se consideră că infracţiunea a fost săvîrşită cu intenţie dacă persoana care a săvîrşit-o îşi dădea seama de caracterul prejudiciabil al acţiunii sau inacţiunii sale, a prevăzut urmările ei prejudiciabile, le-a dorit sau admitea, în mod conştient, survenirea acestor urmări.
 Articolul 18. Infracţiunea săvîrşită din imprudenţă
 Se consideră că infracţiunea a fost săvîrşită din imprudenţă dacă persoana care a săvîrşit-o îşi dădea seama de caracterul prejudiciabil al acţiunii sau inacţiunii sale, a prevăzut urmările ei prejudiciabile, dar considera în mod uşuratic că ele vor putea fi evitate ori nu îşi dădea seama de caracterul prejudiciabil al acţiunii sau inacţiunii sale, nu a prevăzut posibilitatea survenirii urmărilor ei prejudiciabile, deşi trebuia şi putea să le prevadă.
-Articolul 19. Infracţiunea săvîrşită cu două
-forme de vinovăţie
+Articolul 19. Infracţiunea săvîrşită cu două forme de vinovăţie
 Dacă, drept rezultat al săvîrşirii cu intenţie a infracţiunii, se produc urmări mai grave care, conform legii, atrag înăsprirea pedepsei penale şi care nu erau cuprinse de intenţia făptuitorului, răspunderea penală pentru atare urmări survine numai dacă persoana a prevăzut urmările prejudiciabile, dar considera în mod uşuratic că ele vor putea fi evitate sau dacă persoana nu a prevăzut posibilitatea survenirii acestor urmări, deşi trebuia şi putea să le prevadă. În consecinţă, infracţiunea se consideră intenţionată.
-Articolul 20. Fapta săvîrşită fără vinovăţie
-(cazul fortuit)
+Articolul 20. Fapta săvîrşită fără vinovăţie (cazul fortuit)
 Fapta se consideră săvîrşită fără vinovăţie dacă persoana care a comis-o nu îşi dădea seama de caracterul prejudiciabil al acţiunii sau inacţiunii sale, nu a prevăzut posibilitatea survenirii urmărilor ei prejudiciabile şi, conform circumstanţelor cauzei, nici nu trebuia sau nu putea să le prevadă.
 Articolul 21. Subiectul infracţiunii
 (1) Sînt pasibile de răspundere penală persoanele fizice responsabile care, în momentul săvîrşirii infracţiunii, au împlinit vîrsta de 16 ani.
@@ -210,8 +210,8 @@ Articolul 23. Iresponsabilitatea
 Articolul 231. Responsabilitatea redusă
 (1) Persoana care a săvîrşit o infracţiune ca urmare a unei tulburări psihice, constatată prin expertiza medicală efectuată în modul stabilit, din cauza căreia nu-şi putea da seama pe deplin de caracterul şi legalitatea faptelor sale sau nu le putea dirija pe deplin este pasibilă de responsabilitate penală redusă.
 (2) Instanţa de judecată, la stabilirea pedepsei sau a măsurilor de siguranţă, ţine cont de tulburarea psihică existentă, care însă nu exclude răspunderea penală.
-Articolul 24. Răspunderea pentru infracţiunea
-săvîrşită în stare de ebrietate
+Articolul 24. Răspunderea pentru infracţiunea săvîrşită în stare
+de ebrietate
 Persoana care a săvîrşit o infracţiune în stare de ebrietate, produsă de alcool sau de alte substanţe, nu este liberată de răspundere penală. Cauzele ebrietăţii, gradul şi influenţa ei asupra săvîrşirii infracţiunii se iau în considerare la stabilirea pedepsei.
 Articolul 25. Etapele activităţii infracţionale
 (1) Infracţiunea se consideră consumată dacă fapta săvîrşită întruneşte toate semnele constitutive ale componenţei de infracţiune.
@@ -230,7 +230,7 @@ Articolul 29. Infracţiunea continuă
 Articolul 30. Infracţiunea prelungită
 (1) Se consideră infracţiune prelungită fapta săvîrşită cu intenţie unică, caracterizată prin două sau mai multe acţiuni infracţionale identice, comise cu un singur scop, alcătuind în ansamblu o infracţiune.
 (2) Infracţiunea prelungită se consumă din momentul săvîrşirii ultimei acţiuni sau inacţiuni infracţionale.
-Articolul 31 - exclus
+Articolul 31. - exclus
 Articolul 32. Pluralitatea de infracţiuni
 Pluralitatea de infracţiuni constituie, după caz, concurs de infracţiuni sau recidivă.
 Articolul 33. Concursul de infracţiuni
@@ -260,8 +260,7 @@ e) dacă persoana a fost condamnată cu suspendarea condiţionată a executării
 Capitolul III
 CAUZELE CARE ÎNLĂTURĂ CARACTERUL
 PENAL AL FAPTEI
-Articolul 35. Cauzele care înlătură caracterul
-penal al faptei
+Articolul 35. Cauzele care înlătură caracterul penal al faptei
 Se consideră cauze care înlătură caracterul penal al faptei:
 a) legitima apărare;
 b) reţinerea infractorului;
@@ -286,8 +285,7 @@ Articolul 40. Riscul întemeiat
 (1) Nu constituie infracţiune fapta, prevăzută de legea penală, care a cauzat daune intereselor ocrotite de lege în cazul riscului întemeiat pentru realizarea scopurilor socialmente utile.
 (2) Riscul se consideră întemeiat dacă scopul socialmente util urmărit nu a putut fi realizat fără un anumit risc şi dacă persoana care l-a admis a luat măsurile necesare pentru a preveni cauzarea de daune intereselor ocrotite de lege.
 (3) Riscul nu poate fi considerat întemeiat dacă era cu bună-ştiinţă îmbinat cu pericolul pentru viaţa persoanei sau cu pericolul provocării unui dezastru ecologic ori social.
-Articolul 401. Executarea ordinului sau dispoziţiei
-superiorului
+Articolul 401. Executarea ordinului sau dispoziţiei superiorului
 (1) Nu constituie infracţiune fapta, prevăzută de legea penală, săvîrşită de o persoană în vederea executării unui ordin sau dispoziţii a superiorului, care sînt obligatorii pentru aceasta, dacă ordinul sau dispoziţia nu sînt vădit ilegale şi dacă persoana care le-a executat nu a ştiut că ordinul sau dispoziţia sînt ilegale. Răspunderii penale pentru fapta săvîrşită este supusă persoana care a emis ordinul sau dispoziţia ilegală.
 (2) Persoana care a comis intenţionat infracţiune în vederea executării ordinului sau dispoziţiei vădit ilegale ale superiorului răspunde penal în temeiuri generale. Neexecutarea ordinului sau dispoziţiei vădit ilegale exclude răspunderea penală.
 (3) În scopurile prezentului articol, ordinul sau dispoziţia superiorului de a comite genocid sau o infracţiune împotriva umanităţii sînt vădit ilegale.
@@ -349,14 +347,15 @@ d) căinţei active;
 e) schimbării situaţiei;
 f) liberării condiţionate;
 g) prescripţiei de tragere la răspundere penală.
-Articolul 54. Liberarea de răspundere penală
-a minorilor
+Articolul 54. Liberarea de răspundere penală a minorilor
 (1) Persoana în vîrstă de pînă la 18 ani care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă poate fi liberată de răspundere penală în conformitate cu prevederile procedurii penale dacă s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
 (2) Persoanelor liberate de răspundere penală, în conformitate cu alin.(1), li se aplică măsurile de constrîngere cu caracter educativ, prevăzute la art.104.
 [Art.54 al.(2) modificat prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
-Articolul 55. Liberarea de răspundere penală cu
-tragerea la răspundere contravenţională
+Articolul 55. Liberarea de răspundere penală cu tragerea
+la răspundere contravenţională
 (1) Persoana care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă, cu excepţia infracțiunilor prevăzute la art. 1811, 256, 303, 314, art. 326 alin. (1) şi (11), art. 327 alin. (1), art. 328 alin. (1), art. 332 alin. (1), art. 333 alin. (1), art. 334 alin. (1) şi (2), art. 335 alin. (1) și art. 3351 alin. (1), poate fi liberată de răspundere penală şi trasă la răspundere contravenţională în cazurile în care şi-a recunoscut vina, a reparat prejudiciul cauzat prin infracţiune şi s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
+(1) Persoana care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă, cu excepţia infracțiunilor prevăzute la art. 1811, 256, art. 264 alin. (2), art. 2641 , 303, 314, art. 326 alin. (1) şi (11), art. 327 alin. (1), art. 328 alin. (1), art. 332 alin. (1), art. 333 alin. (1), art. 334 alin. (1) şi (2), art. 335 alin. (1) și art. 3351 alin. (1), poate fi liberată de răspundere penală şi trasă la răspundere contravenţională în cazurile în care şi-a recunoscut vina, a reparat prejudiciul cauzat prin infracţiune şi s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
+[Art.55 al.(1) modificat prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.55 al.(1) modificat prin LP93 din 13.05.16, MO163-168/17.06.16 art.333]
 [Art.55 al.(1) modificat prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
 (2) Persoanelor liberate de răspundere penală în conformitate cu alin. (1) li se aplică următoarele sancţiuni contravenţionale:
@@ -372,22 +371,20 @@ g) arest contravenţional de pînă la 30 de zile.
 [Art.55 al.(2) modificat prin LP131-XVIII din 23.12.09, MO23-24/12.02.10 art.35]
 (3) Privarea de dreptul de a desfăşura o anumită activitate, privarea de dreptul de a deţine anumite funcţii, privarea de dreptul special pot fi aplicate şi ca sancţiuni complementare.
 [Art.55 al.(3) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
-Articolul 56. Liberarea de răspundere penală
-în legătură cu renunţarea de bună
-voie la săvîrşirea infracţiunii
+Articolul 56. Liberarea de răspundere penală în legătură cu renunţarea
+de bună voie la săvîrşirea infracţiunii
 (1) Se consideră renunţare de bună voie la săvîrşirea infracţiunii încetarea de către persoană a pregătirii infracţiunii sau încetarea acţiunilor (inacţiunilor) îndreptate nemijlocit spre săvîrşirea infracţiunii, dacă persoana era conştientă de posibilitatea consumării infracţiunii.
 (2) Persoana nu poate fi supusă răspunderii penale pentru infracţiune dacă ea, benevol şi definitiv, a renunţat la ducerea pînă la capăt a acesteia.
 (3) Persoana care a renunţat de bună voie la ducerea infracţiunii pînă la capăt este supusă răspunderii penale numai în cazul în care fapta săvîrşită conţine o altă infracţiune consumată.
 (4) Organizatorul şi instigatorul infracţiunii nu se supun răspunderii penale dacă aceste persoane, printr-o înştiinţare la timp a organelor de drept sau prin alte măsuri întreprinse, au preîntîmpinat ducerea de către autor a infracţiunii pînă la capăt. Complicele infracţiunii nu se supune răspunderii penale dacă a întreprins toate măsurile ce depindeau de el pentru a preîntîmpina comiterea infracţiunii.
-Articolul 57. Liberarea de răspundere penală
-în legătură cu căinţa activă
+Articolul 57. Liberarea de răspundere penală în legătură cu căinţa
+activă
 (1) Persoana care pentru prima oară a săvîrşit o infracţiune uşoară sau mai puţin gravă poate fi liberată de răspundere penală dacă ea, după săvîrşirea infracţiunii, s-a autodenunţat de bună voie, a contribuit activ la descoperirea acesteia, a compensat valoarea daunei materiale cauzate sau, în alt mod, a reparat prejudiciul pricinuit de infracţiune.
 (2) Persoana care, în condiţiile alin.(1), a săvîrşit o infracţiune de altă categorie poate fi liberată de răspundere penală numai în cazurile prevăzute la articolele corespunzătoare din Partea specială a prezentului cod.
-Articolul 58. Liberarea de răspundere penală
-în legătură cu schimbarea situaţiei
+Articolul 58. Liberarea de răspundere penală în legătură cu
+schimbarea situaţiei
 Persoana care pentru prima oară a săvîrşit o infracţiune uşoară sau mai puţin gravă poate fi liberată de răspundere penală dacă, datorită schimbării situaţiei, se va stabili că persoana sau fapta săvîrşită nu mai prezintă pericol social.
-Articolul 59. Liberarea condiţionată de răspundere
-penală
+Articolul 59. Liberarea condiţionată de răspundere penală
 În privinţa persoanei puse sub învinuire pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave, care îşi recunoaşte vinovăţia şi nu prezintă pericol social, urmărirea penală poate fi suspendată condiţionat, cu liberarea ulterioară de răspundere penală în conformitate cu procedura penală, dacă corectarea acestei persoane este posibilă fără aplicarea unei pedepse penale.
 Articolul 60. Prescripţia tragerii la răspundere penală
 (1) Persoana se liberează de răspundere penală dacă din ziua săvîrşirii infracţiunii au expirat următoarele termene:
@@ -411,11 +408,12 @@ Articolul 61. Noţiunea şi scopul pedepsei penale
 (1) Pedeapsa penală este o măsură de constrîngere statală şi un mijloc de corectare şi reeducare a condamnatului ce se aplică de instanţele de judecată, în numele legii, persoanelor care au săvîrşit infracţiuni, cauzînd anumite lipsuri şi restricţii drepturilor lor.
 (2) Pedeapsa are drept scop restabilirea echităţii sociale, corectarea și resocializarea condamnatului, precum şi prevenirea săvîrşirii de noi infracţiuni atît din partea condamnaţilor, cît şi a altor persoane. Executarea pedepsei nu trebuie să cauzeze suferinţe fizice şi nici să înjosească demnitatea persoanei condamnate.
 [Art.61 al.(2) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
-Articolul 62. Categoriile pedepselor aplicate
-persoanelor fizice
+Articolul 62. Categoriile pedepselor aplicate persoanelor fizice
 (1) Persoanelor fizice care au săvîrşit infracţiuni li se pot aplica următoarele pedepse:
 a) amendă;
 b) privare de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate;
+b1) privarea de dreptul de a conduce mijloace de transport sau anularea acestui drept;
+[Art.62 al.(1), lit.b1) introdusă prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 c) retragere a gradului militar sau special, a unui titlu special, a gradului de calificare (clasificare) şi a distincţiilor de stat;
 [Art.62 al.(1), lit.c) modificată prin LP65 din 07.04.11, MO110-112/08.07.11 art.297]
 d) munca neremunerată în folosul comunităţii;
@@ -428,8 +426,9 @@ g) detenţiune pe viaţă.
 (4) Amenda, privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate se aplică atît ca pedepse principale, cît şi ca pedepse complementare.
 (5) Retragerea gradului militar sau special, a unui titlu special, a gradului de calificare (clasificare) şi a distincţiilor de stat se aplică numai în calitate de pedeapsă complementară.
 [Art.62 al.(5) modificat prin LP65 din 07.04.11, MO110-112/08.07.11 art.297]
-Articolul 63. Categoriile pedepselor aplicate
-persoanelor juridice
+(6) Privarea de dreptul de a conduce mijloace de transport sau anularea acestui drept poate fi aplicată numai în calitate de pedeapsă complementară.
+[Art.62 al.(6) introdus prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
+Articolul 63. Categoriile pedepselor aplicate persoanelor juridice
 (1) Persoanelor juridice li se pot aplica următoarele pedepse:
 a) amendă;
 b) privare de dreptul de a exercita o anumită activitate;
@@ -454,20 +453,24 @@ Articolul 64. Amenda
 (6) Amenda în calitate de pedeapsă complementară poate fi aplicată numai în cazurile în care ea este prevăzută ca atare pentru infracţiunea corespunzătoare.
 (7) În cazul în care condamnatul nu este în stare să plătească amenda stabilită ca pedeapsă principală sau complementară, instanţa de judecată poate, potrivit prevederilor art.67, să înlocuiască suma neachitată a amenzii cu muncă neremunerată în folosul comunităţii, calculîndu-se 60 de ore de muncă neremunerată în folosul comunităţii pentru 100 unităţi convenţionale de amendă.
 [Art.64 al.(7) modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
-Articolul 65. Privarea de dreptul de a ocupa anumite
-funcţii sau de a exercita o anumită activitate
+Articolul 65. Privarea de dreptul de a ocupa anumite funcţii
+sau de a exercita o anumită activitate
 (1) Privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate constă în interzicerea de a ocupa o funcţie sau de a exercita o activitate de natura aceleia de care s-a folosit condamnatul la săvîrşirea infracţiunii.
 (2) Privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate poate fi stabilită de instanţa de judecată pe un termen de la 1 la 5 ani, iar în cazurile expres prevăzute în Partea specială a prezentului cod – pe un termen de la un an la 15 ani.
 [Art.65 al.(2) modificat prin LP252 din 08.11.12, MO263-269/21.12.12 art.855]
 (3) Privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate poate fi aplicată ca pedeapsă complementară şi în cazurile cînd nu este prevăzută în calitate de pedeapsă pentru infracţiunile din Partea specială a prezentului cod, dacă, ţinînd cont de caracterul infracţiunii săvîrşite de cel vinovat în timpul îndeplinirii obligaţiilor de serviciu sau în timpul exercitării unei anumite activităţi, instanţa de judecată va considera imposibilă păstrarea de către acesta a dreptului de a ocupa anumite funcţii sau de a exercita o anumită activitate.
 (4) La aplicarea pedepsei privative de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate în calitate de pedeapsă complementară la amendă sau muncă neremunerată în folosul comunităţii, termenul ei se calculează de la data rămînerii definitive a hotărîrii, iar la aplicarea ei în calitate de pedeapsă complementară la închisoare, termenul ei se calculează din momentul executării pedepsei principale.
-Articolul 66. Retragerea gradului militar sau special,
-a unui titlu special, a gradului de calificare
-(clasificare) şi a distincţiilor de stat
+Articolul 651. Privarea de dreptul de a conduce mijloace de transport
+sau anularea acestui drept
+(1) Privarea de dreptul de a conduce mijloace de transport sau anularea acestui drept constă în interzicerea conducerii oricărui tip de mijloc de transport pe drumurile publice.
+(2) Privarea de dreptul de a conduce mijloace de transport poate fi aplicată de instanța de judecată pe un termen de la 1 la 5 ani.
+(3) Anularea dreptului de a conduce mijloace de transport poate fi aplicată de instanța de judecată, cu redobîndirea ulterioară a permisului de conducere, în modul stabilit de lege.
+[Art.651 introdus prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
+Articolul 66. Retragerea gradului militar sau special, a unui titlu special,
+a gradului de calificare (clasificare) şi a distincţiilor de stat
 În caz de condamnare pentru o infracţiune gravă, deosebit de gravă sau excepţional de gravă, instanţa de judecată, ţinînd cont de circumstanţele săvîrşirii infracţiunii, poate retrage condamnatului gradul militar sau special, titlul special, gradul de calificare (clasificare) şi distincţiile de stat.
 [Art.66 modificat prin LP65 din 07.04.11, MO110-112/08.07.11 art.297]
-Articolul 67. Munca neremunerată în folosul
-comunităţii
+Articolul 67. Munca neremunerată în folosul comunităţii
 (1) Munca neremunerată în folosul comunităţii constă în antrenarea condamnatului, în afara timpului serviciului de bază sau de studii, la muncă, determinată de autorităţile administraţiei publice locale.
 (11) În cazul militarilor în termen şi militarilor cu termen redus, munca neremunerată în folosul comunităţii constă în antrenarea condamnaţilor în timpul liber de şedinţe, stabilite în conformitate cu cerinţele regulamentelor militare, la muncă, determinată de comandantul unităţii militare.
 (2) Munca neremunerată în folosul comunităţii se stabileşte pe un termen de la 60 la 240 de ore şi este executată de la 2 la 4 ore pe zi, iar în cazul condamnatului care nu este antrenat în activităţi de bază sau de studii, la solicitarea sau la acordul acestuia – pînă la 8 ore pe zi.
@@ -483,8 +486,8 @@ comunităţii
 [Art.67 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (5) Munca neremunerată în folosul comunităţii va fi prestată timp de cel mult 18 luni, timp care se calculează de la data rămînerii definitive a hotărîrii judecătoreşti.
 (6) Militarii în termen şi militarii cu termen redus condamnaţi la muncă neremunerată în folosul comunităţii execută această pedeapsă în unitatea militară.
-Articolul 68 - exclus
-Articolul 69 - exclus
+Articolul 68. - exclus
+Articolul 69. - exclus
 Articolul 70. Închisoarea
 (1) Închisoarea constă în privarea de libertate a persoanei vinovate de săvîrşirea unei infracţiuni prin izolarea impusă a acesteia de mediul normal de viaţă şi plasarea ei, în baza hotărîrii instanţei de judecată, pe un anumit termen, într-un penitenciar.
 (2) Închisoarea se stabileşte pe un termen de la 3 luni la 20 de ani.
@@ -498,8 +501,8 @@ Articolul 71. Detenţiunea pe viaţă
 (1) Detenţiunea pe viaţă constă în privarea de libertate a condamnatului pentru tot restul vieţii.
 (2) Detenţiunea pe viaţă se stabileşte numai pentru infracţiunile excepţional de grave.
 (3) Detenţiunea pe viaţă nu poate fi aplicată femeilor şi minorilor.
-Articolul 72. Categoriile penitenciarelor în care
-se execută pedeapsa cu închisoare
+Articolul 72. Categoriile penitenciarelor în care se execută
+pedeapsa cu închisoare
 (1) Pedeapsa cu închisoare se execută în următoarele penitenciare:
 a) de tip deschis;
 b) de tip semiînchis;
@@ -511,8 +514,8 @@ c) de tip închis.
 (5) Persoanele care nu au atins vîrsta de 18 ani execută pedeapsa cu închisoare în penitenciare pentru minori, ţinîndu-se cont de personalitatea condamnatului, antecedentele penale şi gradul prejudiciabil al infracţiunii săvîrşite.
 (6) Femeile condamnate execută pedeapsa închisorii în penitenciare pentru femei.
 (7) Schimbarea categoriei penitenciarului se efectuează de către instanţa de judecată în corespundere cu legislaţia.
-Articolul 73. Privarea unei persoane juridice de dreptul
-de a exercita o anumită activitate
+Articolul 73. Privarea unei persoane juridice de dreptul de a exercita
+o anumită activitate
 (1) Privarea unei persoane juridice de dreptul de a exercita o anumită activitate constă în stabilirea interdicţiei de a încheia anumite tranzacţii, de a emite acţiuni sau alte titluri de valoare, de a primi subvenţii, înlesniri şi alte avantaje de la stat sau de a exercita alte activităţi.
 (2) Privarea de dreptul de a exercita o anumită activitate poate fi limitată la un anumit teritoriu sau la o anumită perioadă a anului şi se stabileşte pe un termen de pînă la 5 ani sau pe un termen nelimitat.
 Articolul 74. Lichidarea persoanei juridice
@@ -520,8 +523,7 @@ Articolul 74. Lichidarea persoanei juridice
 (2) Lichidarea persoanei juridice se stabileşte în cazul în care instanţa de judecată constată că gravitatea infracţiunii săvîrşite face imposibilă păstrarea unei atare persoane juridice şi prelungirea activităţii ei.
 Capitolul VIII
 INDIVIDUALIZAREA PEDEPSELOR
-Articolul 75. Criteriile generale de individualizare
-a pedepsei
+Articolul 75. Criteriile generale de individualizare a pedepsei
 (1) Persoanei recunoscute vinovate de săvîrşirea unei infracţiuni i se aplică o pedeapsă echitabilă în limitele fixate în Partea specială a prezentului cod şi în strictă conformitate cu dispoziţiile Părţii generale a prezentului cod. La stabilirea categoriei şi termenului pedepsei, instanţa de judecată ţine cont de gravitatea infracţiunii săvîrşite, de motivul acesteia, de persoana celui vinovat, de circumstanţele cauzei care atenuează ori agravează răspunderea, de influenţa pedepsei aplicate asupra corectării şi reeducării vinovatului, precum şi de condiţiile de viaţă ale familiei acestuia.
 (2) În cazul alternativelor de pedeapsă prevăzute pentru infracţiunea săvîrşită, pedeapsa cu închisoare are un caracter excepţional și se aplică atunci cînd gravitatea infracțiunii și personalitatea infractorului fac necesară aplicarea pedepsei cu închisoare, iar o altă pedeapsă este insuficientă și nu și-ar atinge scopul. O pedeapsă mai aspră, din numărul celor alternative prevăzute pentru săvîrșirea infracțiunii, se stabilește numai în cazul în care o pedeapsă mai blîndă, din numărul celor menționate, nu va asigura atingerea scopului pedepsei. Caracterul excepţional la aplicarea pedepsei cu închisoare urmează a fi argumentat de către instanţa de judecată.
 [Art.75 al.(2) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
@@ -560,8 +562,7 @@ k) săvîrşirea infracţiunii cu folosirea armei, a muniţiilor, a substanţelo
 m) săvîrşirea infracţiunii profitînd de starea excepţională, de calamităţile naturale, precum şi de dezordini de masă;
 n) săvîrşirea infracţiunii cu folosirea încrederii acordate.
 (2) Dacă circumstanţele menţionate la alin.(1) sînt prevăzute la articolele corespunzătoare din Partea specială a prezentului cod în calitate de semne ale acestor componenţe de infracţiuni, ele nu pot fi concomitent considerate drept circumstanţe agravante.
-Articolul 78. Efectele circumstanţelor atenuante
-şi agravante
+Articolul 78. Efectele circumstanţelor atenuante şi agravante
 (1) În cazul în care instanţa de judecată constată circumstanţe atenuante la săvîrşirea infracţiunii, pedeapsa principală se reduce sau se schimbă după cum urmează:
 a) dacă minimul pedepsei cu închisoare prevăzut la articolul corespunzător din Partea specială a prezentului cod este mai mic de 10 ani, pedeapsa poate fi redusă pînă la acest minim;
 b) dacă se aplică amenda, aceasta se poate coborî pînă la limita de jos;
@@ -570,35 +571,32 @@ c) dacă pentru infracţiunea săvîrşită se prevede detenţiune pe viaţă, a
 (3) În cazul în care există circumstanţe agravante se poate aplica pedeapsa maximă prevăzută la articolul corespunzător din Partea specială a prezentului cod.
 (4) În caz de concurs al circumstanţelor agravante şi celor atenuante, coborîrea pedepsei pînă la minimul sau ridicarea ei pînă la maximul prevăzut la articolul corespunzător din Partea specială a prezentului cod nu este obligatorie.
 (5) Dacă există circumstanţe atenuante excepţionale, pedeapsa poate fi aplicată conform prevederilor art.79.
-Articolul 79. Aplicarea pedepsei mai blînde
-decît cea prevăzută de lege
+Articolul 79. Aplicarea pedepsei mai blînde decît cea prevăzută
+de lege
 (1) Ţinînd cont de circumstanţele excepţionale ale cauzei, legate de scopul şi motivele faptei, de rolul vinovatului în săvîrşirea infracţiunii, de comportarea lui în timpul şi după consumarea infracţiunii, de alte circumstanţe care micşorează esenţial gravitatea faptei şi a consecinţelor ei, precum şi de contribuirea activă a participantului unei infracţiuni săvîrşite în grup la descoperirea acesteia, instanţa de judecată poate aplica o pedeapsă sub limita minimă, prevăzută de legea penală pentru infracţiunea respectivă, sau una mai blîndă, de altă categorie, ori poate să nu aplice pedeapsa complementară obligatorie. Minoratul persoanei care a săvîrşit infracţiunea se consideră circumstanţă excepţională. Săvîrşirea infracțiunii de către persoanele care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani poate fi apreciată de către instanţa de judecată drept circumstanţă excepţională
 [Art.79 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (11) Poate fi considerată excepțională atît o circumstanță atenuantă, cît și un cumul de asemenea circumstanțe legate de situațiile menționate la alin. (1).
 [Art.79 al.(11) introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
-(2)- exclus
+(2) - exclus
 (3) În cazul condamnării persoanelor adulte pentru comiterea infracţiunilor deosebit de grave, instanţa de judecată poate aplica o pedeapsă sub limita minimă prevăzută de legea penală, dar constituind cel puţin două treimi din minimul pedepsei prevăzute de prezentul cod pentru infracţiunea săvîrşită.
 (4) Prevederile alin.(1) nu se aplică persoanelor adulte în cazul aplicării pedepsei detenţiunii pe viaţă , în cazul recidivei de infracţiuni sau al săvîrşirii de infracţiuni prevăzute la art. 1661 alin. (2)–(4).
 [Art.79 al.(4) modificat prin LP252 din 08.11.12, MO263-269/21.12.12 art.855]
-Articolul 80. Aplicarea pedepsei în cazul încheierii
-acordului de recunoaştere a vinovăţiei
+Articolul 80. Aplicarea pedepsei în cazul încheierii acordului de recunoaştere
+a vinovăţiei
 În cazul în care persoana pusă sub învinuire încheie un acord de recunoaştere a vinovăţiei, iar instanţa de judecată acceptă acest acord, pedeapsa pentru infracţiunea imputată se reduce cu o treime din pedeapsa maximă prevăzută pentru această infracţiune.
-Articolul 81. Aplicarea pedepsei pentru infracţiunea
-neconsumată
+Articolul 81. Aplicarea pedepsei pentru infracţiunea neconsumată
 (1) La aplicarea pedepsei pentru infracţiunea neconsumată se ţine cont de circumstanţele în virtutea cărora infracţiunea nu a fost dusă pînă la capăt.
 (2) Mărimea pedepsei pentru pregătirea de infracţiune ce nu constituie o recidivă nu poate depăşi jumătate din maximul celei mai aspre pedepse prevăzute la articolul corespunzător din Partea specială a prezentului cod pentru infracţiunea consumată.
 (3) Mărimea pedepsei pentru tentativă de infracţiune ce nu constituie o recidivă nu poate depăşi trei pătrimi din maximul celei mai aspre pedepse prevăzute la articolul corespunzător din Partea specială a prezentului cod pentru infracţiunea consumată.
 (4) Pentru pregătirea de infracţiune şi tentativa de infracţiune detenţiunea pe viaţă nu se aplică.
-Articolul 82. Aplicarea pedepsei pentru recidivă
-de infracţiuni
+Articolul 82. Aplicarea pedepsei pentru recidivă de infracţiuni
 (1) La aplicarea pedepsei pentru recidivă periculoasă şi recidivă deosebit de periculoasă de infracţiuni se ţine cont de numărul, caracterul, gravitatea şi urmările infracţiunilor săvîrşite anterior, de circumstanţele în virtutea cărora pedeapsa anterioară a fost insuficientă pentru corectarea vinovatului, precum şi de caracterul, gravitatea şi urmările infracţiunii noi.
 [Art.82 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2) Mărimea pedepsei pentru recidiva periculoasă și deosebit de periculoasă nu poate fi mai mică de o treime din maximul pedepsei prevăzute la articolul corespunzător din Partea specială a prezentului cod. În cazul în care sînt stabilite numai circumstanțe atenuante, instanța poate stabili pedeapsa în limitele prevăzute pentru infracțiune în Partea specială a prezentului cod.
 [Art.82 al.(2) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 Articolul 83. Aplicarea pedepsei pentru participaţie
 Organizatorul, instigatorul şi complicele la o infracţiune, prevăzută de legea penală, săvîrşită cu intenţie se sancţionează cu pedeapsa prevăzută de lege pentru autor. La stabilirea pedepsei se ţine cont de contribuţia fiecăruia la săvîrşirea infracţiunii, precum şi de prevederile art.75.
-Articolul 84. Aplicarea pedepsei în cazul unui
-concurs de infracţiuni
+Articolul 84. Aplicarea pedepsei în cazul unui concurs de infracţiuni
 (1) Dacă o persoană este declarată vinovată de săvîrşirea a două sau mai multor infracţiuni fără să fi fost condamnată pentru vreuna din ele, instanţa de judecată, pronunţînd pedeapsa pentru fiecare infracţiune aparte, stabileşte pedeapsa definitivă pentru concurs de infracţiuni prin cumul, total sau parţial, al pedepselor aplicate, dar pe un termen nu mai mare de 25 de ani de închisoare, iar în privinţa persoanelor care nu au atins vîrsta de 18 ani și a persoanelor care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani, care nu au mai fost condamnate pe un termen nu mai mare de 12 ani şi 6 luni. În cazul în care persoana este declarată vinovată de săvîrşirea a două sau mai multor infracţiuni uşoare şi/sau mai puţin grave, pedeapsa definitivă poate fi stabilită şi prin absorbirea pedepsei mai uşoare de pedeapsa mai aspră.
 [Art.84 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.84 al.(1) modificat prin LP270 din 07.11.13, MO290/10.12.13 art.794]
@@ -606,28 +604,26 @@ concurs de infracţiuni
 (3) Dacă pentru infracţiunile care intră în concurs sînt stabilite pedepse principale de diferite categorii, a căror cumulare nu este prevăzută de art.87, şi instanţa de judecată nu va găsi temeiuri pentru absorbirea unei pedepse de către alta, ele se execută de sine stătător.
 (4) Conform prevederilor alin.(1)-(3) se stabileşte pedeapsa şi în cazul în care, după pronunţarea sentinţei, se constată că persoana condamnată este vinovată şi de comiterea unei alte infracţiuni săvîrşite înainte de pronunţarea sentinţei în prima cauză. În acest caz, în termenul pedepsei se include durata pedepsei executate, complet sau parţial, în baza primei sentinţe.
 (5) În cazul unui concurs de infracţiuni, cînd s-a stabilit o pedeapsă cu detenţiune pe viaţă şi una sau mai multe pedepse cu închisoare ori alte categorii de pedepse, se aplică ca pedeapsă definitivă detenţiunea pe viaţă.
-Articolul 85. Aplicarea pedepsei în cazul unui
-cumul de sentinţe
+Articolul 85. Aplicarea pedepsei în cazul unui cumul de sentinţe
 (1) Dacă, după pronunţarea sentinţei, dar înainte de executarea completă a pedepsei, condamnatul a săvîrşit o nouă infracţiune, instanţa de judecată adaugă, în întregime sau parţial, la pedeapsa aplicată prin noua sentinţă partea neexecutată a pedepsei stabilite de sentinţa anterioară. În acest caz, pedeapsa definitivă nu poate depăşi termenul de 30 de ani de închisoare, iar în privinţa persoanelor care nu au atins vîrsta de 18 ani şi a persoanelor care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani, care nu au mai fost condamnate - termenul de 15 ani.
 [Art.85 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2) Cumularea pedepselor complementare în cazul unui cumul de sentinţe se efectuează în condiţiile art.84 alin.(2).
 (3) Pedeapsa definitivă în cazul unui cumul de sentinţe trebuie să fie mai mare decît pedeapsa stabilită pentru săvîrşirea unei noi infracţiuni şi decît partea neexecutată a pedepsei pronunţate prin sentinţa anterioară a instanţei de judecată.
 (4) La cumularea pedepselor, dacă prin una din sentinţe este stabilită pedeapsa detenţiunii pe viaţă, pedeapsa definitivă va fi detenţiunea pe viaţă.
-Articolul 86. Aplicarea pedepsei în cazul executării
-hotărîrii unui stat străin
+Articolul 86. Aplicarea pedepsei în cazul executării hotărîrii unui
+stat străin
 (1) La executarea hotărîrii unui stat străin, instanţa de judecată înlocuieşte sancţiunea privativă de libertate pronunţată în statul străin cu o sancţiune prevăzută de propria lege penală pentru aceeaşi faptă, fără a agrava situaţia penală a condamnatului stabilită prin hotărîrea statului străin. Dacă legea statului străin prevede o sancţiune mai mică decît minimul prevăzut în legea internă, instanţa de judecată nu va fi legată de acest minim şi va aplica o sancţiune corespunzătoare sancţiunii pronunţate în statul străin.
 (2) Orice parte a sancţiunii pronunţate în statul străin şi orice perioadă de detenţie provizorie executate de condamnat se deduc integral prin hotărîrea instanţei de judecată privind recunoaşterea hotărîrii statului străin.
 (3) La executarea hotărîrii statului străin privind aplicarea amenzii sau confiscarea unei sume de bani, instanţa de judecată va stabili cuantumul acesteia în monedă naţională, aplicînd cursul oficial al leului moldovenesc valabil la momentul pronunţării hotărîrii privind recunoaşterea hotărîrii statului străin, fără a depăşi maximul sancţiunii fixat de către statul străin pentru o astfel de faptă.
 [Art.86 al.(3) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 (4) Amenzile şi confiscările de bunuri rezultate din executarea hotărîrilor unui stat străin revin Republicii Moldova, fără a fi prejudiciate drepturile statelor terţe.
-Articolul 87. Modul determinării termenului pedepsei
-definitive în cazul cumulării diferitelor
-pedepse
+Articolul 87. Modul determinării termenului pedepsei definitive
+în cazul cumulării diferitelor pedepse
 (1) La cumularea diferitelor pedepse principale aplicate în cazul unui concurs de infracţiuni sau al unui cumul de sentinţe, unei zile de închisoare îi corespund 4 ore de muncă neremunerată în folosul comunităţii.
 [Art.87 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2) Celelalte pedepse cumulate cu închisoarea se execută de sine stătător.
-Articolul 88. Calcularea termenelor pedepsei
-şi computarea arestului preventiv
+Articolul 88. Calcularea termenelor pedepsei şi computarea
+arestului preventiv
 (1) Termenele de privare de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate şi de închisoare se calculează în luni şi ani, iar cele de muncă neremunerată în folosul comunităţii - în ore.
 (2) La computarea sau cumularea pedepselor menţionate la alin.(1), cu excepţia muncii neremunerate în folosul comunităţii, precum şi la înlocuirea pedepsei, se admite calcularea acestora în zile.
 (3) Timpul aflării persoanei sub arest preventiv pînă la judecarea cauzei se include în termenul închisorii, calculîndu-se o zi pentru o zi, iar în termenul muncii neremunerate în folosul comunităţii – calculîndu-se o zi de arest preventiv pentru 4 ore de muncă neremunerată în folosul comunităţii.
@@ -637,8 +633,7 @@ Articolul 88. Calcularea termenelor pedepsei
 (6) Timpul în care condamnatul, în cursul executării pedepsei, urmează un tratament spitalicesc se include în durata executării pedepsei, cu excepţia cazului în care şi-a provocat singur boala, fapt ce s-a constatat în cursul executării pedepsei. În durata executării pedepsei cu muncă neremunerată în folosul comunităţii nu se include timpul în care condamnatul lipseşte de la locul de muncă.
 Capitolul IX
 LIBERAREA DE PEDEAPSA PENALĂ
-Articolul 89. Noţiunea şi categoriile liberării
-de pedeapsa penală
+Articolul 89. Noţiunea şi categoriile liberării de pedeapsa penală
 (1) Prin liberare de pedeapsa penală se înţelege eliberarea persoanei care a săvîrşit o infracţiune de la executarea reală, parţială sau totală, a pedepsei penale pronunţate prin hotărîre a instanţei de judecată.
 (2) Liberarea de pedeapsa penală se efectuează prin:
 a) condamnarea cu suspendare condiţionată a executării pedepsei;
@@ -653,14 +648,14 @@ g) amînarea executării pedepsei pentru femei gravide şi persoane care au copi
 [Art.89 al.(2), lit.g) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (3) Persoanelor liberate de pedeapsa penală li se aplică probaţiunea, iar militarilor – termenul de probă.
 [Art.89 al.(3) introdus prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
-Articolul 90. Condamnarea cu suspendarea
-condiţionată a executării pedepsei
+Articolul 90. Condamnarea cu suspendarea condiţionată a executării
+pedepsei
 (1) Dacă, la stabilirea pedepsei cu închisoare pe un termen de cel mult 5 ani pentru infracţiunile săvîrşite cu intenţie şi de cel mult 7 ani pentru infracţiunile săvîrşite din imprudenţă, instanţa de judecată, ţinînd cont de circumstanţele cauzei şi de persoana celui vinovat, va ajunge la concluzia că nu este raţional ca acesta să execute pedeapsa stabilită, ea poate dispune suspendarea condiţionată a executării pedepsei aplicate vinovatului, indicînd numaidecît în hotărîre motivele condamnării cu suspendare condiţionată a executării pedepsei şi perioada de probaţiune sau, după caz, termenul de probă. În acest caz, instanţa de judecată dispune neexecutarea pedepsei aplicate dacă, în perioada de probaţiune sau, după caz, termenul de probă pe care l-a fixat, condamnatul nu va săvîrşi o nouă infracţiune şi, prin respectarea condițiilor probațiunii sau, după caz, a termenului de probă, va îndreptăţi încrederea ce i s-a acordat. Controlul asupra comportării celor condamnaţi cu suspendarea condiţionată a executării pedepsei îl exercită organele competente, iar asupra comportării militarilor – comandamentul militar respectiv.
 [Art.90 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.90 al.(1) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (2) Perioada de probaţiune sau, după caz, termenul de probă se stabileşte de instanţa de judecată în limitele de la 1 an la 5 ani.
 [Art.90 al.(2) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
-(3)- exclus
+(3) - exclus
 (4) Persoanelor care au săvîrşit infracţiuni deosebit de grave şi excepţional de grave, precum şi în cazul recidivei periculoase sau deosebit de periculoase, condamnarea cu suspendarea condiţionată a executării pedepsei nu se aplică.
 [Art.90 al.(4) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (5) În caz de condamnare cu suspendarea condiţionată a executării pedepsei, pot fi stabilite pedepse complementare.
@@ -675,7 +670,7 @@ d) să acorde o susţinere materială familiei victimei;
 e) să repare daunele cauzate în termenul stabilit de instanţă;
 f) să participe la programe probaţionale;
 [Art.90 al.(6), lit.f) introdusă prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
-f)- exclusă
+f) - exclusă
 g) să presteze muncă neremunerată în folosul comunităţii;
 [Art.90 al.(6), lit.g) introdusă prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 h) să fie supus monitorizării electronice, dar nu mai mult de 12 luni.
@@ -696,8 +691,8 @@ h) să fie supus monitorizării electronice, dar nu mai mult de 12 luni.
 [Art.90 al.(10) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (11) În cazul în care cel condamnat cu suspendarea condiţionată a executării pedepsei săvîrşeşte în perioada de probaţiune sau, după caz, termenul de probă o infracţiune din imprudenţă sau o infracţiune intenţionată mai puţin gravă, problema anulării sau menţinerii condamnării cu suspendarea condiţionată a executării pedepsei se soluţionează de către instanţa de judecată, la propunerea organului care exercită supravegherea asupra comportamentului celor condamnaţi cu suspendarea executării pedepsei.
 [Art.90 al.(11) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
-Articolul 901. Condamnarea cu suspendarea parțială
-a executării pedepsei cu închisoare
+Articolul 901. Condamnarea cu suspendarea parțială a executării
+pedepsei cu închisoare
 (1) În cazul în care instanţa de judecată, ţinînd cont de circumstanţele cauzei şi de personalitatea vinovatului, ajunge la concluzia că nu este raţional ca acesta să execute întreaga pedeapsă cu închisoare în penitenciar, aceasta poate dispune suspendarea parțială a executării pedepsei aplicate vinovatului, indicînd în hotărîre perioada de executare a pedepsei în închisoare și perioada de probațiune sau, după caz, termenul de probă, precum și motivele condamnării cu suspendarea parțială a executării pedepsei. Prima parte a pedepsei se execută în penitenciar, iar restul pedepsei se suspendă.
 (2) În cazul infracțiunilor ușoare sau mai puțin grave, partea de pedeapsă ce trebuie executată în penitenciar poate fi coborîtă pînă la minimul prevăzut de prezentul cod.
 (3) În cazul infracțiunilor grave, partea de pedeapsă ce trebuie executată în penitenciar nu trebuie să fie mai mică decît jumătate din pedeapsa stabilită de instanța de judecată.
@@ -706,8 +701,7 @@ a executării pedepsei cu închisoare
 (6) În cazul în care cel condamnat cu suspendarea parțială a executării pedepsei cu închisoare săvîrşeşte în perioada de probaţiune sau, după caz, în termenul de probă o nouă infracţiune intenţionată sau încalcă în mod sistematic obligaţiile stabilite, instanţa de judecată îi stabileşte o pedeapsă în condiţiile art. 85 dacă, după caz, nu sînt aplicabile prevederile alin. (7) din prezentul articol.
 (7) În cazul în care cel condamnat cu suspendarea parțială a executării pedepsei cu închisoare săvîrşeşte în perioada de probaţiune sau, după caz, în termenul de probă o infracţiune din imprudenţă sau o infracţiune intenţionată uşoară sau mai puţin gravă, problema anulării sau menţinerii condamnării cu suspendarea parțială a executării pedepsei cu închisoare se soluţionează de către instanţa de judecată, la demersul organului care exercită supravegherea asupra comportamentului celor condamnaţi cu suspendarea executării pedepsei.
 [Art.901 introdus prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
-Articolul 91. Liberarea condiţionată de pedeapsă
-înainte de termen
+Articolul 91. Liberarea condiţionată de pedeapsă înainte de termen
 (1) Persoanei care execută pedeapsa cu închisoare i se poate aplica liberarea condiționată de pedeapsă înainte de termen dacă a realizat programul individual de executare a pedepsei, a reparat integral daunele cauzate de infracțiunea pentru care a fost condamnată, cu excepția cazului cînd dovedește că nu a avut nicio posibilitate să le îndeplinească, și dacă se constată că corectarea ei este posibilă fără executarea deplină a pedepsei. Persoana poate fi liberată, în întregime sau parțial, și de pedeapsa complementară.
 [Art.91 al.(1) în redacția LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.91 al.(1) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
@@ -741,18 +735,16 @@ a) condamnatul se eschivează cu premeditare de la îndeplinirea obligaţiilor s
 [Art.91 al.(8), lit.a) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 b) condamnatul săvîrşeşte din imprudenţă o nouă infracţiune, anularea sau menţinerea liberării condiţionate de pedeapsă înainte de termen se decide de instanţa de judecată;
 c) condamnatul săvîrşeşte cu intenţie o nouă infracţiune, instanţa de judecată îi stabileşte pedeapsa în condiţiile art.85. În acelaşi mod se aplică pedeapsa şi în cazul săvîrşirii unei noi infracţiuni din imprudenţă dacă instanţa de judecată anulează liberarea condiţionată de pedeapsă înainte de termen.
-Articolul 911. Liberarea de pedeapsă penală
-în cazul săvîrșirii infracțiunii
-pentru prima oară și al reparării
-prejudiciului
+Articolul 911. Liberarea de pedeapsă penală în cazul săvîrșirii infracțiunii
+pentru prima oară și al reparării prejudiciului
 (1) Persoana este liberată de pedeapsă penală în cazul săvîrșirii unei infracțiuni prevăzute la art. 241, 242, 244, 2441, 246, 2461, 250, 257, 258 și 262 din Partea specială a prezentului cod dacă întrunește cumulativ următoarele condiții:
 a) nu a fost liberată anterior de pedeapsă penală pentru comiterea aceleiași fapte;
 b) a înlăturat încălcările și a reparat prejudiciul cauzat prin infracțiune;
 c) a achitat la bugetul de stat o sumă egală cu valoarea prejudiciului material cauzat, dar nu mai mică decît dublul limitei maxime a amenzii prevăzute de sancțiunea articolului corespunzător din Partea specială a codului.
 (2) Persoana este liberată de pedeapsă penală în condițiile alin. (1) doar dacă fapta nu a fost săvîrșită prin aplicarea constrîngerii fizice sau psihice, nu s-a soldat cu cauzarea de prejudicii vieții și sănătății persoanei sau nu a fost săvîrșită de un grup criminal organizat sau de o organizație criminală.
 [Art.911 introdus prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
-Articolul 92. Înlocuirea părţii neexecutate din pedeapsă
-cu o pedeapsă mai blîndă
+Articolul 92. Înlocuirea părţii neexecutate din pedeapsă cu o pedeapsă
+mai blîndă
 (1) În privinţa persoanelor care execută pedeapsa cu închisoare pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave și grave, instanţa de judecată, ţinînd cont de comportarea lor în timpul executării pedepsei, poate pronunţa o încheiere cu privire la înlocuirea părţii neexecutate din pedeapsă cu o pedeapsă mai blîndă. Totodată, persoana poate fi liberată, în întregime sau parţial, de la pedeapsa complementară.
 [Art.92 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 [Art.92 al.(11) abrogat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
@@ -768,20 +760,18 @@ cu o pedeapsă mai blîndă
 Articolul 93. Liberarea de pedeapsă a minorilor
 Minorii condamnaţi pentru săvîrşirea unei infracţiuni uşoare, mai puţin grave sau grave sînt liberaţi de pedeapsă de către instanţa de judecată dacă se constată că scopurile pedepsei pot fi atinse prin aplicarea măsurilor de constrîngere cu caracter educativ prevăzute la art. 104.
 [Art.93 în redacția LP123 din 02.06.16, MO232-244/29.07.16 art.492]
-Articolul 94. Liberarea de pedeapsă datorită
-schimbării situaţiei
+Articolul 94. Liberarea de pedeapsă datorită schimbării situaţiei
 Persoana care a săvîrşit o infracţiune uşoară sau mai puţin gravă poate fi liberată de pedeapsă dacă se va constata că, la data judecării cauzei, datorită schimbării situaţiei, fapta săvîrşită şi-a pierdut caracterul prejudiciabil şi, în virtutea comportării ireproşabile după săvîrşirea infracţiunii, persoana respectivă poate fi corectată fără executarea pedepsei.
-Articolul 95. Liberarea de la executarea pedepsei
-a persoanelor grav bolnave
+Articolul 95. Liberarea de la executarea pedepsei a persoanelor
+grav bolnave
 (1) Persoana care, în timpul executării pedepsei, s-a îmbolnăvit de o boală psihică, ce o lipseşte de posibilitatea de a-şi da seama de acţiunile sale sau de a le dirija, este liberată de executarea pedepsei. Acestei persoane instanţa de judecată îi poate aplica măsuri de constrîngere cu caracter medical.
 (2) Persoana care, pînă la pronunţarea sentinţei sau în timpul executării pedepsei, s-a îmbolnăvit de o boală gravă, alta decît cea specificată la alin.(1), ce împiedică executarea pedepsei, poate fi liberată de executarea pedepsei de către instanţa de judecată.
 [Art.95 al.(2) modificat prin LP213 din 12.10.12, MO234-236/09.11.21 art.748]
 (3)- exclus
 (4) Persoanele menţionate la alin.(1) şi (2), în cazul însănătoşirii lor, pot fi supuse pedepsei dacă nu au expirat termenele prescripţiei prevăzute la art.60 şi 97. Schimbarea liberării condiționate a persoanelor menționate la alin. (1) și (2) cu executarea pedepsei în penitenciar se efectuează la demersul reprezentantului organului care pune în executare sentința, în baza unui control efectuat cel puţin o dată la 12 luni.
 [Art.95 al.(4) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
-Articolul 96. Amînarea executării pedepsei pentru
-femei gravide şi persoane care au copii
-în vîrstă de pînă la 8 ani
+Articolul 96. Amînarea executării pedepsei pentru femei gravide
+şi persoane care au copii în vîrstă de pînă la 8 ani
 [Art.96 denumirea modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (1) Femeilor condamnate gravide şi persoanelor care au copii în vîrstă de pînă la 8 ani, cu excepţia celor condamnate la închisoare pe un termen mai mare de 5 ani pentru infracţiuni grave, deosebit de grave şi excepţional de grave, infracțiuni prevăzute la cap. I, II, III, VII, VIII, XIII și XVII, instanţa de judecată le poate amîna executarea pedepsei pînă la atingerea de către copil a vîrstei de 8 ani.
 [Art.96 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
@@ -799,11 +789,10 @@ c) trimite persoana condamnată în instituţia corespunzătoare pentru executar
 [Art.96 al.(3), lit.c) modificată prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (4) Dacă în perioada amînării executării pedepsei persoana condamnată săvîrşeşte o nouă infracţiune, instanţa de judecată îi stabileşte o pedeapsă în condiţiile art.85.
 [Art.96 al.(4) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
-Articolul 961. Dispunerea internării forţate într-o
-instituţie ftiziopneumologică
+Articolul 961. Dispunerea internării forţate într-o instituţie
+ftiziopneumologică
 Dacă persoana în privinţa căreia se examinează chestiunea privind liberarea de pedeapsă conform art.91-96 este bolnavă de tuberculoză, instanţa de judecată poate dispune, în baza demersului administraţiei instituţiei penitenciare, internarea ei forţată într-o instituţie ftiziopneumologică.
-Articolul 97. Prescripţia executării sentinţei
-de condamnare
+Articolul 97. Prescripţia executării sentinţei de condamnare
 (1) Sentinţa de condamnare nu se pune în executare dacă acest lucru nu a fost făcut în următoarele termene, calculate din ziua în care aceasta a rămas definitivă:
 a) 2 ani, în caz de condamnare pentru o infracţiune uşoară;
 b) 6 ani, în caz de condamnare pentru o infracţiune mai puţin gravă;
@@ -827,8 +816,7 @@ c) expulzarea;
 d) confiscarea specială;
 e) confiscarea extinsă.
 [Art.98 al.(2), lit.e) introdusă prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
-Articolul 99. Aplicarea măsurilor de constrîngere
-cu caracter medical
+Articolul 99. Aplicarea măsurilor de constrîngere cu caracter medical
 Persoanelor care au săvîrşit fapte prevăzute de legea penală în stare de iresponsabilitate sau care au săvîrşit asemenea fapte în stare de responsabilitate, de responsabilitate redusă, dar, pînă la pronunţarea sentinţei sau în timpul executării pedepsei, s-au îmbolnăvit de o boală psihică, din care cauză ele sînt incapabile să-şi dea seama de acţiunile lor sau să le dirijeze, instanţa de judecată poate să le aplice următoarele măsuri de constrîngere cu caracter medical, care se înfăptuiesc de către instituţiile curative ale organelor de ocrotire a sănătăţii:
 a) internarea într-o instituţie psihiatrică cu supraveghere obişnuită;
 b) internarea într-o instituţie psihiatrică cu supraveghere riguroasă.
@@ -836,28 +824,24 @@ Articolul 100. Internarea într-o instituţie psihiatrică
 (1) Internarea într-o instituţie psihiatrică cu supraveghere obişnuită poate fi aplicată de către instanţa de judecată unui alienat care, din cauza stării psihice şi a caracterului faptei prejudiciabile săvîrşite, are nevoie de îngrijire spitalicească şi de tratament în condiţii de supraveghere obişnuită.
 (2) Internarea într-o instituţie psihiatrică cu supraveghere riguroasă poate fi aplicată de către instanţa de judecată unui alienat care, din cauza stării psihice şi a caracterului faptei prejudiciabile săvîrşite, prezintă un pericol deosebit pentru societate şi are nevoie de îngrijire spitalicească şi de tratament în condiţii de supraveghere riguroasă.
 (3) Persoanele internate în instituţii psihiatrice cu supraveghere riguroasă sînt deţinute în condiţii ce exclud posibilitatea săvîrşirii de către ele a unei noi fapte prejudiciabile.
-Articolul 101. Stabilirea, schimbarea, prelungirea şi
-încetarea aplicării măsurilor de constrîngere
-cu caracter medical alienaţilor
+Articolul 101. Stabilirea, schimbarea, prelungirea şi încetarea aplicării
+măsurilor de constrîngere cu caracter medical alienaţilor
 (1) Instanţa de judecată, considerînd că este necesar de a aplica o măsură de constrîngere cu caracter medical, alege forma acesteia în funcţie de boala mintală a persoanei, de caracterul şi gradul prejudiciabil al faptei săvîrşite. Persoana supusă tratamentului forţat sau reprezentantul acesteia are dreptul de a cere unei instituţii medicale independente avizul asupra stării de sănătate a persoanei căreia i se aplică măsuri de constrîngere cu caracter medical.
 (2) Instanţa de judecată, în temeiul avizului instituţiei medicale, dispune încetarea aplicării măsurilor de constrîngere cu caracter medical în cazul însănătoşirii persoanei sau al unei astfel de schimbări a caracterului bolii care exclude necesitatea aplicării acestor măsuri.
 (3) Schimbarea măsurii de constrîngere cu caracter medical sau prelungirea termenului de aplicare a ei se face, de asemenea, de instanţa de judecată, atît din oficiu, cît şi la cererea persoanei respective sau a reprezentantului acesteia, în baza unui control, efectuat cel puţin o dată la 6 luni, privind necesitatea aplicării acestei măsuri.
 (4) Dacă instanţa de judecată nu va găsi necesară aplicarea măsurilor de constrîngere cu caracter medical unui alienat, precum şi în cazul încetării aplicării unor astfel de măsuri, ea îl poate încredinţa spre îngrijire rudelor sau tutorilor, dar sub o supraveghere medicală obligatorie.
-Articolul 102. Deducerea duratei de aplicare a măsurilor
-de constrîngere cu caracter medical
+Articolul 102. Deducerea duratei de aplicare a măsurilor de constrîngere
+cu caracter medical
 (1) Persoanei care, după săvîrşirea infracţiunii sau în timpul executării pedepsei, s-a îmbolnăvit de o boală psihică, din care cauză ea este incapabilă să-şi dea seama de acţiunile sale sau să le dirijeze, instanţa de judecată îi poate aplica pedeapsa după însănătoşire dacă nu a expirat termenul de prescripţie sau dacă nu există alte motive pentru liberarea ei de răspundere penală şi de pedeapsă.
 (2) În caz de aplicare a pedepsei după însănătoşire, durata de aplicare a măsurilor de constrîngere cu caracter medical se deduce din termenul pedepsei.
-Articolul 103. Aplicarea măsurilor de constrîngere
-cu caracter medical alcoolicilor şi
-narcomanilor sau punerea lor sub
-curatelă
+Articolul 103. Aplicarea măsurilor de constrîngere cu caracter medical
+alcoolicilor şi narcomanilor sau punerea lor sub curatelă
 (1) În caz de săvîrşire a infracţiunii de către un alcoolic sau un narcoman, dacă există avizul medical corespunzător, instanţa de judecată, din oficiu ori la cererea colectivului de muncă sau a organului de ocrotire a sănătăţii, concomitent cu pedeapsa pentru infracţiunea săvîrşită, poate să aplice acestei persoane tratamentul medical forţat.
 (2) Persoanele menţionate la alin.(1), condamnate la pedepse neprivative de libertate, vor fi supuse unui tratament forţat în instituţiile medicale cu regim special.
 (3) Dacă persoanele menţionate la alin.(1) au fost condamnate la pedeapsa cu închisoare, în timpul executării pedepsei ele vor fi supuse unui tratament medical forţat, iar după eliberare din locurile de deţinere, dacă este necesară continuarea unui astfel de tratament, ele vor fi tratate în instituţii medicale cu regim special.
 (4) Încetarea tratamentului medical forţat este dispusă de către instanţa de judecată, la propunerea instituţiei medicale în care se tratează persoana respectivă.
 (5) Dacă infracţiunea a fost săvîrşită de o persoană care abuzează de alcool şi prin aceasta îşi pune familia într-o situaţie materială grea, instanţa de judecată, concomitent cu aplicarea pedepsei neprivative de libertate pentru infracţiunea săvîrşită, este în drept, la cererea colectivului de muncă sau a rudelor apropiate ale persoanei în cauză, să o pună sub curatelă.
-Articolul 104. Aplicarea măsurilor de constrîngere
-cu caracter educativ
+Articolul 104. Aplicarea măsurilor de constrîngere cu caracter educativ
 (1) Persoanelor liberate de răspundere penală în conformitate cu art. 54 sau de pedeapsă penală în conformitate cu art. 93 li se aplică următoarele măsuri de constrîngere cu caracter educativ:
 [Art.104 al.(1) modificat prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
 a) avertismentul;
@@ -947,7 +931,7 @@ b) liberate, potrivit actului de amnistie, de răspunderea penală;
 c) liberate, potrivit actului de amnistie sau graţiere, de executarea pedepsei pronunţate prin sentinţa de condamnare;
 d) condamnate cu suspendarea condiţionată a executării pedepsei dacă, în termenul de probă, condamnarea cu suspendarea condiţionată a executării pedepsei nu a fost anulată;
 e) condamnate la o pedeapsă mai blîndă decît închisoarea – după executarea pedepsei;
-f)- exclusă
+f) - exclusă
 g) condamnate la închisoare pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave – dacă au expirat 2 ani după executarea pedepsei;
 h) condamnate la închisoare pentru săvîrşirea unei infracţiuni grave – dacă au expirat 6 ani după executarea pedepsei;
 i) condamnate la închisoare pentru săvîrşirea unei infracţiuni deosebit de grave – dacă au expirat 8 ani după executarea pedepsei;
@@ -969,27 +953,25 @@ CALIFICAREA INFRACŢIUNII
 Articolul 113. Noţiunea de calificare a infracţiunii
 (1) Se consideră calificare a infracţiunii determinarea şi constatarea juridică a corespunderii exacte între semnele faptei prejudiciabile săvîrşite şi semnele componenţei infracţiunii, prevăzute de norma penală.
 (2) Calificarea oficială a infracţiunii se efectuează la toate etapele procedurii penale de către persoanele care efectuează urmărirea penală şi de către judecători.
-Articolul 114. Calificarea infracţiunilor în cazul
-unui concurs de infracţiuni
+Articolul 114. Calificarea infracţiunilor în cazul unui concurs
+de infracţiuni
 Calificarea infracţiunilor în cazul unui concurs de infracţiuni, determinat la art.33, se efectuează cu invocarea tuturor articolelor sau alineatelor unui singur articol din legea penală care prevăd faptele prejudiciabile săvîrşite.
-Articolul 115. Calificarea infracţiunilor în cazul
-concurenţei normelor penale
+Articolul 115. Calificarea infracţiunilor în cazul concurenţei normelor
+penale
 (1) Concurenţa normelor penale presupune săvîrşirea de către o persoană sau de către un grup de persoane a unei fapte prejudiciabile, cuprinse în întregime de dispoziţiile a două sau mai multor norme penale şi constituind o singură infracţiune.
 (2) Alegerea uneia din normele concurente care reflectă cel mai exact natura juridică a faptei prejudiciabile comise se efectuează în condiţiile art.116-118.
-Articolul 116. Calificarea infracţiunilor în cazul
-concurenţei dintre normele gene-
-rale şi cele speciale
+Articolul 116. Calificarea infracţiunilor în cazul concurenţei dintre
+normele generale şi cele speciale
 (1) Normă generală se consideră norma penală care prevede două sau mai multe fapte prejudiciabile, iar normă specială – norma penală care prevede numai cazurile particulare ale acestor fapte.
 (2) În cazul concurenţei dintre norma generală şi cea specială, se aplică numai norma specială.
-Articolul 117. Calificarea infracţiunilor în cazul
-concurenţei dintre două norme
-speciale
+Articolul 117. Calificarea infracţiunilor în cazul concurenţei dintre
+două norme speciale
 Concurenţa dintre două norme speciale are următoarele varietăţi:
 a) dintre componenţa de infracţiune cu circumstanţe atenuante şi alta cu circumstanţe agravante – infracţiunea se califică în baza celei cu circumstanţe atenuante;
 b) dintre două componenţe de infracţiuni cu circumstanţe atenuante – infracţiunea se califică în baza normei penale care prevede pedeapsa mai blîndă;
 c) dintre două componenţe de infracţiuni cu circumstanţe agravante – infracţiunea se califică în baza normei penale care prevede o pedeapsă mai aspră.
-Articolul 118. Calificarea infracţiunilor în cazul
-concurenţei dintre o parte şi un întreg
+Articolul 118. Calificarea infracţiunilor în cazul concurenţei dintre
+o parte şi un întreg
 (1) Concurenţa dintre o parte şi un întreg reprezintă existenţa a două sau mai multor norme penale, una din ele cuprinzînd fapta prejudiciabilă în întregime, iar celelalte – numai unele părţi ale ei.
 (2) Calificarea infracţiunilor în cazul concurenţei dintre o parte şi un întreg se efectuează în baza normei care cuprinde în întregime toate semnele faptei prejudiciabile săvîrşite.
 Capitolul XIII
@@ -1002,14 +984,12 @@ Prin teritoriul Republicii Moldova şi teritoriul ţării se înţelege întinde
 Articolul 121. Secretul de stat
 Prin secret de stat se înţeleg informaţiile definite astfel prin Legea nr. 245-XVI din 27 noiembrie 2008 cu privire la secretul de stat.
 [Art.121 în redacţia LP66 din 07.04.11, MO110-112/08.07.11 art.299]
-Articolul 122. Persoana care se bucură de
-protecţie internaţională
+Articolul 122. Persoana care se bucură de protecţie internaţională
 Prin persoană care se bucură de protecţie internaţională se înţelege:
 a) şeful statului străin, inclusiv fiecare membru al organului colegial care exercită funcţiile şefului de stat conform constituţiei statului respectiv, fie şeful guvernului, fie ministrul de externe al statului străin, precum şi membrii familiilor lor care îi însoţesc;
 b) oricare reprezentant ori persoană cu funcţie de răspundere a statului străin sau oricare persoană cu funcţie de răspundere ori alt agent al organizaţiei internaţionale interguvernamentale care, conform dreptului internaţional, are dreptul la protecţie specială contra oricărui atac asupra persoanei, libertăţii şi demnităţii sale, precum şi membrii familiei lor care locuiesc împreună cu ei.
-Articolul 123. Persoana cu funcţie de răspundere,
-persoana publică şi persoana cu funcţie
-de demnitate publică
+Articolul 123. Persoana cu funcţie de răspundere, persoana publică
+şi persoana cu funcţie de demnitate publică
 [Art.123 titlul în redacţia LP245 din 02.12.11, MO25-28/03.02.12 art.77]
 (1) Prin persoană cu funcţie de răspundere se înţelege persoana căreia, într-o întreprindere, instituţie, organizaţie de stat sau a administraţiei publice locale ori într-o subdiviziune a lor, i se acordă, permanent sau provizoriu, prin stipularea legii, prin numire, alegere sau în virtutea unei însărcinări, anumite drepturi şi obligaţii în vederea exercitării funcţiilor autorităţii publice sau a acţiunilor administrative de dispoziţie ori organizatorico-economice.
 (2) Prin persoană publică se înţelege: funcţionarul public, inclusiv funcţionarul public cu statut special (colaboratorul serviciului diplomatic, al serviciului vamal, al organelor apărării, securităţii naţionale şi ordinii publice, altă persoană care deţine grade speciale sau militare); angajatul autorităţilor publice autonome sau de reglementare, al întreprinderilor de stat sau municipale, al altor persoane juridice de drept public; angajatul din cabinetul persoanelor cu funcţii de demnitate publică; persoana autorizată sau învestită de stat să presteze în numele acestuia servicii publice sau să îndeplinească activităţi de interes public.
@@ -1018,32 +998,28 @@ de demnitate publică
 [Art.123 al.(3) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
 [Art.123 al.(3) modificat prin LP318 din 20.12.13, MO17-23/24.01.14 art.48]
 [Art.123 al.(3) introdus prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
-Articolul 1231. Persoana publică străină şi funcţionarul
-internaţional
+Articolul 1231. Persoana publică străină şi funcţionarul internaţional
 (1) Prin persoană publică străină se înţelege: orice persoană, numită sau aleasă, care deţine un mandat legislativ, executiv, administrativ sau judiciar al unui stat străin; persoana care exercită o funcţie publică pentru un stat străin, inclusiv pentru un organ public sau o întreprindere publică străină; persoana care exercită funcţia de jurat în cadrul sistemului judiciar al unui stat străin.
 (2) Prin funcţionar internaţional se înţelege: funcţionarul unei organizaţii publice internaţionale ori supranaţionale sau orice persoană autorizată de o astfel de organizaţie să acţioneze în numele ei; membrul unei adunări parlamentare a unei organizaţii internaţionale ori supranaţionale; orice persoană care exercită funcţii judiciare în cadrul unei curţi internaţionale, inclusiv persoana cu atribuţii de grefă.
 [Art.1231 introdus prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
-Articolul 124. Persoana care gestionează o organizaţie
-comercială, obştească sau altă organizaţie
-nestatală
+Articolul 124. Persoana care gestionează o organizaţie comercială,
+obştească sau altă organizaţie nestatală
 Prin persoană care gestionează o organizaţie comercială, obştească sau altă organizaţie nestatală se înţelege persoana căreia, în organizaţia indicată sau într-o subdiviziune a acesteia, i se acordă, permanent sau provizoriu, prin numire, alegere sau în virtutea unei însărcinări, anumite drepturi şi obligaţii în vederea exercitării funcţiilor sau acţiunilor administrative de dispoziţie ori organizatorico-economice.
 [Art.125 abrogat prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
-Articolul 126. Proporţii deosebit de mari, proporţii
-mari, daune considerabile şi daune
-esenţiale
+Articolul 126. Proporţii deosebit de mari, proporţii mari, daune
+considerabile şi daune esenţiale
 (1) Se consideră proporţii mari valoarea bunurilor sustrase, dobîndite, primite, fabricate, distruse, utilizate, transportate, păstrate, comercializate, trecute peste frontiera vamală, valoarea pagubei pricinuite de o persoană sau de un grup de persoane, care depăşeşte 20 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei.
 [Art.126 al.(1) în redacția LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 (11) Se consideră proporţii deosebit de mari valoarea bunurilor sustrase, dobîndite, primite, fabricate, distruse, utilizate, transportate, păstrate, comercializate, trecute peste frontiera vamală, valoarea pagubei pricinuite de o persoană sau de un grup de persoane, care depăşeşte 40 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei.
 [Art.126 al.(11) introdus prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 (2) Caracterul considerabil sau esenţial al daunei cauzate se stabileşte luîndu-se în considerare valoarea, cantitatea şi însemnătatea bunurilor pentru victimă, starea materială şi venitul acesteia, existenţa persoanelor întreţinute, alte circumstanţe care influenţează esenţial asupra stării materiale a victimei, iar în cazul prejudicierii drepturilor şi intereselor ocrotite de lege – gradul lezării drepturilor şi libertăţilor fundamentale ale omului.
-(3)- exclus
+(3) - exclus
 Articolul 1261. Mijloace din fonduri externe
 Prin mijloace din fonduri externe se înţeleg resursele financiare şi materiale alocate în calitate de granturi, subvenţii, credite, donaţii, împrumuturi, ajutor umanitar de către alte state, Comunitatea Europeană sau instituţii, organizaţii şi asociaţii internaţionale, persoane fizice sau juridice străine, garantate sau contractate de către stat, precum şi cele nerambursabile.
 [Art.1261 introdus prin LP105 din 26.05.16, MO184-192/01.07.16 art.391]
 Articolul 127. Timpul de război
 Prin timp de război se înţelege intervalul de la data declarării mobilizării sau a începerii operaţiilor de război pînă la data trecerii armatei la starea de pace.
-Articolul 1271. Persoana protejată de dreptul
-internaţional umanitar
+Articolul 1271. Persoana protejată de dreptul internaţional umanitar
 Prin persoană protejată de dreptul internaţional umanitar se înţelege:
 a) într-un conflict armat cu caracter internaţional: orice persoană protejată în sensul Convenţiilor de la Geneva din 12 august 1949 privind protecţia victimelor de război şi al Protocolului adiţional I din 8 iunie 1977 privind protecţia victimelor conflictelor armate internaţionale, în special bolnavii, răniţii, naufragiaţii, prizonierii de război şi persoanele civile;
 b) într-un conflict armat fără caracter internaţional: orice persoană protejată în sensul art. 3 comun al Convenţiilor de la Geneva din 12 august 1949 şi în sensul Protocolului adiţional II din 8 iunie 1977 privind protecţia victimelor conflictelor armate fără caracter internaţional (bolnavii, răniţii, naufragiaţii, persoanele care nu participă direct la operaţiunile militare şi care se găsesc sub puterea părţii inamice);
@@ -1083,8 +1059,7 @@ Articolul 134. Rudenia
 (2) Gradul de rudenie se stabileşte prin numărul de naşteri.
 (3) Rudele unuia dintre soţi sînt afinii celuilalt soţ. Linia şi gradul de afinitate sînt asimilate liniei şi gradului de rudenie.
 (4) Rude apropiate sînt părinţii, copiii, înfietorii, copiii înfiaţi, fraţii şi surorile, bunicii şi nepoţii lor.
-Articolul 1341. Droguri, precursori, etnobotanice
-şi analogii acestora
+Articolul 1341. Droguri, precursori, etnobotanice şi analogii acestora
 (1) Prin droguri se înţeleg plantele sau substanţele stupefiante ori psihotrope, sau amestecurile ce conţin asemenea plante ori substanţe, stabilite de Guvern.
 (2) Prin stupefiante se înţeleg substanţele înscrise în anexele la Convenţia unică a Naţiunilor Unite asupra substanțelor stupefiante din 1961, modificată prin Protocolul din 1972, şi prevăzute în actele normative ale Guvernului.
 (3) Prin substanţe psihotrope se înţeleg substanţele înscrise în anexele la Convenţia asupra substanţelor psihotrope din 1971 şi prevăzute în actele normative ale Guvernului.
@@ -1095,14 +1070,12 @@ Articolul 1341. Droguri, precursori, etnobotanice
 (8) În cazul sustragerii, însuşirii, extorcării sau al altor acţiuni ilegale cu droguri, precursori, etnobotanice sau analogi ai acestora, proporţiile acestora – mici, mari sau deosebit de mari – se determină conform cantităţilor mici, mari sau deosebit de mari stabilite de Guvern.
 (9) Prin circulaţia drogurilor, precursorilor, etnobotanicelor și analogilor acestora se înţeleg orice operaţiuni precum experimentarea, elaborarea, producerea (fabricarea), prepararea, cultivarea, extragerea, prelucrarea, transformarea, deținerea, stocarea, păstrarea, livrarea, eliberarea, distribuţia, expedierea, transportul, procurarea (cumpărarea), comercializarea, distrugerea, importul, exportul, utilizarea, promovarea acestora şi alte activități conexe.
 [Art.1341 în redacția LP193 din 28.07.16, MO315-328/23.09.16 art.686]
-Articolul 1342. Aeronavă aflată în zbor şi aeronavă
-aflată în exploatare
+Articolul 1342. Aeronavă aflată în zbor şi aeronavă aflată în exploatare
 (1) O aeronavă se consideră a fi în zbor din momentul în care, fiind terminată îmbarcarea, toate uşile exterioare ale acelei nave au fost închise şi pînă în momentul în care una dintre aceste uşi este deschisă în vederea debarcării. În caz de aterizare forţată, se consideră că zborul continuă pînă în momentul cînd autorităţile competente iau în primire aeronava, precum şi persoanele şi bunurile de la bord.
 (2) O aeronavă se consideră a fi în exploatare din momentul în care personalul de la sol sau echipajul începe să o pregătească în vederea efectuării unui anumit zbor şi pînă la expirarea unui termen de 24 de ore după orice aterizare. Perioada de exploatare cuprinde, în orice caz, întreaga durată de aflare a aeronavei în zbor.
 Articolul 1343. Platformă fixă
 Prin platformă fixă se înţelege o insulă artificială, o instalaţie sau o lucrare ataşată permanent de fundul mării în vederea explorării şi exploatării resurselor sau pentru alte scopuri economice.
-Articolul 1344. Dispozitiv exploziv sau alt dispozitiv
-cu efect letal
+Articolul 1344. Dispozitiv exploziv sau alt dispozitiv cu efect letal
 Prin dispozitiv exploziv sau alt dispozitiv cu efect letal se înţelege:
 a) arma sau dispozitivul exploziv sau incendiar destinat sau capabil să cauzeze moartea, vătămarea gravă a integrităţii corporale sau a sănătăţii ori daune materiale esenţiale;
 b) arma sau dispozitivul destinat sau capabil să cauzeze moartea, vătămarea gravă a integrităţii corporale sau a sănătăţii ori daune materiale esenţiale prin eliberarea, diseminarea sau acţiunea substanţelor chimice toxice, a agenţilor biologici ori a toxinelor sau a altor substanţe analoage, a radiaţiei sau a substanţelor radioactive.
@@ -1155,7 +1128,8 @@ se pedepseşte cu închisoare de la 15 la 20 de ani sau cu detenţiune pe viaţ�
 [Art.135 în redacţia LP64 din 04.04.13, MO115/21.05.13 art.359]
 Articolul 1351. Infracţiuni împotriva umanităţii
 (1) Săvîrşirea, în cadrul unui atac generalizat sau sistematic lansat împotriva unei populaţii civile şi în cunoştinţă de acest atac, a uneia dintre următoarele fapte:
-a) supunerea la sclavie sau traficul de fiinţe umane;
+a) supunerea sclaviei, traficului de persoane adulte sau traficului de copii;
+[Art.1351 lit.a) în redacţia LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 b) deportarea sau transferarea forţată, cu încălcarea regulilor generale de drept internaţional, a unor persoane aflate în mod legal pe teritoriul unde a fost lansat atacul;
 c) arestarea sau altă formă de privare de libertate fizică cu încălcarea regulilor generale de drept internaţional;
 d) torturarea unei persoane aflate sub paza făptuitorului sau asupra căreia acesta exercită controlul în orice alt mod, cauzîndu-i vătămări grave integrităţii corporale sau sănătăţii, dureri sau suferinţe psihice, ce depăşesc consecinţele sancţiunilor admise de dreptul internaţional;
@@ -1173,8 +1147,7 @@ se pedepseşte cu închisoare de la 15 la 20 de ani sau cu detenţiune pe viaţ�
 Articolul 136. Ecocidul
 Distrugerea intenţionată în masă a florei sau a faunei, intoxicarea atmosferei ori a resurselor acvatice, precum şi săvîrşirea altor acţiuni ce pot provoca sau au provocat o catastrofă ecologică,
 se pedepsesc cu închisoare de la 10 la 15 ani.
-Articolul 137. Infracţiuni de război împotriva
-persoanelor
+Articolul 137. Infracţiuni de război împotriva persoanelor
 (1) Săvîrşirea, în cadrul unui conflict armat cu caracter internaţional, a uneia dintre următoarele fapte:
 a) constrîngerea, prin violenţă sau ameninţare, a uneia sau mai multor persoane prevăzute la art. 1271 lit. a) la înrolare în forţele armate inamice;
 b) constrîngerea cetăţenilor părţii inamice să ia parte la operaţiunile militare îndreptate împotriva ţării lor, chiar dacă ei erau înrolaţi în forţele armate ale acestei părţi inamice înainte de începerea conflictului armat;
@@ -1198,8 +1171,8 @@ se pedepseşte cu închisoare de la 10 la 20 de ani.
 (4) Săvîrşirea, în cadrul unui conflict armat cu sau fără caracter internaţional, a omorului uneia sau mai multor persoane protejate de dreptul internaţional umanitar
 se pedepseşte cu închisoare de la 15 la 20 de ani sau cu detenţiune pe viaţă.
 [Art.137 în redacţia LP64 din 04.04.13, MO115/21.05.13 art.359]
-Articolul 1371. Infracţiuni de război împotriva
-proprietăţii şi altor drepturi
+Articolul 1371. Infracţiuni de război împotriva proprietăţii şi altor
+drepturi
 (1) Săvîrşirea, în cadrul unui conflict armat cu sau fără caracter internaţional, a uneia dintre următoarele fapte:
 a) distrugerea, însuşirea sau confiscarea de bunuri ale părţii inamice, cu încălcarea dreptului internaţional şi fără ca aceasta să fie justificată de necesităţile militare;
 b) jefuirea unei localităţi, inclusiv a celei luate cu asalt,
@@ -1209,8 +1182,7 @@ se pedepseşte cu închisoare de la 5 la 10 ani.
 (3) Jefuirea pe cîmpul de luptă a morţilor sau a răniţilor săvîrşită în cadrul unui conflict armat cu sau fară caracter internaţional
 se pedepseşte cu închisoare de la 8 la 15 ani.
 [Art.1371 introdus prin LP64 din 04.04.13, MO115/21.05.13 art.359]
-Articolul 1372. Utilizarea de mijloace interzise
-de purtare a războiului
+Articolul 1372. Utilizarea de mijloace interzise de purtare a războiului
 Utilizarea, în cadrul unui conflict armat cu sau fără caracter internaţional, a:
 a) otrăvii sau armelor otrăvitoare;
 b) gazelor asfixiante, toxice sau asimilate şi a oricăror lichide, materii sau procedee similare;
@@ -1218,8 +1190,7 @@ c) armelor, proiectilelor, materialelor de natură să cauzeze suferinţe fizice
 d) gloanţelor care se dilată sau se aplatizează cu uşurinţă în corpul uman, cum sînt gloanţele al căror înveliş dur nu acoperă în întregime mijlocul sau sînt perforate de tăieturi,
 se pedepseşte cu închisoare de la 7 la 15 ani.
 [Art.1372 introdus prin LP64 din 04.04.13, MO115/21.05.13 art.359]
-Articolul 1373. Utilizarea de metode interzise
-de purtare a războiului
+Articolul 1373. Utilizarea de metode interzise de purtare a războiului
 (1) Rănirea unei persoane prevăzute la art. 1271 lit. c) sau rănirea prin recurgere la perfidie a unui membru al forţelor armate inamice sau a unui combatant al forţelor inamice, săvîrşită în cadrul unui conflict armat cu sau fără caracter internaţional,
 se pedepseşte cu închisoare de la 5 la 8 ani.
 (2) Declararea, în cadrul unui conflict armat cu sau fără caracter internaţional, că nu va fi îndurare pentru învinşi
@@ -1239,17 +1210,15 @@ se pedepseşte cu închisoare de la 8 la 15 ani.
 (5) Omorul uneia sau mai multor persoane prevăzute la art. 1271 lit. c), săvîrşit prin recurgere la perfidie în cadrul unui conflict armat cu sau fără caracter internaţional
 se pedepseşte cu închisoare de la 15 la 20 de ani sau cu detenţiune pe viaţă.
 [Art.1373 introdus prin LP64 din 04.04.13, MO115/21.05.13 art.359]
-Articolul 1374. Utilizarea fără drept a semnelor
-distinctive de drept internaţional
+Articolul 1374. Utilizarea fără drept a semnelor distinctive de drept internaţional
 umanitar
 Utilizarea fără drept a semnelor distinctive prevăzute de Convenţiile de la Geneva din 12 august 1949, a pavilionului parlamentar, a drapelului, a insignelor militare sau a uniformei inamicului sau ale Organizaţiei Naţiunilor Unite, ca mijloc de protecţie în cadrul unui conflict armat cu sau fără caracter internaţional, dacă aceasta a provocat:
 a) vătămarea gravă a integrităţii corporale sau a sănătăţii uneia sau mai multor persoane;
 b) decesul uneia sau mai multor persoane,
 se pedepseşte cu închisoare de la 7 la 15 ani.
 [Art.1374 introdus prin LP64 din 04.04.13, MO115/21.05.13 art.359]
-Articolul 138. Darea sau executarea unui ordin
-vădit ilegal. Neexercitarea sau
-exercitarea necorespunzătoare
+Articolul 138. Darea sau executarea unui ordin vădit ilegal.
+Neexercitarea sau exercitarea necorespunzătoare
 a controlului cuvenit
 (1) Executarea unui ordin vădit ilegal orientat spre săvîrşirea infracţiunilor prevăzute la art. 135–1374
 se pedepseşte cu închisoare de la 5 la 10 ani.
@@ -1258,8 +1227,8 @@ se pedepseşte cu închisoare de la 8 la 15 ani.
 (3) Neexercitarea sau exercitarea necorespunzătoare a controlului cuvenit de către un şef militar sau de persoana care deţine comandamentul forţelor armate, care a condus la săvîrşirea infracţiunilor prevăzute la art. 135–1374
 se pedepseşte cu închisoare de la 6 la 12 ani.
 [Art.138 în redacţia LP64 din 04.04.13, MO115/21.05.13 art.359]
-Articolul 139. Planificarea, pregătirea, declanşarea
-sau ducerea războiului
+Articolul 139. Planificarea, pregătirea, declanşarea sau ducerea
+războiului
 (1) Planificarea, pregătirea sau declanşarea războiului
 se pedepseşte cu închisoare de la 8 la 15 ani.
 (2) Ducerea războiului
@@ -1272,11 +1241,10 @@ se pedepsesc cu amendă în mărime de pînă la 1500 unităţi convenţionale s
 [Art.140 al.(2) modificat prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
 se pedepseşte cu amendă de la 1500 la 2000 unităţi convenţionale sau cu închisoare de la 3 la 7 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.140 al.(2), sancțiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
-Articolul 1401. Utilizarea, dezvoltarea, producerea, dobîndirea
-în alt mod, prelucrarea, deţinerea, stocarea sau
-conservarea, transferarea directă sau indirectă,
-păstrarea, transportarea armelor de distrugere
-în masă
+Articolul 1401. Utilizarea, dezvoltarea, producerea, dobîndirea în alt mod,
+prelucrarea, deţinerea, stocarea sau conservarea, transferarea
+directă sau indirectă, păstrarea, transportarea armelor de
+distrugere în masă
 (1) Utilizarea, dezvoltarea, producerea, dobîndirea în alt mod, prelucrarea, deţinerea, stocarea sau conservarea, transferarea directă sau indirectă, păstrarea, transportarea armelor chimice, armelor biologice, armelor nucleare, dispozitivelor explozive nucleare ori a altor arme de distrugere în masă cu încălcarea prevederilor legislaţiei naţionale sau ale tratatelor internaţionale la care Republica Moldova este parte
 se pedepsesc cu amendă în mărime de la 3.000 la 5.000 unităţi convenţionale sau cu închisoare de la 8 la 12 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5.000 la .8000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 2 la 5 ani sau cu lichidarea acesteia.
 (2) Aceleaşi acţiuni:
@@ -1296,8 +1264,8 @@ Articolul 141. Activitatea mercenarilor
 se pedepseşte cu închisoare de la 3 la 7 ani.
 (2) Angajarea, instruirea, finanţarea sau altă asigurare a mercenarilor, precum şi folosirea lor într-un conflict armat, în acţiuni militare sau în alte acţiuni violente orientate spre răsturnarea sau subminarea orînduirii constituţionale ori violarea integrităţii teritoriale a statului,
 se pedepsesc cu închisoare de la 5 la 10 ani.
-Articolul 142. Atacul asupra persoanei care beneficiază
-de protecţie internaţională
+Articolul 142. Atacul asupra persoanei care beneficiază de protecţie
+internaţională
 (1) Săvîrşirea unui act de violenţă asupra oficiului, locuinţei sau mijlocului de transport al persoanei care beneficiază de protecţie internaţională, dacă acest act poate periclita viaţa, sănătatea sau libertatea persoanei în cauză,
 se pedepseşte cu închisoare de la 5 la 10 ani.
 (2) Răpirea sau săvîrşirea unui alt atac asupra persoanei care beneficiază de protecţie internaţională sau asupra libertăţii acesteia
@@ -1313,8 +1281,7 @@ Articolul 144. Clonarea
 Crearea fiinţelor umane prin clonare
 se pedepseşte cu închisoare de la 7 la 15 ani.
 Capitolul II
-INFRACŢIUNI CONTRA VIEŢII
-ŞI SĂNĂTĂŢII PERSOANEI
+INFRACŢIUNI CONTRA VIEŢII ŞI SĂNĂTĂŢII PERSOANEI
 Articolul 145. Omorul intenţionat
 (1) Omorul unei persoane
 se pedepseşte cu închisoare de la 10 la 15 ani.
@@ -1322,7 +1289,7 @@ se pedepseşte cu închisoare de la 10 la 15 ani.
 (2) Omorul săvîrşit:
 a) cu premeditare;
 b) din interes material;
-c)- exclusă
+c) - exclusă
 d) în legătură cu îndeplinirea de către victimă a obligaţiilor de serviciu sau obşteşti;
 e) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 e1) asupra unui membru de familie;
@@ -1340,15 +1307,14 @@ o) de către o persoană care anterior a săvîrşit un omor intenţionat prevă
 p) la comandă
 se pedepseşte cu închisoare de la 15 la 20 de ani sau cu detenţiune pe viaţă.
 [Art.145 al.(2) sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
-(3)- exclus
+(3) - exclus
 Articolul 146. Omorul săvîrşit în stare de afect
 Omorul săvîrşit în stare de afect survenită în mod subit, provocată de acte de violenţă sau de insulte grave ori de alte acte ilegale sau imorale ale victimei,
 se pedepseşte cu închisoare de pînă la 5 ani.
 Articolul 147. Pruncuciderea
 Omorul copilului nou-născut, săvîrşit în timpul naşterii sau imediat după naştere de către mama care se afla într-o stare de tulburare fizică sau psihică, cu diminuarea discernămîntului, cauzată de naştere,
 se pedepseşte cu închisoare de pînă la 5 ani.
-Articolul 148. Lipsirea de viaţă la dorinţa persoanei
-(eutanasia)
+Articolul 148. Lipsirea de viaţă la dorinţa persoanei (eutanasia)
 Lipsirea de viaţă a persoanei în legătură cu o maladie incurabilă sau cu caracterul insuportabil al suferinţelor fizice, dacă a existat dorinţa victimei sau, în cazul minorilor, a rudelor acestora,
 se pedepseşte cu închisoare de pînă la 6 ani.
 Articolul 149. Lipsirea de viaţă din imprudenţă
@@ -1356,23 +1322,30 @@ Articolul 149. Lipsirea de viaţă din imprudenţă
 se pedepseşte cu închisoare de pînă la 3 ani.
 (2) Lipsirea de viaţă din imprudenţă a două sau mai multor persoane
 se pedepseşte cu închisoare de la 2 la 6 ani.
-Articolul 150. Determinarea la sinucidere
-(1) Determinarea la sinucidere sau la tentativă de sinucidere prin persecutare, clevetire, jignire sau înjosire sistematică a demnităţii victimei de către cel vinovat
-se pedepseşte cu închisoare de pînă la 4 ani.
-(2) Determinarea la sinucidere sau la tentativă de sinucidere:
-a)- exclusă
-b) a unui minor;
-c) a unei persoane care se află într-o dependenţă materială sau altă dependenţă faţă de cel vinovat;
-d) prin comportare plină de cruzime;
-e)- exclusă
-se pedepseşte cu închisoare de la 2 la 6 ani.
-Articolul 151. Vătămarea intenţionată gravă a integrităţii
-corporale sau a sănătăţii
+Articolul 150. Determinarea sau înlesnirea sinuciderii
+(1) Determinarea sau înlesnirea intenționată a sinuciderii, inclusiv prin intermediul reţelelor de comunicaţii electronice, soldată cu sinuciderea
+se pedepseşte cu închisoare de la 2 la 5 ani.
+(2) Acțiunile prevăzute la alin. (1), săvîrşite:
+a) cu bună ştiinţă asupra unui minor;
+b) asupra unei persoane care se află într-o dependenţă materială sau altă dependenţă faţă de făptuitor,
+se pedepsesc cu închisoare de la 5 la 9 ani.
+(3) Acțiunile prevăzute la alin. (1), săvîrșite asupra:
+a) unei persoane minore în vîrstă de pînă la 14 ani;
+b) două sau mai multor persoane,
+se pedepsesc cu închisoare de la 9 la 12 ani.
+(4) Dacă acțiunile prevăzute la alin. (1)–(3) s-au soldat cu încercarea de sinucidere, limita minimă a pedepsei se reduce pînă la jumătate.
+[Art.150 în redacţia LP157 din 26.07.18, MO347-357/14.09.18 art.586]
+Articolul 1501. Justificarea publică a sinuciderii
+Justificarea publică a sinuciderii, adică distribuirea sau punerea în alt mod la dispoziţia publicului a unui mesaj privind recunoaşterea sinuciderii ca fiind justă, ca fiind demnă de urmat sau care necesită a fi susţinută,
+se pedepseşte cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore sau cu închisoare de pînă la 4 ani.
+[Art.1501 introdus prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
+Articolul 151. Vătămarea intenţionată gravă a integrităţii corporale
+sau a sănătăţii
 (1) Vătămarea intenţionată gravă a integrităţii corporale sau a sănătăţii, care este periculoasă pentru viaţă ori care a provocat pierderea vederii, auzului, graiului sau a unui alt organ ori încetarea funcţionării acestuia, o boală psihică sau o altă vătămare a sănătăţii, însoţită de pierderea stabilă a cel puţin o treime din capacitatea de muncă, ori care a condus la întreruperea sarcinii sau la o desfigurare iremediabilă a feţei şi/sau a regiunilor adiacente,
 se pedepseşte cu închisoare de la 5 la 10 ani.
 [Art.151 al.(1), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (2) Aceeaşi acţiune săvîrşită:
-a)- exclusă
+a) - exclusă
 b) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 c) asupra unei persoane în legătură cu îndeplinirea de către ea a obligaţiilor de serviciu sau obşteşti;
 d) de două sau mai multe persoane;
@@ -1380,7 +1353,7 @@ e) cu deosebită cruzime, precum şi din motive sadice;
 [Art.151 al.(2), lit.e) în redacţia LP252 din 08.11.12, MO263-269/21.12.12 art.855]
 f) prin mijloace periculoase pentru viaţa sau sănătatea mai multor persoane;
 g) din interes material;
-h)- exclusă
+h) - exclusă
 i) din motive de ură socială, naţională, rasială sau religioasă;
 j) asupra a două sau a mai multor persoane;
 k) de un grup criminal organizat sau de o organizaţie criminală;
@@ -1388,19 +1361,19 @@ l) cu scopul de a preleva şi/sau utiliza ori comercializa organele sau ţesutur
 m) la comandă
 se pedepseşte cu închisoare de la 10 la 12 ani.
 [Art.151 al.(2), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
-(3)- exclus
+(3) - exclus
 (4) Acţiunile prevăzute la alin.(1) sau (2), care au provocat decesul victimei,
 se pedepsesc cu închisoare de la 12 la 15 ani.
 [Art.151 al.(4), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
-Articolul 152. Vătămarea intenţionată medie a integrităţii
-corporale sau a sănătăţii
+Articolul 152. Vătămarea intenţionată medie a integrităţii corporale
+sau a sănătăţii
 (1) Vătămarea intenţionată medie a integrităţii corporale sau a sănătăţii, care nu este periculoasă pentru viaţă şi nu a provocat urmările prevăzute la art.151, dar care a fost urmată fie de dereglarea îndelungată a sănătăţii, fie de o pierdere considerabilă şi stabilă a mai puţin de o treime din capacitatea de muncă,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore sau cu închisoare de pînă la 5 ani.
 [Art.152 al.(1) sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (2) Aceeaşi acţiune săvîrşită:
-a)- exclusă
+a) - exclusă
 b) asupra a două sau mai multor persoane;
-c)- exclusă
+c) - exclusă
 c1) cu bună ştiinţă asupra unui minor sau a unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
 d) asupra unei persoane în legătură cu îndeplinirea de către ea a obligaţiilor de serviciu sau obşteşti;
 e) de două sau mai multe persoane;
@@ -1408,33 +1381,30 @@ f) cu deosebită cruzime, precum şi din motive sadice;
 [Art.152 al.(2), lit.f) în redacţia LP252 din 08.11.12, MO263-269/21.12.12 art.855]
 g) prin mijloace periculoase pentru viaţa sau sănătatea mai multor persoane;
 h) din interes material;
-i)- exclusă
+i) - exclusă
 j) din motive de ură socială, naţională, rasială sau religioasă;
 k) la comandă
 se pedepseşte cu închisoare de la 5 la 7 ani.
 [Art.152 al.(2), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 Articolul 153 - exclus
 Articolul 154 - exclus
-Articolul 155. Ameninţarea cu omor ori cu vătămarea
-gravă a integrităţii corporale sau a
-sănătăţii
+Articolul 155. Ameninţarea cu omor ori cu vătămarea gravă a integrităţii
+corporale sau a sănătăţii
 Ameninţarea cu omor ori cu vătămarea gravă a integrităţii corporale sau a sănătăţii, dacă a existat pericolul realizării acestei ameninţări,
 se pedepseşte cu amendă în mărime de la 550 la 750 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de la 1 la 3 ani.
 [Art.155 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 [Art.155 sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
-Articolul 156. Vătămarea gravă ori medie a integrităţii
-corporale sau a sănătăţii în stare de afect
+Articolul 156. Vătămarea gravă ori medie a integrităţii corporale sau a
+sănătăţii în stare de afect
 Vătămarea gravă ori medie a integrităţii corporale sau a sănătăţii în stare de afect survenită în mod subit, provocată de acte de violenţă, de insulte grave ori de alte acte ilegale sau imorale ale victimei,
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.156 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
-Articolul 157. Vătămarea gravă ori medie a integrităţii
-corporale sau a sănătăţii cauzată din
-imprudenţă
+Articolul 157. Vătămarea gravă ori medie a integrităţii corporale
+sau a sănătăţii cauzată din imprudenţă
 Vătămarea gravă ori medie a integrităţii corporale sau a sănătăţii cauzată din imprudenţă
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.157 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
-Articolul 158. Traficul de organe, ţesuturi
-şi celule umane
+Articolul 158. Traficul de organe, ţesuturi şi celule umane
 (1) Prelevarea ilicită de ţesuturi şi/sau celule umane prin extragerea acestora din corpul persoanei vii sau decedate de către persoane neautorizate şi/sau în instituţii neautorizate în acest sens conform legislaţiei sau fără respectarea prevederilor legale ce se referă la consimţămîntul persoanei la donarea acestora, sau în scopul obţinerii unor venituri din aceasta, precum şi vinderea, procurarea, sustragerea, utilizarea, păstrarea, deţinerea, transmiterea, primirea, importarea, exportarea sau transportarea ilegală a acestora
 se pedepsesc cu închisoare de la 2 la 5 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 4000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.158 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
@@ -1470,8 +1440,7 @@ se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale 
 b) care a cauzat din imprudenţă o vătămare gravă ori medie a integrităţii corporale sau a sănătăţii;
 c) care a provocat din imprudenţă decesul victimei
 se pedepseşte cu închisoare de la 1 la 6 ani cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
-Articolul 160. Efectuarea ilegală a sterilizării
-chirurgicale
+Articolul 160. Efectuarea ilegală a sterilizării chirurgicale
 (1) Efectuarea ilegală a sterilizării chirurgicale de către medic
 se pedepseşte cu amendă în mărime de pînă la 550 unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.160 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
@@ -1484,9 +1453,8 @@ se pedepseşte cu amendă în mărime de la 550 pînă la 850 unităţi convenţ
 b) au cauzat din imprudenţă o dereglare îndelungată a sănătăţii ori o vătămare gravă a integrităţii corporale sau a sănătăţii;
 c) au provocat din imprudenţă decesul pacientului,
 se pedepsesc cu închisoare de la 3 la 6 ani cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
-Articolul 161. Efectuarea fecundării artificiale sau a
-implantării embrionului fără consimţămîntul
-pacientei
+Articolul 161. Efectuarea fecundării artificiale sau a implantării
+embrionului fără consimţămîntul pacientei
 Efectuarea de către medic a fecundării artificiale sau a implantării embrionului fără consimţămîntul scris al pacientei
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 240 de ore, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.161 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
@@ -1525,18 +1493,22 @@ se pedepseşte cu închisoare de la 6 la 10 ani.
 a) au fost săvîrşite de un grup criminal organizat sau de o organizaţie criminală;
 b) au cauzat din imprudenţă o vătămare gravă a integrităţii corporale sau a sănătăţii ori decesul victimei,
 se pedepsesc cu închisoare de la 10 la 13 ani.
-[Art.164 al.(3) sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
-Articolul 1641. Răpirea minorului de către rudele
-apropiate
+[Art.164 al.(3), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
+Articolul 1641. Răpirea minorului de către rudele apropiate
 Răpirea minorului de către rudele apropiate
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 6 luni.
 [Art.1641 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 Articolul 165. Traficul de fiinţe umane
-(1) Recrutarea, transportarea, transferul, adăpostirea sau primirea unei persoane, cu sau fără consimţămîntul acesteia, în scop de exploatare sexuală comercială sau necomercială, prin muncă sau servicii forţate, pentru cerşetorie, în sclavie sau în condiţii similare sclaviei, de folosire în conflicte armate sau în activităţi criminale, de prelevare a organelor, ţesuturilor şi/sau celulelor, precum şi de folosire a femeii în calitate de mamă-surogat, săvîrşită prin:
+(1) Recrutarea, transportarea, transferul, adăpostirea sau primirea unei persoane adulte, cu sau fără consimţămîntul acesteia, în scopul exploatării sexuale comerciale sau necomerciale, al exploatării prin muncă sau servicii forţate, al practicării cerşetoriei, al însuşirii ajutoarelor, indemnizaţiilor sau prestaţiilor sociale, al folosirii ilegale în testări sau experimente medicale ori ştiinţifice, al exploatării în sclavie sau în condiţii similare sclaviei, al folosirii în conflicte armate ori în activităţi criminale, al prelevării organelor, ţesuturilor şi/sau celulelor umane, precum şi al folosirii femeii în calitate de mamă-surogat ori în scop de reproducere, săvîrşită prin:
+a) aplicarea violenţei nepericuloase pentru viaţa sau sănătatea persoanei ori cu ameninţarea aplicării violenţei;
+b) răpire;
+c) sustragerea, tăinuirea, degradarea sau distrugerea documentelor;
+d) ţinerea în servitute, în scopul întoarcerii unei datorii;
+e) ameninţare cu divulgarea informaţiilor confidenţiale familiei victimei sau altor persoane fizice sau juridice;
+f) înşelăciune;
+g) abuz de poziţie de vulnerabilitate sau abuz de putere, dare ori primire a unor plăţi sau beneficii pentru a obţine consimţămîntul unei persoane care deţine controlul asupra altei persoane,
+[Art.165 al.(1), dispoziţia în redacţia LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 [Art.165 al.(1), dispoziţia modificată prin LP270 din 07.11.13, MO290/10.12.13 art.794]
-a) ameninţare cu aplicarea sau aplicarea violenţei fizice sau psihice nepericuloase pentru viaţa şi sănătatea persoanei, inclusiv prin răpire, prin confiscare a documentelor şi prin servitute, în scopul întoarcerii unei datorii a cărei mărime nu este stabilită în mod rezonabil, precum şi prin ameninţare cu divulgarea informaţiilor confidenţiale familiei victimei sau altor persoane atît fizice, cît şi juridice;
-b) înşelăciune;
-c) abuz de poziţie de vulnerabilitate sau abuz de putere, dare sau primire a unor plăţi sau beneficii pentru a obţine consimţămîntul unei persoane care deţine controlul asupra unei alte persoane,
 se pedepseşte cu închisoare de la 6 la 12 ani, cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 de unităţi convenţionale, cu privarea de dreptul de a desfăşura o anumită activitate, sau cu lichidarea persoanei juridice.
 [Art.165 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 [Art.165 al.(1), sancţiunea modificată prin LP270 din 07.11.13, MO290/10.12.13 art.794]
@@ -1560,9 +1532,8 @@ a1) însoţite de contaminarea cu o boală venerică sau cu maladia SIDA;
 b) soldate cu vătămarea gravă a integrităţii corporale sau cu o boală psihică a persoanei, cu decesul ori sinuciderea acesteia,
 se pedepsesc cu închisoare de la 10 la 20 de ani, cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 7000 la 9000 de unităţi convenţionale, cu privarea de dreptul de a desfăşura o anumită activitate, sau cu lichidarea persoanei juridice.
 (4) Victima traficului de fiinţe umane este absolvită de răspundere penală pentru infracţiunile săvîrşite de ea în legătură cu această calitate procesuală.
-Articolul 1651. Utilizarea rezultatelor muncii sau
-serviciilor unei persoane care este
-victimă a traficului de fiinţe umane
+Articolul 1651. Utilizarea rezultatelor muncii sau serviciilor unei persoane
+care este victimă a traficului de fiinţe umane
 (1) Utilizarea produselor şi/sau serviciilor care constituie rezultatul exploatării în infracţiunile de trafic de fiinţe umane sau trafic de copii, prestate de o persoană despre care beneficiarul ştie că este victima acestor infracţiuni, dacă această faptă nu întruneşte elementele traficului de fiinţe umane sau ale traficului de copii,
 se pedepseşte cu închisoare de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 4000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.1651 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
@@ -1583,10 +1554,10 @@ se pedepseşte cu închisoare de la 3 la 7 ani.
 (3) Acţiunile prevăzute la alin.(1) sau (2), dacă au provocat din imprudenţă vătămarea gravă a integrităţii corporale sau a sănătăţii ori decesul victimei,
 se pedepsesc cu închisoare de la 7 la 12 ani.
 [Art.166 al.(3), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
-Articolul 1661. Tortura, tratamentul inuman
-sau degradant
+Articolul 1661. Tortura, tratamentul inuman sau degradant
 (1) Cauzarea intenţionată a unei dureri sau a suferinţei fizice ori psihice, care reprezintă tratament inuman ori degradant, de către o persoană publică sau de către o persoană care, de facto, exercită atribuţiile unei autorităţi publice, sau de către orice altă persoană care acţionează cu titlu oficial sau cu consimţămîntul expres ori tacit al unei asemenea persoane
-se pedepseşte cu închisoare de la 2 la 6 ani sau cu amendă în mărime de la 1150 la 1350 de unităţi convenţionale, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani.
+se pedepseşte cu închisoare de la 2 la 6 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani.
+[Art.1661 al.(1), sancţiunea modificată prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 [Art.1661 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 (2) Acţiunile prevăzute la alin. (1):
 a) săvîrşite cu bună ştiinţă asupra unui minor sau asupra unei femei gravide ori profitînd de starea de neputinţă cunoscută sau evidentă a victimei, care se datorează vîrstei înaintate, bolii, dizabilităţii ori altui factor;
@@ -1596,7 +1567,8 @@ d) săvîrşite prin folosirea armei, instrumentelor speciale sau a altor obiect
 e) săvîrşite de o persoană cu funcţie de răspundere sau de o persoană cu funcţie de demnitate publică;
 f) care din imprudenţă au cauzat o vătămare gravă sau medie integrităţii corporale sau sănătăţii;
 g) care din imprudenţă au cauzat decesul persoanei sau sinuciderea acesteia
-se pedepsesc cu închisoare de la 3 la 8 ani sau cu amendă în mărime de la 1350 la 1600 de unităţi convenţionale, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 5 la 10 ani.
+se pedepsesc cu închisoare de la 3 la 8 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 5 la 10 ani.
+[Art.1661 al.(2), sancţiunea modificată prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 [Art.1661 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 (3) Tortura, adică orice faptă intenţionată prin care se provoacă unei persoane o durere sau suferinţe fizice sau psihice puternice cu scopul de a obţine de la această persoană sau de la o persoană terţă informaţii sau mărturisiri, de a o pedepsi pentru un act pe care aceasta sau o terţă persoană l-a comis ori este bănuită că l-a comis, de a o intimida sau de a exercita presiune asupra ei sau asupra unei terţe persoane, sau din orice alt motiv, bazat pe o formă de discriminare, oricare ar fi ea, atunci cînd o asemenea durere sau suferinţă este provocată de către o persoană publică sau de către o persoană care, de facto, exercită atribuţiile unei autorităţi publice, sau de către orice altă persoană care acţionează cu titlu oficial sau cu consimţămîntul expres sau tacit al unei asemenea persoane
 se pedepseşte cu închisoare de la 6 la 10 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 8 la 12 ani.
@@ -1629,8 +1601,7 @@ b) soldate cu vătămarea gravă a integrităţii corporale sau a sănătăţii 
 se pedepsesc cu închisoare de la 7 la 15 ani, cu amendă, aplicată persoanei juridice, în mărime de la 2500 la 4000 de unităţi convenţionale cu lichidarea persoanei juridice.
 [Art.168 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 [Art.168 în redacţia LP270 din 07.11.13, MO290/10.12.13 art.794]
-Articolul 169. Internarea ilegală într-o instituţie
-psihiatrică
+Articolul 169. Internarea ilegală într-o instituţie psihiatrică
 (1) Internarea ilegală într-o instituţie psihiatrică a unei persoane vădit sănătoase din punct de vedere psihic
 se pedepseşte cu închisoare de pînă la 3 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 (2) Aceeaşi acţiune care a cauzat din imprudenţă:
@@ -1675,7 +1646,7 @@ b2) săvîrşite asupra unui membru de familie;
 [Art.172 al.(2), lit.b2) introdusă prin LP167 din 09.07.10, MO155-158/03.09.10 art.551]
 c) săvîrşite de două sau mai multe persoane;
 d) însoţite de contaminarea intenţionată cu o boală venerică;
-e)- exclusă
+e) - exclusă
 g) săvîrşite cu deosebită cruzime, precum şi din motive sadice
 [Art.172 al.(2), lit.g) în redacţia LP252 din 08.11.12, MO263-269/21.12.12 art.855]
 se pedepsesc cu închisoare de la 5 la 12 ani.
@@ -1693,8 +1664,8 @@ Hărţuirea sexuală, adică manifestarea unui comportament fizic, verbal sau no
 se pedepseşte cu amendă în mărime de la 650 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 140 la 240 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.173 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 [Art.173 în redacţia LP167 din 09.07.10, MO155-158/03.09.10 art.551]
-Articolul 174. Raportul sexual cu o persoană care nu a
-împlinit vîrsta de 16 ani
+Articolul 174. Raportul sexual cu o persoană care nu a împlinit
+vîrsta de 16 ani
 (1)Raportul sexual altul decît violul, actele de penetrare vaginală, anală sau bucală şi altele, comise asupra unei persoane despre care se ştia cu certitudine că nu a împlinit vîrsta de 16 ani, se pedepsesc cu închisoare de la 3 la 7 ani.
 [Art.174 al.(1) în redacţia LP73 din 12.04.12, MO99-102/25.05.12 art.332]
 (2) Persoana care a săvîrşit fapta prevăzută la alin.(1) nu este pasibilă de răspundere penală dacă este la nivel apropiat cu victima în ceea ce priveşte vîrsta şi dezvoltarea fizică şi psihică.
@@ -1716,8 +1687,7 @@ Capitolul V
 INFRACŢIUNI CONTRA DREPTURILORPOLITICE,
 DE MUNCĂ ŞI ALTOR DREPTURI CONSTITUŢIONALE
 ALE CETĂŢENILOR
-Articolul 176. Încălcarea egalităţii în drepturi
-a cetăţenilor
+Articolul 176. Încălcarea egalităţii în drepturi a cetăţenilor
 (1) Orice deosebire, excludere, restricţie sau preferinţă în drepturi şi în libertăţi a persoanei sau a unui grup de persoane, orice susţinere a comportamentului discriminatoriu în sfera politică, economică, socială, culturală şi în alte sfere ale vieţii, bazată pe criteriu de rasă, naţionalitate, origine etnică, limbă, religie sau convingeri, sex, vîrstă, dizabilitate, opinie, apartenenţă politică sau pe orice alt criteriu:
 a) săvîrşită de o persoană cu funcţie de răspundere;
 b) care a cauzat daune în proporţii mari;
@@ -1733,8 +1703,7 @@ se pedepseşte cu amendă în mărime de la 950 la 1200 unităţi convenţionale
 se pedepsesc cu închisoare de la 2 la 6 ani, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 5 ani sau cu lichidarea persoanei juridice.
 [Art.176 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 [Art.176 în redacţia LP306 din 26.12.12, MO27-30/08.02.13 art.104]
-Articolul 177. Încălcarea inviolabilităţii vieţii
-personale
+Articolul 177. Încălcarea inviolabilităţii vieţii personale
 (1) Culegerea ilegală sau răspîndirea cu bună-ştiinţă a informaţiilor, ocrotite de lege, despre viaţa personală ce constituie secret personal sau familial al altei persoane fără consimţămîntul ei
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore.
 [Art.177 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
@@ -1746,8 +1715,7 @@ a) într-un discurs public, prin mass-media;
 b) prin folosirea intenţionată a situaţiei de serviciu
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de 1 an, sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 3000 unităţi convenţionale.
 [Art.177 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
-Articolul 178. Violarea dreptului la secretul
-corespondenţei
+Articolul 178. Violarea dreptului la secretul corespondenţei
 (1) Violarea dreptului la secretul scrisorilor, telegramelor, coletelor şi altor trimiteri poştale, al convorbirilor telefonice şi înştiinţărilor telegrafice, cu încălcarea legislaţiei,
 se pedepseşte cu amendă în mărime de pînă la 550 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 180 de ore.
 [Art.178 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
@@ -1768,13 +1736,13 @@ se pedepsesc cu amendă în mărime de la 550 la 950 unităţi convenţionale sa
 a) cu folosirea situaţiei de serviciu;
 b) de un grup criminal organizat sau de o organizaţie criminală,
 se pedepsesc cu închisoare de la 2 la 5 ani.
-Articolul 180. Încălcarea intenţionată a legislaţiei
-privind accesul la informaţie
+Articolul 180. Încălcarea intenţionată a legislaţiei privind accesul
+la informaţie
 Încălcarea intenţionată de către o persoană cu funcţie de răspundere a procedurii legale de asigurare şi de realizare a dreptului de acces la informaţie, încălcare ce a cauzat daune în proporţii considerabile drepturilor şi intereselor ocrotite de lege ale persoanei care a solicitat informaţii referitoare la ocrotirea sănătăţii populaţiei, la securitatea publică, la protecţia mediului,
 se pedepseşte cu amendă de la 500 la 650 unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.180 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
-Articolul 1801. Împiedicarea intenţionată a activităţii
-mass-media sau intimidarea pentru critică
+Articolul 1801. Împiedicarea intenţionată a activităţii mass-media
+sau intimidarea pentru critică
 (1) Împiedicarea intenţionată a activităţii mass-media sau a jurnalistului, precum şi intimidarea mass-media sau a jurnalistului pentru critică
 se pedepsesc cu amendă în mărime de la 500 la 650 unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii publice pe un termen de pînă la 2 ani.
 [Art.1801 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
@@ -1796,8 +1764,8 @@ se pedepseşte cu amendă de la 650 la 850 unităţi convenţionale cu (sau făr
 se pedepsesc cu amendă de la 650 la 1350 unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.1802 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.1802 introdus prin LP40 din 21.03.13, MO91/20.04.13 art.280]
-Articolul 181. Împiedicarea exercitării libere a dreptului
-electoral sau a activităţii organelor electorale
+Articolul 181. Împiedicarea exercitării libere a dreptului electoral
+sau a activităţii organelor electorale
 Împiedicarea prin orice mijloace a exercitării libere a dreptului electoral sau împiedicarea activităţii organelor electorale:
 a) săvîrşită prin blocarea sau atacarea localurilor secţiilor de votare prin orice mijloc şi în orice formă;
 b) săvîrşită prin sustragerea urnelor de vot sau a documentelor electorale;
@@ -1807,18 +1775,18 @@ e) soldată cu alte urmări grave,
 se pedepseşte cu amendă în mărime de la 550 la 750 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.181 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 1811. Coruperea alegătorilor
-(1) Oferirea sau darea de bani, bunuri, servicii ori de alte foloase în scopul determinării alegătorului să îşi exercite drepturile sale electorale într-un anumit mod în cadrul alegerilor parlamentare, locale ori în cadrul referendumului
+(1) Oferirea sau darea de bani, bunuri, servicii ori de alte foloase în scopul determinării alegătorului să își exercite sau să nu își exercite drepturile electorale în cadrul alegerilor parlamentare, prezidențiale, locale ori în cadrul referendumului
+[Art.1811 al.(1), dispoziția în redacția LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 se pedepseşte cu amendă în mărime de la 500 la 850 unităţi convenţionale sau cu închisoare de la un an la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.1811 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) În categoria bunurilor prevăzute la alin. (1) sînt incluse şi băuturile alcoolice, produsele din tutun şi produsele alimentare.
 (3) Nu intră în categoria bunurilor prevăzute la alin. (1) materiale şi obiecte de agitaţie electorală, achitate din fondul electoral, ce poartă numele şi prenumele candidatului, respectiv denumirea partidului politic, semne sau simboluri ale concurenţilor electorali, precum: afişe, pliante, cărţi poştale, calendare, caiete, ilustrate, pixuri, brichete, cutii de chibrituri, insigne, ecusoane, CD-uri, DVD-uri, suporturi de stocare USB, fanioane, steaguri, cărţi, pungi, tricouri, chipiuri, eşarfe, fulare, a căror valoare pentru o unitate nu depăşeşte două unităţi convenţionale.
 [Art.1811 în redacţia LP53 din 29.03.13, MO97-103/03.05.13 art.320]
 [Art.1811 introdus prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
-Articolul 1812. Finanţarea ilegală a partidelor politice
-sau a campaniilor electorale, încălcarea
-modului de gestionare a mijloacelor
-financiare ale partidelor politice sau ale
-fondurilor electorale
+Articolul 1812. Finanţarea ilegală a partidelor politice sau a campaniilor
+electorale, încălcarea modului de gestionare a mijloacelor
+financiare ale partidelor politice sau ale fondurilor
+electorale
 (1) Falsificarea rapoartelor privind gestiunea financiară a partidelor politice şi/sau a rapoartelor privind finanţarea campaniilor electorale în intenţia de a substitui sau a ascunde identitatea donatorilor, volumul mijloacelor acumulate ori destinaţia sau volumul mijloacelor utilizate
 se pedepseşte cu amendă în mărime de la 550 la 8500 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita anumite activităţi pe un termen de pînă la 5 ani.
 [Art.1812 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -1843,15 +1811,13 @@ se pedepseşte cu amendă în mărime de la 550 la 750 unităţi convenţionale 
 se pedepseşte cu amendă în mărime de la 650 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.182 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.182 în redacţia LP216 din 17.09.10, MO191-193/01.10.10 art.634]
-Articolul 183. Încălcarea regulilor de protecţie
-a muncii
+Articolul 183. Încălcarea regulilor de protecţie a muncii
 (1) Încălcarea de către o persoană cu funcţie de răspundere ori de către o persoană care gestionează o organizaţie comercială, obştească sau altă organizaţie nestatală a tehnicii securităţii, a igienei industriale sau a altor reguli de protecţie a muncii, dacă această încălcare a provocat accidente cu oameni sau alte urmări grave,
 se pedepseşte cu amendă în mărime de la 500 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 200 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.183 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune care a provocat din imprudenţă decesul unei persoane
 se pedepseşte cu închisoare de la 2 la 6 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
-Articolul 184. Violarea dreptului la libertatea
-întrunirilor
+Articolul 184. Violarea dreptului la libertatea întrunirilor
 (1) Violarea dreptului la libertatea întrunirilor prin împiedicarea ilegală a desfăşurării mitingului, demonstraţiei, manifestaţiei, procesiunii sau oricărei alte întruniri ori a participării cetăţenilor la acestea fie prin constrîngerea lor la participare:
 a) săvîrşită de o persoană cu funcţie de răspundere;
 b) săvîrşită de două sau mai multe persoane;
@@ -1864,15 +1830,13 @@ b) însoţită de violenţă periculoasă pentru viaţă sau sănătate;
 c) soldată cu cauzarea de daune în proporţii mari;
 d) soldată cu alte urmări grave
 se pedepseşte cu închisoare de pînă la 5 ani.
-Articolul 185. Atentarea la persoană şi la drepturile
-cetăţenilor sub formă de propovăduire
-a credinţelor religioase şi de îndeplinire
-a riturilor religioase
+Articolul 185. Atentarea la persoană şi la drepturile cetăţenilor
+sub formă de propovăduire a credinţelor religioase
+şi de îndeplinire a riturilor religioase
 Organizarea, conducerea sau participarea activă la un grup a cărui activitate, desfăşurată sub formă de propovăduire a credinţelor religioase şi de îndeplinire a riturilor religioase, este însoţită fie de cauzarea de daune sănătăţii cetăţenilor, fie de alte atentate la persoană sau la drepturile acesteia, fie de instigarea cetăţenilor la refuzul de a îndeplini obligaţiile cetăţeneşti
 se pedepseşte cu amendă în mărime de la 650 la 1050 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 5 ani.
 [Art.185 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 1851. Încălcarea dreptului de autor
-şi a drepturilor conexe
+Articolul 1851. Încălcarea dreptului de autor şi a drepturilor conexe
 (1) Încălcarea dreptului de autor şi a drepturilor conexe, dacă este în proporţii mari, săvîrşită prin:
 a) reproducerea operelor sau a obiectelor drepturilor conexe în cadrul desfăşurării activităţii de întreprinzător tangenţiale activităţii intelectuale în domeniul dreptului de autor şi al drepturilor conexe, în special în domeniul literaturii, artei şi ştiinţei, în scopul comercializării sau oferirii spre comercializare, importului, exportului, precum şi stocarea, transportul exemplarelor de opere sau de fonograme în scopurile menţionate, sau orice altă formă de valorificare a obiectelor dreptului de autor sau ale drepturilor conexe în scopul obţinerii profitului, fără acordul titularului de drepturi;
 b) închirierea, schimbul sau altă formă de punere la dispoziţia terţilor cu titlu gratuit sau oneros, precum şi depozitarea în scopurile menţionate sau altă valorificare a exemplarelor de opere sau de fonograme, în orice mod şi sub orice formă, fără marcaj de control şi fără a deţine, în momentul controlului, contractele de autor încheiate cu titularii de drepturi;
@@ -1893,9 +1857,11 @@ c) prin constrîngere fizică sau psihică;
 d) în proporţii deosebit de mari,
 se pedepsesc cu amendă în mărime de la 5000 la 6000 de unităţi convenţionale sau cu închisoare de la 3 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 9000 la 11000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 5 ani sau cu lichidarea persoanei juridice.
 [Art.1851 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+(4) Persoana care a săvîrşit acţiunile prevăzute la alin. (1)–(3) este liberată de răspundere penală dacă a contribuit activ la descoperirea sau la contracararea infracţiunii prin autodenunţare, prin denunțarea și facilitarea tragerii la răspundere penală a altor persoane care au săvîrșit ori au contribuit la săvîrșirea infracțiunii, prin predarea benevolă a operelor sau a obiectelor drepturilor conexe, marcajelor de control, echipamentelor tehnice ori componentelor acestora, prin indicarea sursei de procurare a operelor sau a obiectelor drepturilor conexe, prin indicarea mijloacelor băneşti și/sau a bunurilor ori a veniturilor rezultate din infracţiune, dacă a compensat valoarea daunei materiale cauzate sau a reparat, în alt mod, prejudiciul cauzat prin infracţiune. Nu poate fi considerată predare benevolă a operelor sau a obiectelor drepturilor conexe ridicarea acestora la reţinerea persoanei, precum şi la efectuarea acţiunilor de urmărire penală pentru depistarea şi ridicarea obiectelor respective.
+[Art.1811 al.(4) introdus prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 [Art.1851 în redacţia LP115 din 23.06.11, MO128-130/05.08.11 art.363]
-Articolul 1852. Încălcarea dreptului asupra obiectelor
-de proprietate industrială
+Articolul 1852. Încălcarea dreptului asupra obiectelor de proprietate
+industrială
 (1) Răspîndirea informaţiilor privind invenţia, modelul de utilitate, desenul sau modelul industrial, soiul de plantă, topografia circuitului integrat fără consimţămîntul autorului (creatorului) sau al succesorului său în drepturi, pînă la publicarea oficială a datelor din cererea de înregistrare, de către o persoană căreia aceste informaţii i-au fost încredinţate sau i-au devenit cunoscute în alt mod, precum şi însuşirea frauduloasă de către un terţ a calităţii de autor al invenţiei, al modelului de utilitate, al desenului sau al modelului industrial, al soiului de plantă, al topografiei circuitului integrat sau constrîngerea la coautorat , care au cauzat daune în proporţii mari,
 [Art.1852 al.(1) modificat prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
 se pedepsesc cu amendă de la 1150 la 1350 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore.
@@ -1936,16 +1902,17 @@ se pedepsesc cu amendă de la 1150 la 1350 de unităţi convenţionale sau cu mu
 [Art.1852 al.(6) sancţiune modificată prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
 (7) Acţiunile de la alin.(1), (2), (21), (22), (23), (3), (4), (5) şi (6) săvîrşite:
 [Art.1852 al.(7) dispoziţie modificată prin LP115 din 23.06.11, MO128-130/05.08.11 art.363]
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane;
 c) de un grup criminal organizat sau de o organizaţie criminală;
 d) prin constrîngere fizică sau psihică;
 e) în proporţii deosebit de mari
 se pedepsesc cu amendă de la 4000 la 6000 de unităţi convenţionale sau cu închisoare de la 3 la 5 ani, cu amendă, aplicată persoanei juridice, de la 8000 la 11000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 5 ani sau cu lichidarea ei.
 [Art.1852 al.(7), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 1853. Declaraţiile intenţionat false în documentele
-de înregistrare ce ţin de protecţia proprietăţii
-intelectuale
+(8) Persoana care a săvîrşit acţiunile prevăzute la alin. (1)–(7) este liberată de răspundere penală dacă a contribuit activ la descoperirea sau la contracararea infracţiunii prin autodenunţare, prin denunțarea și facilitarea tragerii la răspundere penală a altor persoane care au săvîrșit sau au contribuit la săvîrșirea infracțiunii, prin predarea benevolă a obiectelor de proprietate industrială, prin indicarea mijloacelor băneşti și/sau a bunurilor ori a veniturilor rezultate din infracţiune, dacă a compensat valoarea daunei materiale cauzate sau a reparat, în alt mod, prejudiciul cauzat prin infracţiune. Nu poate fi considerată predare benevolă a obiectelor de proprietate industrială ridicarea acestora la reţinerea persoanei, precum şi la efectuarea acţiunilor de urmărire penală pentru depistarea şi ridicarea obiectelor respective.
+[Art.1852 al.(8) introdus prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
+Articolul 1853. Declaraţiile intenţionat false în documentele de înregistrare
+ce ţin de protecţia proprietăţii intelectuale
 Declaraţiile intenţionat false, operarea intenţionată cu înscrieri false în documentele ce ţin de protecţia proprietăţii intelectuale, precum şi falsificarea documentelor necesare eliberării titlului de protecţie, perfectarea intenţionată a documentelor falsificate sau prezentarea intenţionată de documente cu date care subminează autoritatea solicitantului de protecţie a obiectului de proprietate intelectuală
 se pedepsesc cu amendă de la 1150 la 1350 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, cu amendă, aplicată persoanei juridice, de la 4500 la 6000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 5 ani.
 [Art.1853 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -1956,7 +1923,7 @@ Articolul 186. Furtul
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.186 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Furtul săvîrşit:
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane;
 c) prin pătrundere în încăpere, în alt loc pentru depozitare sau în locuinţă;
 d) cu cauzarea de daune în proporţii considerabile
@@ -1982,7 +1949,7 @@ se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale 
 [Art.187 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.187 al.(1), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (2) Jaful săvîrşit:
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane;
 c) de o persoană mascată, deghizată sau travestită;
 d) prin pătrunderea în încăpere, în alt loc pentru depozitare sau în locuinţă;
@@ -2014,7 +1981,7 @@ se pedepseşte cu închisoare de la 5 la 8 ani cu (sau fără) amendă în mări
 [Art.188 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.188 al.(1), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (2) Tîlhăria săvîrşită:
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane;
 c) de o persoană mascată, deghizată sau travestită;
 d) prin pătrundere în încăpere, în alt loc pentru depozitare sau în locuinţă;
@@ -2048,7 +2015,7 @@ se pedepseşte cu amendă în mărime de la 750 la 950 unităţi convenţionale 
 [Art.189 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.189 al.(1), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 (2) Şantajul săvîrşit:
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane;
 c) cu aplicarea violenţei nepericuloase pentru viaţă sau sănătate;
 d) prin ameninţare cu moartea;
@@ -2084,7 +2051,7 @@ Articolul 190. Escrocheria
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 240 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.190 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Escrocheria săvîrşită:
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane;
 [Art.190 al.(2), lit.c) exclusă prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 d) cu folosirea situaţiei de serviciu
@@ -2110,7 +2077,7 @@ Articolul 191. Delapidarea averii străine
 se pedepseşte cu amendă în mărime de pînă la 850 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.191 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Delapidarea averii străine, săvîrşită:
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane;
 c) cu cauzarea de daune în proporţii considerabile;
 d) cu folosirea situaţiei de serviciu,
@@ -2141,7 +2108,7 @@ Articolul 192. Pungăşia
 se pedepseşte cu amendă în mărime de la 650 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.192 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Pungăşia săvîrşită:
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane,
 se pedepseşte cu închisoare de pînă la 4 ani cu amendă în mărime de la 550 la 1350 unităţi convenţionale.
 [Art.192 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2162,8 +2129,8 @@ se pedepseşte cu închisoare de la 3 la 5 ani.
 (3) Acţiunile prevăzute la alin.(1) sau (2) însoţite de violenţă periculoasă pentru viaţa sau sănătatea victimei sau de ameninţarea cu aplicarea unei asemenea violenţe
 se pedepsesc cu închisoare de la 5 la 7 ani.
 [Art.1921 al.(3), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
-Articolul 1922. Răpirea mijlocului de transport cu tracţiune
-animală, precum şi a animalelor de tracţiune
+Articolul 1922. Răpirea mijlocului de transport cu tracţiune animală,
+precum şi a animalelor de tracţiune
 Răpirea mijlocului de transport cu tracţiune animală, precum şi a animalelor de tracţiune, fără scop de însuşire, urmată:
 a) de distrugerea de bunuri;
 b) de îmbolnăvirea gravă sau pieirea animalelor răpite,
@@ -2173,35 +2140,34 @@ Articolul 193. Tulburarea de posesie
 Ocuparea, în întregime sau în parte, fără drept, a unui imobil aflat în posesia altuia cu aplicarea violenţei sau cu ameninţarea aplicării violenţei ori prin distrugerea sau strămutarea semnelor de hotar
 se pedepseşte cu amendă în mărime de pînă la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 240 de ore, sau cu închisoare de la 1 la 2 ani.
 [Art.193 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 194. Însuşirea sau utilizarea ilicită a energiei
-electrice, termice sau a gazelor naturale
+Articolul 194. Însuşirea sau utilizarea ilicită a energiei electrice,
+termice sau a gazelor naturale
 (1) Însuşirea energiei electrice, termice sau a gazelor naturale ori utilizarea ilicită a acestora evitînd sistemele de evidenţă instalate în modul stabilit sau prin acestea, dar deteriorate de consumator, dacă aceasta a cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de la 850 la 1850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore.
 [Art.194 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni care au cauzat daune în proporţii deosebit de mari
 se pedepsesc cu amendă în mărime de la 1850 la 3350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de 240 de ore.
 [Art.194 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 195- exclus
-Articolul 196. Cauzarea de daune materiale prin înşelăciune
-sau abuz de încredere
+Articolul 195 - exclus
+Articolul 196. Cauzarea de daune materiale prin înşelăciune sau abuz
+de încredere
 (1) Cauzarea de daune materiale în proporţii mari proprietarului prin înşelăciune sau abuz de încredere, dacă fapta nu constituie o însuşire,
 se pedepseşte cu amendă în mărime de pînă la 550 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 [Art.196 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită:
-a)- exclusă
+a) - exclusă
 b) de două sau mai multe persoane
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.196 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Acţiunile prevăzute la alin.(1) sau (2), săvîrşite:
 a) de un grup criminal organizat sau de o organizaţie criminală;
-b)- exclusă
+b) - exclusă
 se pedepsesc cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
 [Art.196 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (4) Cauzarea de daune materiale în proporţii deosebit de mari prin înşelăciune sau abuz de încredere, dacă fapta nu constituie o însuşire,
 se pedepseşte cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
 [Art.196 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 197. Distrugerea sau deteriorarea intenţionată
-a bunurilor
+Articolul 197. Distrugerea sau deteriorarea intenţionată a bunurilor
 (1) Distrugerea sau deteriorarea intenţionată a bunurilor, dacă aceasta a cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de pînă la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de 240 de ore.
 [Art.197 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2216,9 +2182,8 @@ se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale
 [Art.197 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.197 al.(3) introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 Articolul 198 - exclus
-Articolul 199. Dobîndirea sau comercializarea bunurilor
-despre care se ştie că au fost obţinute pe
-cale criminală
+Articolul 199. Dobîndirea sau comercializarea bunurilor despre care
+se ştie că au fost obţinute pe cale criminală
 (1) Dobîndirea sau comercializarea, fără o promisiune prealabilă, a bunurilor despre care se ştie că au fost obţinute pe cale criminală
 se pedepseşte cu amendă în mărime de la 550 la 750 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 180 de ore.
 [Art.199 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2231,8 +2196,8 @@ se pedepsesc cu amendă în mărime de la 650 la 950 unităţi convenţionale sa
 (3) Acţiunile prevăzute la alin.(1) sau la alin.(2) lit.a) şi b), săvîrşite în proporţii deosebit de mari,
 se pedepsesc cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
 [Art.199 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 1991. Deteriorarea sau distrugerea
-bunurilor de patrimoniu cultural
+Articolul 1991. Deteriorarea sau distrugerea bunurilor de patrimoniu
+cultural
 (1) Deteriorarea bunurilor de patrimoniu cultural
 se pedepseşte cu amendă în mărime de la 850 la 1350 de unităţi convenţionale sau cu închisoare de pînă la 1 an, iar persoana juridică se pedepsește cu amendă în mărime de la 1350 la 3350 de unităţi convenţionale sau cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 3 ani.
 [Art.1991 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2240,9 +2205,8 @@ se pedepseşte cu amendă în mărime de la 850 la 1350 de unităţi convenţion
 se pedepseşte cu amendă în mărime de la 3350 la 6350 de unităţi convenţionale sau cu închisoare de la 1 la 3 ani, iar persoana juridică se pedepsește cu amendă de la 6000 la 10000 de unităţi convenţionale cu (sau fără) lichidarea persoanei juridice.
 [Art.1991 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.1991 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
-Articolul 1992. Efectuarea lucrărilor neautorizate
-în siturile arheologice sau în zonele
-cu potenţial arheologic
+Articolul 1992. Efectuarea lucrărilor neautorizate în siturile arheologice
+sau în zonele cu potenţial arheologic
 (1) Efectuarea săpăturilor neautorizate sau căutarea de comori în siturile arheologice sau în zonele cu potenţial arheologic
 se pedepsesc cu amendă de la 850 la 1350 de unităţi convenţionale sau cu închisoare de pînă la 1 an.
 [Art.1992 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2250,15 +2214,14 @@ se pedepsesc cu amendă de la 850 la 1350 de unităţi convenţionale sau cu în
 se pedepseşte cu amendă de la 3350 la 4350 de unităţi convenţionale sau cu închisoare de pînă la 2 ani, iar persoana juridică se pedepsește cu amendă de la 7350 la 10350 de unităţi convenţionale cu (sau fără) lichidarea persoanei juridice.
 [Art.1992 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.1992 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
-Articolul 1993. Tăinuirea sau păstrarea ilegală a bunurilor
-arheologice mobile
+Articolul 1993. Tăinuirea sau păstrarea ilegală a bunurilor arheologice
+mobile
 Tăinuirea sau păstrarea ilegală a bunurilor arheologice mobile, inclusiv a comorilor, descoperite întîmplător sau în cadrul unor lucrări de intervenţie asupra solului ori cu ajutorul detectoarelor de metale sau al altor aparate de teledetecţie, precum şi neanunţarea la timp a autorităţilor publice privind descoperirea întîmplătoare a bunurilor arheologice mobile, inclusiv a comorilor,
 se pedepsesc cu amendă de la 850 la 1350 de unităţi convenţionale sau cu închisoare de pînă la 1 an, iar persoana juridică se pedepsește cu amendă în mărime de la 3350 la 5350 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 2 ani.
 [Art.1992 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.1993 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
-Articolul 1994. Comercializarea neautorizată a bunurilor
-arheologice mobile şi a bunurilor culturale
-mobile clasate
+Articolul 1994. Comercializarea neautorizată a bunurilor arheologice mobile
+şi a bunurilor culturale mobile clasate
 (1) Comercializarea neautorizată a bunurilor arheologice mobile şi a bunurilor culturale mobile clasate
 se pedepseşte cu amendă în mărime de la 750 la 850 de unităţi convenţionale, cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 1 an, iar persoana juridică se pedepsește cu amendă în mărime de la 2350 la 3350 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.1994 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2269,11 +2232,9 @@ c) care a cauzat daune în proporţii mari
 se pedepseşte cu amendă în mărime de la 1000 la 1350 de unităţi convenţionale sau cu închisoare de la 1 la 3 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 6350 la 10350 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 3 la 5 ani.
 [Art.1994 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.1994 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
-Articolul 1995. Accesul neautorizat cu detectoare
-de metale sau cu alte aparate
-de teledetecţie și utilizarea lor
-în siturile arheologice sau în zonele
-cu potențial arheologic
+Articolul 1995. Accesul neautorizat cu detectoare de metale sau cu alte
+aparate de teledetecţie și utilizarea lor în siturile arheologice
+sau în zonele cu potențial arheologic
 Accesul cu detectoare de metale sau cu alte aparate de teledetecţie și utilizarea lor în siturile arheologice sau în zonele cu potențial arheologic fără autorizarea Ministerului Educației, Culturii și Cercetării
 [Art.1995 dispoziția modificată prin LP79 din 24.05.18, MO195-209/15.06.18 art.338]
 se pedepseşte cu amendă de la 1350 la 2350 de unităţi convenţionale sau cu închisoare de pînă la 1 an.
@@ -2281,8 +2242,7 @@ se pedepseşte cu amendă de la 1350 la 2350 de unităţi convenţionale sau cu 
 [Art.1995 introdus prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 Articolul 200 - exclus
 Capitolul VII
-INFRACŢIUNI CONTRA FAMILIEI
-ŞI MINORILOR
+INFRACŢIUNI CONTRA FAMILIEI ŞI MINORILOR
 Articolul 201. Incestul
 (1) Raportul sexual între rude pe linie dreaptă pînă la gradul trei inclusiv, precum şi între rude pe linie colaterală (fraţi, surori),
 se pedepseşte cu închisoare de pînă la 5 ani.
@@ -2300,14 +2260,14 @@ c) care au provocat vătămarea medie a integrităţii corporale sau a sănătă
 se pedepsesc cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore sau cu închisoare de la 1 la 6 ani.
 (3) Faptele prevăzute la alin. (1) și (2) care:
 a) au cauzat vătămarea gravă a integrităţii corporale sau a sănătăţii;
-b) au determinat la sinucidere sau la tentativă de sinucidere
+b) au determinat sinuciderea sau încercarea de sinucidere
+[Art.2011al.(3), lit.b) în redacția LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 se pedepsesc cu închisoare de la 6 la 12 ani.
 (4) Faptele prevăzute la alin. (1) sau (2) care au cauzat vătămarea gravă a integrităţii corporale sau a sănătăţii soldată cu decesul victimei
 se pedepsesc cu închisoare de la 12 la 15 ani.
 [Art.2011 în redacția LP196 din 28.07.16, MO306-313/16.09.16 art.661]
 [Art.2011 introdus prin LP167 din 09.07.10, MO155-158/03.09.10 art.551]
-Articolul 2012. Exercitarea necorespunzătoare a obligaţiilor
-părinteşti
+Articolul 2012. Exercitarea necorespunzătoare a obligaţiilor părinteşti
 Eschivarea cu rea-voinţă a părinţilor de la exercitarea obligaţiilor părinteşti, dacă aceasta a determinat plasamentul copilului în instituții rezidențiale sau servicii sociale de plasament,
 se pedepseşte cu amendă în mărime de la 300 la 500 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 120 de ore.
 [Art.2012 introdus prinLP83 din 25.05.17, MO229-243/07.07.17 art.362]
@@ -2317,8 +2277,7 @@ Articolul 204. Divulgarea secretului adopţiei
 Divulgarea secretului adopţiei contrar voinţei adoptatorului, săvîrşită de o persoană obligată să păstreze faptul adopţiei ca un secret profesional sau de serviciu,
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 240 de ore, sau cu închisoare de pînă la 6 luni, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de 2 ani.
 [Art.204 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 205. Abuzul părinţilor şi altor persoane
-la adopţia copiilor
+Articolul 205. Abuzul părinţilor şi altor persoane la adopţia copiilor
 (1) Primirea de către părinte, tutore (curator) sau alt reprezentant legal al copilului, de către altă persoană a unei recompense sub orice formă pentru consimţămîntul la adopţie sau în alte scopuri legate de adopţie
 se pedepseşte cu amendă în mărime de la 500 la 750 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
 [Art.205 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2339,16 +2298,26 @@ se pedepsesc cu închisoare de la 3 la 7 ani cu (sau fără) privarea de dreptul
 [Art.205 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 206. Traficul de copii
 (1) Recrutarea, transportarea, transferul, adăpostirea sau primirea unui copil, precum şi darea sau primirea unor plăţi ori beneficii pentru obţinerea consimţămîntului unei persoane care deţine controlul asupra copilului, în scopul:
-a) exploatării sexuale, comerciale şi necomerciale, în prostituţie sau în industria pornografică;
+a) exploatării sexuale comerciale sau necomerciale;
+[Art.206 al.(1), lit.a) în redacția LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 b) exploatării prin muncă sau servicii forţate;
 b1) practicării cerşetoriei sau în alte scopuri josnice;
-c) exploatării în sclavie sau în condiţii similare sclaviei, inclusiv în cazul adopţiei ilegale;
+b2 ) însuşirii ajutoarelor, indemnizaţiilor sau prestaţiilor sociale;
+[Art.206 al.(1), lit.b2) introdusă prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
+b3) folosirii ilegale în testări sau experimente medicale ori ştiinţifice;
+[Art.206 al.(1), lit.b3) introdusă prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
+c) exploatării în sclavie sau în condiţii similare sclaviei;
+[Art.206 al.(1), lit.c) în redacția LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 d) folosirii în conflicte armate;
 e) folosirii în activitate criminală;
 f) prelevării organelor, ţesuturilor şi/sau celulelor umane;
 [Art.206 al.(1), lit.f) modificată prin LP270 din 07.11.13, MO290/10.12.13 art.794]
 [Art.206 al.(1), lit.g) abrogată prin LP270 din 07.11.13, MO290/10.12.13 art.794]
 h) vînzării sau cumpărării,
+i) folosirii în calitate de mamă-surogat ori în scop de reproducere;
+[Art.206 al.(1), lit.i) introdusă prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
+j) adopţiei ilegale,
+[Art.206 al.(1), lit.j) introdusă prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 se pedepseşte cu închisoare de la 10 la 12 ani, cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 de unităţi convenţionale, cu privarea de dreptul de a desfăşura o anumită activitate, sau cu lichidarea persoanei juridice.
 [Art.206 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.206 al.(1), sancţiunea modificată prin LP270 din 07.11.13, MO290/10.12.13 art.794]
@@ -2385,10 +2354,10 @@ se pedepsesc cu închisoare de la 15 la 20 de ani, cu privarea de dreptul de a o
 Articolul 207. Scoaterea ilegală a copiilor din ţară
 Scoaterea copilului din ţară în baza unor acte false sau pe altă cale ilegală, precum şi abandonarea lui în străinătate în scopuri altele decît cele indicate la art.206,
 se pedepsesc cu închisoare de la 2 la 6 ani.
-Articolul 208. Atragerea minorilor la activitate criminală
-sau determinarea lor la săvîrşirea unor
-fapte imorale
-(1) Atragerea minorilor la activitatea criminală sau instigarea lor la săvîrşirea infracţiunilor, precum şi determinarea minorilor la săvîrşirea unor fapte imorale (cerşetorie, jocuri de noroc, desfrîu etc.), săvîrşite de o persoană care a atins vîrsta de 18 ani,
+Articolul 208. Atragerea minorilor la activitate criminală sau determinarea
+lor la săvîrşirea unor fapte imorale
+(1) Atragerea minorilor la activitatea criminală sau instigarea lor la săvîrşirea infracţiunilor, precum şi determinarea minorilor la săvîrşirea unor fapte imorale (cerşetorie, jocuri de noroc, desfrîu), săvîrşite de o persoană care a atins vîrsta de 18 ani,
+[Art.208 al.(1), dispoziția modificată prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 se pedepsesc cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 200 de ore, sau cu închisoare de pînă la 5 ani.
 [Art.208 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni săvîrşite de părinţi sau de alţi ocrotitori legali ai copilului, precum şi de pedagogii acestuia
@@ -2405,13 +2374,11 @@ Producerea, distribuirea, difuzarea, importarea, exportarea, oferirea, vinderea,
 [Art.2081 dispoziţia modificată prin LP73 din 12.04.12, MO99-102/25.05.12 art.332]
 se pedepseşte cu închisoare de la 1 la 3 ani, cu amendă, aplicată persoanei juridice, de la 3000 la 5000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.2081 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2082. Recurgerea la prostituţia practicată
-de un copil
+Articolul 2082. Recurgerea la prostituţia practicată de un copil
 Beneficierea, contra oricăror avantaje materiale, de serviciile sexuale prestate de către o persoană despre care se ştia cu certitudine că nu a împlinit vîrsta de 18 ani se pedepseşte cu închisoare de la 3 la 7 ani.
 [Art.2082 introdus prin LP73 din 12.04.12, MO99-102/25.05.12 art.332]
-Articolul 209. Atragerea minorilor la consumul ilegal
-de substanțe stupefiante, psihotrope și/sau
-de alte substanțe cu efecte similare
+Articolul 209. Atragerea minorilor la consumul ilegal de substanțe stupefiante,
+psihotrope și/sau de alte substanțe cu efecte similare
 [Art.209 denumirea modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
 (1) Atragerea de către o persoană care a atins vîrsta de 18 ani a minorilor la consumul ilegal de substanțe stupefiante, psihotrope și/sau de alte substanțe cu efecte similare
 [Art.209 al.(1), dispoziția modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
@@ -2448,29 +2415,28 @@ se pedepseşte cu închisoare de la 3 la 8 ani.
 (4) Contaminarea cu maladia SIDA ca urmare a neîndeplinirii sau îndeplinirii necorespunzătoare de către un lucrător medical a obligaţiilor sale profesionale
 se pedepseşte cu închisoare de pînă la 5 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 (5) Persoana care a săvîrşit acţiunile prevăzute la alin.(1) sau (2) nu este pasibilă de răspundere penală dacă a comunicat din timp persoanei puse în pericol de a fi contaminată despre existenţa la primul a maladiei SIDA sau dacă persoana pusă în pericol de a fi contaminată ştia despre existenţa acestei maladii, dar benevol a săvîrşit acţiuni ce au constituit pericol de contaminare.
-Articolul 213. Încălcarea din neglijenţă a regulilor
-şi metodelor de acordare a asistenţei
-medicale
+Articolul 213. Încălcarea din neglijenţă a regulilor şi metodelor
+de acordare a asistenţei medicale
 Încălcarea din neglijenţă de către medic sau de către un alt lucrător medical a regulilor sau metodelor de acordare a asistenţei medicale, dacă aceasta a cauzat:
 a) vătămarea gravă a integrităţii corporale sau a sănătăţii;
 b) decesul pacientului,
 se pedepseşte cu închisoare de pînă la 3 ani cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
-Articolul 2131. Publicitatea în scopul obţinerii ilegale
-de organe, ţesuturi şi celule umane
-sau privind donarea ilicită a acestora
+Articolul 2131. Publicitatea în scopul obţinerii ilegale de organe,
+ţesuturi şi celule umane sau privind donarea ilicită
+a acestora
 Publicitatea în scopul obţinerii ilegale de organe, ţesuturi şi/sau celule umane, precum şi publicitatea sau mediatizarea unor anunţuri privind donarea ilicită de organe, ţesuturi şi/sau celule umane
 se pedepsesc cu amendă în mărime de la 500 la 750 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, cu amendă, aplicată persoanei juridice, în mărime de la 1300 la 1600 de unităţi convenţionale.
 [Art.2131 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2131 introdus prin LP270 din 07.11.13, MO290/10.12.13 art.794]
-Articolul 214. Practicarea ilegală a medicinei
-sau a activităţii farmaceutice
+Articolul 214. Practicarea ilegală a medicinei sau a activităţii
+farmaceutice
 (1) Practicarea medicinei ca profesie sau a activităţii farmaceutice de către o persoană care nu are licenţă sau altă autorizaţie, dacă aceasta a cauzat din imprudenţă o vătămare a sănătăţii,
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu închisoare de pînă la 2 ani.
 [Art.214 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceleaşi acţiuni care au cauzat din imprudenţă decesul victimei
 se pedepsesc cu închisoare de pînă la 3 ani.
-Articolul 2141. Producerea sau comercializarea
-medicamentelor contrafăcute
+Articolul 2141. Producerea sau comercializarea medicamentelor
+contrafăcute
 (1) Producerea sau comercializarea medicamentelor contrafăcute
 se pedepsesc cu amendă în mărime de la 1350 la 2350 unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani, cu amendă, aplicată persoanei juridice, în mărime de la 4000 la 6000 unităţi convenţionale cu (sau fără) privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.2141 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2484,11 +2450,10 @@ se pedepseşte cu amendă în mărime de la 550 la 750 unităţi convenţionale 
 (2) Aceleaşi fapte soldate din imprudenţă cu vătămarea gravă sau medie a sănătăţii sau cu decesul persoanei
 se pedepsesc cu închisoare de pînă la 5 ani, cu amendă, aplicată persoanei juridice, de la 2000 la 3000 unităţi convenţionale cu lichidarea întreprinderii.
 [Art.215 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 216. Producerea, transportarea, păstrarea,
-comercializarea, oferirea cu titlu oneros
-sau gratuit a produselor (mărfurilor),
-prestarea serviciilor, periculoase pentru
-viaţa sau sănătatea consumatorilor
+Articolul 216. Producerea, transportarea, păstrarea, comercializarea,
+oferirea cu titlu oneros sau gratuit a produselor (mărfurilor),
+prestarea serviciilor, periculoase pentru viaţa sau sănătatea
+consumatorilor
 [Art.216 titlul modificat prin LP115 din 26.06.11, MO128-130/05.08.11 art.363]
 (1) Producerea, transportarea, păstrarea, comercializarea, oferirea cu titlu oneros sau gratuit a produselor (mărfurilor), prestarea serviciilor, periculoase pentru viaţa sau sănătatea consumatorilor, săvîrşite în proporţii mari,
 [Art.216 al.(1), dispoziţia modificată prin LP115 din 26.06.11, MO128-130/05.08.11 art.363]
@@ -2506,8 +2471,8 @@ b) săvîrşite de un grup criminal organizat sau de o organizaţie criminală;
 c) dacă au provocat decesul a două sau mai multe persoane,
 se pedepsesc cu amendă în mărime de la 1350 la 1850 unităţi convenţionale sau cu închisoare de la 3 la 7 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 9000 la 11000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 5 ani sau cu lichidarea persoanei juridice.
 [Art.216 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 217. Circulaţia ilegală a drogurilor, etnobotanicelor
-sau analogii acestora fără scop de înstrăinare
+Articolul 217. Circulaţia ilegală a drogurilor, etnobotanicelor sau analogii
+acestora fără scop de înstrăinare
 (1) Semănatul sau cultivarea ilegală a plantelor care conţin droguri sau etnobotanice, prelucrarea sau utilizarea a astfel de plante, săvîrşite în proporţii mari şi fără scop de înstrăinare,
 se pedepsesc cu amendă în mărime de la 200 la 400 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de pînă la 100 de ore, iar persoana juridică se pedepseşte cu amendă în mărime de la 3000 la 5000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.217 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2558,16 +2523,16 @@ d) în proporţii deosebit de mari,
 se pedepsesc cu închisoare de la 7 la 15 de ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 9000 la 11000 unităţi convenţionale cu lichidarea acesteia.
 [Art.2171 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2171 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
-Articolul 2172. Circulaţia ilegală a precursorilor în scopul
-producerii sau prelucrării drogurilor,
-etnobotanicelor sau analogii acestora
+Articolul 2172. Circulaţia ilegală a precursorilor în scopul producerii
+sau prelucrării drogurilor,etnobotanicelor sau analogii
+acestora
 Producerea, prepararea, prelucrarea, experimentarea, procurarea, păstrarea, expedierea, transportarea, înstrăinarea sau efectuarea oricăror alte operaţiuni cu precursori în scopul producerii sau prelucrării drogurilor, etnobotanicelor sau analogii acestora,
 se pedepsesc cu amendă în mărime de la 1150 la 1350 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 8000 la 11000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2172 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2172 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
-Articolul 2173. Circulaţia ilegală a materialelor şi utilajelor
-destinate producerii sau prelucrării drogurilor,
-etnobotanicelor sau analogii acestora
+Articolul 2173. Circulaţia ilegală a materialelor şi utilajelor destinate
+producerii sau prelucrării drogurilor, etnobotanicelor
+sau analogii acestora
 (1) Producerea, fabricarea, procurarea, păstrarea, expedierea, transmiterea, transportarea sau înstrăinarea materialelor ori a utilajelor destinate producerii, preparării sau prelucrării drogurilor, etnobotanicelor sau analogii acestora ori cultivării plantelor care conţin aceste substanţe
 se pedepsesc cu amendă în mărime de la 550 la 650 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.2173 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2584,8 +2549,7 @@ c) - exclusă
 se pedepsesc cu închisoare de la 2 la 5 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 7000 la 10000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2173 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2173 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
-Articolul 2174. Sustragerea sau extorcarea drogurilor
-sau etnobotanicelor
+Articolul 2174. Sustragerea sau extorcarea drogurilor sau etnobotanicelor
 (1) Sustragerea sau extorcarea drogurilor sau etnobotanicelor
 se pedepseşte cu amendă în mărime de la 850 la 2350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de la 3 la 5 ani.
 [Art.2174 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2608,9 +2572,8 @@ se pedepsesc cu închisoare de la 10 la 15 ani cu aplicarea unei amenzi în măr
 [Art.2174 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2174 al.(3), sancţiunea modificată prin LP119 din 23.05.13, MO130-134/21.06.13 art.423]
 [Art.2174 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
-Articolul 2175. Consumul ilegal public sau organizarea
-consumului ilegal de droguri, etnobotanice
-sau analogii acestora
+Articolul 2175. Consumul ilegal public sau organizarea consumului ilegal
+de droguri, etnobotanice sau analogii acestora
 (1) Consumul ilegal de droguri, etnobotanice sau analogii acestora, săvîrşit în mod public sau pe teritoriul instituţiilor de învăţămînt, instituţiilor de reabilitare socială, penitenciarelor, unităţilor militare, în locurile de agrement, în locurile de desfăşurare a acţiunilor de educaţie, instruire a minorilor sau tineretului, a altor acţiuni culturale sau sportive ori în imediata apropiere a acestora,
 se pedepseşte cu amendă în mărime de la 750 la 1050 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore.
 [Art.2175 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2618,9 +2581,9 @@ se pedepseşte cu amendă în mărime de la 750 la 1050 unităţi convenţionale
 se pedepseşte cu amendă în mărime de la 750 la 1050 unităţi convenţionale sau cu închisoare de la 2 la 5 ani.
 [Art.2175 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2175 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
-Articolul 2176. Introducerea ilegală intenţionată în organismul
-altei persoane, împotriva voinţei acesteia, a drogurilor,
-etnobotanicelor sau analogii acestora
+Articolul 2176. Introducerea ilegală intenţionată în organismul altei persoane,
+împotriva voinţei acesteia, a drogurilor,etnobotanicelor sau
+analogii acestora
 (1) Introducerea ilegală intenţionată, indiferent de mod, în organismul altei persoane, împotriva voinţei acesteia, a drogurilor, etnobotanicelor sau analogii acestora
 se pedepseşte cu amendă în mărime de la 950 la 1150 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 200 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.2176 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2632,8 +2595,8 @@ d) - exclusă
 e) cu droguri sau etnobotanice a căror circulaţie în scopuri medicinale este interzisă
 se pedepseşte cu închisoare de la 2 la 7 ani.
 [Art.2176 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
-Articolul 218. Prescrierea ilegală sau încălcarea regulilor
-de circulaţie a drogurilor
+Articolul 218. Prescrierea ilegală sau încălcarea regulilor de circulaţie
+a drogurilor
 (1) Prescrierea fără necesitate a drogurilor
 se pedepseşte cu amendă în mărime de la 550 la 1150 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.218 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2653,8 +2616,8 @@ se pedepseşte cu amendă în mărime de la 650 la 950 unităţi convenţionale 
 se pedepsesc cu amendă în mărime de la 950 la 1350 unităţi convenţionale sau cu închisoare de pînă la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.218 al.(5), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.218 modificat prin LP193 din 28.07.16, MO315-328/23.09.16 art.686]
-Articolul 219. Organizarea ori întreţinerea speluncilor
-pentru consumul drogurilor sau etnobotanicelor
+Articolul 219. Organizarea ori întreţinerea speluncilor pentru consumul
+drogurilor sau etnobotanicelor
 (1) Organizarea ori întreţinerea speluncilor pentru consumul drogurilor sau etnobotanicelor, precum şi punerea la dispoziţie a localurilor în aceste scopuri,
 se pedepsesc cu amendă în mărime de la 550 la 1150 unităţi convenţionale sau cu închisoare de pînă la 4 ani.
 [Art.219 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2691,10 +2654,18 @@ c) cu cauzarea de daune în proporţii mari
 [Art.222 al.(2), lit.c) introdusă prin LP75 din 21.04.16, MO128-133/13.05.16 art.272]
 se pedepsesc cu amendă în mărime de la 750 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.222 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+Articolul 2221. Cruzimea faţă de animale
+(1) Tratarea cu cruzime sau torturarea animalelor care a cauzat mutilarea ori moartea acestora
+se pedepseşte cu amendă în mărime de la 500 la 750 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 180 de ore, sau cu închisoare de pînă la 1 an.
+(2) Aceleași fapte săvîrșite:
+a) în public sau în prezența minorilor;
+b) de o persoană responsabilă de îngrijirea, protecţia şi bunăstarea animalelor, de dresarea sau de acordarea asistenței medicale veterinare;
+c) din motive sadice
+se pedepsesc cu amendă în mărime de la 750 la 1350 de unități convenționale sau cu muncă neremunerată în folosul comunității de la 180 la 240 de ore, sau cu închisoare de la 1 la 3 ani.
+[Art.2221 introdus prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 Capitolul IX
 INFRACŢIUNI ECOLOGICE
-Articolul 223. Încălcarea cerinţelor securităţii
-ecologice
+Articolul 223. Încălcarea cerinţelor securităţii ecologice
 Încălcarea cerinţelor securităţii ecologice la proiectarea, amplasarea, construcţia sau punerea în exploatare, precum şi la exploatarea construcţiilor industriale, agricole, ştiinţifice sau a altor obiective de către persoanele responsabile de respectarea lor, dacă aceasta a provocat:
 a) mărirea esenţială a nivelului radiaţiei;
 b) daune sănătăţii populaţiei;
@@ -2702,9 +2673,8 @@ c) pieirea în masă a animalelor;
 d) alte urmări grave,
 se pedepseşte cu amendă în mărime de la 650 la 950 unităţi convenţionale sau cu închisoare de la 2 la 5 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.223 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 224. Încălcarea regulilor de circulaţie a
-substanţelor, materialelor şi deşeurilor
-radioactive, bacteriologice sau toxice
+Articolul 224. Încălcarea regulilor de circulaţie a substanţelor, materialelor
+şi deşeurilor radioactive, bacteriologice sau toxice
 (1) Încălcarea regulilor stabilite ce ţin de fabri­carea, importul, exportul, îngroparea, păstrarea, transportarea sau utilizarea substanţelor, materialelor şi deşeurilor radioactive, bacteriologice sau toxice, precum şi a pesticidelor, erbicidelor sau a altor substanţe chimice, dacă aceasta creează pericolul cauzării de daune esenţiale sănătăţii populaţiei sau mediului,
 se pedepseşte cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.224 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2723,9 +2693,8 @@ se pedepsesc cu închisoare de la 3 la 7 ani, iar persoana juridică se pedepse�
 (4) Acţiunile prevăzute la alin.(1), soldate cu decesul a două sau mai multor persoane,
 se pedepsesc cu închisoare de la 5 la 10 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 11000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.224 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 225. Tăinuirea de date sau prezentarea
-intenţionată de date neautentice
-despre poluarea mediului
+Articolul 225. Tăinuirea de date sau prezentarea intenţionată de date
+neautentice despre poluarea mediului
 (1) Tăinuirea datelor sau prezentarea intenţionată de către o persoană cu funcţie de răspundere ori de către o persoană care gestionează o organizaţie comercială, obştească sau altă organizaţie nestatală, precum şi de către o persoană juridică, a datelor neautentice despre avariile cu poluare excesivă a mediului, cu poluare radioactivă, chimică, bacteriologică sau cu alte urmări periculoase pentru viaţa sau sănătatea populaţiei, precum şi despre starea sănătăţii populaţiei afectate de poluarea mediului, dacă aceasta a provocat din imprudenţă:
 a) îmbolnăvirea în masă a oamenilor;
 b) pieirea în masă a animalelor;
@@ -2736,8 +2705,8 @@ se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale
 (2) Aceleaşi acţiuni soldate cu decesul a două sau mai multor persoane
 se pedepsesc cu închisoare de la 5 la 10 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.225 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 226. Neîndeplinirea obligaţiilor de lichidare
-a consecinţelor încălcărilor ecologice
+Articolul 226. Neîndeplinirea obligaţiilor de lichidare a consecinţelor
+încălcărilor ecologice
 (1) Eschivarea sau îndeplinirea necorespunzătoare de către o persoană cu funcţie de răspundere ori de către o persoană care gestionează o organizaţie comercială, obştească sau altă organizaţie nestatală, precum şi de către o persoană juridică, a obligaţiilor de lichidare a consecinţelor încălcărilor ecologice, dacă aceasta a provocat din imprudenţă:
 a) îmbolnăvirea în masă a oamenilor;
 b) pieirea în masă a animalelor;
@@ -2760,8 +2729,7 @@ a) săvîrşite în zona situaţiei ecologice excepţionale sau în zona unei ca
 b) urmate de decesul persoanei din imprudenţă
 se pedepsesc cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.227 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 228. Încălcarea cerinţelor de protecţie
-a subsolului
+Articolul 228. Încălcarea cerinţelor de protecţie a subsolului
 Încălcarea cerinţelor de protecţie a zăcămintelor minerale sau a altor resurse ale subsolului, construcţia neautorizată sau amplasarea deşeurilor toxice pe terenurile cu zăcăminte minerale, precum şi deversarea nesancţionată a substanţelor nocive în subsol, dacă aceasta a provocat:
 a) prăbuşiri sau alunecări de proporţii ale terenului;
 b) poluarea apelor subterane, creînd pericol pentru sănătatea populaţiei;
@@ -2777,16 +2745,14 @@ Articolul 230. Poluarea aerului
 Poluarea aerului cu depăşirea normelor stabilite, ca urmare a emisiei în atmosferă a poluanţilor sau a încălcării regulilor de exploatare, sau a neutilizării utilajului, aparatajului, instalaţiilor de purificare şi control al emisiilor în atmosferă, dacă aceasta a cauzat daune în proporţii considerabile mediului, regnului animal sau vegetal, sănătăţii populaţiei ori a provocat decesul persoanei,
 se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.230 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 231. Tăierea ilegală a vegetaţiei
-forestiere
+Articolul 231. Tăierea ilegală a vegetaţiei forestiere
 Tăierea ilegală a arborilor și/sau arbuștilor din fondul forestier sau din fondul ariilor naturale protejate de stat, săvîrşită:
 a) de persoane responsabile de protecţia şi paza vegetaţiei forestiere;
 b) în proporţii ce depăşesc 500 de unităţi convenţionale,
 [Art.231 dispoziția modificată prin LP18 din 15.02.18, MO84-93/16.03.18 art.173
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.231 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 232. Distrugerea sau deteriorarea
-masivelor forestiere
+Articolul 232. Distrugerea sau deteriorarea masivelor forestiere
 (1) Distrugerea sau deteriorarea în proporţii mari a masivelor forestiere în urma folosirii imprudente a focului sau a unor surse de pericol sporit
 se pedepseşte cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 240 de ore, sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.232 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2794,25 +2760,27 @@ se pedepseşte cu amendă în mărime de la 550 la 950 unităţi convenţionale 
 se pedepseşte cu amendă de la 650 la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de la 3 la 7 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.232 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 233. Vînatul ilegal
-Vînatul fără autorizaţia corespunzătoare fie în perioada interzisă, fie în locurile interzise, fie cu unelte şi metode nepermise (braconajul), fie cu folosirea situaţiei de serviciu, dacă acesta a cauzat daune ce depăşesc 200 de unităţi convenţionale,
+(1) Vînatul fără autorizaţia corespunzătoare fie în perioada interzisă, fie în locurile interzise, fie cu unelte şi metode nepermise (braconajul), dacă acesta a cauzat daune ce depăşesc 200 de unităţi convenţionale,
+[Art.233 al.(1), dispoziția modificată prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.233 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 234. Îndeletnicirea ilegală cu pescuitul,
-vînatul sau cu alte exploatări ale apelor
+(2) Aceeaşi acţiune săvîrşită de o persoană cu funcție de răspundere, de o persoană publică ori de o persoană cu funcție de demnitate publică
+se pedepseşte cu amendă în mărime de la 700 la 1000 de unităţi convenţionale sau cu privarea de dreptul de a ocupa anumite funcţii pe un termen de pînă la 3 ani, sau cu închisoare de la 3 la 5 ani.
+[Art.233 al.(2) introdus prin LP157 din 26.07.18, MO347-357/14.09.18 art.586; alineatul unic devine al.(1)]
+Articolul 234. Îndeletnicirea ilegală cu pescuitul, vînatul sau cu alte
+exploatări ale apelor
 Îndeletnicirea ilegală cu pescuitul, vînatul sau cu alte exploatări ale apelor, cu utilizarea substanţelor explozive şi otrăvitoare sau a altor mijloace de nimicire în masă a faunei, dacă aceasta a cauzat daune ce depăşesc 200 de unităţi convenţionale,
 se pedepseşte cu amendă în mărime de la 550 la 1050 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 1 an, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.234 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 235. Încălcarea regimului de administrare
-şi protecţie a fondului ariilor naturale
-protejate de stat
+Articolul 235. Încălcarea regimului de administrare şi protecţie a fondului
+ariilor naturale protejate de stat
 Încălcarea regimului de administrare şi protecţie a fondului ariilor naturale protejate de stat, dacă aceasta creează pericolul cauzării de daune în proporţii mari sau a cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 3 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.235 sancțiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Capitolul X
 INFRACŢIUNI ECONOMICE
-Articolul 236. Fabricarea sau punerea în circulaţie
-a semnelor băneşti false sau a titlurilor
-de valoare false
+Articolul 236. Fabricarea sau punerea în circulaţie a semnelor băneşti false
+sau a titlurilor de valoare false
 [Art.236 titlul modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 (1) Fabricarea în scopul punerii în circulaţie sau punerea în circulaţie a semnelor băneşti (bancnotelor şi monedelor metalice, inclusiv a celor jubiliare şi comemorative, emise de Banca Naţională a Moldovei sau de organul autorizat al unui stat străin sau al unei uniuni monetare de state străine), a valorilor mobiliare de stat sau a altor titluri de valoare false, utilizate pentru efectuarea plăţilor,
 [Art.236 al.(1) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
@@ -2824,11 +2792,11 @@ b) de un grup criminal organizat sau de o organizaţie criminală;
 c) în proporţii deosebit de mari,
 se pedepsesc cu închisoare de la 7 la 15 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau lichidarea persoanei juridice.
 [Art.236 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 237. Fabricarea sau punerea în circulaţie
-a cardurilor sau a altor instrumente
-de plată false
+Articolul 237. Fabricarea sau punerea în circulaţie a cardurilor sau
+a altor instrumente de plată false
 [Art.237 titlul modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
-(1) Fabricarea în scopul punerii în circulaţie sau punerea în circulaţie a cardurilor sau a altor instrumente de plată false, care nu reprezintă semne băneşti sau titluri de valoare, dar care confirmă, stabilesc sau acordă drepturi sau obligaţii patrimoniale,
+(1) Fabricarea în scopul punerii în circulaţie sau punerea în circulaţie a cardurilor, a tichetelor de masă sau a altor instrumente de plată false, care nu reprezintă semne băneşti sau titluri de valoare, dar care confirmă, stabilesc sau acordă drepturi sau obligaţii patrimoniale,
+[Art.237 al.(1) modificat prin LP195 din 27.07.18, MO321-332/24.08.18 art.539]
 [Art.237 al.(1) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 se pedepseşte cu amendă în mărime de la 550 la 1050 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.237 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2839,9 +2807,8 @@ c) de un grup criminal organizat sau de o organizaţie criminală;
 d) în proporţii deosebit de mari
 se pedepsesc cu închisoare de la 4 la 8 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.237 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 238. Dobîndirea creditului, împrumutului sau
-despăgubirii/indemnizaţiei de asigurare
-prin înşelăciune
+Articolul 238. Dobîndirea creditului, împrumutului sau despăgubirii/
+indemnizaţiei de asigurare prin înşelăciune
 (1) Prezentarea cu bună ştiinţă a unor informaţii false în scopul obţinerii unui credit, împrumut sau despăgubirii/indemnizaţiei de asigurare sau majorării sumei acestora, sau obţinerii unui credit sau împrumut în condiţii avantajoase, dacă prin aceasta au fost cauzate instituţiei financiare, organizaţiei financiare nebancare, asociaţiei de economii şi împrumut sau asigurătorului daune în mărime mai mare sau egală cu 500 unităţi convenţionale,
 se pedepseşte cu amendă în mărime de la 1850 la 3350 unităţi convenţionale sau cu închisoare de la 2 la 6 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.238 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -2850,9 +2817,8 @@ se pedepsesc cu amendă de la 2350 la 3350 unităţi convenţionale sau cu înch
 [Art.238 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.238 în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 [Art.238 modificat prin LP108 din 04.06.10, MO117-118/09.07.10 art.363]
-Articolul 239. Încălcarea regulilor de creditare,
-politicilor de acordare a împrumuturilor
-sau regulilor de acordare a despăgubirii/
+Articolul 239. Încălcarea regulilor de creditare, politicilor de acordare
+a împrumuturilor sau regulilor de acordare a despăgubirii/
 indemnizaţiei de asigurare
 (1) Acordarea unui credit, împrumut sau despăgubirii/indemnizaţiei de asigurare cu încălcarea intenţionată a legii, regulilor de creditare, politicilor de acordare a împrumuturilor sau normelor de prudenţă financiară, dacă prin aceasta au fost cauzate instituţiei financiare, organizaţiei financiare nebancare, asociaţiei de economii şi împrumut sau asigurătorului daune în mărime mai mare sau egală cu 500 unităţi convenţionale,
 se pedepseşte cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
@@ -2864,9 +2830,8 @@ se pedepsesc cu amendă în mărime de la 2350 la 3350 unităţi convenţionale 
 [Art.239 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.239 în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 [Art.239 modificat prin LP108 din 04.06.10, MO117-118/09.07.10 art.363]
-Articolul 2391. Gestiunea defectuoasă sau frauduloasă
-a băncii, a societății de investiții, a societății
-de asigurări
+Articolul 2391. Gestiunea defectuoasă sau frauduloasă a băncii, a societății
+de investiții, a societății de asigurări
 [Art.2391 denumirea modificată prin LP233 din 03.10.16, MO343-346/04.10.16 art.709]
 (1) Neîntreprinderea acţiunilor necesare prevăzute de lege, de hotărîrile Băncii Naţionale a Moldovei, de hotărîrile Comisiei Naționale a Pieței Financiare, de statutul băncii, de statutul societății de investiții, a societății de asigurări, în situaţia înregistrării pierderilor financiare sau existenţei pericolului unor asemenea pierderi, de către membrii organelor de conducere, acţionarii, beneficiarii efectivi și persoanele afiliate ale acționarilor și beneficiarilor efectivi,
 [Art.2391 al.(1) în redacția LP233 din 03.10.16, MO343-346/04.10.16 art.709]
@@ -2891,9 +2856,8 @@ d) obstrucţionează în orice alt mod exercitarea supravegherii de către Banca
 se pedepseşte cu amendă de la 750 la 1150 unităţi convenţionale sau cu închisoare de la 6 luni la 1 an.
 [Art.2392 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2392 în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 240. Utilizarea contrar destinaţiei a mijloacelor
-din împrumuturile interne sau din fondurile
-externe
+Articolul 240. Utilizarea contrar destinaţiei a mijloacelor din împrumuturile
+interne sau din fondurile externe
 (1) Utilizarea contrar destinaţiei a mijloacelor din împrumuturile interne sau din fondurile externe, dacă fapta nu constituie o însuşire,
 se pedepseşte cu amendă în mărime de la 3000 la 4000 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 5000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 (2) Utilizarea contrar destinaţiei a subvenţiilor, donaţiilor sau ajutoarelor umanitare în proporţii mari, dacă fapta nu constituie o însuşire,
@@ -2909,13 +2873,12 @@ se pedepsesc cu amendă în mărime de la 6000 la 8000 de unităţi convenţiona
 [Art.2401 abrogat prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.2401 modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2401 introdus prin LP223 din 03.12.15, MO361-369/31.12.15 art.681; în vigoare 31.03.16]
-Articolul 241. Practicarea ilegală a activităţii
-de întreprinzător
+Articolul 241. Practicarea ilegală a activităţii de întreprinzător
 (1) Practicarea ilegală a activității de întreprinzător, soldată cu obținerea unui profit în proporții mari, săvîrșită prin:
 a) desfășurarea activității fără înregistrare (reînregistrare), licență și/sau fără autorizare obligatorii, conform legii, pentru desfășurarea activității în cauză;
 b) desfășurarea unor genuri de activitate interzise de lege,
 se pedepsește cu amendă în mărime de la 1350 la 2350 de unități convenționale sau cu muncă neremunerată în folosul comunității de pînă la 200 de ore, iar persoana juridică se pedepsește cu amendă în mărime de la 2000 la 4000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate.
-[Art.241 al.(1) în redacția prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+[Art.241 al.(1) în redacția LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 [Art.241 modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită:
 a) - exclusă
@@ -2985,8 +2948,8 @@ b) în proporţii deosebit de mari,
 se pedepsesc cu închisoare de la 5 la 10 ani, cu amendă, aplicată persoanei juridice, în mărime de la 13000 la 16000 de unități convenționale sau cu lichidarea persoanei juridice.
 [Art.243 al.(3) sancțiunea modificată prin LP60 din 07.04.16, MO123-127/06.05.16 art.246]
 (4) Acţiuni ilicite constituie şi faptele comise în afara teritoriului ţării dacă acestea conţin elementele constitutive ale unei infracţiuni în statul în care au fost comise şi pot constitui elementele constitutive ale unei infracţiuni comise pe teritoriul Republicii Moldova.
-Articolul 244. Evaziunea fiscală a întreprinderilor,
-instituţiilor şi organizaţiilor
+Articolul 244. Evaziunea fiscală a întreprinderilor, instituţiilor
+şi organizaţiilor
 (1) Evaziunea fiscală a întreprinderilor, instituțiilor și organizațiilor prin includerea intenționată în documentele contabile, fiscale şi/sau financiare, inclusiv în cele electronice, a unor date vădit denaturate privind veniturile sau cheltuielile care nu au la bază operațiuni reale ori care au la bază operațiuni ce nu au existat, fie prin tăinuirea intenționată a unor obiecte impozabile, acte contabile, fiscale şi/sau financiare, dacă suma cumulativă a impozitului, taxei prevăzute de Codul fiscal, contribuției de asigurări sociale de stat obligatorii sau primei de asigurare obligatorie de asistență medicală aferente unui an fiscal depășește 50 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei,
 se pedepsește cu amendă în mărime de la 3500 la 5000 de unități convenționale sau cu închisoare de pînă la 2 ani și 6 luni, cu privarea de dreptul de a ocupa anumite funcții sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 5000 la 8000 de unități convenționale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.244 al.(1) în redacția LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
@@ -3036,9 +2999,8 @@ se pedepsesc cu amendă în mărime de la 1350 la 2350 unităţi convenţionale 
 se pedepsesc cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2451 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2451 în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 2452. Încălcarea legislaţiei la ţinerea
-registrului deţinătorilor de valori
-mobiliare/unităţi de fond
+Articolul 2452. Încălcarea legislaţiei la ţinerea registrului deţinătorilor
+de valori mobiliare/unităţi de fond
 [Art.2452 titlul modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 [Art.2452 titlul în redacția LP180 din 25.07.14, MO238-246/15.08.14 art.559]
 (1) Admiterea accesului persoanelor neautorizate la datele din conturile deţinătorilor de valori mobiliare/unităţi de fond şi/sau includerea intenţionată în conturile deţinătorilor de valori mobiliare/unităţi de fond a informaţiilor neautentice, denaturate, false, urmată de transferul dreptului de proprietate către o altă persoană şi/sau eliberarea de către entitatea care ține evidența deținătorilor de valori mobiliare a listei acţionarilor în alte cazuri decît cele prevăzute de legislaţie, și/sau refuzul de a elibera lista acţionarilor, extrasul de cont, şi/sau folosirea listei acţionarilor de către orice persoană în scopul achiziţionării sau înstrăinării de acţiuni ale societăţii, dacă aceste acţiuni au cauzat daune în proporţii mari,
@@ -3055,8 +3017,8 @@ a) - exclusă
 b) care a cauzat daune în proporţii deosebit de mari,
 se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2452 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2453. Utilizarea abuzivă a informaţiilor
-privilegiate pe piaţa de capital
+Articolul 2453. Utilizarea abuzivă a informaţiilor privilegiate pe piaţa
+de capital
 [Art.2453 titlul modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 (1) Utilizarea de către orice persoană a informaţiilor privilegiate cu intenţia de a dobîndi sau înstrăina, pe cont propriu sau pe contul unei terţe persoane, direct ori indirect, instrumente financiare la care aceste informaţii se referă, dacă aceste acţiuni au cauzat daune în proporţii mari,
 [Art.2453 al.(1) dispoziția modificată prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
@@ -3069,9 +3031,8 @@ care au cauzat daune în proporţii deosebit de mari,
 se pedepsesc cu amendă în mărime de la 1350 la 3350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2423 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2453 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 2454. Încălcarea prevederilor cu privire la
-modul de încheiere a unor tranzacţii
-cu bunurile societăţii comerciale
+Articolul 2454. Încălcarea prevederilor cu privire la modul de încheiere
+a unor tranzacţii cu bunurile societăţii comerciale
 (1) Încălcarea modului de încheiere a tranzacţiilor de proporţii şi/sau a tranzacţiilor cu conflict de interese în cadrul societăţii comerciale, dacă aceste acţiuni au cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de pînă la 3000 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.2454 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3079,10 +3040,9 @@ se pedepseşte cu amendă în mărime de pînă la 3000 unităţi convenţionale
 se pedepsesc cu amendă în mărime de la 3000 la 9000 unităţi convenţionale sau cu închisoare de la 4 la 6 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 pînă la 5 ani.
 [Art.2454 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2454 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 2455. Refuzul intenţionat de a dezvălui şi/sau
-prezenta informaţiile prevăzute de legislaţia
-privind piaţa financiară nebancară sau
-bancară
+Articolul 2455. Refuzul intenţionat de a dezvălui şi/sau prezenta informaţiile
+prevăzute de legislaţia privind piaţa financiară nebancară
+sau bancară
 (1) Refuzul intenţionat de a dezvălui şi/sau a prezenta informaţii privind activitatea economico-financiară a societăţii pe acţiuni, deţinerile de acţiuni, rapoartele, declaraţiile, actele de constituire ori evenimentele care influenţează emitentul, informaţii a căror prezentare ori dezvăluire este obligatorie, sau prezentarea intenţionată a unor informaţii neautentice, denaturate ori false, dacă aceste acţiuni au cauzat daune în proporţii mari,
 [Art.2455 al.(1) dispoziția în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţionale, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale.
@@ -3091,9 +3051,8 @@ se pedepseşte cu amendă în mărime de la 2350 la 3350 unităţi convenţional
 se pedepsesc cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2455 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2455 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 2456. Practicarea de activităţi pe piaţa financiară
-nebancară cu încălcarea condiţiilor de licenţiere
-(autorizare)
+Articolul 2456. Practicarea de activităţi pe piaţa financiară nebancară
+cu încălcarea condiţiilor de licenţiere (autorizare)
 [Art.2456 titlul în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 (1) Nerespectarea de către participantul la piaţa financiară nebancară a condiţiilor de licenţiere (autorizare), a regulilor prudenţiale stabilite prin lege şi prin actele normative ale Comisiei Naţionale a Pieţei Financiare, dacă aceste acţiuni au cauzat daune în proporţii mari,
 [Art.2456 al.(1) dispoziția în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
@@ -3107,10 +3066,8 @@ se pedepsesc cu amendă în mărime de la 1350 la 3350 unităţi convenţionale 
 [Art.2457 abrogat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 [Art.2457 modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2457 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 2458. Încălcarea legislaţiei la desfăşurarea
-activităţii de evaluare a valorilor
-mobiliare şi a activelor ce se referă
-la ele
+Articolul 2458. Încălcarea legislaţiei la desfăşurarea activităţii de evaluare
+a valorilor mobiliare şi a activelor ce se referă la ele
 [Art.2458 titlul modificat prin LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
 (1) Desfășurarea activității de evaluare a valorilor mobiliare și a activelor ce se referă la ele cu încălcarea cerințelor stabilite în legislație, dacă aceste acțiuni au cauzat daune în proporții mari,
 [Art.2458 al.(1) dispoziția în redacție LP225 din 15.12.17, MO464-470/29.12.17 art.790; în vigoare 29.12.17]
@@ -3120,10 +3077,8 @@ se pedepsesc cu amendă în mărime de la 850 la 2350 unităţi convenţionale c
 se pedepsesc cu amendă în mărime de la 1350 la 3350 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a deţine anumite funcţii sau de a desfăşura o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2458 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2458 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 2459. Împiedicarea realizării drepturilor
-asociaţilor (acţionarilor) societăţii
-comerciale şi privarea nelegitimă
-de aceste drepturi
+Articolul 2459. Împiedicarea realizării drepturilor asociaţilor (acţionarilor)
+societăţii comerciale şi privarea nelegitimă de aceste drepturi
 (1) Încălcarea legislaţiei privind convocarea şi desfăşurarea adunării generale a asociaţilor (acţionarilor) societăţii comerciale care a cauzat daune în proporţii mari, săvîrşită prin:
 a) refuzul sau eschivarea de la convocarea adunării generale a asociaţilor (acţionarilor) societăţii comerciale;
 b) neinformarea în modul stabilit de lege privind desfăşurarea adunării generale a asociaţilor (acţionarilor) sau şedinţei consiliului sau divulgarea unor informaţii vădit false cu privire la data, ora şi locul adunării generale sau a şedinţei consiliului;
@@ -3140,9 +3095,8 @@ se pedepseşte cu amendă în mărime de la 850 la 3350 unităţi convenţionale
 se pedepsesc cu amendă în mărime de la 2350 la 5350 unităţi convenţionale sau cu închisoare pînă la 2 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 pînă la 5 ani.
 [Art.2459 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2459 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 24510. Obţinerea ilegală şi/sau divulgarea
-informaţiilor ce constituie secret
-comercial sau bancar
+Articolul 24510. Obţinerea ilegală şi/sau divulgarea informaţiilor ce constituie
+secret comercial sau bancar
 (1) Colectarea de informaţii care constituie secret comercial sau bancar prin sustragerea de informaţii, inclusiv folosirea mijloacelor tehnice speciale, extorcare sau ameninţarea cu aplicarea violenţei nepericuloase pentru viaţa sau sănătatea persoanei,
 se pedepseşte cu amendă în mărime de la 1350 la 4350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.24510 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3153,8 +3107,8 @@ se pedepseşte cu amendă în mărime de la 1350 la 3350 unităţi convenţional
 se pedepsesc cu amendă în mărime de la 4350 la 5350 unităţi convenţionale sau cu închisoare de la 2 la 5 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 [Art.24510 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.24510 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 24511. Încălcarea legislaţiei privind activitatea
-fondurilor nestatale de pensii
+Articolul 24511. Încălcarea legislaţiei privind activitatea fondurilor nestatale
+de pensii
 (1) Încălcarea legislaţiei privind activitatea fondurilor nestatale de pensii care au cauzat daune în proporţii mari prin:
 a) prezentarea unor informaţii eronate sau refuzul de a da informaţii despre investiţii, starea activelor de pensii;
 b) includerea în rapoartele prezentate în conformitate cu prevederile legislaţiei a unor date eronate;
@@ -3169,8 +3123,8 @@ se pedepseşte cu amendă în mărime de la 850 la 3350 unităţi convenţionale
 se pedepsesc cu amendă în mărime de la 2350 la 3350 unităţi convenţionale sau cu închisoare de pînă la 2 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.24511 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.24511 introdus prin LP180 din 25.07.14, MO238-246/15.08.14 art.559]
-Articolul 24512. Încălcarea legislaţiei privind activitatea
-birourilor istoriilor de credit
+Articolul 24512. Încălcarea legislaţiei privind activitatea birourilor istoriilor
+de credit
 (1) Obţinerea, utilizarea în alte scopuri sau în alt mod decît cel prevăzut în lege şi/sau divulgarea în orice formă de către birourile istoriilor de credit, utilizatorii istoriei de credit, sursele de formare a istoriei de credit, precum şi de către persoanele cu funcţie de răspundere ale acestora a informaţiei care constituie secret comercial al biroului istoriilor de credit, al sursei de formare a istoriei de credit, al subiectului istoriei de credit sau al utilizatorului istoriei de credit, dacă aceste acţiuni au cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de la 850 la 2350 unităţi convenţionale cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 5000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.24512 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3200,17 +3154,18 @@ d) folosirea denumirii de firmă sau a mărcii comerciale într-o manieră care 
 e) compararea în scopuri publicitare a mărfurilor produse sau comercializate ale unui agent economic cu mărfurile unor alţi agenţi economici
 se pedepsesc cu amendă de la 3000 la 4000 de unităţi convenţionale sau cu închisoare de pînă la 1 an, cu amendă, aplicată persoanei juridice, de la 3.500 la 5.000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 5 ani.
 [Art.2461 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2462. Falsificarea şi contrafacerea
-produselor
+Articolul 2462. Falsificarea şi contrafacerea produselor
 (1) Falsificarea produselor, adică fabricarea lor în scop de comercializare fără documente de însoţire, provenienţă, calitate şi conformitate, precum şi îndemnarea terţilor la efectuarea acestei acţiuni, săvîrşite în proporţii mari,
 se pedepsesc cu amendă în mărime de la 1350 la 2350 de unităţi convenţionale sau cu închisoare de pînă la 1 an, cu amendă, aplicată persoanei juridice, de la 4500 la 6000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 5 ani.
 [Art.2462 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Contrafacerea produselor, adică acţiunile specificate la alin. (1) cu referire la produsele care constituie sau includ un obiect de proprietate intelectuală protejat, precum şi îndemnarea terţilor la efectuarea acestei acţiuni, săvîrşite în proporţii mari,
 se pedepsesc cu amendă în mărime de la 1350 la 2350 de unităţi convenţionale sau cu închisoare de pînă la 1 an, cu amendă, aplicată persoanei juridice, de la 4500 la 6000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 5 ani.
 [Art.2462 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+(3) Persoana care a săvîrşit acţiunile prevăzute la alin. (1) și (2) este liberată de răspundere penală dacă a contribuit activ la descoperirea sau la contracararea infracţiunii prin autodenunţare, prin denunțarea și facilitarea tragerii la răspundere penală a altor persoane care au săvîrșit ori au contribuit la săvîrșirea infracțiunii.
+[Art.2462 al.(3) introdus prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 [Art.2462 introdus prin LP115 din 26.06.11, MO128-130/05.08.11 art.363]
-Articolul 247. Constrîngerea de a încheia o tranzacţie
-sau de a refuza încheierea ei
+Articolul 247. Constrîngerea de a încheia o tranzacţie sau de a refuza
+încheierea ei
 (1) Constrîngerea de a încheia o tranzacţie sau de a refuza încheierea ei, însoţită de ameninţări cu aplicarea violenţei, cu nimicirea sau deteriorarea bunurilor, precum şi cu răspîndirea unor informaţii care ar cauza daune considerabile drepturilor şi intereselor ocrotite de lege ale persoanei sau rudelor ei apropiate, în lipsa semnelor de şantaj,
 se pedepseşte cu amendă în mărime de la 3000 la 4000 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.247 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3245,11 +3200,10 @@ d) în valoarea sumei drepturilor de import care depășește 200 de salarii med
 se pedepsesc cu închisoare de la 3 la 10 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 11000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.248 al.(5), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (6) - exclus
-Articolul 249. Eschivarea de la achitarea
-drepturilor de import
+Articolul 249. Eschivarea de la achitarea drepturilor de import
 [Art.249 denumirea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 (1) Eschivarea de la achitarea drepturilor de import care depășește 100 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei
-[Art.249 al.(1) dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+[Art.249 al.(1), dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 120 la 180 de ore, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 3000 unităţi convenţionale.
 [Art.249 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită:
@@ -3258,13 +3212,12 @@ b) de două sau mai multe persoane
 se pedepseşte cu amendă în mărime de la 650 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, cu amendă, aplicată persoanei juridice, în mărime de la 2500 la 3000 unităţi convenţionale.
 [Art.249 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Eschivarea de la achitarea drepturilor de import care depășește 200 de salarii medii lunare pe economie prognozate, stabilite prin hotărîrea de Guvern în vigoare la momentul săvîrșirii faptei
-[Art.249 al.(3) dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
+[Art.249 al.(3), dispoziția modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, cu amendă, aplicată persoanei juridice, în mărime de la 3000 la 6000 unităţi convenţionale.
-[Art.247 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 250. Transportarea, păstrarea sau
-comercializarea mărfurilor supuse
-accizelor, fără marcarea lor cu timbre
-de control sau timbre de acciz
+[Art.249 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+Articolul 250. Transportarea, păstrarea sau comercializarea mărfurilor
+supuse accizelor, fără marcarea lor cu timbre de control
+sau timbre de acciz
 (1) Transportarea, păstrarea sau comercializarea mărfurilor supuse accizelor fără marcarea lor cu timbre de control sau timbre de acciz de modelul stabilit, dacă aceasta a cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.250 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3273,9 +3226,8 @@ a) marcarea cu alte timbre decît cele de modelul stabilit;
 b) cauzarea de daune în proporţii deosebit de mari
 se pedepsesc cu amendă în mărime de la 1350 la 1850 unităţi convenţionale, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.250 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2501. Fabricarea ilegală a semnelor de
-marcare de stat, punerea în circulaţie
-şi utilizarea acestora
+Articolul 2501. Fabricarea ilegală a semnelor de marcare de stat,
+punerea în circulaţie şi utilizarea acestora
 (1) Falsificarea semnelor de marcare de stat, punerea în circulaţie şi utilizarea acestora, precum şi fabricarea, comercializarea articolelor din metale preţioase şi pietre preţioase cu marcaj fals
 se pedepsesc cu amendă în mărime de la 2025 la 3525 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 8000 la 11000 unităţi convenţionale sau cu privarea de a exercita o anumită activitate, sau cu lichidarea persoanei juridice.
 [Art.2501 al.(1), sancţiunea modificată prin LP179 din 26.07.18, MO309-320/17.08.18 art.498; în vigoare 17.08.18]
@@ -3286,10 +3238,9 @@ b) în proporţii deosebit de mari
 se pedepsesc cu închisoare de la 5 la 10 ani, iar persoana juridică se pedepsește cu amendă în mărime de la 10000 la 13000 unități convenționale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.2501 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.2501 introdus prin LP324 din 23.12.13, MO320-321/31.12.13 art.871; în vigoare 01.01.14]
-Articolul 251. Însuşirea, înstrăinarea în cazurile
-nepermise de lege, tăinuirea bunurilor
-gajate, înghețate, luate în leasing, sechestrate
-sau confiscate
+Articolul 251. Însuşirea, înstrăinarea în cazurile nepermise de lege,
+tăinuirea bunurilor gajate, înghețate, luate în leasing,
+sechestrate sau confiscate
 [Art.251 titlul modificat prin LP49 din 30.03.17, MO155-161/19.05.17 art.253]
 [Art.251 titlul modificat prin LP173 din 25.07.14, MO231-237/08.08.14 art.531; în vigoare 08.11.14]
 Însuşirea, înstrăinarea în cazurile nepermise de lege, tăinuirea bunurilor gajate, înghețate, luate în leasing, sechestrate sau confiscate ori utilizarea lor în alte scopuri, săvîrşită de o persoană căreia i-au fost încredinţate aceste bunuri sau care era obligată, conform legii, să asigure integritatea lor,
@@ -3336,9 +3287,8 @@ b) de două sau mai multe persoane;
 c) în proporţii deosebit de mari
 se pedepsesc cu amendă în mărime de la 850 la 1350 unităţi convenţionale cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 [Art.255 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 256. Primirea unei remuneraţii ilicite pentru
-îndeplinirea lucrărilor legate de deservirea
-populaţiei
+Articolul 256. Primirea unei remuneraţii ilicite pentru îndeplinirea lucrărilor
+legate de deservirea populaţiei
 (1) Primirea, prin extorcare, de către un salariat dintr-o întreprindere, instituţie sau organizaţie, a unei remuneraţii sau a altor avantaje patrimoniale pentru îndeplinirea unor lucrări sau pentru prestarea unor servicii în sfera comerţului, alimentaţiei publice, transportului, deservirii sociale, comunale, medicale sau de altă natură, lucrări şi servicii ce ţin de obligaţiile de serviciu ale acestui salariat,
 [Art.256 al.(1), dispoziţia modificată prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
 [Art.256 al.(1) modificat prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
@@ -3356,7 +3306,8 @@ Articolul 257. Executarea necalitativă a construcţiilor
 (1) Darea în folosinţă a caselor de locuit, a obiectivelor industriale, a construcţiilor în domeniul transporturilor şi energeticii, a altor construcţii în stare necalitativă, neterminate sau necorespunzînd condiţiilor proiectului de către conducătorii organizaţiilor de construcţie, conducătorii de şantier şi persoanele cu funcţie de răspundere care exercită controlul calităţii în construcţii
 se pedepseşte cu amendă în mărime de la 650 la 950 unităţi convenţionale cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.257 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(2) Continuarea de către persoanele responsabile a lucrărilor executate necorespunzător şi oprite prin acte de control, în cazul în care aceasta poate afecta rezistenţa şi stabilitatea construcţiilor,
+(2) Continuarea de către persoanele responsabile a lucrărilor executate necorespunzător şi oprite prin acte de control
+[Art.257 al.(2), dispoziția modificată prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 se pedepseşte cu amendă în mărime de pînă la 550 unităţi convenţionale, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 6000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.257 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Proiectarea, verificarea, expertizarea, realizarea de către persoanele responsabile a unui complex urbanistic ori a unei construcţii sau executarea de modificări ale acestora fără respectarea prevederilor documentelor normative privind siguranţa, rezistenţa şi stabilitatea, dacă aceasta a avut drept urmare:
@@ -3370,9 +3321,8 @@ se pedepseşte cu amendă în mărime de la 550 la 950 unităţi convenţionale 
 se pedepsesc cu închisoare de la 5 la 10 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 6000 la 11000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.257 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.257 al.(4), sancțiunea modificată prin RMO388 din 11.11.16, MO388-398/11.11.16 pag.8]
-Articolul 258. Încălcarea regulilor de exploatare,
-reparaţii şi modificare a locuinţelor
-dintr-un bloc de locuit
+Articolul 258. Încălcarea regulilor de exploatare, reparaţii şi modificare
+a locuinţelor dintr-un bloc de locuit
 Încălcarea de către proprietari, sau locatari a regulilor de exploatare, reparaţie şi modificare a locuinţelor dintr-un bloc de locuit, precum şi a comunicaţiilor lor interne, fapt care cauzează daune deosebit de mari integrităţii structurale a blocului de locuit sau a locuinţelor altor proprietari sau locatari ori înrăutăţeşte condiţiile locative ale acestora,
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale.
 [Art.258 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3394,19 +3344,17 @@ g) în privinţa informaţiei protejată de lege;
 h) în proporţii deosebit de mari
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.259 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 260. Producerea, importul, comercializarea sau
-punerea ilegală la dispoziţie a mijloacelor
-tehnice sau produselor program
+Articolul 260. Producerea, importul, comercializarea sau punerea ilegală
+la dispoziţie a mijloacelor tehnice sau produselor program
 Producerea, importul, comercializarea sau punerea la dispoziţie, sub orice altă formă, în mod ilegal, a mijloacelor tehnice sau produselor program, concepute sau adaptate, în scopul săvîrşirii uneia dintre infracţiunile prevăzute la art.237, 259, 2601–2603, 2605 şi 2606
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea întreprinderii.
 [Art.260 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2601. Înterceptarea ilegală a unei transmisii
-de date informatice
+Articolul 2601. Înterceptarea ilegală a unei transmisii de date informatice
 Interceptarea ilegală a unei transmisii de date informatice (inclusiv a unei emisii electronice) care nu sînt publice şi care sînt destinate unui sistem informatic, provin dintr-un asemenea sistem sau se efectuează în cadrul unui sistem informatic
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 4000 la 7000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea întreprinderii.
 [Art.2601 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2602. Alterarea integrităţii datelor informatice
-ţinute într-un sistem informatic
+Articolul 2602. Alterarea integrităţii datelor informatice ţinute într-un
+sistem informatic
 Modificarea, ştergerea sau deteriorarea intenţionată a datelor informatice ţinute într-un sistem informatic ori restricţionarea ilegală a accesului la aceste date, transferul neautorizat de date informatice dintr-un sistem informatic, dintr-un mijloc de stocare, dobîndirea, comercializarea sau punerea la dispoziţie, sub orice formă, a datelor informatice cu acces limitat, dacă aceste acţiuni au cauzat daune în proporţii mari,
 se pedepsesc cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de la 2 la 5 ani.
 [Art.2602 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3421,9 +3369,8 @@ c) săvîrşită de un grup criminal organizat sau de o organizaţie criminală;
 d) care a cauzat daune în proporţii deosebit de mari
 se pedepseşte cu amendă în mărime de la 1050 la 1350 unităţi convenţionale sau cu închisoare de la 3 la 7 ani, cu amendă, aplicată persoanei juridice, în mărime de la 4000 la 7000 unităţi convenţionale sau cu lichidarea întreprinderii.
 [Art.2603 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2604. Producerea, importul, comerciali zarea
-sau punerea ilegală la dispoziţie a parolelor,
-codurilor de acces sau a datelor similare
+Articolul 2604. Producerea, importul, comerciali zarea sau punerea ilegală
+la dispoziţie a parolelor, codurilor de acces sau a datelor similare
 (1) Producerea, importul, comercializarea sau punerea la dispoziţie, sub orice altă formă, în mod ilegal, a unei parole, a unui cod de acces sau a unor date similare care permit accesul total sau parţial la un sistem informatic în scopul săvîrşirii uneia dintre infracţiunile prevăzute la art.237, 259, 2601–2603, 2605 şi 2606, dacă aceste acţiuni au cauzat daune în proporţii mari,
 se pedepsesc cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de la 2 la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.2604 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3446,13 +3393,11 @@ se pedepsesc cu amendă în mărime de la 1350 la 1850 unităţi convenţionale 
 a) săvîrşite de un grup criminal organizat sau de o organizaţie criminală;
 b) care au cauzat daune în proporţii deosebit de mari
 se pedepsesc cu închisoare de la 4 la 9 ani.
-Articolul 261. Încălcarea regulilor de securitate
-a sistemului informatic
+Articolul 261. Încălcarea regulilor de securitate a sistemului informatic
 Încălcarea regulilor de colectare, prelucrare, păstrare, difuzare, repartizare a informaţiei ori a regulilor de protecţie a sistemului informatic, prevăzute în conformitate cu statutul informaţiei sau gradul ei de protecţie, dacă această acţiune a contribuit la însuşirea, denaturarea sau la distrugerea informaţiei ori a provocat alte urmări grave,
 se pedepseşte cu amendă în mărime de pînă la 750 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de pînă la 2 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.261 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 2611. Accesul neautorizat la reţelele şi
-serviciile de telecomunicaţii
+Articolul 2611. Accesul neautorizat la reţelele şi serviciile de telecomunicaţii
 (1) Accesul neautorizat la reţelele şi/sau serviciile de telecomunicaţii cu utilizarea reţelelor şi/sau serviciilor de telecomunicaţii ale altor operatori, dacă acesta a cauzat daune în proporţii mari,
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu închisoare de pînă la 1 an, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate.
 [Art.2611 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3471,9 +3416,8 @@ Articolul 262. Încălcarea regulilor de zbor
 Intrarea, ieşirea sau tranzitarea aeriană a teritoriului Republicii Moldova fără autorizaţia stabilită, nerespectarea căilor aeriene indicate în autorizaţie, a locurilor de aterizare, a punctelor de intrare, a înălţimii de zbor fără autorizarea organelor respective sau altă încălcare a regulilor referitoare la executarea zborurilor în spaţiul aerian al Republicii Moldova
 se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 2 ani.
 [Art.262 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 263. Încălcarea regulilor de securitate a circulaţiei
-sau de exploatare a transportului feroviar,
-naval sau aerian
+Articolul 263. Încălcarea regulilor de securitate a circulaţiei sau de exploatare
+a transportului feroviar, naval sau aerian
 (1) Încălcarea de către un lucrător al transportului feroviar, naval sau aerian a regulilor de securitate a circulaţiei sau de exploatare a transportului, încălcare ce a cauzat din imprudenţă o vătămare gravă sau medie a integrităţii corporale sau a sănătăţii ori daune materiale în proporţii mari,
 se pedepseşte cu amendă în mărime de la 650 la 1350 unităţi convenţionale sau cu închisoare de pînă la 4 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a conduce mijloace de transport pe un termen de pînă la 2 ani.
 [Art.263 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3481,46 +3425,62 @@ se pedepseşte cu amendă în mărime de la 650 la 1350 unităţi convenţionale
 a) decesul unei persoane;
 b) alte urmări grave
 se pedepseşte cu închisoare de la 3 la 7 ani cu (sau fără) privarea de dreptul de a conduce mijloace de transport pe un termen de pînă la 5 ani.
-Articolul 264. Încălcarea regulilor de securitate a
-circulaţiei sau de exploatare a mijloacelor
-de transport de către persoana care
-conduce mijlocul de transport
+Articolul 264. Încălcarea regulilor de securitate a circulaţiei sau de exploatare
+a mijloacelor de transport de către persoana care conduce
+mijlocul de transport
 (1) Încălcarea regulilor de securitate a circulaţiei sau de exploatare a mijloacelor de transport de către persoana care conduce mijlocul de transport, încălcare ce a cauzat din imprudenţă o vătămare medie a integrităţii corporale sau a sănătăţii,
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani cu (sau fără) privarea de dreptul de a conduce mijloace de transport pe un termen de pînă la 2 ani.
 [Art.264 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită în stare de ebrietate
 se pedepseşte cu amendă în mărime de la 950 la 1350 unităţi convenţionale, sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore sau cu închisoare de pînă la 4 ani, în toate cazurile cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
+se pedepseşte cu amendă în mărime de la 950 la 1350 unităţi convenţionale, sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore sau cu închisoare de pînă la 4 ani, în toate cazurile cu anularea dreptului de a conduce mijloace de transport.
+[Art.264 al.(2), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.264 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Acţiunea prevăzută la alin.(1), care a provocat:
 a) vătămarea gravă a integrităţii corporale sau a sănătăţii;
 b) decesul unei persoane,
 se pedepseşte cu închisoare de la 3 la 7 ani cu privarea de dreptul de a conduce mijloace de transport pe un termen de pînă la 4 ani.
+se pedepseşte cu închisoare de la 3 la 7 ani cu anularea dreptului de a conduce mijloace de transport.
+[Art.264 al.(3), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 (4) Acţiunea prevăzută la alin.(3), săvîrşită în stare de ebrietate,
 se pedepseşte cu închisoare de la 4 la 8 ani cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 4 la 5 ani.
+se pedepseşte cu închisoare de la 4 la 8 ani cu anularea dreptului de a conduce mijloace de transport.
+[Art.264 al.(4), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 (5) Acţiunea prevăzută la alin.(1), care a cauzat decesul a două sau mai multor persoane,
 se pedepseşte cu închisoare de la 6 la 10 ani cu privarea de dreptul de a conduce mijloace de transport pe un termen de pînă la 5 ani.
+se pedepseşte cu închisoare de la 6 la 10 ani cu anularea dreptului de a conduce mijloace de transport.
+[Art.264 al.(5), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 (6) Acţiunea prevăzută la alin.(5), săvîrşită în stare de ebrietate,
 se pedepseşte cu închisoare de la 7 la 12 ani cu privarea de dreptul de a conduce mijloace de transport pe un termen de 5 ani.
-Articolul 2641. Conducerea mijlocului de transport
-în stare de ebrietate alcoolică cu grad
-avansat sau în stare de ebrietate produsă
+se pedepseşte cu închisoare de la 7 la 12 ani cu anularea dreptului de a conduce mijloace de transport.
+[Art.264 al.(6), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
+Articolul 2641. Conducerea mijlocului de transport în stare de ebrietate
+alcoolică cu grad avansat sau în stare de ebrietate produsă
 de alte substanţe
 (1) Conducerea mijlocului de transport de către o persoană care se află în stare de ebrietate alcoolică cu grad avansat sau în stare de ebrietate produsă de substanțe stupefiante
 [Art.2641 al.(1), dispoziția modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
 [Art.2641 al.(1), dispoziția modificată prin LP141 din 13.07.17, MO277-288/04.08.17 art.469]
 se pedepseşte cu amendă în mărime de la 750 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
+se pedepseşte cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, cu anularea dreptului de a conduce mijloace de transport.
+[Art.2641 al.(1), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.2641 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Predarea cu bună ştiinţă a conducerii mijlocului de transport către o persoană care se află în stare de ebrietate, dacă această acţiune a provocat urmările indicate la art.264,
 se pedepseşte cu amendă în mărime de la 800 la 900 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
+se pedepseşte cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, cu anularea dreptului de a conduce mijloace de transport.
+[Art.2641 al.(2), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.2641 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Refuzul, împotrivirea sau eschivarea conducătorului mijlocului de transport de la testarea alcoolscopică, de la examenul medical în vederea stabilirii stării de ebrietate şi a naturii ei sau de la recoltarea probelor biologice în cadrul acestui examen medical
 se pedepseşte cu amendă în mărime de la 900 la 1000 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
+se pedepseşte cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu anularea dreptului de a conduce mijloace de transport.
+[Art.2641 al.(3), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.2641 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (4) Acţiunile prevăzute la alin.(1)–(3), săvîrşite de către o persoană care nu deţine permis de conducere sau care este privată de dreptul de a conduce mijloace de transport,
 se pedepsesc cu amendă în mărime de la 1050 la 1150 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de pînă la 1 an.
+se pedepsesc cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore sau cu închisoare de pînă la 1 an.
+[Art.2641 al.(4), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.2641 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 265. Punerea în exploatare a mijloacelor
-de transport cu defecte tehnice vădite
+Articolul 265. Punerea în exploatare a mijloacelor de transport
+cu defecte tehnice vădite
 Punerea în exploatare a mijloacelor de transport cu defecte tehnice vădite sau altă încălcare gravă a regulilor de exploatare a acestora, ce asigură securitatea circulaţiei, săvîrşită de către o persoană responsabilă pentru starea tehnică sau pentru exploatarea mijloacelor de transport, precum şi încălcarea de către o persoană cu funcţie de răspundere ori de către o persoană care gestionează o organizaţie comercială, obştească sau o altă organizaţie nestatală a regimului de lucru al şoferilor sau mecanizatorilor, dacă aceste acţiuni au provocat urmările indicate la art.264,
 se pedepsesc cu amendă în mărime de la 550 la 1050 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa funcţii de răspundere legate de asigurarea stării tehnice sau a exploatării mijloacelor de transport pe un termen de la 2 la 5 ani.
 [Art.265 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3528,42 +3488,38 @@ Articolul 266. Părăsirea locului accidentului rutier
 Părăsirea locului accidentului rutier de către persoana care conducea mijlocul de transport şi care a încălcat regulile de securitate a circulaţiei sau de exploatare a mijloacelor de transport, dacă aceasta a provocat urmările indicate la art.264 alin.(3) şi (5),
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.266 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 267. Repararea necalitativă a căilor de
-comunicaţie, a mijloacelor de transport
-feroviar, naval sau aerian ori punerea lor
-în exploatare cu defecte tehnice
+Articolul 267. Repararea necalitativă a căilor de comunicaţie,
+a mijloacelor de transport feroviar, naval sau
+aerian ori punerea lor în exploatare cu defecte
+tehnice
 Repararea necalitativă a căilor de comunicaţie, a instalaţiilor de pe ele, a mijloacelor de telecomunicaţii sau de semnalizare ori a mijloacelor de transport feroviar, naval, aerian, precum şi punerea lor în exploatare cu defecte tehnice, sau încălcarea gravă a regulilor de exploatare a acestora, acţiuni săvîrşite de o persoană responsabilă pentru starea tehnică sau pentru exploatarea lor, dacă au provocat urmările indicate la art.263,
 se pedepseşte cu amendă în mărime de la 650 la 1050 unităţi convenţionale sau cu închisoare de pînă la 7 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.267 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 268. Deteriorarea sau distrugerea
-intenţionată a căilor de comunicaţie
-şi a mijloacelor de transport
+Articolul 268. Deteriorarea sau distrugerea intenţionată a căilor
+de comunicaţie şi a mijloacelor de transport
 Deteriorarea sau distrugerea intenţionată a căilor de comunicaţie, a instalaţiilor de pe ele, a mijloacelor de telecomunicaţii sau de semnalizare ori a altor utilaje pentru transporturi, precum şi a mijloacelor de transport, dacă aceasta a provocat urmările indicate la art.263 sau art. 264 alin.(5),
 se pedepseşte cu amendă în mărime de la 550 la 1350 unităţi convenţionale sau cu închisoare de pînă la 7 ani.
 [Art.268 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 269. Încălcarea regulilor privind menţinerea
-ordinii şi securitatea circulaţiei
+Articolul 269. Încălcarea regulilor privind menţinerea ordinii
+şi securitatea circulaţiei
 Încălcarea de către pasager, pieton sau alt participant la trafic a regulilor privind menţinerea ordinii şi securitatea circulaţiei, dacă aceasta a provocat urmările indicate la art.264,
 se pedepseşte cu amendă în mărime de la 650 la 1050 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
 [Art.269 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 270. Oprirea samavolnică, fără necesitate,
-a trenului
+Articolul 270. Oprirea samavolnică, fără necesitate, a trenului
 Oprirea samavolnică, fără necesitate, a trenului prin decuplarea conductei generale a frînei sau printr-un alt mijloc, dacă aceasta a provocat:
 a) accidente cu oameni;
 b) deraierea sau deteriorarea materialului rulant;
 c) alte urmări grave,
 se pedepseşte cu amendă în mărime de la 650 la 1350 unităţi convenţionale sau cu închisoare de pînă la 7 ani.
 [Art.270 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 271. Blocarea intenţionată a arterelor
-de transport
+Articolul 271. Blocarea intenţionată a arterelor de transport
 Blocarea intenţionată a arterelor de transport prin crearea de obstacole, prin stabilirea de posturi sau prin alte mijloace, dacă aceasta a provocat:
 a) accidente cu oameni;
 b) alte urmări grave,
 se pedepseşte cu amendă în mărime de la 650 la 1350 unităţi convenţionale sau cu închisoare de la 2 la 6 ani.
 [Art.271 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 272. Constrîngerea lucrătorului din transportul
-feroviar, naval, aerian sau auto de a nu-şi
-îndeplini obligaţiile de serviciu
+Articolul 272. Constrîngerea lucrătorului din transportul feroviar, naval,
+aerian sau auto de a nu-şi îndeplini obligaţiile de serviciu
 (1) Constrîngerea lucrătorului din transportul feroviar, naval, aerian sau auto de a nu-şi îndeplini obligaţiile de serviciu prin ameninţare cu moartea, cu vătămarea gravă a integrităţii corporale sau a sănătăţii, cu distrugerea averii lui sau a rudelor lui apropiate, dacă a existat pericolul realizării unei astfel de ameninţări,
 se pedepseşte cu amendă în mărime de pînă la 550 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 140 la 200 de ore, sau cu închisoare de pînă la 1 an.
 [Art.272 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3573,9 +3529,8 @@ se pedepseşte cu amendă în mărime de la 550 la 1050 unităţi convenţionale
 [Art.272 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 273 - exclus
 Articolul 274 - exclus
-Articolul 275. Deturnarea sau capturarea unei garnituri
-de tren, a unei nave aeriene, maritime sau
-fluviale
+Articolul 275. Deturnarea sau capturarea unei garnituri de tren, a unei
+nave aeriene, maritime sau fluviale
 (1) Deturnarea, capturarea sau exercitarea ilegală a controlului asupra unei garnituri de tren, a unei nave aeriene, maritime sau fluviale ori ocuparea gării, aeroportului, portului sau altei întreprinderi, instituţii, organizaţii de transport, precum şi acapararea încărcăturilor, fără scop de însuşire,
 se pedepsesc cu închisoare de la 5 la 10 ani.
 (2) Aceleaşi acţiuni:
@@ -3589,8 +3544,8 @@ se pedepsesc cu închisoare de la 7 la 15 ani.
 a) vătămarea gravă a integrităţii corporale sau a sănătăţii;
 b) decesul unei persoane,
 se pedepsesc cu închisoare de la 10 la 15 ani.
-Articolul 276. Falsificarea elementelor de
-identificare ale autovehiculelor
+Articolul 276. Falsificarea elementelor de identificare ale
+autovehiculelor
 (1) Falsificarea seriei, a numărului de identificare ale şasiului, caroseriei sau motorului auto prin ştergere, înlocuire sau modificare
 se pedepseşte cu amendă în mărime de la 650 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 1 an.
 [Art.276 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3600,7 +3555,7 @@ b) de două sau mai multe persoane;
 c) cu folosirea situaţiei de serviciu
 se pedepseşte cu amendă în mărime de la 1150 la 1850 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.276 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 277 - exclus
+Articolul 277. - exclus
 Capitolul XIII
 INFRACŢIUNI CONTRA SECURITĂŢII
 PUBLICE ŞI A ORDINII PUBLICE
@@ -3623,9 +3578,8 @@ se pedepsesc cu închisoare de la 12 la 20 de ani.
 se pedepseşte cu închisoare de la 16 la 20 de ani sau cu detenţiune pe viaţă.
 (5) Persoanei care a comis actul de terorism, altor participanţi li se pot aplica pedepse penale minime, prevăzute la prezentul articol, dacă ei au preîntîmpinat autorităţile despre faptele respective şi prin aceasta au contribuit la evitarea morţii oamenilor, a vătămării integrităţii corporale sau a sănătăţii, a altor urmări grave sau la demascarea altor făptuitori.
 (6) Persoana care a participat la pregătirea actului de terorism se liberează de răspundere penală dacă ea, prin anunţarea la timp a autorităţilor sau prin alt mijloc, a contribuit la preîntîmpinarea realizării actului de terorism şi dacă acţiunile ei nu conţin o altă componenţă de infracţiune.
-Articolul 2781. Livrarea, plasarea, punerea în funcţiune
-sau detonarea unui dispozitiv exploziv
-ori a altui dispozitiv cu efect letal
+Articolul 2781. Livrarea, plasarea, punerea în funcţiune sau detonarea
+unui dispozitiv exploziv ori a altui dispozitiv cu efect letal
 (1) Livrarea, plasarea, punerea în funcţiune sau detonarea unui dispozitiv exploziv ori a altui dispozitiv cu efect letal într-un loc de utilizare publică, în cadrul unui obiect de stat sau guvernamental, al unui obiect de infrastructură sau al sistemului de transport public sau săvîrşirea acestor acţiuni împotriva locului sau obiectelor menţionate cu scopul de a cauza:
 a) moartea ori vătămarea gravă a integrităţii corporale sau a sănătăţii;
 b) daune esenţiale acestui loc, obiect sau sistem
@@ -3667,8 +3621,8 @@ se pedepsesc cu închisoare de la 5 la 10 ani cu privarea de dreptul de a ocupa 
 [Art.2791 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (4) Acţiunile prevăzute la alin. (1), (2) sau (3), săvîrşite cu folosirea situaţiei de serviciu,
 se pedepsesc cu închisoare de la 7 la 15 ani.
-Articolul 2792. Instigarea în scop terorist sau
-justificarea publică a terorismului
+Articolul 2792. Instigarea în scop terorist sau justificarea publică
+a terorismului
 (1) Instigarea în scop terorist, adică distribuirea sau punerea în alt mod la dispoziţia publicului a unui mesaj cu intenţia de a instiga sau cunoscînd că un astfel de mesaj poate instiga la comiterea unei infracţiuni cu caracter terorist,
 se pedepseşte cu amendă în mărime de la 650 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 5 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 2 la 5 ani sau cu lichidarea persoanei juridice.
 [Art.2792 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3706,21 +3660,20 @@ c) cu provocarea decesului victimei din imprudenţă;
 d) cu provocarea altor urmări grave
 se pedepseşte cu închisoare de la 8 la 15 ani.
 (4) - exclus
-Articolul 281. Comunicarea mincinoasă cu bună-ştiinţă
-despre actul de terorism
+Articolul 281. Comunicarea mincinoasă cu bună-ştiinţă despre actul
+de terorism
 Comunicarea mincinoasă cu bună-ştiinţă despre pregătirea unor explozii, incendieri sau a altor acţiuni care periclitează viaţa oamenilor, cauzează daune materiale în proporţii mari sau provoacă alte urmări grave
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.281 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 282. Organizarea unei formaţiuni paramilitare
-ilegale sau participarea la ea
+Articolul 282. Organizarea unei formaţiuni paramilitare ilegale sau
+participarea la ea
 (1) Organizarea sau conducerea unei formaţiuni paramilitare neprevăzute de legislaţia Republicii Moldova, precum şi participarea la o astfel de formaţiune,
 se pedepsesc cu închisoare de la 2 la 7 ani.
 (2) Persoana care, în mod benevol, s-a retras dintr-o formaţiune paramilitară ilegală şi a predat arma se liberează de răspundere penală dacă acţiunile ei nu conţin o altă componenţă de infracţiune.
 Articolul 283. Banditismul
 Organizarea unor bande armate în scopul atacării persoanelor juridice sau fizice, precum şi participarea la asemenea bande sau la atacurile săvîrşite de ele,
 se pedepsesc cu închisoare de la 7 la 15 ani.
-Articolul 284. Crearea sau conducerea unei
-organizaţii criminale
+Articolul 284. Crearea sau conducerea unei organizaţii criminale
 (1) Crearea sau conducerea unei organizaţii criminale, adică întemeierea unei astfel de organizaţii şi organizarea activităţii ei, fie căutarea şi angajarea de membri în organizaţia criminală, fie ţinerea de adunări ale membrilor ei, fie crearea de fonduri băneşti şi de altă natură pentru susţinerea lor financiară şi a activităţii criminale a organizaţiei, fie înzestrarea organizaţiei criminale cu arme şi instrumente pentru săvîrşirea de infracţiuni, fie organizarea culegerii de informaţii despre potenţialele victime şi despre activitatea organelor de drept, fie coordonarea planurilor şi acţiunilor criminale cu alte organizaţii şi grupuri criminale sau infractori aparte din ţară şi din străinătate,
 se pedepseşte cu închisoare de la 8 la 15 ani.
 (2) Crearea sau conducerea unei organizaţii criminale sau a unui grup criminal organizat cu scopul de a comite una sau mai multe infracţiuni cu caracter terorist
@@ -3734,8 +3687,7 @@ se pedepseşte cu închisoare de la 3 la 7 ani.
 (3) Chemările la nesupunere violentă activă cerinţelor legitime ale reprezentanţilor autorităţilor şi la dezordini în masă, precum şi la săvîrşirea actelor de violenţă împotriva persoanelor,
 se pedepsesc cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.285 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 286. Acţiunile care dezorganizează
-activitatea penitenciarelor
+Articolul 286. Acţiunile care dezorganizează activitatea penitenciarelor
 Persoanele care, executînd pedeapsa cu închisoare, îi terorizează pe condamnaţii porniţi pe calea corectării fie săvîrşesc atacuri violente asupra administraţiei, fie organizează în aceste scopuri grupuri criminale sau participă activ la asemenea grupuri
 se pedepsesc cu închisoare de la 3 la 10 ani.
 Articolul 287. Huliganismul
@@ -3745,6 +3697,8 @@ se pedepseşte cu amendă în mărime de la 550 la 1050 unităţi convenţionale
 (2) Aceeaşi acţiune săvîrşită:
 a) de o persoană care anterior a săvîrşit un act de huliganism;
 b) de două sau mai multe persoane
+c) pe teritoriul sau în incinta unei instituţii medico-sanitare publice ori private.
+[Art.287 al.(2), lit.c) introdusă prin LP157 din 26.07.18, MO347-357/14.09.18 art.586]
 se pedepseşte cu amendă în mărime de la 750 la 1350 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
 [Art.287 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Huliganismul agravat, adică acţiunile prevăzute la alin.(1) sau (2), dacă au fost săvîrşite cu aplicarea sau cu încercarea aplicării armei sau a altor obiecte pentru vătămarea integrităţii corporale sau sănătăţii,
@@ -3758,7 +3712,7 @@ a) - exclusă
 b) de două sau mai multe persoane;
 c) asupra bunurilor care au valoare istorică, culturală sau religioasă
 se pedepseşte cu amendă în mărime de la 550 la 1050 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani.
-[Art.2792 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+[Art.288 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 289. Pirateria
 (1) Jefuirea săvîrşită în scopuri personale de către echipajul sau pasagerii unei nave împotriva persoanelor sau bunurilor care se găsesc pe această navă ori împotriva altei nave, dacă navele se află în marea liberă sau într-un loc care nu este supus jurisdicţiei nici unui stat,
 se pedepseşte cu închisoare de la 5 la 10 ani.
@@ -3769,8 +3723,8 @@ c)săvîrşită cu aplicarea armei sau a altor obiecte folosite în calitate de 
 d) soldată cu decesul persoanei din imprudenţă;
 e) soldată cu alte urmări deosebit de grave,
 se pedepseşte cu închisoare de la 8 la 15 ani.
-Articolul 2891. Infracţiuni contra securităţii aeronautice
-şi contra securităţii aeroporturilor
+Articolul 2891. Infracţiuni contra securităţii aeronautice şi contra securităţii
+aeroporturilor
 (1) Faptele ce pot periclita securitatea aeronautică şi securitatea aeroporturilor, adică:
 a) săvîrşirea unui act de violenţă asupra unei persoane aflate la bordul unei aeronave aflate în zbor, dacă acest act poate periclita securitatea navei;
 b) săvîrşirea unui act de violenţă asupra unei persoane într-un aeroport care deserveşte aviaţia civilă, dacă acest act poate periclita securitatea aeroportului;
@@ -3787,8 +3741,7 @@ c) alte urmări grave
 se pedepsesc cu închisoare de la 10 la 20 de ani.
 (3) Faptele prevăzute la alin.(1) sau (2), săvîrşite de un grup criminal organizat sau de o organizaţie criminală,
 se pedepsesc cu închisoare de la 15 la 20 de ani sau cu detenţiune pe viaţă.
-Articolul 2892. Infracţiuni contra securităţii
-transportului naval
+Articolul 2892. Infracţiuni contra securităţii transportului naval
 (1) Faptele ce pot periclita securitatea transportului naval, adică:
 a) săvîrşirea unui act de violenţă asupra unei persoane aflate la bordul unei nave maritime sau fluviale, dacă acest act poate periclita navigaţia în siguranţă a navei;
 b) distrugerea unei nave maritime sau fluviale ori cauzarea de daune acestei nave sau încărcăturii ei care pot periclita navigaţia în siguranţă a navei;
@@ -3803,8 +3756,7 @@ c) alte urmări grave
 se pedepsesc cu închisoare de la 10 la 20 de ani.
 (3) Faptele prevăzute la alin. (1) sau (2), săvîrşite de un grup criminal organizat sau de o organizaţie criminală,
 se pedepsesc cu închisoare de la 15 la 20 de ani sau cu detenţiune pe viaţă.
-Articolul 2893. Infracţiuni contra securităţii
-platformelor fixe
+Articolul 2893. Infracţiuni contra securităţii platformelor fixe
 (1) Faptele ce periclitează securitatea platformelor fixe, adică:
 a) capturarea sau exercitarea ilegală a controlului asupra unei platforme fixe însoţită de violenţă, de ameninţarea cu aplicarea ei sau de o altă formă de intimidare;
 b) săvîrşirea unui act de violenţă asupra unei persoane aflate pe o platformă fixă, dacă acest act poate periclita securitatea platformei;
@@ -3818,10 +3770,9 @@ c) alte urmări grave
 se pedepsesc cu închisoare de la 10 la 20 de ani.
 (3) Faptele prevăzute la alin. (1) sau (2), săvîrşite de un grup criminal organizat sau de o organizaţie criminală,
 se pedepsesc cu închisoare de la 15 la 20 de ani sau cu detenţiune pe viaţă.
-Articolul 290. Purtarea, păstrarea, procurarea,
-fabricarea, repararea sau comer-
-cializarea ilegală a armelor şi
-muniţiilor, sustragerea lor
+Articolul 290. Purtarea, păstrarea, procurarea, fabricarea,
+repararea sau comer cializarea ilegală a armelor
+şi muniţiilor, sustragerea lor
 (1) Purtarea, păstrarea, procurarea, fabricarea, repararea sau comercializarea armelor de foc, precum şi sustragerea lor, cu excepţia armei de vînătoare cu ţeavă lisă, sau a muniţiilor fără autorizaţia corespunzătoare
 se pedepseşte cu amendă în mărime de la 650 la 950 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.290 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3830,15 +3781,13 @@ a) - exclusă
 b) de două sau mai multe persoane
 se pedepsesc cu închisoare de la 2 la 7 ani.
 (3) Persoana care a predat de bună voie arma de foc sau muniţiile pe care le deţinea fără autorizaţia corespunzătoare este liberată de răspundere penală.
-Articolul 291. Păstrarea neglijentă a armelor
-de foc şi a muniţiilor
+Articolul 291. Păstrarea neglijentă a armelor de foc şi a muniţiilor
 Păstrarea neglijentă a armelor de foc şi a muniţiilor, precum şi transmiterea acestora altor persoane,
 se pedepsesc cu amendă în mărime de pînă la 850 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
 [Art.291 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 292. Fabricarea, procurarea, prelucrarea,
-păstrarea, transportarea, folosirea sau
-neutralizarea substanţelor explozive
-ori a materialelor radioactive
+Articolul 292. Fabricarea, procurarea, prelucrarea, păstrarea,
+transportarea, folosirea sau neutralizarea substanţelor
+explozive ori a materialelor radioactive
 (1) Fabricarea, procurarea, prelucrarea, păstrarea, transportarea, folosirea sau neutralizarea substanţelor explozive sau materialelor radioactive fără autorizaţia corespunzătoare sau orice altă operaţie ilegală privind circulaţia acestora
 se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani, cu amendă, aplicată persoanei juridice, în mărime de la 3000 la 6000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate sau cu lichidarea persoanei juridice.
 [Art.292 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3850,20 +3799,16 @@ a) decesul unei persoane;
 b) alte urmări grave,
 se pedepsesc cu închisoare de la 5 la 10 ani, cu amendă, aplicată persoanei juridice, în mărime de la 8000 la 11000 unităţi convenţionale cu lichidarea persoanei juridice.
 [Art.292 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 293. Încălcarea regulilor de evidenţă,
-păstrare, transportare şi folosire
-a substanţelor uşor inflamabile
-sau corozive
+Articolul 293. Încălcarea regulilor de evidenţă, păstrare, transportare
+şi folosire a substanţelor uşor inflamabile sau corozive
 Încălcarea regulilor de evidenţă, păstrare, transportare şi folosire a substanţelor uşor inflamabile sau corozive, precum şi expedierea ilegală prin poştă sau bagaj a acestor substanţe,
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani.
 [Art.293 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 294 - exclus
-Articolul 295. Sustragerea materialelor sau
-a dispozitivelor radioactive ori
-a instalaţiilor nucleare, amenin-
-ţarea de a sustrage sau cererea
-de a transmite aceste materiale,
-dispozitive sau instalaţii
+Articolul 294. - exclus
+Articolul 295. Sustragerea materialelor sau a dispozitivelor radioactive
+ori a instalaţiilor nucleare, ameninţarea de a sustrage sau
+cererea de a transmite aceste materiale, dispozitive sau
+instalaţii
 (1) Sustragerea materialului sau a dispozitivului radioactiv ori a instalaţiei nucleare
 se pedepseşte cu închisoare de la 4 la 8 ani cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 (2) Cererea de a transmite material sau dispozitiv radioactiv ori o instalaţie nucleară însoţită de ameninţarea cu aplicarea violenţei sau de altă formă de intimidare
@@ -3886,10 +3831,8 @@ b) în proporţii mari sau deosebit de mari,
 se pedepsesc cu închisoare de la 12 la 20 de ani.
 (7) Ameninţarea de a sustrage material sau dispozitiv radioactiv ori o instalaţie nucleară cu scopul de a sili statul, organizaţia internaţională, persoana juridică sau fizică să săvîrşească sau să se abţină de la săvîrşirea vreunei acţiuni
 se pedepseşte cu închisoare de la 2 la 5 ani.
-Articolul 2951. Deţinerea, confecţionarea sau
-utilizarea materialelor sau a
-dispozitivelor radioactive ori
-a instalaţiilor nucleare
+Articolul 2951. Deţinerea, confecţionarea sau utilizarea materialelor
+sau a dispozitivelor radioactive ori a instalaţiilor nucleare
 (1) Deţinerea materialului radioactiv, confecţionarea sau deţinerea unui dispozitiv radioactiv cu scopul de a cauza moartea ori vătămarea gravă a integrităţii corporale sau a sănătăţii, daune esenţiale proprietăţii sau mediului
 se pedepsesc cu închisoare de la 10 la 15 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 (2) Utilizarea prin orice metodă a materialului sau a dispozitivului radioactiv ori a instalaţiei nucleare, însoţită de eliberarea sau de pericolul eliberării materialului radioactiv, săvîrşită cu scopul:
@@ -3915,45 +3858,40 @@ se pedepseşte cu amendă în mărime de la 650 la 950 unităţi convenţionale 
 [Art.2952 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (5) Ameninţarea de a săvîrşi o acţiune prevăzută la alin. (1) cu scopul de a sili statul, organizaţia internaţională, persoana juridică sau fizică să săvîrşească sau să se abţină de la săvîrşirea vreunei acţiuni
 se pedepseşte cu închisoare de la 2 la 5 ani.
-Articolul 296. Încălcarea regulilor de protecţie
-contra incendiilor
+Articolul 296. Încălcarea regulilor de protecţie contra incendiilor
 Neîndeplinirea dispoziţiilor organelor de stat de supraveghere antiincendiară, precum şi încălcarea cu rea-voinţă a regulilor de protecţie contra incendiilor, dacă acestea au provocat urmări grave,
 se pedepsesc cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu închisoare de pînă la 2 ani.
 [Art.296 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 297. Neîndeplinirea dispoziţiilor organelor
-de stat de supraveghere în domeniul
-protecţiei civile
+Articolul 297. Neîndeplinirea dispoziţiilor organelor de stat de
+supraveghere în domeniul protecţiei civile
 Neîndeplinirea dispoziţiilor organelor de stat de supraveghere în domeniul protecţiei civile, precum şi încălcarea cu rea-voinţă a normelor şi regulilor în domeniul protecţiei civile, dacă acestea au provocat:
 a) decesul unei persoane;
 b) alte urmări grave,
 se pedepsesc cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
 [Art.297 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 298. Încălcarea regulilor de exploatare
-a obiectivelor energetice
+Articolul 298. Încălcarea regulilor de exploatare a obiectivelor
+energetice
 Încălcarea regulilor de exploatare a staţiilor de producere, a liniilor de transportare şi distribuire a energiei electrice şi termice, a conductelor de transportare a combustibilului, dacă aceasta a provocat:
 a) decesul unei persoane;
 b) alte urmări grave,
 se pedepseşte cu închisoare de la 3 la 7 ani.
 Articolul 299 - exclus
-Articolul 300. Încălcarea regulilor la efectuarea
-exploatărilor miniere sau a lucrărilor
-de construcţie miniere
+Articolul 300. Încălcarea regulilor la efectuarea exploatărilor miniere
+sau a lucrărilor de construcţie miniere
 Încălcarea regulilor de securitate, de construcţie, sanitare sau de protecţie contra incendiilor la efectuarea exploatărilor miniere sau a lucrărilor de construcţie miniere, precum şi încălcarea regulilor de exploatare a mecanismelor de construcţie, dacă acestea au provocat:
 a) decesul unei persoane;
 b) alte urmări grave,
 se pedepsesc cu închisoare de la 3 la 10 ani.
-Articolul 301. Încălcarea regulilor de securitate
-în întreprinderile sau secţiile supuse
-pericolului exploziei
+Articolul 301. Încălcarea regulilor de securitate în întreprinderile
+sau secţiile supuse pericolului exploziei
 Încălcarea disciplinei tehnice şi de producţie sau a regulilor ce asigură securitatea de producţie în întreprinderile sau secţiile supuse pericolului exploziei, dacă aceasta a provocat:
 a) decesul unei persoane;
 b) alte urmări grave,
 se pedepseşte cu închisoare de la 3 la 10 ani.
-Articolul 3011. Producerea, comercializarea sau
-procurarea în scop de comerciali-
-zarea mijloacelor tehnice speciale
-destinate pentru obţinerea ascunsă
-a informaţiei, săvîrşite ilegal
+Articolul 3011. Producerea, comercializarea sau procurarea în scop
+de comercializarea mijloacelor tehnice speciale
+destinate pentru obţinerea ascunsă a informaţiei,
+săvîrşite ilegal
 Producerea, comercializarea sau procurarea în scop de comercializare a mijloacelor tehnice speciale destinate pentru obţinerea ascunsă a informaţiei, săvîrşite ilegal,
 se pedepsesc cu amendă în mărime de la 650 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de pînă la 3 ani, în toate cazurile cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 1 la 3 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 2000 la 4000 unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 1 la 3 ani.
 [Art.3011 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3969,8 +3907,7 @@ se pedepseşte cu amendă în mărime de la 850 la 2850 de unităţi convenţion
 [Art.302 în redacţia LP270 din 07.11.13, MO290/10.12.13 art.794]
 Capitolul XIV
 INFRACŢIUNI CONTRA JUSTIŢIEI
-Articolul 303. Amestecul în înfăptuirea justiţiei
-şi în urmărirea penală
+Articolul 303. Amestecul în înfăptuirea justiţiei şi în urmărirea penală
 (1) Amestecul, sub orice formă, în judecarea cauzelor de către instanţele de judecată naţionale sau internaţionale cu scopul de a împiedica examinarea multilaterală, deplină şi obiectivă a cauzei concrete sau de a obţine pronunţarea unei hotărîri judecătoreşti ilegale
 [Art.303 al.(1) modificat prin LP64 din 04.04.13, MO115/21.05.13 art.359]
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
@@ -3984,8 +3921,8 @@ se pedepsesc cu amendă în mărime de la 750 la 950 unităţi convenţionale sa
 [Art.303 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 304 - exclus
 Articolul 305 - exclus
-Articolul 306. Tragerea cu bună-ştiinţă la răspundere
-penală a unei persoane nevinovate
+Articolul 306. Tragerea cu bună-ştiinţă la răspundere penală a unei
+persoane nevinovate
 (1) Tragerea cu bună-ştiinţă la răspundere penală a unei persoane nevinovate de cel care efectuează urmărirea penală
 se pedepseşte cu amendă în mărime de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.306 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -3994,8 +3931,8 @@ a) urmărind învinuirea de săvîrşire a unei infracţiuni grave, deosebit de 
 b) - exclusă
 c) soldată cu urmări grave
 se pedepseşte cu închisoare de la 2 la 7 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
-Articolul 307. Pronunţarea unei sentinţe, decizii,
-încheieri sau hotărîri contrare legii
+Articolul 307. Pronunţarea unei sentinţe, decizii, încheieri sau hotărîri
+contrare legii
 (1) Pronunţarea cu bună-ştiinţă de către judecător a unei hotărîri, sentinţe, decizii sau încheieri contrare legii
 se pedepseşte cu amendă în sumă de la 650 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.307 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -4039,8 +3976,8 @@ b) săvîrşită din interes material;
 c) însoţită de crearea artificială a probelor acuzatoare
 se pedepseşte cu amendă în mărime de la 550 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani.
 [Art.311 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 312. Declaraţia mincinoasă, concluzia
-falsă sau traducerea incorectă
+Articolul 312. Declaraţia mincinoasă, concluzia falsă sau traducerea
+incorectă
 (1) Prezentarea, cu bună-ştiinţă, a declaraţiei mincinoase de către martor sau partea vătămată, a concluziei false de către specialist sau expert, a traducerii sau a interpretării incorecte de către traducător sau interpret, dacă această acţiune a fost săvîrşită în cadrul procesului civil, procesului penal, procesului contravenţional sau în instanţa de judecată internaţională
 [Art.312 al.(1), dispoziţia modificată prin LP106 din 26.05.16, MO169-183/24.06.16 art.359]
 [Art.312 al.(1), dispoziţia modificată prin LP64 din 04.04.13, MO115/21.05.13 art.359]
@@ -4053,14 +3990,13 @@ c) însoţite de crearea artificială a probelor acuzatoare
 se pedepsesc cu amendă în mărime de la 550 la 1150 unităţi convenţionale sau cu închisoare de pînă la 5 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.312 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) - exclus
-Articolul 313. Refuzul sau eschivarea martorului ori
-a părţii vătămate de a face declaraţii
+Articolul 313. Refuzul sau eschivarea martorului ori a părţii vătămate
+de a face declaraţii
 Refuzul sau eschivarea martorului ori a părţii vătămate de a face declaraţii în cadrul urmăririi penale sau al cercetării judecătoreşti
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale.
 [Art.313 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 314. Determinarea la depunerea de
-declaraţii mincinoase, la formularea
-de concluzii false sau la efectuarea
+Articolul 314. Determinarea la depunerea de declaraţii mincinoase,
+la formularea de concluzii false sau la efectuarea
 de traduceri incorecte
 [Art.314 titlul în redacţia LP245 din 02.12.11, MO25-28/03.02.12 art.77]
 (1) Determinarea, prin constrîngere sau prin promisiune, prin oferire sau dare de bunuri, servicii ori de alte avantaje patrimoniale sau nepatrimoniale, a martorului sau a părţii vătămate la depunerea de declaraţii mincinoase, a expertului la formularea de concluzii sau declaraţii false, a interpretului sau a traducătorului la efectuarea de interpretări sau traduceri incorecte, precum şi la eschivarea de la depunerea declaraţiilor, de la formularea concluziilor sau declaraţiilor, de la efectuarea interpretărilor sau traducerilor, în cadrul procesului civil, procesului penal, procesului contravenţional sau în instanţa de judecată internaţională
@@ -4081,11 +4017,9 @@ se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale 
 (2) Divulgarea intenţionată a datelor urmăririi penale de către persoana care efectuează urmărirea penală sau de către persoana abilitată cu controlul asupra desfăşurării urmăririi penale, dacă această acţiune a cauzat daune morale sau materiale bănuitului, învinuitului, martorului, părţii vătămate sau reprezentanţilor acestora ori dacă l-a făcut pe vinovat să se eschiveze de la răspundere,
 se pedepseşte cu amendă în mărime de la 850 la 1350 unităţi convenţionale cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 [Art.315 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 316. Divulgarea datelor privind măsurile
-de asigurare a securităţii aplicate faţă
-de judecător, executorul judecătoresc,
-participantul la procesul penal sau
-angajatul organului abilitat
+Articolul 316. Divulgarea datelor privind măsurile de asigurare a securităţii
+aplicate faţă de judecător, executorul judecătoresc,
+participantul la procesul penal sau angajatul organului abilitat
 cu protecţia martorilor
 (1) Divulgarea datelor privind măsurile de asigurare a securităţii aplicate faţă de judecător, executorul judecătoresc, participantul la procesul penal sau angajatul organului abilitat cu protecţia martorilor, precum şi faţă de rudele apropiate ale acestora,
 se pedepseşte cu amendă în mărime de la 550 la 750 de unităţi convenţionale sau cu închisoare de pînă la 2 ani.
@@ -4112,12 +4046,10 @@ se pedepseşte cu închisoare de la 1 la 5 ani cu (sau fără) privarea de drept
 se pedepseşte cu închisoare de la 2 la 5 ani cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 (3) - exclus
 (4) - exclus
-Articolul 319. Eschivarea de la executarea
-pedepsei cu închisoare
+Articolul 319. Eschivarea de la executarea pedepsei cu închisoare
 Eschivarea de la executarea pedepsei a condamnatului căruia i s-a permis să plece pe scurtă durată din locurile de deţinere
 se pedepseşte cu închisoare de pînă la 2 ani.
-Articolul 320. Neexecutarea hotărîrii instanţei
-de judecată
+Articolul 320. Neexecutarea hotărîrii instanţei de judecată
 (1) Neexecutarea intenţionată sau eschivarea de la executare a hotărîrii instanţei de judecată, dacă aceasta a fost comisă după aplicarea sancţiunii contravenţionale,
 se pedepseşte cu amendă în mărime de la 550 la 650 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 200 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.320 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -4130,20 +4062,27 @@ de protecţie a victimei violenţei în familie
 Neexecutarea intenţionată sau eschivarea de la executarea măsurilor stabilite de instanţa de judecată în ordonanţa de protecţie a victimei violenţei în familie
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 160 la 200 de ore sau cu închisoare de pînă la 3 ani.
 [Art.3201 introdus prin LP196 din 28.07.16, MO306-313/16.09.16 art.661]
-Articolul 321. Nesupunerea prin violenţă cerinţelor
-administraţiei penitenciarului
+Articolul 321. Nesupunerea prin violenţă cerinţelor administraţiei
+penitenciarului
 Nesupunerea prin violenţă cerinţelor legitime ale administraţiei penitenciarului, săvîrşită de o persoană care execută pedeapsa în penitenciar,
 se pedepseşte cu închisoare de pînă la 5 ani.
-Articolul 322. Transmiterea ilegală a unor obiecte
-interzise persoanelor deţinute în
-penitenciare
-(1) Transmiterea tăinuită de la control sau încercarea de a transmite prin orice mijloace persoanelor deţinute în penitenciare a băuturilor alcoolice, a substanțelor stupefiante, psihotrope și/sau a altor substanțe cu efecte similare, precum şi a altor obiecte, a căror transmitere este interzisă, dacă această acţiune a fost săvîrşită în mod sistematic sau în proporţii mari,
-[Art.322 al.(1), dispoziția modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
-se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani.
-[Art.322 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-(2) Aceleaşi acţiuni săvîrşite cu folosirea situaţiei de serviciu
-se pedepsesc cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
-[Art.322 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
+Articolul 322. Transmiterea ilegală a unor obiecte sau substanțe interzise
+persoanelor deţinute în instituțiile penitenciare
+(1) Transmiterea tăinuită de control prin orice mijloace persoanelor deţinute în instituţiile penitenciare a obiectelor sau a substanțelor a căror transmitere ori păstrare este interzisă conform legislației privind executarea hotărîrilor cu caracter penal
+se pedepseşte cu amendă în mărime de la 500 la 600 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 80 la 180 de ore, sau cu închisoare de pînă la 6 luni.
+(2) Acţiunea prevăzută la alin. (1), săvîrşită de o persoană cu funcţie de răspundere sau cu folosirea situaţiei de serviciu,
+se pedepsește cu amendă în mărime de la 600 la 800 de unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 2 ani, în toate cazurile cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 3 ani.
+(3) Transmiterea tăinuită de control prin orice mijloace persoanelor deţinute în instituţiile penitenciare a băuturilor alcoolice, a drogurilor, a etnobotanicelor sau a analogilor acestora
+se pedepseşte cu amendă în mărime de la 750 la 1000 de unităţi convenţionale sau cu închisoare de la 2 la 4 ani.
+(4) Acţiunea prevăzută la alin. (3), săvîrşită de o persoană cu funcţie de răspundere sau cu folosirea situaţiei de serviciu,
+se pedepseşte cu amendă în mărime de la 850 la 1000 de unităţi convenţionale sau cu închisoare de pînă la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
+(5) Transmiterea tăinuită de control prin orice mijloace persoanelor deţinute în instituţiile penitenciare a armelor, substanțelor explozive, toxice, incendiare sau radioactive
+se pedepseşte cu închisoare de la 3 la 5 ani.
+(6) Acţiunea prevăzută la alin. (5), săvîrșită de o persoană cu funcţie de răspundere sau cu folosirea situaţiei de serviciu,
+se pedepseşte cu închisoare de la 4 la 6 ani, cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
+[Art.322 în redacția LP157 din 26.07.18, MO347-357/14.09.18 art.586]
+[Art.322 modificat prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
+[Art.322 modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 323. Favorizarea infracţiunii
 (1) Favorizarea dinainte nepromisă a infracţiunii grave, deosebit de grave sau excepţional de grave
 se pedepseşte cu amendă în mărime de la 550 la 850 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
@@ -4259,8 +4198,8 @@ se pedepseşte cu amendă în mărime de la 1350 la 2350 unităţi convenţional
 (3) Abuzul de putere sau abuzul de serviciu, săvîrşit în interesul unui grup criminal organizat sau al unei organizaţii criminale,
 se pedepseşte cu închisoare de la 3 la 7 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 10 la 15 ani.
 [Art.327 al.(3), sancţiunea modificată prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
-Articolul 328. Excesul de putere sau depăşirea
-atribuţiilor de serviciu
+Articolul 328. Excesul de putere sau depăşirea atribuţiilor
+de serviciu
 (1) Săvîrşirea de către o persoană publică a unor acţiuni care depăşesc în mod vădit limitele drepturilor şi atribuţiilor acordate prin lege, dacă aceasta a cauzat daune în proporţii considerabile intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice,
 [Art.328 al.(1) textul „intereselor publice sau” declarat neconstituțional prin HCC 22 din 27.06.17, MO352-355/29.09.17 art.92; în vigoare 27.06.17]
 [Art.328 al.(1) modificat prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
@@ -4297,9 +4236,8 @@ b) alte urmări grave
 se pedepsesc cu închisoare de la 2 la 6 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 5 la 10 ani.
 [Art.329 al.(2), sancţiunea în redacţia LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
 [Art.330 abrogat prin LP245 din 02.12.11, MO25-28/03.02.12 art.77]
-Articolul 3301. Încălcarea regimului de confidenţia
-litate a informaţiilor din declaraţiile
-de avere și interese personale
+Articolul 3301. Încălcarea regimului de confidenţia litate a informaţiilor
+din declaraţiile de avere și interese personale
 [Art.3301 titlul modificat prin LP134 din 17.06.16, MO245-246/30.07.16 art.515; în vigoare 01.08.16]
 [Art.3301 titlul în redacţia LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
 [Art.3301 al.(1) abrogat prin LP181 din 19.12.11, MO1-6/06.01.12 art.4; în vigoare 01.03.12]
@@ -4329,8 +4267,7 @@ c) în interesul unui grup criminal organizat sau al unei organizaţii criminale
 se pedepsesc cu amendă în mărime de la 1350 la 2350 unităţi convenţionale sau cu închisoare de la 1 la 6 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 5 la 10 ani.
 [Art.332 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 [Art.332 al.(2), sancţiunea modificată prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
-Articolul 3321. Obţinerea frauduloasă a mijloacelor
-din fonduri externe
+Articolul 3321. Obţinerea frauduloasă a mijloacelor din fonduri externe
 (1) Folosirea ori prezentarea de documente, înscrisuri sau date vădit false, inexacte ori incomplete pentru primirea aprobărilor sau garanţiilor necesare acordării finanţărilor obţinute sau garantate din fonduri externe, precum şi omisiunea de a furniza datele cerute potrivit legii pentru obţinerea de mijloace din fonduri externe, dacă fapta are ca rezultat obţinerea frauduloasă a acestor mijloace financiare,
 se pedepsesc cu amendă în mărime de la 4000 la 5000 de unităţi convenţionale sau cu închisoare de la 2 la 5 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 5000 la 6000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 (2) Aceleaşi acţiuni:
@@ -4341,8 +4278,7 @@ se pedepsesc cu amendă în mărime de la 4000 la 6000 de unităţi convenţiona
 (3) Acţiunile prevăzute la alin. (1) şi (2) care au cauzat daune în proporţii deosebit de mari
 se pedepsesc cu amendă în mărime de la 7000 la 9000 de unităţi convenţionale sau cu închisoare de la 4 la 8 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii pe un termen de la 5 la 8 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 8000 la 10000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de la 3 la 5 ani sau cu lichidarea persoanei juridice.
 [Art.3321 introdus prin LP105 din 26.05.16, MO184-192/01.07.16 art.391]
-Articolul 3322. Delapidarea mijloacelor din fondurile
-externe
+Articolul 3322. Delapidarea mijloacelor din fondurile externe
 (1) Delapidarea mijloacelor din fondurile externe
 se pedepseşte cu amendă în mărime de la 3000 la 4000 de unităţi convenţionale sau cu închisoare de la 2 la 5 ani, iar persoana juridică se pedepseşte cu amendă în mărime de la 4000 la 5000 de unităţi convenţionale cu privarea de dreptul de a exercita o anumită activitate pe un termen de pînă la 3 ani.
 (2) Aceeaşi acţiune săvîrşită:
@@ -4456,9 +4392,8 @@ se pedepsesc cu închisoare de la 12 la 20 de ani.
 Articolul 340. Rebeliunea armată
 Organizarea sau conducerea unei rebeliuni armate, precum şi participarea la ea, în scopul răsturnării sau schimbării prin violenţă a orînduirii constituţionale ori în scopul violării integrităţii teritoriale a Republicii Moldova
 se pedepsesc cu închisoare de la 12 la 20 de ani.
-Articolul 341. Chemările la răsturnarea sau schimbarea
-prin violenţă a orînduirii constituţionale
-a Republicii Moldova
+Articolul 341. Chemările la răsturnarea sau schimbarea prin violenţă
+a orînduirii constituţionale a Republicii Moldova
 (1) Chemările publice la răsturnarea sau schimbarea prin violenţă a orînduirii constituţionale ori la violarea integrităţii teritoriale a Republicii Moldova, precum şi difuzarea prin diferite forme, în acest scop, de materiale cu asemenea chemări,
 se pedepsesc cu amendă în mărime de la 550 la 950 unităţi convenţionale sau cu închisoare de pînă la 3 ani.
 [Art.341 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -4469,9 +4404,8 @@ se pedepsesc cu amendă în mărime de la 650 la 1350 unităţi convenţionale s
 [Art.341 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Acţiunile prevăzute la alin.(1) sau (2), săvîrşite din însărcinarea unei organizaţii străine sau a reprezentanţilor ei,
 se pedepsesc cu închisoare de la 3 la 7 ani.
-Articolul 342. Atentarea la viaţa Preşedintelui
-Republicii Moldova, a Preşedintelui
-Parlamentului sau a Prim-ministrului
+Articolul 342. Atentarea la viaţa Preşedintelui Republicii Moldova,
+a Preşedintelui Parlamentului sau a Prim-ministrului
 Atentarea la viaţa Preşedintelui Republicii Moldova, a Preşedintelui Parlamentului sau a Prim-ministrului, săvîrşită în scopul sistării activităţii lor de stat sau a altei activităţi politice ori din răzbunare pentru asemenea activitate,
 se pedepseşte cu închisoare de la 12 la 20 de ani sau cu detenţiune pe viaţă.
 Articolul 343. Diversiunea
@@ -4483,14 +4417,13 @@ se pedepseşte cu amendă în mărime de la 550 la 950 unităţi convenţionale 
 [Art.344 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune soldată cu urmări grave
 se pedepseşte cu închisoare de la 3 la 7 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
-Articolul 345. Pierderea documentelor ce conţin
-secrete de stat
+Articolul 345. Pierderea documentelor ce conţin secrete de stat
 Pierderea documentelor ce conţin secrete de stat, precum şi a obiectelor datele despre care constituie secret de stat, de către o persoană căreia aceste documente sau obiecte i-au fost încredinţate, dacă pierderea a fost un rezultat al încălcării regulilor stabilite de păstrare a documentelor sau obiectelor menţionate şi a cauzat urmări grave,
 se pedepseşte cu amendă în mărime de la 550 la 750 unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.345 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 346. Acţiunile intenţionate îndreptate spre
-aţîţarea vrajbei, diferenţierii sau dezbinării
-naţionale, etnice, rasiale sau religioase
+Articolul 346. Acţiunile intenţionate îndreptate spre aţîţarea vrajbei,
+diferenţierii sau dezbinării naţionale, etnice, rasiale sau
+religioase
 [Art.346 titlul modificat prin LP306 din 26.12.12, MO27-30/08.02.13 art.104]
 Acţiunile intenţionate, îndemnurile publice, inclusiv prin intermediul mass-media, scrise şi electronice, îndreptate spre aţîţarea vrajbei, diferenţierii sau dezbinării naţionale, etnice, rasiale sau religioase, spre înjosirea onoarei şi demnităţii naţionale, precum şi limitarea, directă sau indirectă, a drepturilor ori stabilirea de avantaje, directe sau indirecte, cetăţenilor în funcţie de apartenenţa lor naţională, etnică, rasială sau religioasă,
 [Art.346 dispoziţia modificată prin LP306 din 26.12.12, MO27-30/08.02.13 art.104]
@@ -4512,10 +4445,9 @@ se pedepseşte cu amendă în mărime de la 350 la 1050 unităţi convenţionale
 se pedepsesc cu amendă în mărime de la 850 la 1150 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani, în toate cazurile cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.347 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 348 - exclus
-Articolul 349. Ameninţarea sau violenţa săvîrşită
-asupra unei persoane cu funcţie de
-răspundere sau a unei persoane care
-îşi îndeplineşte datoria obştească
+Articolul 349. Ameninţarea sau violenţa săvîrşită asupra unei persoane
+cu funcţie de răspundere sau a unei persoane care îşi îndeplineşte
+datoria obştească
 (1) Ameninţarea cu moartea, cu vătămarea integrităţii corporale sau a sănătăţii, fie cu nimicirea bunurilor persoanei cu funcţie de răspundere, rudelor ei apropiate, în scopul sistării activităţii ei de serviciu ori schimbării caracterului ei în interesul celui care ameninţă sau al altei persoane, precum şi aceeaşi ameninţare împotriva persoanei care îşi îndeplineşte datoria obştească sau a rudelor ei apropiate în legătură cu participarea acestei persoane la prevenirea ori curmarea unei infracţiuni sau a unei fapte antisociale
 se pedepsesc cu amendă în mărime de la 650 la 1350 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de pînă la 180 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.349 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -4565,55 +4497,46 @@ se pedepseşte cu amendă în mărime de pînă la 950 unităţi convenţionale 
 (2) Includerea intenționată a unor date incomplete sau false, neincluderea intenționată a unor date în declarația de avere și interese personale
 se pedepsesc cu amendă în mărime de la 400 la 600 unităţi convenţionale sau cu închisoare de pînă la 1 an, în ambele cazuri cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 2 la 5 ani.
 [Art.3521 al.(2) introdus prin LP134 din 17.06.16, MO245-246/30.07.16 art.515, alineatul unic devine al.(1); în vigoare 01.08.16]
-Articolul 353. Eschivarea de la serviciul militar
-în termen, de la serviciul militar
-cu termen redus sau de la serviciul
-militar ca rezervişti concentraţi sau
-mobilizaţi
+Articolul 353. Eschivarea de la serviciul militar în termen, de la
+serviciul militar cu termen redus sau de la serviciul militar
+ca rezervişti concentraţi sau mobilizaţi
 Eschivarea de la serviciul militar în termen, de la serviciul militar cu termen redus sau de la serviciul militar ca rezervişti concentraţi sau mobilizaţi prin automutilare, simularea unei boli, falsificarea documentelor sau prin altă înşelăciune
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 150 de ore.
 [Art.353 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 354. Eschivarea de la mobilizare
 Eschivarea pe timp de război de la mobilizare în rîndurile Forţelor Armate
 se pedepseşte cu închisoare de la 2 la 5 ani.
-Articolul 355. Eschivarea sau refuzul de a
-îndeplini obligaţiile serviciului
+Articolul 355. Eschivarea sau refuzul de a îndeplini obligaţiile serviciului
 de alternativă
 Eschivarea sau refuzul persoanei care îndeplineşte serviciul de alternativă de a executa obligaţiile ce îi revin în cadrul acestui serviciu prin automutilare, simularea unei boli, falsificarea documentelor sau prin altă înşelăciune
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 150 de ore.
 [Art.355 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 356. Eschivarea pe timp de război
-de la îndeplinirea prestaţiilor
+Articolul 356. Eschivarea pe timp de război de la îndeplinirea prestaţiilor
 Eschivarea pe timp de război de la mobilizarea la muncă sau de la îndeplinirea altor prestaţii
 se pedepseşte cu închisoare de pînă la 5 ani.
-Articolul 357. Organizarea sau conducerea unei
-greve ilegale, precum şi împiedicarea
-activităţii întreprinderii,instituţiei ori
-organizaţiei în condiţiile stării de urgenţă,
-de asediu şi de război
+Articolul 357. Organizarea sau conducerea unei greve ilegale, precum
+şi împiedicarea activităţii întreprinderii,instituţiei ori
+organizaţiei în condiţiile stării de urgenţă, de asediu şi de
+război
 Organizarea sau conducerea unei greve ilegale, precum şi împiedicarea activităţii întreprinderii, instituţiei ori organizaţiei în condiţiile stării de urgenţă, de asediu şi de război,
 se pedepsesc cu amendă în mărime de pînă la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 100 la 240 de ore.
 [Art.357 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Articolul 358 - exclus
-Articolul 359. Cumpărarea sau vînzarea
-documentelor oficiale
+Articolul 359. Cumpărarea sau vînzarea documentelor oficiale
 Cumpărarea sau vînzarea documentelor oficiale care acordă drepturi sau eliberează de obligaţii
 se pedepseşte cu amendă în mărime de pînă la 550 unităţi convenţionale.
 [Art.359 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 360. Luarea, sustragerea, tăinuirea,
-degradarea sau distrugerea
-documentelor, imprimatelor,
-ştampilelor sau sigiliilor
+Articolul 360. Luarea, sustragerea, tăinuirea, degradarea sau distrugerea
+documentelor, imprimatelor, ştampilelor sau sigiliilor
 (1) Luarea, sustragerea, tăinuirea, degradarea sau distrugerea documentelor, imprimatelor, ştampilelor sau sigiliilor aparţinînd întreprinderilor, instituţiilor, organizaţiilor, indiferent de tipul de proprietate sau forma juridică de organizare, dacă această faptă a fost săvîrşită din interes material sau din alte motive josnice,
 se pedepseşte cu amendă în mărime de pînă la 750 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 200 de ore sau cu închisoare de pînă la 3 ani.
 [Art.360 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Luarea, sustragerea, tăinuirea, degradarea, distrugerea sau păstrarea buletinelor de identitate sau a altor documente importante ale persoanelor fizice, cu intenţia de a limita libertatea persoanei, inclusiv libertatea de circulaţie, sau de a o lipsi de aceasta,
 se pedepseşte cu amendă în mărime de pînă la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 5 ani.
 [Art.360 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
-Articolul 361. Confecţionarea, deţinerea, vînzarea
-sau folosirea documentelor oficiale,
-a imprimatelor, ştampilelor sau sigiliilor
-false
+Articolul 361. Confecţionarea, deţinerea, vînzarea sau folosirea
+documentelor oficiale, a imprimatelor, ştampilelor
+sau sigiliilor false
 (1) Confecţionarea, deţinerea, vînzarea sau folosirea documentelor oficiale false, care acordă drepturi sau eliberează de obligaţii, confecţionarea sau vînzarea imprimatelor, ştampilelor sau a sigiliilor false ale unor întreprinderi, instituţii, organizaţii, indiferent de tipul de proprietate şi forma juridică de organizare,
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 150 la 200 de ore, sau cu închisoare de pînă la 2 ani.
 [Art.361 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -4657,15 +4580,13 @@ se pedepsesc cu amendă în mărime de la 1150 la 1350 de unităţi convenţiona
 [Art.3621 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (4) Victima migraţiei ilegale este absolvită de răspundere penală pentru faptul intrării, şederii, tranzitării ilegale a teritoriului statului sau al ieşirii de pe acest teritoriu, precum şi pentru faptele de deţinere şi folosire a documentelor oficiale false în scopul organizării migraţiei sale ilegale.
 [Art.3621al.(4) introdus prin LP20 din 01.03.13, MO64-68/29.03.13 art.199]
-Articolul 363. Folosirea ilegală a însemnelor
-Crucii Roşii
+Articolul 363. Folosirea ilegală a însemnelor Crucii Roşii
 Folosirea emblemei Crucii Roşii şi a denumirii “Crucea Roşie” de către persoane care nu sînt împuternicite cu acest drept, precum şi a însemnelor care pot fi confundate cu emblema Crucii Roşii, dacă această acţiune a avut urmări grave,
 se pedepseşte cu amendă în mărime de la 500 la 600 de unităţi convenţionale sau cu muncă neremnerată în folosul comunităţii de la 180 la 240 de ore.
 [Art.363 sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 Capitolul XVIII
 INFRACŢIUNI MILITARE
-Articolul 364. Neexecutarea intenţionată
-a ordinului
+Articolul 364. Neexecutarea intenţionată a ordinului
 (1) Neexecutarea intenţionată a ordinului şefului dat în modul stabilit, dacă aceasta a cauzat daune în proporţii considerabile intereselor de serviciu,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 2 ani.
 (2) Aceeaşi acţiune:
@@ -4683,9 +4604,8 @@ c) în condiţii de luptă
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 3 ani.
 (5) - exclus
 [Art.364 al.(6) abrogat prin LP64 din 04.04.13, MO115/21.05.13 art.359]
-Articolul 365. Opunerea de rezistenţă şefului
-sau constrîngerea acestuia la
-încălcarea obligaţiilor de serviciu
+Articolul 365. Opunerea de rezistenţă şefului sau constrîngerea acestuia
+la încălcarea obligaţiilor de serviciu
 (1) Opunerea de rezistenţă şefului, unei alte persoane care îndeplineşte obligaţiile legate de serviciul militar sau constrîngerea lor la încălcarea acestor obligaţii, însoţite de aplicarea violenţei,
 se pedepseşte cu închisoare de pînă la 5 ani.
 (2) Aceleaşi acţiuni:
@@ -4708,8 +4628,7 @@ se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240
 a) pe timp de război;
 b) în condiţii de luptă
 se pedepseşte cu închisoare de la 3 la 8 ani.
-Articolul 368. Acte de violenţă săvîrşite asupra
-militarului
+Articolul 368. Acte de violenţă săvîrşite asupra militarului
 (1) Vătămarea intenţionată uşoară a integrităţii corporale sau a sănătăţii ori lovirea subalternului de către şef, precum şi a şefului de către subaltern în timpul cînd aceştia îndeplinesc obligaţiile legate de serviciul militar
 se pedepseşte cu închisoare de pînă la 5 ani.
 (2) Aceleaşi acţiuni:
@@ -4719,9 +4638,8 @@ c) soldate cu urmări grave;
 d) săvîrşite pe timp de război;
 e) săvîrşite în condiţii de luptă
 se pedepsesc cu închisoare de la 3 la 12 ani.
-Articolul 369. Încălcarea regulilor statutare
-cu privire la relaţiile dintre militari
-dacă între ei nu există raporturi
+Articolul 369. Încălcarea regulilor statutare cu privire la relaţiile
+dintre militari dacă între ei nu există raporturi
 de subordonare
 (1) Încălcarea regulilor statutare cu privire la relaţiile dintre militari, în timpul îndeplinirii serviciului militar, dacă între ei nu există raporturi de subordonare şi dacă această încălcare s-a manifestat prin acte de violenţă,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 3 ani.
@@ -4735,8 +4653,8 @@ a) săvîrşite de două sau mai multe persoane;
 b) săvîrşite cu aplicarea armei;
 c) soldate cu urmări grave,
 se pedepsesc cu închisoare de la 4 la 8 ani.
-Articolul 370. Abuzul de putere, excesul de putere
-sau inacţiunea la exercitarea puterii
+Articolul 370. Abuzul de putere, excesul de putere sau inacţiunea
+la exercitarea puterii
 (1) Abuzul de putere sau de serviciu, excesul de putere sau depăşirea atribuţiilor de serviciu de către şef sau de către o persoană cu funcţie de răspundere, inacţiunea la exercitarea puterii, dacă acestea au cauzat victimei sau intereselor de serviciu daune în proporţii considerabile,
 se pedepsesc cu amendă în mărime de la 850 la 950 de unităţi convenţionale sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de pînă la 5 ani.
 [Art.370 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
@@ -4767,10 +4685,9 @@ se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240
 a) pe timp de război;
 b) în condiţii de luptă
 se pedepseşte cu închisoare de pînă la 5 ani.
-Articolul 373. Încălcarea regulilor de mînuire
-a armei, de manipulare a substan-
-ţelor şi obiectelor ce prezintă
-un pericol sporit pentru cei din jur
+Articolul 373. Încălcarea regulilor de mînuire a armei, de manipulare
+a substanţelor şi obiectelor ce prezintă un pericol sporit
+pentru cei din jur
 (1) Încălcarea regulilor de mînuire a armei, de manipulare a muniţiilor, a substanţelor explozive, radioactive şi a altor substanţe şi obiecte ce prezintă un pericol sporit pentru cei din jur, dacă aceasta a cauzat vătămarea uşoară sau medie a integrităţii corporale sau a sănătăţii,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 3 ani.
 (2) Aceeaşi acţiune care a provocat din imprudenţă:
@@ -4780,8 +4697,8 @@ c) alte urmări grave
 se pedepseşte cu închisoare de la 2 la 7 ani.
 (3) Aceeaşi acţiune care a provocat din imprudenţă decesul a două sau mai multor persoane
 se pedepseşte cu închisoare de la 3 la 8 ani.
-Articolul 374. Încălcarea regulilor statutare cu
-privire la serviciul de gardă
+Articolul 374. Încălcarea regulilor statutare cu privire la serviciul
+de gardă
 (1) Încălcarea regulilor statutare cu privire la serviciul de gardă, a ordinelor şi dispoziţiilor emise în vederea modificării şi completării acestor reguli, dacă aceasta a cauzat daune în proporţii considerabile,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore.
 (2) Aceeaşi acţiune care a provocat urmări grave
@@ -4790,9 +4707,8 @@ se pedepseşte cu închisoare de pînă la 5 ani.
 a) pe timp de război;
 b) în condiţii de luptă,
 se pedepsesc cu închisoare de la 4 la 10 ani.
-Articolul 375. Încălcarea regulilor cu privire
-la serviciul de alarmă (de luptă)
-al trupelor militare
+Articolul 375. Încălcarea regulilor cu privire la serviciul de alarmă
+(de luptă) al trupelor militare
 (1) Încălcarea regulilor cu privire la serviciul de alarmă (de luptă) pentru descoperirea şi respingerea la timp a unui atac prin surprindere asupra Republicii Moldova sau pentru apărarea şi asigurarea securităţii Republicii Moldova, dacă aceasta a cauzat sau putea să cauzeze daune intereselor securităţii statului,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 5 ani.
 (2) Aceeaşi acţiune care a provocat urmări grave
@@ -4801,8 +4717,7 @@ se pedepseşte cu închisoare de la 3 la 7 ani.
 a) pe timp de război;
 b) în condiţii de luptă,
 se pedepsesc cu închisoare de la 7 la 12 ani.
-Articolul 376. Încălcarea regulilor statutare
-cu privire la serviciul intern
+Articolul 376. Încălcarea regulilor statutare cu privire la serviciul intern
 (1) Încălcarea regulilor statutare cu privire la serviciul intern de o persoană care face parte din personalul de zi al unităţii militare, cu excepţia gărzii şi a cartului, dacă aceasta a cauzat daune în proporţii considerabile,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore.
 (2) Aceeaşi acţiune soldată cu daune în proporţii considerabile, a căror prevenire intră în obligaţiile persoanei indicate la alin.(1),
@@ -4811,15 +4726,13 @@ se pedepseşte cu închisoare de la 6 luni la 2 ani.
 a) pe timp de război;
 b) în condiţii de luptă,
 se pedepsesc cu închisoare de la 1 la 5 ani.
-Articolul 377. Încălcarea regulilor cu privire la
-menţinerea ordinii publice şi la
-asigurarea securităţii publice
+Articolul 377. Încălcarea regulilor cu privire la menţinerea ordinii publice
+şi la asigurarea securităţii publice
 (1) Încălcarea regulilor cu privire la menţinerea ordinii de către o persoană din unitatea militară pentru menţinerea ordinii publice şi asigurarea securităţii publice, însoţită de încălcarea drepturilor şi libertăţilor omului sau de aplicarea violenţei asupra lui,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 2 ani.
 (2) Aceeaşi acţiune soldată cu urmări grave
 se pedepseşte cu închisoare de pînă la 5 ani.
-Articolul 378. Atitudinea neglijentă faţă
-de serviciul militar
+Articolul 378. Atitudinea neglijentă faţă de serviciul militar
 (1) Atitudinea neglijentă a şefului sau a unei alte persoane cu funcţie de răspundere faţă de serviciul militar, dacă aceasta a cauzat daune în proporţii mari,
 se pedepseşte cu închisoare de pînă la 3 ani.
 (2) Aceeaşi acţiune soldată cu urmări grave
@@ -4828,8 +4741,8 @@ se pedepseşte cu închisoare de pînă la 5 ani.
 a) pe timp de război;
 b) în condiţii de luptă,
 se pedepsesc cu închisoare de la 3 la 7 ani.
-Articolul 379. Distrugerea sau deteriorarea
-intenţionată a patrimoniului militar
+Articolul 379. Distrugerea sau deteriorarea intenţionată a
+patrimoniului militar
 (1) Distrugerea sau deteriorarea intenţionată a armamentului, muniţiilor, mijloacelor de locomoţie, tehnicii militare sau a unui alt patrimoniu militar
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 2 ani.
 (2) Aceeaşi acţiune soldată cu urmări grave
@@ -4838,16 +4751,15 @@ se pedepseşte cu închisoare de la 3 la 7 ani.
 a) pe timp de război;
 b) în condiţii de luptă,
 se pedepsesc cu închisoare de la 6 la 12 ani.
-Articolul 380. Distrugerea sau deteriorarea din
-imprudenţă a patrimoniului militar
+Articolul 380. Distrugerea sau deteriorarea din imprudenţă a
+patrimoniului militar
 (1) Distrugerea sau deteriorarea din imprudenţă a patrimoniului militar în proporţii mari
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 2 ani.
 (2) Aceleaşi acţiuni săvîrşite:
 a) pe timp de război;
 b) în condiţii de luptă
 se pedepsesc cu închisoare de la 3 la 8 ani.
-Articolul 381. Risipirea sau pierderea
-patrimoniului militar
+Articolul 381. Risipirea sau pierderea patrimoniului militar
 (1) Comercializarea, gajarea sau darea în folosinţă de către un militar a echipamentului care i-a fost eliberat pentru folosinţă personală, precum şi pierderea sau deteriorarea acestor obiecte în urma încălcării regulilor de păstrare,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore.
 (2) Aceleaşi acţiuni săvîrşite:
@@ -4860,8 +4772,8 @@ se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240
 a) pe timp de război;
 b) în condiţii de luptă
 se pedepsesc cu închisoare de la 2 la 7 ani.
-Articolul 382. Încălcarea regulilor de conducere
-sau de exploatare a maşinilor
+Articolul 382. Încălcarea regulilor de conducere sau de exploatare
+a maşinilor
 (1) Încălcarea regulilor de conducere sau de exploatare a maşinilor de luptă, speciale sau de transport, dacă aceasta a provocat o vătămare medie a integrităţii corporale sau a sănătăţii ori daune în proporţii mari,
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 60 la 240 de ore sau cu închisoare de pînă la 3 ani, în ambele cazuri cu (sau fără) privarea de dreptul de a conduce mijlocul de transport pe un termen de pînă la 2 ani.
 (2) Aceeaşi acţiune care a provocat:
@@ -4870,8 +4782,7 @@ b) decesul unei persoane
 se pedepseşte cu închisoare de la 3 la 7 ani cu (sau fără) privarea de dreptul de a conduce mijlocul de transport pe un termen de pînă la 5 ani.
 (3) Aceeaşi acţiune care a provocat decesul mai multor persoane
 se pedepseşte cu închisoare de la 5 la 10 ani cu privarea de dreptul de a conduce mijlocul de transport pe un termen de pînă la 5 ani.
-Articolul 383. Încălcarea regulilor de zbor
-sau ale pregătirii de zbor
+Articolul 383. Încălcarea regulilor de zbor sau ale pregătirii de zbor
 Încălcarea regulilor de zbor sau ale pregătirii de zbor, dacă aceasta a provocat o catastrofă sau alte urmări grave,
 se pedepseşte cu închisoare de la 5 la 10 ani.
 Articolul 384. Încălcarea regulilor de navigaţie
@@ -4880,20 +4791,17 @@ a) scufundarea sau deteriorarea serioasă a navei;
 b) decesul unei persoane;
 c) alte urmări grave,
 se pedepseşte cu închisoare de la 5 la 10 ani.
-Articolul 385. Predarea sau lăsarea mijloacelor
-de război inamicului
+Articolul 385. Predarea sau lăsarea mijloacelor de război inamicului
 Predarea de către şef a forţelor militare ce i-au fost încredinţate, precum şi lăsarea, nejustificată de situaţia de luptă, a fortificaţiilor, a tehnicii de luptă şi altor mijloace de război inamicului,
 se pedepsesc cu închisoare de la 10 la 15 ani.
-Articolul 386. Părăsirea samavolnică a cîmpului
-de luptă sau refuzul de a acţiona
-cu arma
+Articolul 386. Părăsirea samavolnică a cîmpului de luptă sau refuzul
+de a acţiona cu arma
 Părăsirea samavolnică a cîmpului de luptă în timpul luptei sau refuzul de a acţiona cu arma în timpul luptei
 se pedepseşte cu închisoare de la 10 la 15 ani.
 Articolul 387. Predarea de bună voie în prizonierat
 Predarea de bună voie în prizonierat
 se pedepseşte cu închisoare de la 10 la 15 ani.
-Articolul 388. Acţiunile criminale ale militarilor
-aflaţi în prizonierat
+Articolul 388. Acţiunile criminale ale militarilor aflaţi în prizonierat
 (1) Participarea benevolă a militarului aflat în prizonierat la lucrările de importanţă militară sau la alte lucrări despre care se ştie că pot cauza daune Republicii Moldova sau statelor aliate cu ea, dacă aceasta nu constituie trădare de Patrie,
 se pedepseşte cu închisoare de la 3 la 8 ani.
 (2) Actele de violenţă săvîrşite asupra altor prizonieri de război sau comportarea plină de cruzime faţă de ei din partea unui prizonier de război care se află în situaţia de superior
