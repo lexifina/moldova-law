@@ -13,6 +13,8 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+HCC22 din 01.10.18, MO416-422/09.11.18 art.146; în vigoare 01.10.18
+LP207 din 12.10.18, MO410-415/02.11.18 art.643
 LP157 din 26.07.18, MO347-357/14.09.18 art.586
 LP195 din 27.07.18, MO321-332/24.08.18 art.539
 LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18
@@ -442,7 +444,8 @@ Articolul 64. Amenda
 (3) Mărimea amenzii pentru persoanele fizice se stabileşte în limitele la 500 la 3000 unităţi convenţionale, iar pentru infracţiunile săvîrşite din interes material – pînă la 20000 unităţi convenţionale, luîndu-se ca bază mărimea unităţii convenţionale la momentul săvîrşirii infracţiunii. Mărimea amenzii se stabileşte în funcţie de gravitatea infracţiunii săvîrşite şi de situaţia materială a celui vinovat şi a familiei sale. Luînd în considerare circumstanţele cauzei, instanţa de judecată poate dispune achitarea amenzii în rate timp de pînă la 5 ani.
 [Art.64 al.(3) modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
 [Art.64 al.(3) în redacţia LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
-(31) În cazul infracţiunilor uşoare sau mai puţin grave, condamnatul este în drept să achite jumătate din amenda stabilită dacă o plăteşte în cel mult 72 de ore din momentul în care hotărîrea devine executorie. În acest caz, se consideră că sancţiunea amenzii este executată integral.
+(31) În cazul infracţiunilor uşoare sau mai puţin grave, condamnatul este în drept să achite jumătate din amenda stabilită dacă o plăteşte în cel mult 3 zile lucrătoare din momentul în care hotărîrea devine executorie. În acest caz, se consideră că sancţiunea amenzii este executată integral.
+[Art. 64 al.(31) modificat LP207 din 12.10.18, MO410-415/02.11.18 art.643]
 [Art.64 al.(31) introdus prin LP82 din 29.05.14, MO319-324/24.10.14 art.632]
 (4) În cazurile prevăzute la art.21 alin. (3), mărimea amenzii pentru persoanele juridice se stabileşte în limitele de la 1500 la 60000 unităţi convenţionale, în funcţie de caracterul şi gravitatea infracţiunii săvîrşite, de mărimea daunei cauzate, luîndu-se în considerare situaţia economico-financiară a persoanei juridice. În caz de eschivare cu rea-voinţă a persoanei juridice de la achitarea amenzii fixate, instanţa de judecată poate să înlocuiască suma neachitată a amenzii cu urmărirea patrimoniului.
 [Art.64 al.(4) modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
@@ -4223,6 +4226,7 @@ b) săvîrşite de o persoană cu funcţie de demnitate publică;
 c) săvîrşite în interesul unui grup criminal organizat sau al unei organizaţii criminale;
 d) soldate cu urmări grave,
 se pedepsesc cu închisoare de la 6 la 10 ani cu privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate pe un termen de la 10 la 15 ani.
+[Art.328 al.(3), lit.d) declarată neconstrituțional prin HCC22 din 01.10.18, MO416-422/09.11.18 art.146; în vigoare 01.10.18]
 [Art.328 al.(3), sancţiunea modificată prin LP326 din 23.12.13, MO47-48/25.02.14 art.92; în vigoare 25.02.14]
 Articolul 329. Neglijenţa în serviciu
 (1) Neîndeplinirea sau îndeplinirea necorespunzătoare de către o persoană publică a obligaţiilor de serviciu ca rezultat al unei atitudini neglijente sau neconştiincioase faţă de ele, dacă aceasta a cauzat daune în proporţii mari intereselor publice sau drepturilor şi intereselor ocrotite de lege ale persoanelor fizice sau juridice,
