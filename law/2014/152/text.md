@@ -14,6 +14,7 @@ Nr. 319-324
 art Nr : 634
 Data intrarii in vigoare : 23.11.2014
 MODIFICAT
+LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18
 LP172 din 27.07.18, MO321-332/24.08.18 art.529; în vigoare 24.08.18
 LP140 din 27.07.18, MO309-320/17.08.18 art.478; în vigoare 17.08.18
 LP79 din 24.05.18, MO195-209/15.06.18 art.338
@@ -1425,7 +1426,8 @@ UNITĂŢI CONEXE ŞI SERVICII ADIACENTE
 Articolul 128. Bibliotecile din învăţămînt
 (1) Bibliotecile din instituţiile de învăţămînt sînt parte integrantă a sistemului de învăţămînt şi participă la activitatea didactică, cultural-educativă, de cercetare şi perfecţionare. Bibliotecile contribuie, prin mijloace specifice, la procesul de instruire, formare şi cercetare ce se desfăşoară în instituţia de învăţămînt.
 (2) Biblioteca din instituţia de învăţămînt are ca obiectiv principal asigurarea posibilităţilor de informare, documentare, lectură, recreere şi studiu elevilor, studenţilor, cadrelor didactice, cercetătorilor, personalului nedidactic şi auxiliar, prin oferirea accesului nelimitat la fondul de carte.
-(3) Bibliotecarii din învăţămînt beneficiază de facilităţi şi pot aspira la categorii de calificare în conformitate cu legislaţia în vigoare. Pentru categoriile de calificare se acordă un spor la salariu stabilit prin acte normative aprobate de Guvern.
+(3) Bibliotecarii din învăţămînt beneficiază de facilităţi şi pot aspira la categorii de calificare în conformitate cu legislaţia în vigoare.
+[Art.128 al.(3) modificat prin LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18]
 (4) Bibliotecile din învăţămînt funcţionează în baza unui regula­ment-cadru, aprobat de Ministerul Educației, Culturii și Cercetării, şi a altor acte nor­mative în domeniu.
 (5) Bibliotecile din instituţiile de învăţămînt pot crea consorţii pentru achiziţia partajată şi utilizarea în comun a surselor documentare (baze de date, reviste electronice).
 (6) La nivel naţional pot fi organizate biblioteci şcolare virtuale cu funcţii de e-learning, cu fonduri de curricula şcolare, proiecte didactice, ghiduri metodologice, manuale electronice, exemple de teste docimologice etc.
@@ -1453,7 +1455,7 @@ Articolul 131. Prevederi generale
 (1) Personalul didactic, ştiinţifico-didactic, ştiinţific şi de conducere din învăţămînt are misiunea să asigure realizarea standardelor educaţionale de stat de educaţie generală şi de formare profe­sională iniţială şi continuă.
 (2) Personalul didactic, ştiinţifico-didactic, ştiinţific şi de conducere poate obţine grade didactice şi manageriale, titluri ştiinţifice şi titluri ştiinţifico-didactice în conformitate cu legislaţia în vigoare.
 (3) Personalul didactic din învăţămîntul general şi profesional tehnic care confirmă un stagiu de activitate de 30 de ani în învăţămînt sau care a atins vîrsta de pensionare îşi păstrează gradul didactic deţinut.
-(4) Pentru gradele didactice şi manageriale şi pentru titlurile ştiinţifice se acordă spor la salariu conform actelor normative aprobate de Guvern.
+[Art.131 al.(4) abrogat prin LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18]
 (5) În instituţiile de învăţămînt superior, cel puţin 50% din funcţiile ştiinţifico-didactice trebuie să fie ocupate de cadre didactice titulare.
 Articolul 132. Cerinţele minime de calificare pentru ocuparea
 funcţiilor didactice şi ştiinţifico-didactice
@@ -1573,7 +1575,9 @@ d) aprobă structura şi efectivul-limită ale Ministerului Educaţiei, Culturii
 e) monitorizează activitatea Ministerului Educaţiei, Culturii și Cercetării;
 f) decide asupra propunerilor Ministerului Educaţiei, Culturii și Cercetării, ale altor autorităţi administrative centrale şi ale instituţiilor publice privind înfiinţarea, reorganizarea sau lichidarea instituţiilor publice de învăţămînt special, profesional tehnic, superior şi de formare continuă;
 g) aprobă planul (comanda de stat) de pregătire a cadrelor de specialitate cu finanţare de la bugetul de stat, pe meserii, specialităţi şi domenii generale de studiu, în instituţiile de învăţămînt profesional tehnic şi superior;
-h) aprobă normativele de timp şi de cheltuieli pentru organizarea şi desfăşurarea examenelor de absolvire în învăţămîntul gimnazial şi liceal şi pentru organizarea şi desfăşurarea evaluării finale în învăţămîntul primar.
+h) aprobă normativele de timp şi de cheltuieli pentru organizarea şi desfăşurarea examenelor de absolvire în învăţămîntul gimnazial şi liceal şi pentru organizarea şi desfăşurarea evaluării finale în învăţămîntul primar;
+i) aprobă condițiile de salarizare a personalului din instituțiile de învățămînt care funcționează în regim de autogestiune financiar-economică.
+[Art.139 lit.i) introdusă prin LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18]
 Articolul 140. Atribuţiile Ministerului Educaţiei, Culturii și Cercetării
 (1) Ministerul Educaţiei, Culturii și Cercetării are următoarele atribuţii:
 a) elaborează şi promovează politicile de stat în domeniul educaţiei şi cercetării din învăţămîntul superior;
@@ -1680,7 +1684,8 @@ d) finanţare prin concurs pe bază de proiecte.
 (2) Pentru activităţi şi prog­rame de studii, suplimentare faţă de pachetul standard de servicii educaţionale finanţat de la bugetul de stat, se pot percepe taxe în conformitate cu legislaţia în vigoare.
 (3) Costul-standard per elev sau student constituie baza pentru calcularea taxelor de studii.
 (4) Instituţiile de învăţămînt profesional tehnic, de învăţămînt superior şi de formare continuă pot obţine şi utiliza, în condiţiile legii, venituri proprii, provenite din taxele achitate de persoane fizice şi juridice interesate, inclusiv din străinătate, pentru studii, perfec­ţio­nare şi recalificare profesională pe bază de contract.
-(5) Instituţiile de învăţămînt profesional tehnic, superior şi de formare continuă funcţionează în regim de autogestiune financiar-economică şi pot desfăşura activităţi economice, în conformitate cu legislaţia în vigoare.
+(5) Instituţiile de învăţămînt profesional tehnic, superior şi de formare continuă funcţionează în regim de autogestiune financiar-economică şi pot desfăşura activităţi economice, în conformitate cu legislaţia în vigoare. Condițiile de salarizare a personalului din instituțiile de învățămînt care funcționează în regim de autogestiune financiar-economică sînt aprobate de Guvern.
+[Art.145 al.(5) modificat prin LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18]
 (6) Învăţămîntul poate fi susţinut de asociaţii profesionale, de patronate şi autorităţi tutelare în conformitate cu legislaţia în vigoare.
 (7) Persoanele fizice şi juridice au dreptul să sprijine din mijloacele proprii, în condiţiile legii, dezvoltarea bazei materiale a instituţiilor de învăţămînt şi să acopere cheltuielile de formare profesională iniţială şi continuă a cadrelor didactice.
 (8) Persoanele fizice și persoanele juridice indiferent de tipul de proprietate şi forma juridică de organizare, care investesc mijloacele proprii în dezvoltarea sistemului de educaţie beneficiază de facilităţi fiscale în modul stabilit de legislaţia în vigoare.
