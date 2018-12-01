@@ -15,6 +15,10 @@ Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP304 din 30.11.18, MO480-485/14.12.18 art.802; în vigoare 01.01.19
+LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18
+LP238 din 08.11.18, MO441-447/30.11.18 art.709
+LP229 din 01.11.18, MO441-447/30.11.18 art.705
 LP187 din 26.07.18, MO336-346/07.09.18 art.569
 LP191 din 27.07.18, MO321-332/24.08.18 art.535
 LP190 din 27.07.18, MO321-332/24.08.18 art.533
