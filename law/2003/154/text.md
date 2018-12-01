@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18
 LP184 din 26.07.18, MO336-346/07.09.18 art.567; în vigoare 01.01.19
 LP123 din 12.07.18, MO277-284/27.07.18 art.423
 LP85 din 24.05.18, MO210-223/22.06.18 art.350
@@ -1282,7 +1283,8 @@ Articolul 110. Munca în zilele de repaus
 [Art.110 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.110 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 111. Zilele de sărbătoare nelucrătoare
-(1) În Republica Moldova, zile de sărbătoare nelucrătoare, cu plata salariului mediu (pentru salariaţii care sînt remuneraţi în acord sau pe unitate de timp – oră sau zi), sînt:
+(1) În Republica Moldova, zile de sărbătoare nelucrătoare, cu plata salariului mediu (pentru salariaţii care sînt remuneraţi în acord, cu salarii lunare sau pe unitate de timp – oră sau zi), sînt:
+[Art.111 al.(1) modificat prin LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18]
 [Art.111 al.(1) modificat prin LP254 din 09.12.11, MO25-28/03.02.12 art.79]
 [Art.111 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 a) 1 ianuarie – Anul Nou;
@@ -1672,6 +1674,8 @@ Articolul 157. Retribuirea muncii suplimentare
 [Art.157 al.(1) modificat prin LP242-XVI din 20.11.08, MO237-240/31.12.08 art.860]
 (2) În cazul retribuirii muncii în acord cu aplicarea sistemului tarifar de salarizare, pentru munca suplimentară se plăteşte un adaos de cel puţin 50 la sută din salariul tarifar al salariatului de categoria respectivă, remunerat pe unitate de timp pentru primele 2 ore, şi în mărime de cel puţin 100 la sută din acest salariu tarifar – pentru orele următoare, iar cu aplicarea sistemelor netarifare de salarizare – de 50 la sută pentru primele 2 ore şi, respectiv, 100 la sută din cuantumul minim garantat al salariului pe unitate de timp în sectorul real – pentru orele următoare.
 [Art.157 al.(2) modificat prin LP242-XVI din 20.11.08, MO237-240/31.12.08 art.860]
+(21) În cazul retribuirii muncii cu salariu lunar, pentru munca suplimentară se plătește un spor, calculat pe unitate de timp, în mărime de 50 la sută din salariul de bază – pentru primele 2 ore și în mărime de 100 la sută din salariul de bază – pentru orele următoare.
+[Art.157 al.(21) introdus prin LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18]
 (3) Compensarea muncii suplimentare cu timp liber nu se admite.
 Articolul 158. Compensaţia pentru munca prestată
 în zilele de repaus şi în cele de sărbătoare
