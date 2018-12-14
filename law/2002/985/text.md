@@ -13,6 +13,7 @@ Publicat : 14.04.2009
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP233 din 08.11.18, MO448-460/07.12.18 art.731
 HCC22 din 01.10.18, MO416-422/09.11.18 art.146; în vigoare 01.10.18
 LP207 din 12.10.18, MO410-415/02.11.18 art.643
 LP157 din 26.07.18, MO347-357/14.09.18 art.586
@@ -355,7 +356,6 @@ Articolul 54. Liberarea de răspundere penală a minorilor
 [Art.54 al.(2) modificat prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
 Articolul 55. Liberarea de răspundere penală cu tragerea
 la răspundere contravenţională
-(1) Persoana care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă, cu excepţia infracțiunilor prevăzute la art. 1811, 256, 303, 314, art. 326 alin. (1) şi (11), art. 327 alin. (1), art. 328 alin. (1), art. 332 alin. (1), art. 333 alin. (1), art. 334 alin. (1) şi (2), art. 335 alin. (1) și art. 3351 alin. (1), poate fi liberată de răspundere penală şi trasă la răspundere contravenţională în cazurile în care şi-a recunoscut vina, a reparat prejudiciul cauzat prin infracţiune şi s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
 (1) Persoana care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă, cu excepţia infracțiunilor prevăzute la art. 1811, 256, art. 264 alin. (2), art. 2641 , 303, 314, art. 326 alin. (1) şi (11), art. 327 alin. (1), art. 328 alin. (1), art. 332 alin. (1), art. 333 alin. (1), art. 334 alin. (1) şi (2), art. 335 alin. (1) și art. 3351 alin. (1), poate fi liberată de răspundere penală şi trasă la răspundere contravenţională în cazurile în care şi-a recunoscut vina, a reparat prejudiciul cauzat prin infracţiune şi s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
 [Art.55 al.(1) modificat prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.55 al.(1) modificat prin LP93 din 13.05.16, MO163-168/17.06.16 art.333]
@@ -919,7 +919,8 @@ Articolul 108. Graţierea
 (5) Graţierea nu se aplică persoanelor care au săvîrşit asupra minorilor infracţiuni prevăzute la art. 171–1751, 201, 206, 208, 2081 şi 2082.
 [Art.108 al.(5) modificat prin LP43 din 22.03.13, MO82/12.04.13 art.256]
 Articolul 109. Împăcarea
-(1) Împăcarea este actul de înlăturare a răspunderii penale pentru o infracţiune uşoară sau mai puţin gravă, iar în cazul minorilor, şi pentru o infracţiune gravă infracţiuni prevăzute la capitolele II – VI din Partea specială, precum şi în cazurile prevăzute de procedura penală, dacă persoana nu are antecedente penale pentru infracţiuni similare comise cu intenţie sau dacă în privinţa sa nu a mai fost dispusă încetarea procesului penal, ca rezultat al împăcării, pentru infracţiuni similare comise cu intenție în ultimii cinci ani.
+(1) Împăcarea este actul de înlăturare a răspunderii penale pentru o infracţiune uşoară sau mai puţin gravă, iar în cazul minorilor, şi pentru o infracţiune gravă infracţiuni prevăzute la capitolele II – VI, la art. 264 alin. (1) din Partea specială, precum şi în cazurile prevăzute de procedura penală, dacă persoana nu are antecedente penale pentru infracţiuni similare comise cu intenţie sau dacă în privinţa sa nu a mai fost dispusă încetarea procesului penal, ca rezultat al împăcării, pentru infracţiuni similare comise cu intenție în ultimii cinci ani.
+[Art.109 al.(1) modificat prin LP233 din 08.11.18, MO448-460/07.12.18 art.731]
 [Art.109 al.(1) modificat prin LP130 din 09.06.16, MO206-214/15.07.16 art.446]
 (2) Împăcarea este personală şi produce efecte juridice din momentul pornirii urmăririi penale şi pînă la retragerea completului de judecată pentru deliberare.
 (3) Pentru persoanele lipsite de capacitate de exerciţiu, împăcarea se face de reprezentanţii lor legali. Cei cu capacitate de exerciţiu restrînsă se pot împăca cu încuviinţarea persoanelor prevăzute de lege.
@@ -3435,26 +3436,21 @@ mijlocul de transport
 se pedepseşte cu amendă în mărime de pînă la 650 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 180 la 240 de ore, sau cu închisoare de pînă la 3 ani cu (sau fără) privarea de dreptul de a conduce mijloace de transport pe un termen de pînă la 2 ani.
 [Art.264 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Aceeaşi acţiune săvîrşită în stare de ebrietate
-se pedepseşte cu amendă în mărime de la 950 la 1350 unităţi convenţionale, sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore sau cu închisoare de pînă la 4 ani, în toate cazurile cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
 se pedepseşte cu amendă în mărime de la 950 la 1350 unităţi convenţionale, sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore sau cu închisoare de pînă la 4 ani, în toate cazurile cu anularea dreptului de a conduce mijloace de transport.
 [Art.264 al.(2), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.264 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Acţiunea prevăzută la alin.(1), care a provocat:
 a) vătămarea gravă a integrităţii corporale sau a sănătăţii;
 b) decesul unei persoane,
-se pedepseşte cu închisoare de la 3 la 7 ani cu privarea de dreptul de a conduce mijloace de transport pe un termen de pînă la 4 ani.
 se pedepseşte cu închisoare de la 3 la 7 ani cu anularea dreptului de a conduce mijloace de transport.
 [Art.264 al.(3), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 (4) Acţiunea prevăzută la alin.(3), săvîrşită în stare de ebrietate,
-se pedepseşte cu închisoare de la 4 la 8 ani cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 4 la 5 ani.
 se pedepseşte cu închisoare de la 4 la 8 ani cu anularea dreptului de a conduce mijloace de transport.
 [Art.264 al.(4), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 (5) Acţiunea prevăzută la alin.(1), care a cauzat decesul a două sau mai multor persoane,
-se pedepseşte cu închisoare de la 6 la 10 ani cu privarea de dreptul de a conduce mijloace de transport pe un termen de pînă la 5 ani.
 se pedepseşte cu închisoare de la 6 la 10 ani cu anularea dreptului de a conduce mijloace de transport.
 [Art.264 al.(5), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 (6) Acţiunea prevăzută la alin.(5), săvîrşită în stare de ebrietate,
-se pedepseşte cu închisoare de la 7 la 12 ani cu privarea de dreptul de a conduce mijloace de transport pe un termen de 5 ani.
 se pedepseşte cu închisoare de la 7 la 12 ani cu anularea dreptului de a conduce mijloace de transport.
 [Art.264 al.(6), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 Articolul 2641. Conducerea mijlocului de transport în stare de ebrietate
@@ -3463,22 +3459,18 @@ de alte substanţe
 (1) Conducerea mijlocului de transport de către o persoană care se află în stare de ebrietate alcoolică cu grad avansat sau în stare de ebrietate produsă de substanțe stupefiante
 [Art.2641 al.(1), dispoziția modificată prin LP164 din 20.07.17, MO277-288/04.08.17 art.485]
 [Art.2641 al.(1), dispoziția modificată prin LP141 din 13.07.17, MO277-288/04.08.17 art.469]
-se pedepseşte cu amendă în mărime de la 750 la 850 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, cu anularea dreptului de a conduce mijloace de transport.
 [Art.2641 al.(1), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.2641 al.(1), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (2) Predarea cu bună ştiinţă a conducerii mijlocului de transport către o persoană care se află în stare de ebrietate, dacă această acţiune a provocat urmările indicate la art.264,
-se pedepseşte cu amendă în mărime de la 800 la 900 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, cu anularea dreptului de a conduce mijloace de transport.
 [Art.2641 al.(2), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.2641 al.(2), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (3) Refuzul, împotrivirea sau eschivarea conducătorului mijlocului de transport de la testarea alcoolscopică, de la examenul medical în vederea stabilirii stării de ebrietate şi a naturii ei sau de la recoltarea probelor biologice în cadrul acestui examen medical
-se pedepseşte cu amendă în mărime de la 900 la 1000 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu privarea de dreptul de a conduce mijloace de transport pe un termen de la 3 la 5 ani.
 se pedepseşte cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, în ambele cazuri cu anularea dreptului de a conduce mijloace de transport.
 [Art.2641 al.(3), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.2641 al.(3), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
 (4) Acţiunile prevăzute la alin.(1)–(3), săvîrşite de către o persoană care nu deţine permis de conducere sau care este privată de dreptul de a conduce mijloace de transport,
-se pedepsesc cu amendă în mărime de la 1050 la 1150 unităţi convenţionale sau cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore, sau cu închisoare de pînă la 1 an.
 se pedepsesc cu muncă neremunerată în folosul comunităţii de la 200 la 240 de ore sau cu închisoare de pînă la 1 an.
 [Art.2641 al.(4), sancţiunea modificată prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.2641 al.(4), sancţiunea modificată prin LP207 din 29.07.16, MO369-378/28.10.16 art.751; în vigoare 07.11.16]
