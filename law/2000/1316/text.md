@@ -7,12 +7,14 @@ PARLAMENTUL
 COD
 Nr. 1316
 din 26.10.2000
-CODUL FAMILIEI
+FAMILIEI
 Publicat : 26.04.2001
 în Monitorul Oficial
 Nr. 47-48
 art Nr : 210
 MODIFICAT
+LP246 din 15.11.18, MO30-37/01.02.19 art.89; în vigoare 01.03.19
+LP133 din 15.11.18, MO467-479/14.12.18 art.784, în vigoare 14.01.19
 LP79 din 24.05.18, MO195-209/15.06.18 art.338
 LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18
 LP83 din 25.05.17, MO229-243/07.07.17 art.362
@@ -223,11 +225,11 @@ Articolul 33. Temeiurile încetării căsătoriei
 (1) Căsătoria încetează în urma decesului sau a declarării pe cale judecătorească a decesului unuia dintre soţi.
 (2) Căsătoria poate înceta prin divorţ (desfacere), în baza cererii unuia sau a ambilor soţi ori a tutorelui soţului în privinţa căruia s-a instituit măsura de ocrotire judiciară sub forma tutelei.
 [Art.33 al.(2) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
-Articolul 34. Limitarea dreptului soţului de a cere desfacerea
-căsătoriei
+Articolul 34. Limitarea dreptului soţului de a cere desfacerea căsătoriei
 În lipsa acordului soţiei, soţul nu poate cere desfacerea căsătoriei în timpul gravidităţii acesteia şi timp de un an după naşterea copilului dacă acesta s-a născut viu şi trăieşte.
 Articolul 35. Modalitatea de desfacere a căsătoriei
-În cazurile prevăzute la art.36 alin.(1) şi (2), căsătoria se desface de către organul de stare civilă, iar în cazurile prevăzute la art.36 alin.(4) şi (5) şi la art.37 - pe cale judecătorească.
+În cazurile prevăzute la art. 36 alin. (1) şi (2), căsătoria se desface de către organul de stare civilă, în cazurile prevăzute la art. 36 alin. (4) şi (5) şi la art. 37 – pe cale judecătorească, iar în condițiile prevăzute la art. 41 și 42 din Legea nr. 246/2018 privind procedura notarială – de către notar.
+[Art.35 în redacția LP246 din 15.11.18, MO30-37/01.02.19 art.89; în vigoare 01.03.19]
 Articolul 36. Desfacerea căsătoriei la organul de stare civilă
 (1) În baza acordului comun al soţilor, în cazurile în care între aceștia nu există neînțelegeri referitoare la partajul proprietății comune în devălmășie, la întreținerea, educația și domiciliul copiilor minori comuni sau la întreținerea unuia dintre soți, căsătoria este desfăcută la organul de stare civilă în a cărui rază teritorială se află domiciliul unuia dintre soţi. Soții participă la desfacerea căsătoriei în condiţiile Legii nr. 100/2001 privind actele de stare civilă.
 [Art.36 al.(1) în redacția LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
@@ -242,7 +244,8 @@ c) a fost condamnat la privaţiune de libertate pe un termen mai mare de 3 ani.
 (5) Dacă, după desfacerea căsătoriei de către organul de stare civilă, între soţi apar litigii referitoare la partaj, la întreținerea, educația și domiciliul copiilor minori comuni sau la întreținerea unuia dintre soți, acestea se vor soluţiona pe cale judecătorească.
 [Art.36 al.(5) modificat prin LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 Articolul 37. Desfacerea căsătoriei de către instanţa judecătorească
-(1) Dacă soţii au copii minori comuni și nu au ajuns la un acord privind întreținerea, educația și domiciliul acestora sau în lipsa acordului la divorţ al unuia dintre soţi, cu excepţia cazurilor prevăzute la art. 36 alin. (2), desfacerea căsătoriei are loc pe cale judecătorească.
+(1) Dacă soţii au copii minori comuni și nu au ajuns la un acord privind întreținerea, educația și domiciliul acestora sau în lipsa acordului la divorţ al unuia dintre soţi, cu excepţia cazurilor prevăzute la art. 36 alin. (2) și a cazurilor în care căsătoria a fost desfăcută prin încheiere notarială, desfacerea căsătoriei are loc pe cale judecătorească.
+[Art.37 al.(1) modificat prin LP246 din 15.11.18, MO30-37/01.02.19 art.89; în vigoare 01.03.19]
 [Art.37 al.(1) în redacția LP17 din 05.04.18, MO142-148/04.05.18 art.277; în vigoare 01.06.18]
 (2) Desfacerea căsătoriei are loc pe cale judecătorească şi în cazurile cînd există acordul la divorţ al ambilor soţi, însă unul dintre ei refuză să se prezinte la organul de stare civilă pentru soluţionarea problemei.
 (3) Instanţa judecătorească va desface căsătoria dacă va constata că convieţuirea soţilor şi păstrarea familiei în continuare sînt imposibile.
@@ -262,11 +265,12 @@ d) să stabilească cu cine dintre părinţi vor locui copiii minori după divor
 (3) Litigiile, altele decît cele expuse în prezentul articol, nu pot fi soluţionate în procesul de desfacere a căsătoriei, cu excepţia acţiunii de contestare a paternităţii la cererea soţului.
 (4) Dacă, la împărţirea bunurilor proprietate în devălmăşie a soţilor, vor fi atinse interesele persoanelor terţe, instanţa judecătorească va dispune examinarea cererii respective într-un proces aparte.
 Articolul 39. Momentul încetării căsătoriei
-(1) În cazul desfacerii căsătoriei la organul de stare civilă, aceasta încetează din ziua înregistrării divorţului, iar în cazul desfacerii căsătoriei pe cale judecătorească - din ziua cînd hotărîrea instanţei judecătoreşti a rămas definitivă.
+(1) În cazul desfacerii căsătoriei la organul de stare civilă, la notar, aceasta încetează din ziua înregistrării divorţului, iar în cazul desfacerii căsătoriei pe cale judecătorească - din ziua cînd hotărîrea instanţei judecătoreşti a rămas definitivă.
+[Art.39 al.(1) modificat prin LP246 din 15.11.18, MO30-37/01.02.19 art.89; în vigoare 01.03.19]
 (2) Dacă problema divorţului a fost soluţionată pe cale judecătorească, acesta urmează a fi înregistrat în modul prevăzut pentru înregistrarea de stat a actelor de stare civilă. Soţii nu au dreptul să încheie o nouă căsătorie pînă la obţinerea certificatului de divorţ de la organul de stare civilă în a cărui rază teritorială se află domiciliul acestora.
 (3) Instanţa judecătorească este obligată să transmită, în termen de 3 zile de la data cînd hotărîrea privind desfacerea căsătoriei a rămas definitivă, o copie a acesteia organului de stare civilă din raza ei teritorială.
-Articolul 40. Restabilirea căsătoriei în cazul apariţiei
-soţului declarat decedat sau dispărut
+Articolul 40. Restabilirea căsătoriei în cazul apariţiei soţului declarat
+decedat sau dispărut
 (1) În cazul apariţiei soţului declarat, în modul stabilit de lege, decedat sau dispărut şi anulării hotărîrii respective a instanţei judecătoreşti, organul de stare civilă poate restabili căsătoria respectivă, la cererea comună a soţilor, dacă celălalt soţ nu a încheiat o nouă căsătorie.
 (2) În cazul restabilirii căsătoriei, se consideră că aceasta nu a fost întreruptă. Bunurile dobîndite în perioada de absenţă a unuia dintre soţi aparţin soţului care le-a dobîndit.
 Capitolul 8
@@ -277,8 +281,8 @@ a) a fost încheiată cu încălcarea prevederilor art.11, 13, 14 sau 15;
 b) a fost încheiată cînd soţii sau unul dintre ei nu a avut intenţia de a crea o familie (căsătorie fictivă).
 (2) Căsătoria declarată nulă se consideră ca atare din momentul încheierii ei.
 (3) Instanţa judecătorească este obligată să transmită, în termen de 3 zile de la data cînd hotărîrea privind declararea nulităţii căsătoriei a rămas definitivă, o copie a acesteia organului de stare civilă din raza teritorială a instanţei judecătoreşti.
-Articolul 42. Persoanele care au dreptul să ceară
-declararea nulităţii căsătoriei
+Articolul 42. Persoanele care au dreptul să ceară declararea nulităţii
+căsătoriei
 (1) Dreptul de a cere declararea nulităţii căsătoriei îl au următoarele persoane:
 a) soţul minor, părinţii lui (tutorii) sau autoritatea tutelară locală, dacă căsătoria a fost încheiată de o persoană care nu a atins vîrsta matrimonială şi această vîrstă nu a fost redusă în modul stabilit. După atingerea de către soţul minor a vîrstei de 18 ani, dreptul de a cere declararea nulităţii căsătoriei îi aparţine numai lui;
 [Art.42 al.(1), lit.a) modificată prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
@@ -333,27 +337,25 @@ Articolul 47. Stabilirea provenienţei copilului
 Articolul 48. Stabilirea paternităţii în instanţa judecătorească
 Dacă copilul este născut din părinţi necăsătoriţi între ei şi în lipsa declaraţiei comune a părinţilor sau a tatălui copilului, paternitatea se stabileşte de către instanţa judecătorească în baza declaraţiei unuia dintre părinţi, a tutorelui (curatorului) copilului sau a copilului însuşi la atingerea majoratului.
 Articolul 49. Contestarea paternităţii (maternităţii)
-(1) Paternitatea (maternitatea) poate fi contestată numai pe cale judecătorească de către persoanele înscrise drept tată sau mamă sau de către persoanele care sînt mama sau tatăl firesc al copilului, de către copil la atingerea majoratului, de către tutorele (curatorul) copilului. În cazul în care în privința tatălui este instituită o măsură de ocrotire judiciară, se aplică prevederile art. 4852 şi 4853 din Codul civil.
+(1) Paternitatea (maternitatea) poate fi contestată numai pe cale judecătorească de către persoanele înscrise drept tată sau mamă sau de către persoanele care sînt mama sau tatăl firesc al copilului, de către copil la atingerea majoratului, de către tutorele (curatorul) copilului. În cazul în care în privința părintelui este instituită o măsură de ocrotire judiciară, se aplică prevederile art. 4852 şi 4853 din Codul civil.
+[Art.49 al.(1) modificat prin LP133 din 15.11.18, MO467-479/14.12.18 art.784, în vigoare 14.01.19]
 [Art.49 al.(1) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 (2) Cererea privind contestarea paternităţii (maternităţii) poate fi depusă timp de un an din momentul cînd una din persoanele enumerate la alin.(1) a aflat sau trebuia să fi aflat despre înscrierea privind paternitatea (maternitatea) sau din momentul atingerii majoratului, în cazul unui minor.
 (3) Nu au dreptul să conteste paternitatea:
 a) soţul care şi-a dat acordul scris la fecundarea artificială sau implantarea embrionului soţiei;
 b) persoana care a fost înscrisă drept tată al copilului în baza declaraţiei comune a acesteia şi a mamei copilului sau în baza declaraţiei proprii, dacă în momentul depunerii acesteia ştia că nu este tatăl firesc al copilului.
-Articolul 50. Drepturile şi obligaţiile copiilor născuţi
-în afara căsătoriei
+Articolul 50. Drepturile şi obligaţiile copiilor născuţi în afara căsătoriei
 Copiii născuţi în afara căsătoriei au aceleaşi drepturi şi obligaţii faţă de părinţii şi rudele lor ca şi cei născuţi de la persoane căsătorite.
 Capitolul 10
 DREPTURILE COPIILOR MINORI
-Articolul 51. Dreptul copilului la abitaţie şi educaţie în
-familie
+Articolul 51. Dreptul copilului la abitaţie şi educaţie în familie
 (1) Se consideră copil persoana care nu a atins vîrsta de 18 ani (majoratul).
 (2) Fiecare copil are dreptul să locuiască în familie, să-şi cunoască părinţii, să beneficieze de grija lor, să coabiteze cu ei, cu excepţia cazurilor cînd aceasta contravine intereselor copilului.
 (3) Copilul are dreptul la educaţie din partea părinţilor, la dezvoltarea capacităţilor intelectuale, la libertatea gîndirii şi conştiinţei, la apărarea demnităţii şi onoarei.
 (4) În cazul copiilor separaţi de părinţi, drepturile copilului la îngrijire şi educație sînt asigurate de reprezentantul legal.
 [Art.51 al.(4) în redacția LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.51 al.(4) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
-Articolul 52. Dreptul copilului de a comunica cu părinţii
-şi alte rude
+Articolul 52. Dreptul copilului de a comunica cu părinţii şi alte rude
 (1) Copilul are dreptul să comunice cu ambii părinţi, cu buneii, fraţii, surorile şi cu celelalte rude. Desfacerea căsătoriei părinţilor, nulitatea ei sau traiul separat al acestora nu afectează drepturile copilului. În cazul cînd părinţii au domiciliul separat, copilul are dreptul să comunice cu fiecare dintre ei.
 (2) Copilul aflat în situaţii extreme (reţinere, arest etc.) are dreptul să ia legătura cu părinţii sau cu alte rude în modul stabilit. Dacă nu este posibil de a contacta părinţii sau rudele copilului, va fi anunţată imediat autoritatea tutelară locală.
 [Art.52 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
@@ -396,13 +398,11 @@ Articolul 57. Drepturile patrimoniale ale copilului
 (2) Dreptul de proprietate al copilului este realizat în modul stabilit de Codul civil.
 (3) Copilul nu are drept de proprietate asupra bunurilor părinţilor, iar părinţii - asupra bunurilor copiilor, excepţie făcînd dreptul la moştenire şi dreptul la întreţinere. Părinţii şi copiii care locuiesc împreună posedă şi folosesc bunurile fiecăruia dintre ei de comun acord.
 (4) În cazul apariţiei bunurilor comune ale părinţilor şi copiilor, drepturile de posesie, de folosinţă şi de dispoziţie a acestora sînt reglementate de legislaţia civilă.
-Articolul 571. Dreptul copilului la repararea prejudiciului
-material şi moral
+Articolul 571. Dreptul copilului la repararea prejudiciului material şi moral
 (1) Copilul are dreptul la repararea prejudiciului material şi moral cauzat prin vătămarea integrităţii corporale sau a sănătăţii, prin încălcarea drepturilor personale nepatrimoniale ca urmare a violenţei, neglijării, exploatării sau eschivării în orice alt mod a părinţilor de a-şi exercita drepturile şi obligaţiile părinteşti, care au prejudiciat viața și sănătatea copilului, precum şi prin neîndeplinirea sau îndeplinirea necorespunzătoare de către o autoritate publică sau instituţie a obligaţiei stabilite de actele normative în scopul protecţiei contra riscului de producere a unui anumit prejudiciu.
 (2) Repararea prejudiciului material şi moral are loc în modul prevăzut de legislaţia civilă.
 [Art.571 introdus prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
-Articolul 572. Autorităţile tutelare în domeniul protecţiei
-copilului
+Articolul 572. Autorităţile tutelare în domeniul protecţiei copilului
 Autorităţile tutelare sînt:
 a) autoritatea tutelară teritorială – secţiile/direcţiile asistenţă socială şi protecţie a familiei/Direcţia municipală pentru protecţia copilului Chişinău. În municipiile Bălţi şi Chişinău, autorităţile tutelare teritoriale exercită şi atribuţiile de autoritate tutelară locală, cu excepţia unităţilor administrativ-teritoriale autonome din componenţa acestora, în cadrul cărora atribuţiile de autoritate tutelară locală sînt exercitate de primarii unităţilor administrativ-teritoriale respective;
 b) autoritatea tutelară locală – primarii de sate (comune), orașe și municipii (cu excepția municipiilor Bălți și Chișinău).
@@ -415,16 +415,15 @@ Articolul 58. Drepturile şi obligaţiile părinţilor
 Articolul 59. Drepturile părinţilor minori
 (1) Părinţii minori au dreptul să locuiască împreună cu copilul lor şi să participe la educaţia lui.
 (2) Părinţii minori necăsătoriţi pot recunoaşte şi contesta paternitatea şi maternitatea în baze generale. Părinţii minori care nu au atins vîrsta de 16 ani pot cere stabilirea paternităţii pe cale judecătorească.
-Articolul 60. Drepturile şi obligaţiile părinţilor
-privind educaţia şi instruirea copiilor
+Articolul 60. Drepturile şi obligaţiile părinţilor privind educaţia şi instruirea
+copiilor
 (1) Părinţii au dreptul şi sînt obligaţi să-şi educe copiii conform propriilor convingeri, indiferent de faptul dacă locuiesc împreună sau separat.
 (2) Părinţii poartă răspundere pentru dezvoltarea fizică, intelectuală şi spirituală a copiilor şi au prioritate la educaţia lor faţă de oricare alte persoane.
 (3) Părinţii sînt obligaţi să asigure frecventarea de către copil a şcolii pînă la sfîrşitul anului de învăţămînt în care acesta atinge vîrsta de 16 ani. Instituţia de învăţămînt şi forma de instruire sînt alese de către părinţi, cu luarea în considerare a opiniei copilului.
 (4) Litigiile dintre părinţi privind educaţia şi instruirea copiilor se soluţionează de către autoritatea tutelară locală, iar decizia acesteia poate fi atacată pe cale judecătorească. Autoritatea tutelară recomandă părinţilor să se adreseze unui mediator pentru soluţionarea litigiului.
 [Art.60 al.(4) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.60 al.(4) modificat prin LP211 din 29.07.16, MO338-341/30.09.16 art.698]
-Articolul 61. Apărarea drepturilor şi intereselor
-legitime ale copiilor
+Articolul 61. Apărarea drepturilor şi intereselor legitime ale copiilor
 (1) Drepturile şi interesele legitime ale copiilor sînt apărate de către părinţii lor.
 (2) Părinţii sînt reprezentanţii legali ai copiilor lor şi acţionează în numele lor în relaţiile cu toate persoanele fizice şi juridice, inclusiv în autorităţile administraţiei publice şi instanţele judecătoreşti, fără a avea nevoie de împuterniciri speciale.
 (3) În cazul existenţei unor conflicte de interese între părinţi şi copii, acestea se soluţionează prin decizia autorității tutelare locale de la locul aflării copilului, care poate fi atacată pe cale judecătorească, interesele copiilor, în acest caz, fiind reprezentate de către autoritatea tutelară teritorială.
@@ -440,8 +439,8 @@ Articolul 63. Domiciliul copilului minor
 (2) Dacă un atare acord lipseşte, domiciliul minorului se stabileşte de către instanţa judecătorească, ţinîndu-se cont de interesele şi părerea copilului (dacă acesta a atins vîrsta de 10 ani). În acest caz, instanţa judecătorească va lua în considerare ataşamentul copilului faţă de fiecare dintre părinţi, faţă de fraţi şi surori, vîrsta copilului, calităţile morale ale părinţilor, relaţiile existente între fiecare părinte şi copil, posibilităţile părinţilor de a crea condiţii adecvate pentru educaţia şi dezvoltarea copilului (îndeletnicirile şi regimul de lucru, condiţiile de trai etc.)
 (3) La determinarea domiciliului copilului minor, instanţa judecătoreasă va cere şi avizul autorităţii tutelare teritoriale în a cărei rază teritorială se află domiciliul fiecăruia dintre părinţi.
 [Art.63 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
-Articolul 64. Exercitarea drepturilor părinteşti în cazul
-cînd părinţii locuiesc separat
+Articolul 64. Exercitarea drepturilor părinteşti în cazul cînd părinţii
+locuiesc separat
 (1) Părintele care locuieşte împreună cu copilul nu are dreptul să împiedice contactul dintre copil şi celălalt părinte care locuieşte separat, cu excepţia cazurilor cînd comportamentul acestuia din urmă este în detrimentul intereselor copilului sau prezintă pericol pentru starea lui fizică şi psihică.
 (2) Părinţii au dreptul să încheie un acrod privind exercitarea drepturilor părinteşti de către părintele care locuieşte separat de copil. Litigiile apărute se soluţionează de către autoritatea tutelară teritorială, iar decizia acesteia poate fi atacată în instanţa judecătorească, care va emite hotărîrea respectivă. Părinţii pot, din iniţiativă proprie sau la recomandarea autorităţii tutelare teritoriale, să se adreseze unui mediator pentru soluționarea litigiului.
 [Art.64 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
@@ -471,8 +470,7 @@ e) prin comportare amorală, influenţează negativ asupra copilului;
 f) suferă de alcoolism cronic sau de narcomanie;
 g) au săvîrşit infracţiuni premeditate contra vieţii şi sănătăţii copiilor sau a soţului; precum şi
 h) în alte cazuri cînd aceasta o cer interesele copilului.
-Articolul 68. Modalitatea de decădere din drepturile
-părinteşti
+Articolul 68. Modalitatea de decădere din drepturile părinteşti
 (1) Decăderea din drepturile părinteşti are loc numai pe cale judecătorească.
 (2) Acţiunea privind decăderea din drepturile părinteşti poate fi pornită de celălalt părinte, tutorele copilului, autoritatea tutelară locală/teritorială.
 [Art.68 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
@@ -492,8 +490,7 @@ Articolul 70. Restabilirea drepturilor părinteşti
 [Art.70 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (3) Restabilirea în drepturile părinteşti faţă de copilul care a atins vîrsta de 10 ani se admite ţinîndu-se cont de opinia copilului.
 (4) Dacă copilul a fost adoptat şi adopţia nu a fost desfăcută, hotărîrea privind decăderea din drepturile părinteşti poate fi anulată fără restabilirea drepturilor şi obligaţiilor de părinte.
-Articolul 71. Luarea copilului fără decădere din drepturile
-părinteşti
+Articolul 71. Luarea copilului fără decădere din drepturile părinteşti
 (1) La cererea autorităţii tutelare, instanţa judecătorească poate hotărî luarea copilului de la părinţi fără decăderea acestora din drepturile părinteşti, dacă aflarea copilului împreună cu părinţii prezintă pericol pentru viaţa şi sănătatea lui, şi asigurarea protecţiei copilului de către autoritatea tutelară teritorială.
 [Art.71 al.(1) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (2) În cazuri excepţionale, dacă există un pericol iminent pentru viaţa, sănătatea sau inviolabilitatea copilului, autoritatea tutelară locală poate decide luarea copilului de la părinţi, comunicînd acest fapt procurorului în termen de cel mult 24 de ore.
@@ -505,13 +502,12 @@ părinteşti
 (4) Cererea privind luarea copilului de la părinţi fără decăderea acestora din drepturile părinteşti se examinează cu participarea obligatorie a autorităţii tutelare, în a cărei evidenţă se află copilul.
 [Art.71 al.(4) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (5) La cererea părinţilor, instanţa judecătorească poate să le înapoieze copilul dacă aceasta nu contravine intereselor copilului.
-Articolul 72. Efectele luării copilului fără decădere
-din drepturile părinteşti
+Articolul 72. Efectele luării copilului fără decădere din drepturile părinteşti
 (1) În cazurile luării copilului fără decădere din drepturile părinteşti, părinţii pierd dreptul de a comunica cu acesta, de a participa personal la educaţia lui şi de a-i reprezenta interesele.
 (2) Părinţii de la care a fost luat copilul pot avea întrevederi cu acesta, în unele cazuri, doar cu permisiunea autorităţii tutelare în a cărei evidentă se află copilul și în baza avizului pozitiv al autorităţii tutelare locale în a cărei rază locuiesc părinţii copilului.
 [Art.72 al.(2) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
-Articolul 73. Participarea autorităţii tutelare la examinarea
-litigiilor privind educaţia copilului
+Articolul 73. Participarea autorităţii tutelare la examinarea litigiilor
+privind educaţia copilului
 (1) La examinarea de către instanţa judecătorească a litigiilor privind educaţia copilului este obligatorie participarea autorităţii tutelare teritoriale.
 [Art.73 al.(1) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (2) Autoritatea tutelară teritorială este obligată să examineze condiţiile de trai ale copilului şi ale persoanei care pretinde la educaţia copilului şi să prezinte instanţei judecătoreşti avizul respectiv.
@@ -527,39 +523,36 @@ Articolul 74. Obligaţia părinţilor de a-şi întreţine copiii
 (2) Modul de plată a pensiei de întreţinere se determină în baza unui contract încheiat între părinţi sau între părinţi şi copilul major inapt de muncă.
 (3) Dacă lipseşte un atare contract şi părinţii nu participă la întreţinerea copiilor, pensia de întreţinere se încasează pe cale judecătorească, la cererea unuia dintre părinţi, a tutorelui copilului sau a autorităţii tutelare teritoriale.
 [Art.74 al.(3) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
-Articolul 75. Cuantumul pensiei de întreţinere încasate
-pentru copilul minor
+Articolul 75. Cuantumul pensiei de întreţinere încasate pentru copilul
+minor
 (1) Pensia de întreţinere pentru copilul minor se încasează din salariul şi/sau din alte venituri ale părinţilor în mărime de 1/4 - pentru un copil, 1/3 - pentru 2 copii şi 1/2 - pentru 3 şi mai mulţi copii.
 (2) Cuantumul cotelor stabilite la alin.(1) poate fi micşorat sau majorat de instanţa judecătorească, ţinîndu-se cont de starea materială şi familială a părinţilor, de alte circumstanţe importante.
 (3) În cazul în care unii copii rămîn cu un părinte, iar alţii - cu celălalt, pensia de întreţinere plătită în favoarea părintelui mai puţin asigurat se stabileşte într-o sumă bănească fixă, determinată conform art.76.
-Articolul 76. Încasarea pensiei de întreţinere pentru
-copilul minor într-o sumă bănească fixă
+Articolul 76. Încasarea pensiei de întreţinere pentru copilul minor
+într-o sumă bănească fixă
 (1) În cazurile cînd părintele care datorează întreţinere copilului său are un salariu şi/sau alte venituri neregulate sau fluctuabile ori primeşte salariu şi/sau alte venituri, total sau parţial, în natură, ori nu are un salariu şi/sau alte venituri, precum şi în alte cazuri cînd, din anumite motive, încasarea pensiei de întreţinere, sub forma unei cote din salariu şi/sau alte venituri, este imposibilă, dificilă sau lezează substanţial interesele uneia dintre părţi, instanţa judecătorească poate să stabilească cuantumul pensiei de întreţinere într-o sumă bănească fixă plătită lunar sau, concomitent, într-o sumă bănească fixă şi sub forma unei cote din salariu şi/sau alte venituri conform art.75.
 (2) Cuantumul sumei băneşti fixe încasate în conformitate cu alin.(1) se determină de instanţa judecătorească, ţinîndu-se cont de starea materială şi familială a părţilor, de alte circumstanţe importante şi păstrîndu-se, dacă este posibil, nivelul anterior de asigurare materială a copilului.
-Articolul 77. Încasarea şi folosirea pensiei de întreţinere
-pentru copilul minor rămas fără ocrotire
-părintească
+Articolul 77. Încasarea şi folosirea pensiei de întreţinere pentru copilul minor
+rămas fără ocrotire părintească
 (1) Pensia de întreţinere a copilului minor care a rămas fără ocrotire părintească se plăteşte tutorelui (curatorului) acestuia.
 (2) Dacă copilul se află într-o instituţie educativă, curativă, de asistenţă socială sau altă instituţie similară, 50 la sută din pensia de întreţinere încasată de la părinţi se transferă pe contul instituţiei respective şi se ţine evidenţa pentru fiecare copil în parte, depunerile folosindu-se pentru întreţinerea copilului. Restul de 50 la sută se transferă într-un cont deschis pe numele copilului la o instituţie financiară.
-Articolul 78. Dreptul copiilor majori inapţi de muncă
-la pensie de întreţinere
+Articolul 78. Dreptul copiilor majori inapţi de muncă la pensie de întreţinere
 (1) Părinţii sînt obligaţi să-şi întreţină copiii majori inapţi de muncă care necesită sprijin material.
 (2) În caz de litigii privind achitarea pensiei de întreţinere, instanţa judecătorească stabileşte cuantumul acesteia pentru copiii majori inapţi de muncă într-o sumă bănească fixă plătită lunar, ţinîndu-se cont de starea materială şi familială, de alte circumstanţe importante.
-Articolul 79. Participarea părinţilor la cheltuielile
-suplimentare în favoarea copiilor
+Articolul 79. Participarea părinţilor la cheltuielile suplimentare în favoarea
+copiilor
 (1) În caz de litigii şi de circumstanţe excepţionale (boală gravă, mutilare a copilului minor sau a celui major inapt de muncă, necesitatea achitării cheltuielilor privind îngrijirea acestora etc.), în lipsa contractului între părţi, instanţa judecătorească poate obliga pe fiecare dintre părinţi să participe la cheltuielile suplimentare generate de aceste circumstanţe.
 (2) Modalitatea participării părinţilor la cheltuielile suplimentare, precum şi cuantumul acestor cheltuieli sînt stabilite de instanţa judecătorească, ţinîndu-se cont de starea materială şi familială a părinţilor şi copiilor şi de alte circumstanţe importante. Cuantumul cheltuielilor suplimentare se stabileşte într-o sumă bănească fixă, ce va fi achitată lunar.
 (3) Instanţa judecătorească poate obliga părinţii să participe la cheltuielile suplimentare deja făcute, precum şi la viitoarele cheltuieli suplimentare.
-Articolul 80. Obligaţia copiilor majori de a-şi întreţine
-părinţii
+Articolul 80. Obligaţia copiilor majori de a-şi întreţine părinţii
 (1) Copiii majori apţi de muncă sînt obligaţi să-şi întreţină şi să-şi îngrijească părinţii inapţi de muncă care necesită sprijin material.
 (2) Dacă nu există un contract privind întreţinerea părinţilor inapţi de muncă care necesită sprijin material, problema achitării pensiei de întreţinere de către copiii majori se soluţionează pe cale judecătorească.
 (3) Cuantumul pensiei de întreţinere se stabileşte de instanţa judecătorească într-o sumă bănească fixă plătită lunar, ţinîndu-se cont de starea materială şi familială a părinţilor şi a copiilor, de alte circumstanţe importante.
 (4) La stabilirea cuantumului pensiei, instanţa judecătorească este în drept să ţină cont de toţi copiii majori ai părintelui respectiv, indiferent de faptul dacă acţiunea a fost pornită faţă de unul, cîţiva sau toţi copiii.
 (5) Copilul poate fi eliberat de obligaţia de a-şi întreţine părinţii inapţi de muncă care necesită sprijin material dacă instanţa judecătorească va stabili că aceştia s-au eschivat de la îndeplinirea obligaţiilor părinteşti faţă de acest copil.
 (6) Copiii ai căror părinţi sînt decăzuţi din drepturile părinteşti se scutesc de obligaţia de întreţinere a acestora.
-Articolul 81. Participarea copiilor majori la cheltuielile
-suplimentare în favoarea părinţilor
+Articolul 81. Participarea copiilor majori la cheltuielile suplimentare
+în favoarea părinţilor
 (1) În circumstanţe excepţionale (boală gravă, dizabilitate severă sau accentuată, mutilare sau alt viciu al părintelui etc.), copiii majori pot fi obligaţi de către instanţa judecătorească să participe la cheltuielile suplimentare generate de aceste circumstanţe dacă lipseşte un contract între părţi sau dacă copiii refuză să participe benevol la aceste cheltuieli.
 [Art.81 al.(1) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (2) Modul de participare a copiilor majori la cheltuielile suplimentare în favoarea părinţilor şi cuantumul acestora se determină de instanţa judecătorească, conform dispoziţiilor art.80.
@@ -577,8 +570,7 @@ c) soţul care îngrijeşte copilul comun timp de 3 ani după naşterea acestuia
 d) soţul care îngrijeşte pînă la vîrsta de 18 ani un copil comun cu dizabilităţi sau care îngrijeşte un copil comun cu dizabilități severe din copilărie, dacă acest soţ nu lucrează şi copilul necesită îngrijire.
 [Art.82 al.(2), lit.d) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 (3) Pensia de întreţinere se plăteşte persoanelor enumerate la alin.(2) numai în cazul cînd acestea nu au un venit propriu suficient, iar soţul care datorează întreţinere are posibilitatea de a o plăti.
-Articolul 83. Dreptul fostului soţ la întreţinere
-după divorţ
+Articolul 83. Dreptul fostului soţ la întreţinere după divorţ
 Dreptul de a pretinde întreţinere de la fostul soţ pe cale judecătorească îl are:
 a) fosta soţie în timpul gravidităţii;
 b) fostul soţ, care necesită sprijin material, ocupat cu îngrijirea copilului comun timp de 3 ani după naşterea acestuia;
@@ -586,12 +578,10 @@ c) fostul soţ, care necesită sprijin material, ocupat cu îngrijirea copilului
 [Art.83 lit.c) modificată prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 d) fostul soţ, care necesită sprijin material, devenit inapt de muncă în timpul căsătoriei sau timp de un an după desfacerea acesteia;
 e) fostul soţ care necesită sprijin material şi a atins vîrsta de pensionare, în termen de cel mult 5 ani din momentul desfacerii căsătoriei, dacă soţii au fost căsătoriţi cel puţin 15 ani.
-Articolul 84. Cuantumul pensiei de întreţinere
-încasate de la soţ (fostul soţ)
+Articolul 84. Cuantumul pensiei de întreţinere încasate de la soţ (fostul soţ)
 Cuantumul pensiei de întreţinere încasate de la un soţ (fost soţ) în favoarea celuilalt soţ se stabileşte de către instanţa judecătorească într-o suma bănească fixă plătită lunar. La stabilirea sumei pensiei de întreţinere, se ţine cont de situaţia materială şi familială a soţilor (foştilor soţi), de alte circumstanţe importante.
-Articolul 85. Scutirea soţului (fostului soţ) de obligaţia
-de întreţinere sau limitarea în termen a acestei
-obligaţii
+Articolul 85. Scutirea soţului (fostului soţ) de obligaţia de întreţinere
+sau limitarea în termen a acestei obligaţii
 Instanţa judecătorească este în drept să-l elibereze pe unul dintre soţi (fostul soţ) de obligaţia de întreţinere sau să limiteze această obligaţie la un anumit termen dacă:
 a) incapacitatea de muncă a soţului (fostului soţ) inapt de muncă, care necesită sprijin material, este rezultatul abuzului de băuturi alcoolice sau substanţe stupefiante ori al unei infracţiuni premeditate;
 b) soţul (fostul soţ) care necesită sprijin material a avut o comportare amorală în familie;
@@ -608,16 +598,15 @@ Articolul 87. Obligaţia bunicilor de a-şi întreţine nepoţii
 (2) Acelaşi drept îl au şi nepoţii majori inapţi de muncă, care necesită sprijin material, dacă s-a stabilit imposibilitatea întreţinerii lor de către soţi (foştii soţi), copiii majori apţi de muncă sau de către părinţi.
 Articolul 88. Obligaţia nepoţilor de a-şi întreţine bunicii
 Bunicii inapţi de muncă, care necesită sprijin material, în imposibilitatea întreţinerii lor de către copiii majori apţi de muncă sau de către soţi (foştii soţi), au dreptul la întreţinere de la nepoţii majori apţi de muncă care dispun de mijloace suficiente.
-Articolul 89. Obligaţia copiilor vitregi de a-şi întreţine
-părinţii vitregi
+Articolul 89. Obligaţia copiilor vitregi de a-şi întreţine părinţii vitregi
 (1) Părinţii vitregi inapţi de muncă, care necesită sprijin material, în imposibilitatea întreţinerii lor de către copiii lor fireşti majori apţi de muncă sau de către soţ (fostul soţ), au dreptul la întreţinere de la copiii vitregi majori apţi de muncă care dispun de mijloace suficiente.
 (2) Instanţa judecătorească este în drept să scutească copiii vitregi de obligaţia de a-şi întreţine părinţii vitregi dacă aceştia i-au întreţinut şi educat mai puţin de 5 ani sau nu şi-au onorat obligaţiile.
 Articolul 90. Obligaţia copiilor de a-şi întreţine educatorii
 (1) Persoanele inapte de muncă, care necesită sprijin material, şi care au întreţinut şi educat copii minori (denumiţi în continuare educatori) au dreptul la întreţinere de la aceştia dacă ultimii au atins vîrsta majoratului, sînt apţi de muncă şi dispun de mijloace suficiente şi dacă s-a stabilit imposibilitatea întreţinerii educatorilor de către propriii lor copii majori apţi de muncă sau de către soţ (fostul soţ).
 (2) Instanţa judecătorească este în drept să scutească copiii de obligaţia de a-şi întreţine educatorii dacă aceştia i-au întreţinut şi educat mai puţin de 5 ani sau nu şi-au onorat obligaţiile.
 (3) Persoanele care s-au aflat sub tutelă (curatelă) sau în casele de copii de tip familial sînt scutite de obligaţiile prevăzute la alin.(1).
-Articolul 91. Cuantumul şi modul de încasare a pensiei
-de întreţinere pentru alţi membri ai familiei
+Articolul 91. Cuantumul şi modul de încasare a pensiei de întreţinere
+pentru alţi membri ai familiei
 (1) Cuantumul şi modul de încasare a pensiei de întreţinere pentru persoanele menţionate la art.86-90 pot fi stabilite printr-un contract între părţi.
 (2) Dacă nu există un contract între părţi, pensia de întreţinere se stabileşte de către instanţa judecătorească în sumă bănească fixă achitată lunar, ţinîndu-se cont de starea materială şi familială a persoanei care datorează întreţinere şi a persoanei care are dreptul la întreţinere, precum şi de alte circumstanţe importante.
 (3) Dacă unul dintre membrii familiei are dreptul la pensie de întreţinere concomitent de la mai multe persoane, instanţa judecătorească determină cuantumul acesteia pentru fiecare dintre cei ce o datorează, ţinînd cont de starea lor materială şi familială. Instanţa judecătorească este în drept să ia în considerare toate persoanele care datorează întreţinere, indiferent de faptul dacă acţiunea a fost pornită faţă de una, cîteva sau toate persoanele în cauză.
@@ -627,12 +616,11 @@ DE ÎNTREŢINERE
 Articolul 92. Contractul privind plata pensiei de întreţinere
 Contractul privind mărimea, condiţiile şi modul de plată a pensiei de întreţinere poate fi încheiat între persoana care datorează întreţinere (debitorul întreţinerii) şi persoana care are dreptul la întreţinere (creditorul întreţinerii).
 [Art.92 modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
-Articolul 93. Forma contractului privind plata pensiei de
-întreţinere
+Articolul 93. Forma contractului privind plata pensiei de întreţinere
 Contractul privind plata pensiei de întreţinere se întocmeşte în scris şi se autentifică notarial. Nerespectarea acestor prevederi atrage nulitatea contractului.
-Articolul 94. Modul de încheiere, executare, modificare,
-reziliere şi declarare a nulităţii contractului
-privind plata pensiei de întreţinere
+Articolul 94. Modul de încheiere, executare, modificare, reziliere
+şi declarare a nulităţii contractului privind plata pensiei
+de întreţinere
 (1) Contractul privind plata pensiei de întreţinere se încheie, se execută, se modifică, se reziliază şi se declară nul în conformitate cu normele Codului civil.
 (2) Contractul privind plata pensiei de întreţinere poate fi, în orice moment, modificat sau reziliat în baza acordului dintre părţi. Modificarea sau rezilierea contractului se perfectează în scris şi se autentifică notarial.
 (3) Modificarea unilaterală a contractului privind plata pensiei de întreţinere sau refuzul unilateral de a-l executa sînt inadmisibile.
@@ -641,41 +629,36 @@ privind plata pensiei de întreţinere
 [Art.94 al.(5) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 [Art.94 al.(5) modificat prin LP66 din 13.04.17, MO171-180/02.06.17 art.297]
 [Art.94 al.(5) modificat prin LP152 din 01.07.16, MO245-246/30.07.16 art.517; în vigoare 01.08.16]
-Articolul 95. Cuantumul pensiei de întreţinere stabilite
-prin contract
+Articolul 95. Cuantumul pensiei de întreţinere stabilite prin contract
 (1) Cuantumul pensiei de întreţinere stabilite prin contract se determină de către părţi la încheierea contractului corespunzător.
 (2) Cuantumul pensiei de întreţinere pentru copiii minori prevăzut în contract nu poate fi mai mic decît cel stabilit la art.75.
-Articolul 96. Modul de plată a pensiei de întreţinere
-stabilite prin contract
+Articolul 96. Modul de plată a pensiei de întreţinere stabilite prin contract
 (1) Modul de plată a pensiei de întreţinere stabilite prin contract se determină de către părţi la încheierea contractului corespunzător.
 (2) Pensia de întreţinere poate fi plătită sub forma unor cote-părţi din salariul şi/sau din alte venituri ale debitorului întreţinerii, într-o sumă bănească fixă plătită periodic, prin transmiterea unor bunuri sau într-un alt mod stipulat în contract.
 (3) Contractul privind plata pensiei de întreţinere poate stipula îmbinarea mai multor moduri de achitare a acesteia.
 Capitolul 16
 MODUL DE ÎNCASARE ŞI DE PLATĂ
 A PENSIEI DE ÎNTREŢINERE
-Articolul 97. Încasarea pensiei de întreţinere în baza
-hotărîrii instanţei judecătoreşti
+Articolul 97. Încasarea pensiei de întreţinere în baza hotărîrii instanţei
+judecătoreşti
 În lipsa unui acord referitor la întreţinere, membrii familiei menţionaţi la art.74-91 pot porni în instanţa judecătorească o acţiune privind încasarea pensiei respective, chiar şi în cazul cînd aceasta se plăteşte benevol.
-Articolul 98. Termenul de pornire a acţiunii privind
-încasarea pensiei de întreţinere
+Articolul 98. Termenul de pornire a acţiunii privind încasarea pensiei
+de întreţinere
 (1) Persoana care are dreptul la întreţinere poate porni o acţiune privind încasarea pensiei de întreţinere, indiferent de termenul care a trecut de la momentul apariţiei dreptului respectiv.
 (2) Pensia de întreţinere se încasează de la data adresării în instanţa judecătorească.
 (3) Pensia de întreţinere poate fi încasată pentru perioada anterioară adresării în instanţa judecătorească dacă se va stabili că în perioada respectivă s-au întreprins măsuri de acordare a întreţinerii, dar debitorul întreţinerii s-a eschivat de la plata pensiei.
-Articolul 99. Încasarea pensiei de întreţinere pînă la
-soluţionarea litigiului în instanţa
-judecătorească
+Articolul 99. Încasarea pensiei de întreţinere pînă la soluţionarea litigiului
+în instanţa judecătorească
 (1) Instanţa judecătorească este în drept să hotărască încasarea pensiei de întreţinere de la data depunerii cererii.
 (2) Cuantumul pensiei de întreţinere se stabileşte în modul prevăzut de prezentul cod.
 (3) În cazul în care cererea privind încasarea pensiei de întreţinere va fi respinsă sau pensia va fi stabilită într-un cuantum mai mic, plăţile anterioare sau cele excedentare nu se restituie.
-Articolul 100. Obligaţia patronului de a reţine pensia de
-întreţinere
+Articolul 100. Obligaţia patronului de a reţine pensia de întreţinere
 Patronul este obligat să reţină lunar, în baza contractului privind plata pensiei de întreţinere, autentificat notarial, sau a titlului executoriu, sau a cererii debitorului întreţinerii, pensia de întreţinere din salariul şi/sau din alte venituri ale debitorului întreţinerii şi să o transmită sau să o transfere, din contul acestuia, creditorului întreţinerii într-un termen de cel mult 3 zile de la data fixată pentru plata salariului şi/sau a altor venituri.
-Articolul 101. Reţinerea pensiei de întreţinere în baza
-contractului privind plata pensiei de întreţinere
+Articolul 101. Reţinerea pensiei de întreţinere în baza contractului privind
+plata pensiei de întreţinere
 Reţinerea pensiei de întreţinere din salariu şi/sau din alte venituri în baza contractului privind plata pensiei de întreţinere, autentificat notarial, se admite şi în cazul cînd suma reţinerilor, în baza contractului şi a altor titluri executorii, depăşeşte 50 la sută din salariul şi/sau din alte venituri ale debitorului întreţinerii.
-Articolul 102. Obligaţia debitorului întreţinerii de a comunica
-schimbarea locului său de muncă sau a
-domiciliului
+Articolul 102. Obligaţia debitorului întreţinerii de a comunica schimbarea
+locului său de muncă sau a domiciliului
 (1) Patronul este obligat să comunice, în termen de 3 zile, instanţei judecătoreşti despre concedierea persoanei debitor al întreţinerii.
 (2) Debitorul întreţinerii este obligat să comunice, în termen de 3 zile, instanţei judecătoreşti despre schimbarea locului său de muncă şi/sau a domiciliului.
 (3) Persoanele care nu respectă prevederile prezentului articol sînt trase la răspundere în modul stabilit de legislaţie.
@@ -749,8 +732,7 @@ Articolul 142. Instituirea tutelei şi curatelei
 [Art.142 al.(4) în redacția LP83 din 25.05.17, MO229-243/07.07.17 art.362]
 (5) Tutela și curatela asupra copiilor ai căror părinţi/al căror unic părinte sînt plecaţi/este plecat peste hotare pe un termen mai mare de 3 luni se instituie prin dispoziţia autorităţii tutelare locale, în conformitate cu prevederile Legii nr. 140/2013 privind protecţia specială a copiilor aflaţi în situaţii de risc şi a copiilor separaţi de părinţi.
 [Art.142 al.(5) introdus prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
-Articolul 143. Persoanele care pot fi numite tutori
-(curatori)
+Articolul 143. Persoanele care pot fi numite tutori (curatori)
 (1) Pot fi numiţi tutori (curatori) o singură persoană fizică sau soţul şi soţia împreună dacă nu se află în vreunul din cazurile de incompatibilitate prevăzute la alin.(4) şi au consimţit expres.
 (2) La numirea tutorelui (curatorului) se iau în considerare calităţile morale şi alte calităţi personale, posibilităţile candidatului de a-şi îndeplini obligaţiile de tutore (curator), relaţiile lui şi ale membrilor familiei lui cu copilul.
 (3) Numirea tutorelui la copilul care a atins vîrsta de 10 ani se face numai cu acordul copilului.
@@ -769,8 +751,8 @@ j) care suferă de alcoolism cronic sau de narcomanie;
 k) care se află în relaţii de muncă cu instituţia în care este internat copilul asupra căruia se instituie tutela (curatela);
 l) care nu are domiciliul pe teritoriul Republicii Moldova.
 [Art.143 în redacţia LP134-XVI din 30.07.05, MO107-109/12.08.05 art.519]
-Articolul 144. Tutela (curatela) asupra copiilor care sînt
-întreţinuţi şi educaţi în instituţiile de stat
+Articolul 144. Tutela (curatela) asupra copiilor care sînt întreţinuţi şi educaţi
+în instituţiile de stat
 (1) În cazul în care asupra copiilor întreţinuţi şi educaţi în instituţiile de stat nu este instituită tutela (curatela), obligaţiile tutorelui (curatorului) sînt puse pe seama administraţiei instituţiei respective.
 (2) Plasamentul temporar al copilului aflat sub tutelă (curatelă) în instituţia de stat nu anulează drepturile şi obligaţiile tutorelui (curatorului) faţă de acesta.
 (3) Apărarea drepturilor copiilor externaţi din instituţiile de stat este preluată de către autorităţile tutelare.
@@ -797,8 +779,8 @@ Articolul 146. Drepturile şi obligaţiile tutorelui (curatorului)
 [Art.146 al.(7) modificat prin LP134-XVI din 30.07.05, MO107-109/12.08.05 art.519]
 (8) Tutorele (curatorul) este obligat să comunice autorităţii tutelare în a cărei evidenţă se află copilul informaţiile privind starea sănătăţii, îngrijirea şi educaţia copilului, precum şi schimbarea domiciliului.
 [Art.146 al.(8) modificat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
-Articolul 147. Exercitarea drepturilor şi îndeplinirea
-obligaţiilor de tutore (curator)
+Articolul 147. Exercitarea drepturilor şi îndeplinirea obligaţiilor de tutore
+(curator)
 (1) Drepturile şi obligaţiile de tutore (curator) sînt exercitate exclusiv în interesul minorului aflat sub tutelă (curatelă).
 (2) Obligaţiile de tutore (curator) sînt exercitate gratuit, cu excepţiile prevăzute de lege.
 [Capitolul 20 abrogat prin LP83 din 25.05.17, MO229-243/07.07.17 art.362]
@@ -807,21 +789,19 @@ obligaţiilor de tutore (curator)
 TITLUL VI
 REGLEMENTAREA RELAŢIILOR FAMILIALE
 CU ELEMENTE DE EXTRANEITATE
-Articolul 154. Aplicarea normelor dreptului familiei
-faţă de cetăţenii străini şi apatrizi
+Articolul 154. Aplicarea normelor dreptului familiei faţă de cetăţenii
+străini şi apatrizi
 Cetăţenii străini şi apatrizii cu domiciliul pe teritoriul Republicii Moldova, în relaţiile familiale, au aceleaşi drepturi şi obligaţii ca şi cetăţenii Republicii Moldova.
-Articolul 155. Încheierea căsătoriei pe teritoriul Republicii
-Moldova
+Articolul 155. Încheierea căsătoriei pe teritoriul Republicii Moldova
 (1) Forma şi modul de încheiere a căsătoriei pe teritoriul Republicii Moldova de către cetăţenii străini şi apatrizi sînt determinate de legislaţia Republicii Moldova.
 (2) Cetăţenii străini, cu domiciliul în afara teritoriului Republicii Moldova, încheie căsătoria pe teritoriul Republicii Moldova conform legislaţiei Republicii Moldova dacă au dreptul la încheierea căsătoriei în conformitate cu legislaţia statului ai cărui cetăţeni sînt.
 (3) Condiţiile de încheiere a căsătoriei de către apatrizi pe teritoriul Republicii Moldova sînt determinate de legislaţia Republicii Moldova, ţinîndu-se cont de legislaţia statului în care aceştia îşi au domiciliul.
 (4) Căsătoriile încheiate la misiunile diplomatice şi oficiile consulare străine sînt recunoscute pe teritoriul Republicii Moldova în baza principiului reciprocităţii.
-Articolul 156. Încheierea căsătoriei în afara Republicii
-Moldova
+Articolul 156. Încheierea căsătoriei în afara Republicii Moldova
 (1) Cetăţenii Republicii Moldova se pot căsători în afara Republicii Moldova la misiunile diplomatice sau oficiile consulare ale Republicii Moldova.
 (2) Căsătoriile dintre cetăţenii Republicii Moldova şi căsătoriile dintre cetăţenii Republicii Moldova şi cetăţenii străini sau apatrizi încheiate în afara Republicii Moldova în conformitate cu legislaţia ţării în care a fost încheiată căsătoria sînt recunoscute în Republica Moldova doar în cazul dacă au fost respectate condiţiile art.11 şi 14 din prezentul cod.
-Articolul 157. Relaţiile personale nepatrimoniale
-şi patrimoniale ale soţilor
+Articolul 157. Relaţiile personale nepatrimoniale şi patrimoniale
+ale soţilor
 (1) Drepturile şi obligaţiile personale nepatrimoniale şi patrimoniale ale soţilor se determină de legislaţia statului în care îşi au domiciliul comun, iar în lipsa domiciliului comun - a legislaţiei statului unde aceştia au avut ultimul domiciliu comun.
 (2) Dacă soţii nu au şi nici nu au avut anterior un domiciliu comun, drepturile şi obligaţiile lor personale nepatrimoniale şi patrimoniale se determină pe teritoriul Republicii Moldova în baza legislaţiei Republicii Moldova.
 (3) Contractul matrimonial şi contractul privind plata pensiei de întreţinere, în baza unui acord dintre soţi, pot fi supuse legislaţiei statului unde îşi are domiciliul unul dintre soţi. În lipsa unui atare acord, contractelor în cauză li se aplică prevederile alin.(1) şi (2).
@@ -830,20 +810,18 @@ Articolul 158. Desfacerea căsătoriei
 (2) Cetăţenii Republicii Moldova care locuiesc în afara ţării au dreptul la desfacerea căsătoriei în instanţele judecătoreşti ale Republicii Moldova, indiferent de cetăţenia şi domiciliul celuilalt soţ.
 (3) Dacă, conform legislaţiei Republicii Moldova, căsătoria poate fi desfăcută de organul de stare civilă, această problemă poate fi soluţionată de misiunile diplomatice sau oficiile consulare ale Republicii Moldova.
 (4) Este recunoscută valabilă desfacerea căsătoriei în afara Republicii Moldova dacă, la soluţionarea acestei probleme, au fost respectate cerinţele legislaţiei statului corespunzător privind competenţa organelor care au adoptat hotărîrea şi privind desfacerea căsătoriei.
-Articolul 159. Stabilirea şi contestarea paternităţii
-(maternităţii)
+Articolul 159. Stabilirea şi contestarea paternităţii (maternităţii)
 (1) în Republica Moldova, în cazul părinţilor (părintelui) cetăţeni străini sau apatrizi, paternitatea (maternitatea) se stabileşte şi se contestă conform legislaţiei Republicii Moldova.
 (2) Paternitatea (maternitatea) în raport cu copilul cetăţean al Republicii Moldova se stabileşte şi se contestă în Republica Moldova conform legislaţiei proprii, indiferent de domiciliul copilului.
 (3) Dacă, conform legislaţiei Republicii Moldova, este posibilă stabilirea paternităţii (maternităţii) la oficiile de stare civilă, părinţii copilului care locuiesc în străinătate sînt în drept să se adreseze cu o declaraţie privind stabilirea paternităţii (maternităţii) la misiunile diplomatice şi oficiile consulare ale Republicii Moldova dacă cel puţin unul din părinţi este cetăţean al Republicii Moldova.
 Articolul 160. Drepturile şi obligaţiile părinţilor şi copiilor
 (1) Drepturile şi obligaţiile părinţilor, inclusiv obligaţia părinţilor de a-şi întreţine copiii, sînt stabilite de legislaţia statului pe al cărui teritoriu aceştia îşi au domiciliul comun. În lipsa domiciliului comun al părinţilor şi copiilor, drepturile şi obligaţiile acestora sînt reglementate de legislaţia statului al cărui cetăţean este copilul.
 (2) În cazurile de asigurare a obligaţiilor de întreţinere dintre părinţi şi copii poate fi aplicată legislaţia statului al cărui cetăţean este persoana ce pretinde întreţinere.
-Articolul 161. Obligaţiile de întreţinere ale copiilor
-şi ale altor membri ai familiei
+Articolul 161. Obligaţiile de întreţinere ale copiilor şi ale altor membri
+ai familiei
 Obligaţiile de întreţinere ale copiilor şi ale altor membri ai familiei se determină în conformitate cu legislaţia statului unde îşi are domiciliul persoana care are dreptul la întreţinere, dacă contractul privind plata pensiei de întreţinere nu prevede altfel.
 [Art.162-163 abrogate prin LP99 din 28.05.10, MO131-134/30.07.10 art.441; în vigoare 30.01.11]
-Articolul 164. Aplicarea normelor dreptului familiei
-ale statelor străine
+Articolul 164. Aplicarea normelor dreptului familiei ale statelor străine
 (1) în cazul aplicării pe teritoriul Republicii Moldova a normelor dreptului familiei ale statelor străine, conţinutul acestora se determină conform interpretării oficiale sau conform practicii din statele respective.
 (2) Persoanele interesate au dreptul să prezinte documente care confirmă conţinutul normelor dreptului familiei ale statului străin pe care le invocă sau să contribuie într-un alt mod la determinarea conţinutului acestor norme.
 (3) Dacă măsurile întreprinse nu permit stabilirea conţinutului normelor dreptului familiei ale statelor străine, se aplică legislaţia Republicii Moldova.
