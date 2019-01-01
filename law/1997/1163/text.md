@@ -7,15 +7,16 @@ PARLAMENTUL
 COD
 Nr. 1163
 din 24.04.1997
-COD FISCAL
-AL REPUBLICII MOLDOVA
+FISCAL AL REPUBLICII MOLDOVA
 Publicat : 25.03.2005
 în Monitorul Oficial
 Nr. ed. spec.
 ** Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 08 februarie 2007, pag.4
 * Republicat Monitorul Oficial al Republicii Moldova Ediţie Specială, 25 martie 2005, pag.13
 MODIFICAT
+LP308 din 30.11.18, MO499-503/21.12.18 art.823
 LP304 din 30.11.18, MO480-485/14.12.18 art.802; în vigoare 01.01.19
+LP302 din 30.11.18, MO462-466/12.12.18 art.778; în vigoare 12.12.18
 LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18
 LP238 din 08.11.18, MO441-447/30.11.18 art.709
 LP229 din 01.11.18, MO441-447/30.11.18 art.705
