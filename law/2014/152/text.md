@@ -14,6 +14,7 @@ Nr. 319-324
 art Nr : 634
 Data intrarii in vigoare : 23.11.2014
 MODIFICAT
+LP314 din 30.11.18, MO1-5/04.01.19 art.36
 LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18
 LP172 din 27.07.18, MO321-332/24.08.18 art.529; în vigoare 24.08.18
 LP140 din 27.07.18, MO309-320/17.08.18 art.478; în vigoare 17.08.18
@@ -355,6 +356,8 @@ b) vocaţională, cu profilurile de arte, de sport, teologic, militar.
 (7) Absolvenţii şcolilor profesionale au dreptul să se înscrie la studii liceale în condiţiile stabilite de Ministerul Educației, Culturii și Cercetării.
 (8) Învăţămîntul liceal se încheie cu examenul naţional de bacalaureat, care se organizează în modul stabilit de Ministerul Educației, Culturii și Cercetării.
 (9) În caz de nepromovare, examenul de bacalaureat poate fi susţinut repetat, în condiţiile stabilite de Ministerul Educației, Culturii și Cercetării.
+(91) În decursul unui an sînt organizate 3 sesiuni ale examenului național de bacalaureat. Pentru participarea la a 3-a sesiune anuală de bacalaureat, candidatul achită o taxă de examen în mărimea stabilită de către Guvern.
+[Art.31 al.(91) introdus prin LP314 din 30.11.18, MO1-5/04.01.19 art.36]
 (10) Persoanele care au absolvit forme de învăţămînt echivalente învăţămîntului liceal pot solicita susţinerea examenului de bacalaureat în regim de externat. Modul de susţinere a examenului de bacalaureat în regim de externat se stabileşte de Ministerul Educației, Culturii și Cercetării.
 (11) La promovarea examenului naţional de bacalaureat se eliberează diploma de bacalaureat, care conferă dreptul de admitere în învăţămîntul superior şi în învăţămîntul profesional tehnic postsecundar nonterţiar.
 (12) Elevilor care nu au promovat examenul naţional de bacalaureat li se eliberează un certificat de studii liceale, care conferă dreptul de a urma programe de pregătire profesională în instituţii de învăţămînt profesional tehnic secundar şi profesional tehnic postsecundar.
