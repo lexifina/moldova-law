@@ -4,15 +4,16 @@ ID intern unic: 331268
 Fişa actului juridic
 Republica Moldova
 PARLAMENTUL
-COD
+CODUL
 Nr. 985
 din 18.04.2002
-PENAL al Republicii Moldova*
+CODUL PENAL al Republicii Moldova*
 Publicat : 14.04.2009
 în Monitorul Oficial
 Nr. 72-74
 art Nr : 195
 MODIFICAT
+LP245 din 15.11.18, MO462-466/12.12.18 art.774; în vigoare 12.01.19
 LP233 din 08.11.18, MO448-460/07.12.18 art.731
 HCC22 din 01.10.18, MO416-422/09.11.18 art.146; în vigoare 01.10.18
 LP207 din 12.10.18, MO410-415/02.11.18 art.643
@@ -123,12 +124,10 @@ Articolul 4. Principiul umanismului
 Articolul 5. Principiul democratismului
 (1) Persoanele care au săvîrşit infracţiuni sînt egale în faţa legii şi sînt supuse răspunderii penale fără deosebire de sex, rasă, culoare, limbă, religie, opinii politice sau orice alte opinii, origine naţională sau socială, apartenenţă la o minoritate naţională, avere, naştere sau orice altă situaţie.
 (2) Apărarea drepturilor şi intereselor unei persoane nu poate fi realizată prin încălcarea drepturilor şi intereselor altei persoane sau a unei colectivităţi.
-Articolul 6. Principiul caracterului personal al răspunderii
-penale
+Articolul 6. Principiul caracterului personal al răspunderii penale
 (1) Persoana este supusă răspunderii penale şi pedepsei penale numai pentru fapte săvîrşite cu vinovăţie.
 (2) Răspunderii penale şi pedepsei penale este supusă numai persoana care a săvîrşit cu intenţie sau din imprudenţă o faptă prevăzută de legea penală.
-Articolul 7. Principiul individualizării răspunderii penale
-şi pedepsei penale
+Articolul 7. Principiul individualizării răspunderii penale şi pedepsei penale
 (1) La aplicarea legii penale se ţine cont de caracterul şi gradul prejudiciabil al infracţiunii săvîrşite, de persoana celui vinovat şi de circumstanţele cauzei care atenuează ori agravează răspunderea penală.
 (2) Nimeni nu poate fi supus de două ori urmăririi penale şi pedepsei penale pentru una şi aceeaşi faptă.
 Articolul 8. Acţiunea legii penale în timp
@@ -138,8 +137,8 @@ Timpul săvîrşirii faptei se consideră timpul cînd a fost săvîrşită acţ
 Articolul 10. Efectul retroactiv al legii penale
 (1) Legea penală care înlătură caracterul infracţional al faptei, care uşurează pedeapsa ori, în alt mod, ameliorează situaţia persoanei ce a comis infracţiunea are efect retroactiv, adică se extinde asupra persoanelor care au săvîrşit faptele respective pînă la intrarea în vigoare a acestei legi, inclusiv asupra persoanelor care execută pedeapsa ori care au executat pedeapsa, dar au antecedente penale.
 (2) Legea penală care înăspreşte pedeapsa sau înrăutăţeşte situaţia persoanei vinovate de săvîrşirea unei infracţiuni nu are efect retroactiv.
-Articolul 101. Aplicarea legii penale mai favorabile în cazul
-pedepselor definitive
+Articolul 101. Aplicarea legii penale mai favorabile în cazul pedepselor
+definitive
 (1) Dacă, după rămînerea definitivă a hotărîrii de condamnare şi pînă la executarea completă a pedepsei privative de libertate, a muncii neremunerate în folosul comunităţii sau a amenzii, a intervenit o lege care prevede unul din aceste tipuri de pedeapsă, dar cu un maxim mai mic, sancţiunea aplicată se reduce la acest maxim dacă depăşeşte maximul prevăzut de legea nouă pentru infracţiunea săvîrşită.
 (2) Dacă, după rămînerea definitivă a hotărîrii de condamnare la detenţiune pe viaţă şi pînă la executarea ei, a intervenit o lege care prevede pentru aceeaşi faptă numai pedeapsa închisorii, pedeapsa detenţiunii pe viaţă se înlocuieşte cu maximul pedepsei închisorii, prevăzută de legea nouă pentru acea infracţiune.
 (3) Dacă legea nouă prevede în locul pedepsei închisorii numai pedeapsa muncii neremunerate în folosul comunităţii sau a amenzii, pedeapsa aplicată se înlocuieşte cu munca neremunerată în folosul comunităţii, dacă nu sînt interdicţii pentru aplicarea acesteia, fără a se putea depăşi maximul prevăzut de legea nouă. Dacă legea nouă prevede în locul pedepsei închisorii numai pedeapsa amenzii, pedeapsa aplicată se înlocuieşte cu amendă, fără a se depăşi maximul prevăzut în legea nouă. Ţinîndu-se seama de partea executată din pedeapsa închisorii, executarea pedepsei muncii neremunerate în folosul comunităţii sau, după caz, a amenzii poate fi înlăturată în întregime sau în parte.
@@ -213,8 +212,7 @@ Articolul 23. Iresponsabilitatea
 Articolul 231. Responsabilitatea redusă
 (1) Persoana care a săvîrşit o infracţiune ca urmare a unei tulburări psihice, constatată prin expertiza medicală efectuată în modul stabilit, din cauza căreia nu-şi putea da seama pe deplin de caracterul şi legalitatea faptelor sale sau nu le putea dirija pe deplin este pasibilă de responsabilitate penală redusă.
 (2) Instanţa de judecată, la stabilirea pedepsei sau a măsurilor de siguranţă, ţine cont de tulburarea psihică existentă, care însă nu exclude răspunderea penală.
-Articolul 24. Răspunderea pentru infracţiunea săvîrşită în stare
-de ebrietate
+Articolul 24. Răspunderea pentru infracţiunea săvîrşită în stare de ebrietate
 Persoana care a săvîrşit o infracţiune în stare de ebrietate, produsă de alcool sau de alte substanţe, nu este liberată de răspundere penală. Cauzele ebrietăţii, gradul şi influenţa ei asupra săvîrşirii infracţiunii se iau în considerare la stabilirea pedepsei.
 Articolul 25. Etapele activităţii infracţionale
 (1) Infracţiunea se consideră consumată dacă fapta săvîrşită întruneşte toate semnele constitutive ale componenţei de infracţiune.
@@ -354,8 +352,8 @@ Articolul 54. Liberarea de răspundere penală a minorilor
 (1) Persoana în vîrstă de pînă la 18 ani care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă poate fi liberată de răspundere penală în conformitate cu prevederile procedurii penale dacă s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
 (2) Persoanelor liberate de răspundere penală, în conformitate cu alin.(1), li se aplică măsurile de constrîngere cu caracter educativ, prevăzute la art.104.
 [Art.54 al.(2) modificat prin LP123 din 02.06.16, MO232-244/29.07.16 art.492]
-Articolul 55. Liberarea de răspundere penală cu tragerea
-la răspundere contravenţională
+Articolul 55. Liberarea de răspundere penală cu tragerea la răspundere
+contravenţională
 (1) Persoana care a săvîrşit pentru prima oară o infracţiune uşoară sau mai puţin gravă, cu excepţia infracțiunilor prevăzute la art. 1811, 256, art. 264 alin. (2), art. 2641 , 303, 314, art. 326 alin. (1) şi (11), art. 327 alin. (1), art. 328 alin. (1), art. 332 alin. (1), art. 333 alin. (1), art. 334 alin. (1) şi (2), art. 335 alin. (1) și art. 3351 alin. (1), poate fi liberată de răspundere penală şi trasă la răspundere contravenţională în cazurile în care şi-a recunoscut vina, a reparat prejudiciul cauzat prin infracţiune şi s-a constatat că corectarea ei este posibilă fără a fi supusă răspunderii penale.
 [Art.55 al.(1) modificat prin LP138 din 19.07.18, MO347-357/14.09.18 art.584; în vigoare 14.12.18]
 [Art.55 al.(1) modificat prin LP93 din 13.05.16, MO163-168/17.06.16 art.333]
@@ -379,12 +377,11 @@ de bună voie la săvîrşirea infracţiunii
 (2) Persoana nu poate fi supusă răspunderii penale pentru infracţiune dacă ea, benevol şi definitiv, a renunţat la ducerea pînă la capăt a acesteia.
 (3) Persoana care a renunţat de bună voie la ducerea infracţiunii pînă la capăt este supusă răspunderii penale numai în cazul în care fapta săvîrşită conţine o altă infracţiune consumată.
 (4) Organizatorul şi instigatorul infracţiunii nu se supun răspunderii penale dacă aceste persoane, printr-o înştiinţare la timp a organelor de drept sau prin alte măsuri întreprinse, au preîntîmpinat ducerea de către autor a infracţiunii pînă la capăt. Complicele infracţiunii nu se supune răspunderii penale dacă a întreprins toate măsurile ce depindeau de el pentru a preîntîmpina comiterea infracţiunii.
-Articolul 57. Liberarea de răspundere penală în legătură cu căinţa
-activă
+Articolul 57. Liberarea de răspundere penală în legătură cu căinţa activă
 (1) Persoana care pentru prima oară a săvîrşit o infracţiune uşoară sau mai puţin gravă poate fi liberată de răspundere penală dacă ea, după săvîrşirea infracţiunii, s-a autodenunţat de bună voie, a contribuit activ la descoperirea acesteia, a compensat valoarea daunei materiale cauzate sau, în alt mod, a reparat prejudiciul pricinuit de infracţiune.
 (2) Persoana care, în condiţiile alin.(1), a săvîrşit o infracţiune de altă categorie poate fi liberată de răspundere penală numai în cazurile prevăzute la articolele corespunzătoare din Partea specială a prezentului cod.
-Articolul 58. Liberarea de răspundere penală în legătură cu
-schimbarea situaţiei
+Articolul 58. Liberarea de răspundere penală în legătură cu schimbarea
+situaţiei
 Persoana care pentru prima oară a săvîrşit o infracţiune uşoară sau mai puţin gravă poate fi liberată de răspundere penală dacă, datorită schimbării situaţiei, se va stabili că persoana sau fapta săvîrşită nu mai prezintă pericol social.
 Articolul 59. Liberarea condiţionată de răspundere penală
 În privinţa persoanei puse sub învinuire pentru săvîrşirea unei infracţiuni uşoare sau mai puţin grave, care îşi recunoaşte vinovăţia şi nu prezintă pericol social, urmărirea penală poate fi suspendată condiţionat, cu liberarea ulterioară de răspundere penală în conformitate cu procedura penală, dacă corectarea acestei persoane este posibilă fără aplicarea unei pedepse penale.
@@ -456,8 +453,8 @@ Articolul 64. Amenda
 (6) Amenda în calitate de pedeapsă complementară poate fi aplicată numai în cazurile în care ea este prevăzută ca atare pentru infracţiunea corespunzătoare.
 (7) În cazul în care condamnatul nu este în stare să plătească amenda stabilită ca pedeapsă principală sau complementară, instanţa de judecată poate, potrivit prevederilor art.67, să înlocuiască suma neachitată a amenzii cu muncă neremunerată în folosul comunităţii, calculîndu-se 60 de ore de muncă neremunerată în folosul comunităţii pentru 100 unităţi convenţionale de amendă.
 [Art.64 al.(7) modificat prin LP207 din 29.07.16, MO369-378/28.10.16 art.751;în vigoare 07.11.16]
-Articolul 65. Privarea de dreptul de a ocupa anumite funcţii
-sau de a exercita o anumită activitate
+Articolul 65. Privarea de dreptul de a ocupa anumite funcţii sau de a exercita
+o anumită activitate
 (1) Privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate constă în interzicerea de a ocupa o funcţie sau de a exercita o activitate de natura aceleia de care s-a folosit condamnatul la săvîrşirea infracţiunii.
 (2) Privarea de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate poate fi stabilită de instanţa de judecată pe un termen de la 1 la 5 ani, iar în cazurile expres prevăzute în Partea specială a prezentului cod – pe un termen de la un an la 15 ani.
 [Art.65 al.(2) modificat prin LP252 din 08.11.12, MO263-269/21.12.12 art.855]
@@ -504,8 +501,8 @@ Articolul 71. Detenţiunea pe viaţă
 (1) Detenţiunea pe viaţă constă în privarea de libertate a condamnatului pentru tot restul vieţii.
 (2) Detenţiunea pe viaţă se stabileşte numai pentru infracţiunile excepţional de grave.
 (3) Detenţiunea pe viaţă nu poate fi aplicată femeilor şi minorilor.
-Articolul 72. Categoriile penitenciarelor în care se execută
-pedeapsa cu închisoare
+Articolul 72. Categoriile penitenciarelor în care se execută pedeapsa
+cu închisoare
 (1) Pedeapsa cu închisoare se execută în următoarele penitenciare:
 a) de tip deschis;
 b) de tip semiînchis;
@@ -514,7 +511,8 @@ c) de tip închis.
 (3) În penitenciare de tip semiînchis execută pedeapsa persoanele condamnate la închisoare pentru infracţiuni uşoare, mai puţin grave şi grave, săvîrşite cu intenţie.
 (4) În penitenciare de tip închis execută pedeapsa persoanele condamnate la închisoare pentru infracţiuni deosebit de grave şi excepţional de grave.
 [Art.72 al.(4) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
-(5) Persoanele care nu au atins vîrsta de 18 ani execută pedeapsa cu închisoare în penitenciare pentru minori, ţinîndu-se cont de personalitatea condamnatului, antecedentele penale şi gradul prejudiciabil al infracţiunii săvîrşite.
+(5) Persoanele care nu au atins vîrsta de 18 ani execută pedeapsa cu închisoare în centrele de detenție pentru minori și tineri, ţinîndu-se cont de personalitatea condamnatului, antecedentele penale şi gradul prejudiciabil al infracţiunii săvîrşite.
+[Art.72 al.(5) modificat prin LP245 din 15.11.18, MO462-466/12.12.18 art.774; în vigoare 12.01.19]
 (6) Femeile condamnate execută pedeapsa închisorii în penitenciare pentru femei.
 (7) Schimbarea categoriei penitenciarului se efectuează de către instanţa de judecată în corespundere cu legislaţia.
 Articolul 73. Privarea unei persoane juridice de dreptul de a exercita
@@ -574,8 +572,7 @@ c) dacă pentru infracţiunea săvîrşită se prevede detenţiune pe viaţă, a
 (3) În cazul în care există circumstanţe agravante se poate aplica pedeapsa maximă prevăzută la articolul corespunzător din Partea specială a prezentului cod.
 (4) În caz de concurs al circumstanţelor agravante şi celor atenuante, coborîrea pedepsei pînă la minimul sau ridicarea ei pînă la maximul prevăzut la articolul corespunzător din Partea specială a prezentului cod nu este obligatorie.
 (5) Dacă există circumstanţe atenuante excepţionale, pedeapsa poate fi aplicată conform prevederilor art.79.
-Articolul 79. Aplicarea pedepsei mai blînde decît cea prevăzută
-de lege
+Articolul 79. Aplicarea pedepsei mai blînde decît cea prevăzută de lege
 (1) Ţinînd cont de circumstanţele excepţionale ale cauzei, legate de scopul şi motivele faptei, de rolul vinovatului în săvîrşirea infracţiunii, de comportarea lui în timpul şi după consumarea infracţiunii, de alte circumstanţe care micşorează esenţial gravitatea faptei şi a consecinţelor ei, precum şi de contribuirea activă a participantului unei infracţiuni săvîrşite în grup la descoperirea acesteia, instanţa de judecată poate aplica o pedeapsă sub limita minimă, prevăzută de legea penală pentru infracţiunea respectivă, sau una mai blîndă, de altă categorie, ori poate să nu aplice pedeapsa complementară obligatorie. Minoratul persoanei care a săvîrşit infracţiunea se consideră circumstanţă excepţională. Săvîrşirea infracțiunii de către persoanele care au atins vîrsta de 18 ani, dar nu au atins vîrsta de 21 de ani poate fi apreciată de către instanţa de judecată drept circumstanţă excepţională
 [Art.79 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (11) Poate fi considerată excepțională atît o circumstanță atenuantă, cît și un cumul de asemenea circumstanțe legate de situațiile menționate la alin. (1).
@@ -613,20 +610,19 @@ Articolul 85. Aplicarea pedepsei în cazul unui cumul de sentinţe
 (2) Cumularea pedepselor complementare în cazul unui cumul de sentinţe se efectuează în condiţiile art.84 alin.(2).
 (3) Pedeapsa definitivă în cazul unui cumul de sentinţe trebuie să fie mai mare decît pedeapsa stabilită pentru săvîrşirea unei noi infracţiuni şi decît partea neexecutată a pedepsei pronunţate prin sentinţa anterioară a instanţei de judecată.
 (4) La cumularea pedepselor, dacă prin una din sentinţe este stabilită pedeapsa detenţiunii pe viaţă, pedeapsa definitivă va fi detenţiunea pe viaţă.
-Articolul 86. Aplicarea pedepsei în cazul executării hotărîrii unui
-stat străin
+Articolul 86. Aplicarea pedepsei în cazul executării hotărîrii unui stat străin
 (1) La executarea hotărîrii unui stat străin, instanţa de judecată înlocuieşte sancţiunea privativă de libertate pronunţată în statul străin cu o sancţiune prevăzută de propria lege penală pentru aceeaşi faptă, fără a agrava situaţia penală a condamnatului stabilită prin hotărîrea statului străin. Dacă legea statului străin prevede o sancţiune mai mică decît minimul prevăzut în legea internă, instanţa de judecată nu va fi legată de acest minim şi va aplica o sancţiune corespunzătoare sancţiunii pronunţate în statul străin.
 (2) Orice parte a sancţiunii pronunţate în statul străin şi orice perioadă de detenţie provizorie executate de condamnat se deduc integral prin hotărîrea instanţei de judecată privind recunoaşterea hotărîrii statului străin.
 (3) La executarea hotărîrii statului străin privind aplicarea amenzii sau confiscarea unei sume de bani, instanţa de judecată va stabili cuantumul acesteia în monedă naţională, aplicînd cursul oficial al leului moldovenesc valabil la momentul pronunţării hotărîrii privind recunoaşterea hotărîrii statului străin, fără a depăşi maximul sancţiunii fixat de către statul străin pentru o astfel de faptă.
 [Art.86 al.(3) modificat prin LP33 din 06.05.12, MO99-102/25.05.12 art.330]
 (4) Amenzile şi confiscările de bunuri rezultate din executarea hotărîrilor unui stat străin revin Republicii Moldova, fără a fi prejudiciate drepturile statelor terţe.
-Articolul 87. Modul determinării termenului pedepsei definitive
-în cazul cumulării diferitelor pedepse
+Articolul 87. Modul determinării termenului pedepsei definitive în cazul
+cumulării diferitelor pedepse
 (1) La cumularea diferitelor pedepse principale aplicate în cazul unui concurs de infracţiuni sau al unui cumul de sentinţe, unei zile de închisoare îi corespund 4 ore de muncă neremunerată în folosul comunităţii.
 [Art.87 al.(1) modificat prin LP163 din 20.07.17, MO364-370/20.10.17 art.616; în vigoare 20.12.17]
 (2) Celelalte pedepse cumulate cu închisoarea se execută de sine stătător.
-Articolul 88. Calcularea termenelor pedepsei şi computarea
-arestului preventiv
+Articolul 88. Calcularea termenelor pedepsei şi computarea arestului
+preventiv
 (1) Termenele de privare de dreptul de a ocupa anumite funcţii sau de a exercita o anumită activitate şi de închisoare se calculează în luni şi ani, iar cele de muncă neremunerată în folosul comunităţii - în ore.
 (2) La computarea sau cumularea pedepselor menţionate la alin.(1), cu excepţia muncii neremunerate în folosul comunităţii, precum şi la înlocuirea pedepsei, se admite calcularea acestora în zile.
 (3) Timpul aflării persoanei sub arest preventiv pînă la judecarea cauzei se include în termenul închisorii, calculîndu-se o zi pentru o zi, iar în termenul muncii neremunerate în folosul comunităţii – calculîndu-se o zi de arest preventiv pentru 4 ore de muncă neremunerată în folosul comunităţii.
@@ -694,8 +690,8 @@ h) să fie supus monitorizării electronice, dar nu mai mult de 12 luni.
 [Art.90 al.(10) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
 (11) În cazul în care cel condamnat cu suspendarea condiţionată a executării pedepsei săvîrşeşte în perioada de probaţiune sau, după caz, termenul de probă o infracţiune din imprudenţă sau o infracţiune intenţionată mai puţin gravă, problema anulării sau menţinerii condamnării cu suspendarea condiţionată a executării pedepsei se soluţionează de către instanţa de judecată, la propunerea organului care exercită supravegherea asupra comportamentului celor condamnaţi cu suspendarea executării pedepsei.
 [Art.90 al.(11) modificat prin LP138 din 03.12.15, MO361-369/31.12.15 art.675]
-Articolul 901. Condamnarea cu suspendarea parțială a executării
-pedepsei cu închisoare
+Articolul 901. Condamnarea cu suspendarea parțială a executării pedepsei
+cu închisoare
 (1) În cazul în care instanţa de judecată, ţinînd cont de circumstanţele cauzei şi de personalitatea vinovatului, ajunge la concluzia că nu este raţional ca acesta să execute întreaga pedeapsă cu închisoare în penitenciar, aceasta poate dispune suspendarea parțială a executării pedepsei aplicate vinovatului, indicînd în hotărîre perioada de executare a pedepsei în închisoare și perioada de probațiune sau, după caz, termenul de probă, precum și motivele condamnării cu suspendarea parțială a executării pedepsei. Prima parte a pedepsei se execută în penitenciar, iar restul pedepsei se suspendă.
 (2) În cazul infracțiunilor ușoare sau mai puțin grave, partea de pedeapsă ce trebuie executată în penitenciar poate fi coborîtă pînă la minimul prevăzut de prezentul cod.
 (3) În cazul infracțiunilor grave, partea de pedeapsă ce trebuie executată în penitenciar nu trebuie să fie mai mică decît jumătate din pedeapsa stabilită de instanța de judecată.
