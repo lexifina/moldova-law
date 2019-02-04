@@ -4,17 +4,19 @@ ID intern unic: 355156
 Fişa actului juridic
 Republica Moldova
 PARLAMENTUL
-COD
+CODUL
 Nr. 152
 din 17.07.2014
-EDUCAŢIEI AL REPUBLICII MOLDOVA
+CODUL EDUCAŢIEI AL REPUBLICII MOLDOVA
 Publicat : 24.10.2014
 în Monitorul Oficial
 Nr. 319-324
 art Nr : 634
 Data intrarii in vigoare : 23.11.2014
 MODIFICAT
-LP314 din 30.11.18, MO1-5/04.01.19 art.36
+LP315 din 30.11.18, MO13-21/18.01.19 art.76; în vigoare 18.01.19
+LP314 din 30.11.18, MO1-5/04.01.19 art.36; în vigoare 04.02.19
+LP269 din 23.11.18, MO467-179/14.12.18 art.794; în vigoare 14.01.19
 LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18
 LP172 din 27.07.18, MO321-332/24.08.18 art.529; în vigoare 24.08.18
 LP140 din 27.07.18, MO309-320/17.08.18 art.478; în vigoare 17.08.18
@@ -276,8 +278,9 @@ Capitolul I. Dispoziţii generale
 Articolul 20. Organizarea învăţămîntului general
 (1) Învăţămîntul general cuprinde:
 a) educaţia timpurie:
-– grupele antepreşcolare, pentru copiii cu vîrsta de la 0 la 3 ani;
-– grupele preşcolare, pentru copiii cu vîrsta de la 3 la 6 (7) ani, inclusiv grupele pregătitoare;
+– grupele antepreşcolare, pentru copiii cu vîrsta de la 0 la 2 ani;
+– grupele preşcolare, pentru copiii cu vîrsta de la 2 la 6 (7) ani, inclusiv grupele pregătitoare;
+[Art.20 al.(1), lit.a) modificată prin LP269 din 23.11.18, MO467-179/14.12.18 art.794; în vigoare 14.01.19]
 b) învăţămîntul primar: clasele I–IV;
 c) învăţămîntul gimnazial: clasele V–IX;
 d) învăţămîntul liceal: clasele X–XII (XIII).
@@ -308,8 +311,10 @@ Capitolul II. Educaţia timpurie
 Articolul 23. Organizarea educaţiei timpurii
 (1) Educaţia timpurie are drept scop principal dezvoltarea multilaterală a copilului şi pregătirea pentru integrarea în activitatea şcolară.
 (2) Educaţia timpurie include două cicluri:
-a) educaţia antepreşcolară, pentru copiii cu vîrsta de la 0 la 3 ani;
-b) învăţămîntul preşcolar, pentru copiii cu vîrsta de la 3 la 6 (7) ani.
+a) educaţia antepreşcolară, pentru copiii cu vîrsta de la 0 la 2 ani;
+[Art.23 al.(2), lit.a) modificată prin LP269 din 23.11.18, MO467-179/14.12.18 art.794; în vigoare 14.01.19]
+b) învăţămîntul preşcolar, pentru copiii cu vîrsta de la 2 la 6 (7) ani.
+[Art.23 al.(2), lit.b) modificată prin LP269 din 23.11.18, MO467-179/14.12.18 art.794; în vigoare 14.01.19]
 (3) Educaţia timpurie se desfăşoară în creşe, grădiniţe, centre comunitare de educaţie timpurie sau în alte instituţii care prestează servicii în conformitate cu standardele educaţionale de stat.
 (4) Educaţia timpurie poate fi organizată şi în instituţii rezidenţiale – pentru copiii orfani sau cei rămaşi fără îngrijire părintească, în instituţii sanatoriale – pentru copiii cu boli cronice, precum şi în instituţii de învăţămînt special, în instituţii penitenciare şi în instituţii medicale.
 Articolul 24. Educaţia antepreşcolară
@@ -1057,17 +1062,21 @@ e) ia decizii, cu avizul favorabil al senatului, privind:
 – angajarea în consorţii şi fuzionarea cu alte instituţii de învăţămînt superior;
 f) organizează şi desfăşoară alegerile pentru postul de rector în conformitate cu regulamentul instituţional de organizare şi desfăşurare a alegerilor.
 (2) Consiliul pentru dezvoltare strategică instituţională se constituie din nouă membri, după cum urmează:
-a) trei membri desemnaţi: de Ministerul Educației, Culturii și Cercetării – un membru, de Ministerul Finanţelor – un membru, de ministerul de resort – un membru. Membrii desemnaţi nu pot avea calitatea de salariat în cadrul ministerelor respective;
+a) trei membri desemnaţi: de Ministerul Educației, Culturii și Cercetării – un membru, de Ministerul Finanţelor – un membru, de fondator – un membru. Membrii desemnaţi nu pot avea calitatea de salariat în cadrul ministerelor respective;
+[Art.104 al.(2), lit.a) modificată prin LP315 din 30.11.18, MO13-21/18.01.19 art.76; în vigoare 18.01.19]
 b) doi membri din rîndul cadrelor didactice titulare care nu deţin funcţii de conducere şi nu sînt membri ai senatului, selectaţi prin vot secret de adunarea generală a membrilor consiliilor facultăţilor şi a reprezentanţilor studenţi din senat şi din consiliile facultăţilor;
 c) doi membri delegaţi din partea senatului care sînt experţi externi şi nu au calitatea de titulari ai instituţiei respective;
 d) rectorul;
 e) prorectorul responsabil de probleme financiare.
+(21) Prin derogare de la prevederile alin. (2), în componența Consiliului pentru dezvoltare strategică instituțională al instituției de învățămînt superior private nu se includ reprezentanți desemnați de către Ministerul Educației, Culturii și Cercetării și Ministerul Finanțelor. Deciziile Consiliului pentru dezvoltare strategică instituțională al instituției de învățămînt superior private sînt adoptate cu votul a 5 membri.
+[Art.104 al.(21) introdus prin LP315 din 30.11.18, MO13-21/18.01.19 art.76; în vigoare 18.01.19]
 (3) Membrii Consiliului pentru dezvoltare strategică instituţională se desemnează pentru un mandat de 5 ani.
 (4) Preşedintele Consiliului pentru dezvoltare strategică instituţională este ales de membrii acestuia. Angajaţii instituţiei nu pot fi aleşi în funcţia de preşedinte al Consiliului pentru dezvoltare strategică instituţională.
 (5) Componenţa Consiliului pentru dezvoltare strategică instituţională trebuie să includă economişti şi jurişti. Persoana desemnată de Ministerul Finanţelor trebuie să deţină competenţe specifice privind monitorizarea şi auditarea financiară.
 (6) La constituirea Consiliului pentru dezvoltare strategică instituţională se respectă principiul egalităţii de gen.
 (7) Consiliul pentru dezvoltare strategică instituţională se întruneşte cel puţin o dată în trimestru sau ori de cîte ori este necesar, la iniţiativa preşedintelui sau a cel puţin 1/3 din numărul membrilor.
-(8) Membrii Consiliului pentru dezvoltare strategică instituţională desemnaţi de instituţia de învăţămînt beneficiază de o indemnizaţie lunară, cu excepţia rectorului şi a prorectorului. Indemnizaţia respectivă se plăteşte din bugetul instituţiei de învăţămînt pentru membrii desemnaţi de aceasta, iar pentru membrii desemnaţi de fondator şi ministerele de resort – din bugetul fondatorului. Cuantumul indemnizaţiei este de un salariu mediu pe economie pentru membri şi de două salarii medii pe economie pentru preşedintele Consiliului. Prevederile prezentului alineat nu se aplică în cazul instituţiilor de învăţămînt în domeniile milităriei, securităţii şi ordinii publice.
+(8) Membrii Consiliului pentru dezvoltare strategică instituţională desemnaţi de instituţia de învăţămînt beneficiază de o indemnizaţie lunară, cu excepţia rectorului şi a prorectorului. Indemnizaţia respectivă se plăteşte din bugetul instituţiei de învăţămînt pentru membrii desemnaţi de aceasta, iar pentru membrii desemnaţi de fondator şi ministerele de resort – din bugetul fondatorului.Cuantumul indemnizației este de 1000 de lei pentru membri și de 2000 de lei pentru președintele Consiliului. Prevederile prezentului alineat nu se aplică în cazul instituţiilor de învăţămînt în domeniile milităriei, securităţii şi ordinii publice.
+[Art.104 al.(8) modificat prin LP315 din 30.11.18, MO13-21/18.01.19 art.76; în vigoare 18.01.19]
 (9) Membrii Consiliului pentru dezvoltare strategică instituţională poartă răspundere pentru deciziile luate, în conformitate cu legislaţia în vigoare.
 Articolul 105. Conducerea instituţiilor
 (1) Conducerea operativă a instituţiei de învăţămînt superior este asigurată de rector, asistat de prorectori, cu sprijinul consiliului de administraţie.
@@ -1726,13 +1735,12 @@ f) participarea la programe şi proiecte regionale şi inter­naţio­nale.
 (4) Acţiunile realizate în cadrul tratatelor internaţionale sînt finanţate în conformitate cu legislaţia în vigoare.
 (5) Programele şi proiectele internaţionale sînt finanţate conform legislaţiei în vigoare sau, după caz, în conformitate cu prevederile din proiectele aprobate şi finanţate.
 (6) Prin legea bugetului de stat se aprobă anual mijloace finan­ciare pentru susţinerea mobilităţii academice.
-Articolul 149. Cooperarea cu organizaţiile regionale
-şi internaţionale
+Articolul 149. Cooperarea cu organizaţiile regionale şi internaţionale
 (1) Ministerul Educației, Culturii și Cercetării acordă prioritate cooperării în domeniul educaţiei cu Uniunea Europeană în cadrul unor proiecte şi programe de parteneriat şi cooperare.
 (2) În scopul modernizării şi racordării sistemului naţional de educaţie la valorile şi standardele europene, precum şi în vederea participării la edificarea spaţiului european al învăţămîntului supe­rior în cadrul Procesului Bologna, Ministerul Educației, Culturii și Cercetării participă la programele şi proiectele de cooperare internaţională la nivel regional şi european.
 (3) Ministerul Educației, Culturii și Cercetării autorizează şi monitorizează activitatea voluntarilor din străinătate care prestează servicii educaţionale, precum şi a organizaţiilor necomerciale care implementează diverse proiecte şi programe internaţionale în cadrul sistemului naţional de educaţie, în conformitate cu legislaţia în vigoare.
-Articolul 150. Admiterea la studii a străinilor, drepturile
-şi obligaţiile elevilor şi studenţilor străini
+Articolul 150. Admiterea la studii a străinilor, drepturile şi obligaţiile elevilor
+şi studenţilor străini
 (1) Admiterea la studii a străinilor se realizează în condiţiile aplicate pentru cetăţenii Republicii Moldova.
 (2) Admiterea la studii a străinilor este condiţionată de recunoaşterea şi echivalarea prealabilă a actelor de studii prezentate de candidaţi.
 (3) Dreptul de organizare a studiilor pentru străini îl deţin în exclusivitate instituţiile de învăţămînt acreditate şi care oferă programe de studii acreditate.
@@ -1752,6 +1760,8 @@ a) art. 9 alin. (2), care se pune în aplicare la data aprobării pachetului sta
 b) art. 9 alin. (8), care se pune în aplicare începînd cu anul de studii 2018–2019;
 c) art. 13 alin. (1) şi (2), care se pun în aplicare nu mai tîrziu de anul 2018. Pînă la intrarea în vigoare a art. 13 alin. (1) şi (2), obligativitatea frecventării învăţămîntului obligatoriu încetează la vîrsta de 16 ani, la nivelul învăţămîntului gimnazial;
 d) art. 16 alin. (5), în partea ce ţine de evaluarea rezultatelor învăţării prin descriptori, care se pune în aplicare din anul 2015, începînd cu clasa I;
+d1) art. 25 alin. (2), în partea ce ține de învățămîntul preșcolar pentru copiii de la 2 la 3 ani, care se pune în aplicare gradual, conform unui program aprobat de către Guvern, în funcție de gradul de pregătire și locurile disponibile în instituțiile de educație timpurie și de învățămînt general, care prestează servicii de educație timpurie, precum și în funcție de mijloacele financiare disponibile;
+[Art.152 lit.d1) introdus prin LP269 din 23.11.18, MO467-179/14.12.18 art.794; în vigoare 14.01.19]
 e) art. 40 alin. (7), care se pune în aplicare din anul 2017;
 f) art. 55 alin. (2) şi (3), care se pun în aplicare, respectiv, din anul 2017 şi din anul 2016;
 g) art. 64 alin. (4), care se pune în aplicare din anul 2016;
