@@ -4,10 +4,10 @@ ID intern unic: 286119
 Fişa actului juridic
 Republica Moldova
 PARLAMENTUL
-COD
+CODUL
 Nr. 1316
 din 26.10.2000
-FAMILIEI
+CODUL FAMILIEI
 Publicat : 26.04.2001
 în Monitorul Oficial
 Nr. 47-48
