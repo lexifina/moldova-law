@@ -4,7 +4,7 @@ ID intern unic: 326757
 Fişa actului juridic
 Republica Moldova
 PARLAMENTUL
-COD
+CODUL
 Nr. 154
 din 28.03.2003
 CODUL MUNCII
@@ -14,6 +14,7 @@ Publicat : 29.07.2003
 Nr. 159-162
 art Nr : 648
 MODIFICAT
+LP19 din 11.03.19, MO94-99/15.03.19 art.156; în vigoare 15.03.19
 LP245 din 15.11.18, MO462-466/12.12.18 art.774; în vigoare 12.01.19
 LP203 din 04.10.18, MO462-466/12.12.18 art.768; în vigoare 12.01.19
 LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18
@@ -1238,7 +1239,8 @@ Articolul 110. Munca în zilele de repaus
 [Art.110 al.(4) modificat prin LP201 din 28.07.16, MO293-305/09.09.16 art.630; în vigoare 09.09.16]
 [Art.110 al.(4) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 Articolul 111. Zilele de sărbătoare nelucrătoare
-(1) În Republica Moldova, zile de sărbătoare nelucrătoare, cu plata salariului mediu (pentru salariaţii care sînt remuneraţi în acord, cu salarii lunare sau pe unitate de timp – oră sau zi), sînt:
+(1) În Republica Moldova zile de sărbătoare nelucrătoare sînt:
+[Art.111 al.(1) în redacția LP19 din 11.03.19, MO94-99/15.03.19 art.156; în vigoare 15.03.19]
 [Art.111 al.(1) modificat prin LP271 din 23.11.18, MO441-447/30.11.18 art.717; în vigoare 01.12.18]
 [Art.111 al.(1) modificat prin LP254 din 09.12.11, MO25-28/03.02.12 art.79]
 [Art.111 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
@@ -1259,6 +1261,9 @@ i1) 25 decembrie – Naşterea lui Iisus Hristos (Crăciunul pe stil nou);
 [Art.111 al.(1), lit.i1) introdusă prin LP310 din 20.12.13, MO14-16/21.01.14 art.30]
 j) ziua Hramului bisericii din localitatea respectivă, declarată în modul stabilit de consiliul local al municipiului, oraşului, comunei, satului.
 [Art.111 al.(1), lit.j) modificată prin LP8-XVI din 09.02.06, MO83-86/02.06.06 art.362]
+(11) Salariaților remunerați în acord sau pe unitate de timp (oră sau zi), pentru zilele de sărbătoare nelucrătoare enumerate la alin. (1), în cazul în care zilele de sărbătoare nelucrătoare nu coincid cu zilele de repaus săptămînal, li se plătește salariul mediu.
+În cazul în care zilele de sărbătoare nelucrătoare coincid cu zilele de repaus săptămînal, salariul mediu pentru aceste zile nu se plătește.
+[Art.111 al.(11) introdus prin LP19 din 11.03.19, MO94-99/15.03.19 art.156; în vigoare 15.03.19]
 (2) În zilele de sărbătoare nelucrătoare se admit lucrările în unităţile a căror oprire nu este posibilă în legătură cu condiţiile tehnice şi de producţie (unităţile cu flux continuu), lucrările determinate de necesitatea deservirii populaţiei, precum şi lucrările urgente de reparaţie şi de încărcare-descărcare.
 (3) Nu se admite atragerea la muncă în zilele de sărbătoare nelucrătoare a salariaţilor în vîrstă de pînă la 18 ani, a femeilor gravide.
 [Art.111 al.(3) modificat prin LP157 din 20.07.17, MO301-315/18.08.17 art.527]
@@ -1270,7 +1275,7 @@ j) ziua Hramului bisericii din localitatea respectivă, declarată în modul sta
 (5) În scopul utilizării optime de către salariaţi a zilelor de repaus şi de sărbătoare nelucrătoare, Guvernul este în drept să transfere zilele de repaus (de lucru) în alte zile. Salariaţii care în ziua declarată zi de odihnă încă nu se aflau în raporturi de muncă cu unitatea în cauză, salariaţii ale căror contracte individuale de muncă erau suspendate la data respectivă, precum şi salariaţii care în ziua respectivă s-au aflat în concediu medical, în concediu de maternitate, în concediu parţial plătit pentru îngrijirea copilului pînă la vîrsta de 3 ani, în concediu suplimentar neplătit pentru îngrijirea copilului în vîrstă de la 3 la 4 ani, în concediu de odihnă anual, în concediu neplătit şi în concediu de studii nu au obligaţia de a se prezenta la serviciu în ziua declarată zi lucrătoare.
 [Art.111 al.(5) modificat prin LP188 din 21.09.17, MO364-370/20.10.17 art.622]
 [Art.111 al.(5) modificat prin LP205 din 20.11.15, MO340-346/18.12.15 art.658]
-(6) În cazul în care zilele de sărbătoare nelucrătoare coincid cu zilele de repaus săptămînal, salariul mediu pentru aceste zile nu se menţine.
+[Art.111 al.(6) abrogat prin LP19 din 11.03.19, MO94-99/15.03.19 art.156; în vigoare 15.03.19]
 [Art.111 al.(6) introdus prin LP280-XVI din 14.12.07, MO94-96/30.05.08 art.349]
 Capitolul III
 CONCEDIILE ANUALE
@@ -1475,6 +1480,8 @@ Articolul 135. Modul de stabilire a salariilor
 [Art.135 al.(2) modificat prin LP242-XVI din 20.11.08, MO237-240/31.12.08 art.860]
 (3) Sistemul şi condiţiile de retribuire a muncii salariaţilor din sectorul bugetar se stabilesc prin lege.
 (4) Salariul de bază, modul şi condiţiile de salarizare a conducătorilor unităţilor se stabilesc de persoanele sau organele abilitate să numească aceşti conducători şi se fixează în contractele individuale de muncă încheiate cu ei.
+(5) Pentru salariații remunerați cu salarii de funcție fixe, salariul de funcție (salariul de bază) al acestora nu se modifică în cazul în care în luna respectivă există zile de sărbătoare nelucrătoare.
+[Art.135 al.(5) introdus prin LP19 din 11.03.19, MO94-99/15.03.19 art.156; în vigoare 15.03.19]
 Articolul 136. Sistemul tarifar de salarizare
 (1) Sistemul tarifar de salarizare include reţelele tarifare, salariile tarifare, grilele de salarii ale funcţiei şi îndrumarele tarifare de calificare.
 [Art.136 al.(1) modificat prin LP242-XVI din 20.11.08, MO237-240/31.12.08 art.860]
@@ -1613,7 +1620,8 @@ Articolul 157. Retribuirea muncii suplimentare
 (3) Compensarea muncii suplimentare cu timp liber nu se admite.
 Articolul 158. Compensaţia pentru munca prestată în zilele de repaus
 şi în cele de sărbătoare nelucrătoare
-(1) Cu condiţia plăţii salariului mediu conform art.111 alin.(1), munca prestată în zilele de repaus şi în cele de sărbătoare nelucrătoare este retribuită:
+(1) Cu condiția plății salariului mediu pentru salariații specificați la art. 111 alin. (11), munca prestată în zilele de repaus şi în cele de sărbătoare nelucrătoare este retribuită:
+[Art.158 al.(1) modificat prin LP19 din 11.03.19, MO94-99/15.03.19 art.156; în vigoare 15.03.19]
 [Art.158 al.(1) modificat prin LP168 din 09.07.10, MO160-162/07.09.10 art.586]
 a) salariaţilor care lucrează în acord - cel puţin în mărime dublă a tarifului în acord;
 b) salariaţilor a căror muncă este retribuită în baza salariilor tarifare pe oră sau pe zi - cel puţin în mărimea dublă a salariului pe oră sau pe zi;
