@@ -1,0 +1,17 @@
+The legal texts are official texts of the Republic of Moldova (the Constitution of 29 July 1994 as amended,
+and the Constitutional Court judgment HCC7/2016), as published by the State Register of Legal Acts in its
+earlier home lex.justice.md (Ministry of Justice), read through Internet Archive captures, and in the Moldpres
+edition "Constituția Republicii Moldova. Cu modificări și completări la data de 20 octombrie 2024" (PDF hosted
+at presedinte.md), retrieved 29 October 2026. Official documents such as laws and court decisions are not
+objects of copyright under Law 139/2010 on copyright and related rights.
+
+Changes made by Lexifina: each version was converted to one Markdown file per provision, one paragraph or
+lettered point per line; typesetting was normalised (cedilla and comma-below s/t as one letter, spaced dashes,
+spacing, letter-spaced headings, line-end hyphens of the PDF); the register's notes and footnotes were left out;
+the Constitutional Court's judgment was applied to the articles it names; and the versions were arranged as git
+commits credited to the acts that made each change. The wording of the law was not changed. Neither the State
+Register, Moldpres nor the Presidency endorses this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
