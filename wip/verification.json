@@ -1,4 +1,14 @@
 {
+ "check": {
+  "acts": 1,
+  "backwards": 0,
+  "future_dated": 0,
+  "merges": 0,
+  "mismatches": 0,
+  "missing_in_force": 0,
+  "trailer_errors": 0,
+  "versions": 3
+ },
  "rebuild": {
   "commits": 3,
   "history_tip": "03888561d5e28fbed36026bd939fd056e082d3bf",
