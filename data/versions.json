@@ -1,0 +1,31 @@
+{
+ "country": "MD",
+ "acts": [
+  {
+   "slug": "constitutia",
+   "short": "Constituția",
+   "title": "Constituția Republicii Moldova",
+   "url": "https://www.legis.md/cautare/getResults?doc_id=145723&lang=ro",
+   "versions": [
+    {
+     "from": "2006-07-14",
+     "units": 174,
+     "source_url": "https://web.archive.org/web/20130527162646id_/http://lex.justice.md:80/index.php?action=view&view=doc&lang=1&id=311496",
+     "sha256": "61f7f50383ef2cac0dcede02a3cb4f6b88087c6dccbf8757c9c2f1ee422f0572"
+    },
+    {
+     "from": "2016-03-04",
+     "units": 174,
+     "source_url": "https://web.archive.org/web/20160831022417id_/http://lex.justice.md/md/363742/",
+     "sha256": "be41be71c65a1df9ed5359985cc1bbf5d01a10dccf99fec0930f202b271b07db"
+    },
+    {
+     "from": "2024-10-20",
+     "units": 180,
+     "source_url": "https://presedinte.md/app/webroot/Constitutia_RM/Constitutia_2024_ro.pdf",
+     "sha256": "429a0cb7993e565b4c99648519795851efa7b81746fc8a5b10cbb484310f0d67"
+    }
+   ]
+  }
+ ]
+}
