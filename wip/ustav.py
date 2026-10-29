@@ -18,6 +18,8 @@ ROMAN = ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII
 
 
 def norm(s):
+    if re.fullmatch(r"(?:\S ){3,}\S", s.strip()):
+        s = s.replace(" ", "")                       # letter-spaced headings: "G U V E R N U L"
     s = s.replace(" ", " ").replace("­", "")
     s = s.translate(str.maketrans("şŞţŢ", "șȘțȚ"))   # cedilla and comma-below forms are one letter
     s = s.replace("‐", "-").replace("‑", "-")
@@ -34,7 +36,7 @@ def roman(n):
 
 # ------------------------------------------------------------------ structure from a flat list of lines
 
-ART = re.compile(r"^Articolul\s+(\d+)(?:\^(\d+))?(?:\s*[-–]\s*(abrogat|exclus)\.?)?$")
+ART = re.compile(r"^Arti?colul\s+(\d+)(?:\^(\d+))?(?:\s*[-–]\s*(abrogat|exclus)\.?)?$")
 TART = re.compile(r"^Articolul\s+([IVX]+)$")
 TITLU = re.compile(r"^Titlul\s+([IVX]+)(?:\^(\d))?$")
 CAP = re.compile(r"^Capitolul\s+([IVX]+)(?:\^(\d))?$", re.I)
@@ -52,6 +54,7 @@ def build_units(items):
     cur = None        # key of the unit being filled
     title = chapter = None
     pending_caption = None  # key of a heading/article whose caption comes next
+    cap_open = False        # the last line added was a caption, which may go on on the next line
 
     def start(key, label, kind, heading):
         nonlocal cur
@@ -61,6 +64,12 @@ def build_units(items):
         cur = key
 
     for kind, text in items:
+        structural = any(r.match(text) for r in (ART, TART, TITLU, CAP, SECT))
+        if cap_open and not structural and (kind in ("bold", "head") or (kind == "para" and units[cur]["kind"] in ("title", "chapter")
+                                             and text.upper() == text and not text.startswith("("))):
+            units[cur]["lines"][-1] += " " + text   # a caption set on two lines
+            continue
+        cap_open = False
         if kind == "bold":
             kind = "head" if (pending_caption and pending_caption == cur) else "para"
         if kind == "head":
@@ -107,12 +116,9 @@ def build_units(items):
                 continue
             if pending_caption and pending_caption == cur:
                 u = units[cur]
-                if u["kind"] in ("title", "chapter", "section") and len(u["lines"]) > 1:
-                    u["lines"][-1] += " " + text   # a caption set on two lines ("DREPTURILE, LIBERTĂȚILE ȘI / ...")
-                else:
-                    u["lines"].append(("## " if u["kind"] == "art" else "") + text)
-                if u["kind"] == "art":
-                    pending_caption = None
+                u["lines"].append(("## " if u["kind"] == "art" else "") + text)
+                pending_caption = None
+                cap_open = True
                 continue
             raise ValueError(f"unplaced heading: {text!r} after {cur}")
         else:
@@ -138,7 +144,7 @@ def register_items(raw):
     """Lines of the consolidated text from a lex.justice.md page, and the bracketed notes per unit."""
     s = raw.decode("utf-8")
     i = s.find("NOI,")
-    j = s.rfind("Articolul VIII")
+    j = s.find("Articolul VIII", s.find("TRANZITORII"))
     assert i > 0 and j > i
     j = s.find("</div>", s.find("vigoare", j))
     body = s[s.rfind("<", 0, i):j]
@@ -163,6 +169,9 @@ def register_items(raw):
         kind = "bold" if bold and not line.startswith("(") and len(line) < 140 else "para"
         if ART.match(line) or TART.match(line) or TITLU.match(line) or CAP.match(line) or SECT.match(line):
             kind = "head"
+        if line.startswith("LEGE SUPREMĂ") and items and items[-1][1].endswith("-o"):
+            items[-1] = ("para", items[-1][1] + " " + line)   # one sentence set on two lines, as in the 2024 edition
+            continue
         items.append((kind, line))
     return items, notes
 
@@ -176,36 +185,54 @@ def from_register(raw):
 # ------------------------------------------------------------------ Moldpres 2024 edition (PDF)
 
 def pdf_lines(path):
-    out = subprocess.run(["pdftotext", "-enc", "UTF-8", "-layout", path, "-"], capture_output=True, check=True)
-    return out.stdout.decode("utf-8").split("\n")
+    """[(kind, text)] from the PDF's text layer (PyMuPDF): kind is 'head' (bold), 'start' (a line indented past
+    the page's text margin: a new paragraph) or 'cont'. Running heads (8 pt) and page numbers (10 pt) are dropped.
+    Superscript spans (the 1 of 'Articolul 106^1') are written '^1'."""
+    import fitz
+    out = []
+    with fitz.open(path) as doc:
+        for page in doc:
+            lines = []
+            for b in page.get_text("dict")["blocks"]:
+                for l in b.get("lines", []):
+                    spans = [sp for sp in l["spans"] if sp["text"].strip() or sp["text"]]
+                    if not spans or max(sp["size"] for sp in spans) < 11:
+                        continue
+                    txt = "".join(("^" + sp["text"].strip()) if sp["flags"] & 1 else sp["text"] for sp in spans)
+                    bold = all(sp["flags"] & 16 for sp in spans if sp["text"].strip())
+                    lines.append((l["bbox"][0], bold, txt))
+            body = [x for x, bold, _ in lines if not bold]
+            margin = min(body) if body else 0
+            for x, bold, txt in lines:
+                if not txt.strip():
+                    continue
+                out.append(("head" if bold else ("start" if x > margin + 5 else "cont"), txt.strip()))
+    return out
 
 
 def moldpres_items(lines, known_words):
-    """Paragraphs: a line indented 3-4 spaces starts one, a line at column 0 continues it, a line indented 5+
-    is a heading. Page furniture (running head, page numbers) is dropped. A hyphen at a line end is a line-break
-    hyphen unless the hyphenated form is a known word (known_words: words seen elsewhere with their hyphen)."""
-    start = next(i for i, l in enumerate(lines) if l.strip().startswith("NOI, reprezentan"))
-    end = next(i for i, l in enumerate(lines) if "intrarea ei în vigoare" in l) + 1
-    paras = []   # [kind, [lines]]
-    for raw in lines[start:end]:
-        if not raw.strip():
-            continue
-        t = raw.rstrip()
-        st = t.strip()
-        if st in ("CONSTITUŢIA REPUBLICII MOLDOVA", "CONSTITUȚIA REPUBLICII MOLDOVA") or re.fullmatch(r"\d{1,2}", st):
-            continue
-        ind = len(t) - len(t.lstrip(" "))
-        if ind >= 5:
-            paras.append(["head", [st]])
-        elif ind >= 1 or not paras or paras[-1][0] == "head":
-            paras.append(["para", [st]])
+    """Paragraphs from pdf_lines(). A hyphen at a line end is a line-break hyphen unless the hyphenated form is a
+    known word (known_words: words printed elsewhere with their hyphen)."""
+    start = next(i for i, (_, t) in enumerate(lines) if t.startswith("NOI, reprezentan"))
+    end = next(i for i, (_, t) in enumerate(lines) if "intrarea ei în vigoare" in t) + 1
+    paras = []
+    preamble = True
+    for kind, t in lines[start:end]:
+        if kind == "head" and t == "Titlul I":
+            preamble = False
+        if preamble:
+            # the preamble is set flush left, partly in bold: each paragraph opens with a word in capitals
+            kind = "start" if re.match(r"^([A-ZĂÂÎȘȚŞŢ]{3,}[ ,]|adoptăm )", t) else "cont"
+        if kind == "head":
+            paras.append(["head", [t]])
+        elif kind == "start" or not paras or paras[-1][0] == "head":
+            paras.append(["para", [t]])
         else:
-            paras[-1][1].append(st)
+            paras[-1][1].append(t)
     items = []
     for kind, ls in paras:
         if kind == "head":
-            # superscripts are flattened in the text layer: "Articolul 1061", "Titlul V1", "Capitolul III1"
-            items.append(("head", ls[0]))
+            items.append(("head", norm(ls[0])))
             continue
         text = ls[0]
         for nxt in ls[1:]:
@@ -242,4 +269,4 @@ def fix_superscripts(items):
 
 
 def from_moldpres(path, known_words):
-    return build_units(fix_superscripts(moldpres_items(pdf_lines(path), known_words)))
+    return build_units(moldpres_items(pdf_lines(path), known_words))
