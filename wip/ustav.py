@@ -169,9 +169,6 @@ def register_items(raw):
         kind = "bold" if bold and not line.startswith("(") and len(line) < 140 else "para"
         if ART.match(line) or TART.match(line) or TITLU.match(line) or CAP.match(line) or SECT.match(line):
             kind = "head"
-        if line.startswith("LEGE SUPREMĂ") and items and items[-1][1].endswith("-o"):
-            items[-1] = ("para", items[-1][1] + " " + line)   # one sentence set on two lines, as in the 2024 edition
-            continue
         items.append((kind, line))
     return items, notes
 
@@ -218,6 +215,8 @@ def moldpres_items(lines, known_words):
     paras = []
     preamble = True
     for kind, t in lines[start:end]:
+        if ART.match(norm(t)):
+            kind = "head"                      # "Articolul 82 - abrogat." is set as body text
         if kind == "head" and t == "Titlul I":
             preamble = False
         if preamble:
@@ -234,8 +233,9 @@ def moldpres_items(lines, known_words):
         if kind == "head":
             items.append(("head", norm(ls[0])))
             continue
-        text = ls[0]
+        text = ls[0].rstrip("  ")
         for nxt in ls[1:]:
+            nxt = nxt.strip("  ")
             if text.endswith("-") and not text.endswith(" -"):
                 left = re.search(r"(\S+)-$", text).group(1)
                 right = re.match(r"\S+", nxt).group(0)
@@ -246,6 +246,7 @@ def moldpres_items(lines, known_words):
                     text = text[:-1] + nxt
             else:
                 text = text + " " + nxt
+            text = text.rstrip("  ")
         items.append(("para", norm(text)))
     return items
 
