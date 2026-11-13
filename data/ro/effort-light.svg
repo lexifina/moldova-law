@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
+<rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Dreptul Moldovei ca istoric git</text>
+<rect x="574.5" y="24.5" width="151" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="649.9" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">situația la 29 oct. 2026</text>
+<rect x="733.2" y="24.5" width="123" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="794.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">stare: neactualizat</text>
+<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">1</text>
+<text x="40.0" y="106" font-size="12" fill="#59636e">acte normative</text>
+<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
+<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">3</text>
+<text x="206.4" y="106" font-size="12" fill="#59636e">modificări, ca commit-uri</text>
+<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
+<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">181</text>
+<text x="372.8" y="106" font-size="12" fill="#59636e">fișiere de dispoziții</text>
+<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
+<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">2</text>
+<text x="539.2" y="106" font-size="12" fill="#59636e">autori: legi și editori</text>
+<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
+<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">2006–2024</text>
+<text x="705.6" y="106" font-size="12" fill="#59636e">ani de istoric</text>
+<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Modificări pe anul intrării în vigoare</text>
+<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
+<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
+<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">1</text>
+<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
+<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">2</text>
+<rect x="81.10" y="255.5" width="34.94" height="75.0" rx="1.5" fill="#1f883d"><title>2006: modificări intrate în vigoare: 1</title></rect>
+<text x="98.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2006</text>
+<text x="98.6" y="249.5" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">1 în 2006</text>
+<text x="170.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2008</text>
+<text x="243.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2010</text>
+<text x="315.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2012</text>
+<text x="387.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2014</text>
+<rect x="442.53" y="255.5" width="34.94" height="75.0" rx="1.5" fill="#1f883d"><title>2016: modificări intrate în vigoare: 1</title></rect>
+<text x="460.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2016</text>
+<text x="532.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2018</text>
+<text x="604.6" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
+<text x="676.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2022</text>
+<rect x="731.67" y="255.5" width="34.94" height="75.0" rx="1.5" fill="#1f883d"><title>2024: modificări intrate în vigoare: 1</title></rect>
+<text x="749.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2024</text>
+<text x="821.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2026</text>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Modificări datate după ziua intrării în vigoare: 3. Tip de istoric: in-force.</text>
+<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Completitudine față de sursele oficiale la 12 nov. 2026</text>
+<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Constituția</text>
+<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">inclusă în depozit</text>
+<g><title>Constituția: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Coduri principale</text>
+<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">ponderea codurilor esențiale incluse</text>
+<g><title>Coduri principale: 0 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
+<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Legislație națională</text>
+<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">acte incluse din totalul oficial</text>
+<g><title>Legislație națională: 0 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
+<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Legislație regională</text>
+<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">unități legislative incluse</text>
+<g><title>Legislație regională: 100 %</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Jurisprudență</text>
+<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">instanțe supreme incluse</text>
+<g><title>Jurisprudență: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
+<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
+<rect x="24.5" y="562.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Corectitudinea conținutului</text>
+<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Cu dată de intrare în vigoare</text>
+<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">ponderea modificărilor</text>
+<g><title>Cu dată de intrare în vigoare: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Modificări cu sursă oficială</text>
+<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">rând Source sau link în commit</text>
+<g><title>Modificări cu sursă oficială: 100 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
+<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
+<text x="40.5" y="684.5" font-size="13" fill="#1f2328">Verificat față de sursa oficială</text>
+<text x="40.5" y="700.5" font-size="11.5" fill="#59636e">Registrul de stat al actelor juridice (Ministerul Justiției)</text>
+<text x="424.0" y="688.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">29 oct. 2026</text>
+<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Corpusurile țării în global-law</text>
+<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">acte naționale: 1, acte regionale: 1</text>
+<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">2</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/moldova-law la 70a6d61, generat la 2026-11-13. Fără commit-urile de documentație. Domeniu: 1 acts, 3 dated versions from 2006-07-14 to 2024-10-20</text>
+</svg>
