@@ -25,7 +25,7 @@ This repository was built from what can be read:
 - the **Constitutional Court judgment HCC7/2016** on that site, whose point 8 b) sets out the new text of Articles 78 and 89;
 - the **Moldpres edition** "Constituția Republicii Moldova. Cu modificări și completări la data de 20 octombrie 2024" (Moldpres is the state agency that publishes the Monitorul Oficial), hosted as a PDF by the Presidency (presedinte.md).
 
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -39,6 +39,14 @@ This repository was built from what can be read:
 | The whole Constitution on a date | `python tools/on.py 2020-01-01 constitutia` |
 
 After a rebuild, refresh tags with `git fetch --force --tags`: a plain fetch keeps stale tags.
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Moldovan law](https://global-law.lexifina.com/v1/try_claude?country=moldova&q=what%20does%20the%20Constitution%20%28Constitu%C8%9Bia%20Republicii%20Moldova%29%20say%20about%20the%20right%20to%20work%20%28art.%2043%29%20today%2C%20and%20which%20laws%20have%20changed%20the%20Constitution%20since%202006%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: one click opens Claude with a first question ready (the right to work in the Constitution, and how the Constitution has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=moldova&q=what%20does%20the%20Constitution%20%28Constitu%C8%9Bia%20Republicii%20Moldova%29%20say%20about%20the%20right%20to%20work%20%28art.%2043%29%20today%2C%20and%20which%20laws%20have%20changed%20the%20Constitution%20since%202006%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=dreptul+la+munc%C4%83&jurisdictions=moldova)**: Moldovan law searched for "dreptul la muncă", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. In Claude, choose "Always allow" so that each look-up is not asked about. Ask in Romanian or in English.
 
 ## Dates
 

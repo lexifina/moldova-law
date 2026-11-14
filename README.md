@@ -25,7 +25,7 @@ Acest depozit a fost construit din ceea ce poate fi citit:
 - **Hotărârea Curții Constituționale HCC7/2016** de pe același site, al cărei punct 8 lit. b) stabilește noul text al articolelor 78 și 89;
 - **ediția Moldpres** „Constituția Republicii Moldova. Cu modificări și completări la data de 20 octombrie 2024” (Moldpres este agenția de stat care publică Monitorul Oficial), găzduită ca PDF de Președinție (presedinte.md).
 
-## Întrebările unui jurist, ca comenzi git
+## Întrebări ca comenzi git
 
 | Întrebare | Comandă |
 | --- | --- |
@@ -39,6 +39,14 @@ Acest depozit a fost construit din ceea ce poate fi citit:
 | Întreaga Constituție la o anumită dată | `python tools/on.py 2020-01-01 constitutia` |
 
 După o reconstrucție, actualizați etichetele cu `git fetch --force --tags`: un fetch simplu păstrează etichetele vechi.
+
+**Sau întrebați în cuvinte obișnuite.** Aceleași date sunt gratuite și fără git, fără cont și fără cheie:
+
+- **[Întrebați Claude despre legislația Republicii Moldova](https://global-law.lexifina.com/v1/try_claude?country=moldova&q=what%20does%20the%20Constitution%20%28Constitu%C8%9Bia%20Republicii%20Moldova%29%20say%20about%20the%20right%20to%20work%20%28art.%2043%29%20today%2C%20and%20which%20laws%20have%20changed%20the%20Constitution%20since%202006%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: un clic deschide Claude cu prima întrebare pregătită (dreptul la muncă în Constituție și cum s-a modificat Constituția).
+- **[Întrebați ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=moldova&q=what%20does%20the%20Constitution%20%28Constitu%C8%9Bia%20Republicii%20Moldova%29%20say%20about%20the%20right%20to%20work%20%28art.%2043%29%20today%2C%20and%20which%20laws%20have%20changed%20the%20Constitution%20since%202006%3F%20Quote%20the%20words%20of%20the%20law%2C%20name%20the%20law%20behind%20each%20change%20with%20the%20day%20it%20took%20effect%2C%20and%20cite%20the%20official%20publisher%27s%20page.)**: aceeași întrebare în ChatGPT.
+- **[Apelați API-ul în browser](https://global-law.lexifina.com/v1/search_law?query=dreptul+la+munc%C4%83&jurisdictions=moldova)**: căutare în legislația Republicii Moldova după „dreptul la muncă”, răspuns în JSON. Fără cheie, 5 apeluri pe minut; [toate instrumentele](https://global-law.lexifina.com/v1), [chei și documentație](https://lexifina.com/api).
+
+Asistenții citesc datele prin conectorul gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`); prima dată, conversația oferă linkul care îl adaugă. În Claude alegeți „Always allow” ca să nu confirmați fiecare apel. Întrebați în română, cu sau fără diacritice, sau în engleză.
 
 ## Datare
 
