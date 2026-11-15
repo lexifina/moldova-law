@@ -40,5 +40,8 @@ Changes made for this repository:
 - It was run once more with `redo.py --keep-reviews` after later fixes (Roman-numeral months, "cel târziu la", Albanian,
   Bulgarian and Turkish phrases). They changed no flag here; 4 lapsed time limits that had become among the strongest
   were reviewed (none survived), and every earlier review was kept.
+- A last `patch_detectors.py` fix made the sharded scans assign texts to shards by a stable checksum instead of Python's
+  per-process `hash()`, which had read some texts twice and others not at all, and ordered their rows. Another
+  `--keep-reviews` pass gave the same flags and reviewed 5 more lapsed time limits tied with the strongest (none survived).
 - `flags_chart.py` and `config.json` name a count of three categories in words ("three", "trei"), and the Romanian chart
   title reads "{n} de semnalări", right for this count (Romanian puts "de" after numbers from 20 up).
