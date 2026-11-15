@@ -30,7 +30,8 @@ Textul este în limba română, limba oficială, așa cum îl tipăresc Registru
 
 - **[Întrebați Claude despre dreptul Republicii Moldova](https://global-law.lexifina.com/v1/try_claude?country=moldova)**: deschide Claude cu o primă întrebare pregătită.
 - **[Întrebați ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=moldova)**: aceeași întrebare în ChatGPT.
-- **[Apelați API-ul în browser](https://global-law.lexifina.com/v1/search_law?query=concediul+de+odihn%C4%83&jurisdictions=moldova)**: o căutare în dreptul Republicii Moldova după „concediul de odihnă”, cu răspunsul în JSON. Documentația este [aici](https://lexifina.com/api/global-law).
+- **[Căutați în dreptul Republicii Moldova pe site-ul nostru](https://lexifina.com/law?country=moldova&q=concediul+de+odihn%C4%83)**: o căutare după „concediul de odihnă”, cu textul fiecărui articol și versiunile lui, fără cont.
+- **[API REST pentru dezvoltatori](https://global-law.lexifina.com/v1/search_law?query=concediul+de+odihn%C4%83&jurisdiction=moldova)**: aceeași căutare în JSON, fără cheie. Documentația este [aici](https://lexifina.com/api/global-law).
 
 Ambii asistenți citesc evidența prin conectorul gratuit Global law (MCP, `https://global-law.lexifina.com/mcp`); prima dată, conversația vă oferă linkul care îl adaugă. Întrebați în română sau în engleză.
 
