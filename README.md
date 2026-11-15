@@ -61,6 +61,7 @@ Prima versiune este „cea mai veche versiune disponibilă”, atribuită Regist
 - Pagina registrului din 2016 este comparată cu pagina din 2013, care dă textul din 2006: ele pot diferi doar prin notele privind HCC7, prin trei unități al căror HTML este corupt (art. 35, 75 și 129) și prin corecturile de greșeli de tipar enumerate.
 - HCC7/2016 este aplicată așa cum este scrisă: articolele 78 și 89 primesc textul stabilit la punctul 8 lit. b), iar sintagma eliminată de punctul 3 dispare din art. 85 alin. (4); articolul 89, așa cum este construit, este identic cuvânt cu cuvânt cu ediția din 2024. Textul din 2024 este citit din stratul de text al PDF-ului ediției, fără OCR.
 - Istoria doar se completează: niciun commit de tip merge, datele commiturilor nu merg niciodată înapoi, nimic nu este datat în viitor, iar trailerele fiecărui commit sunt valide.
+- [vulnerabilities/](vulnerabilities/): posibile greșeli de redactare în dreptul Republicii Moldova, găsite de detectoarele din global-law și verificate manual.
 
 ## Ce nu arată
 

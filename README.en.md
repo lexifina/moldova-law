@@ -61,6 +61,7 @@ The first version is the "oldest version available", credited to the State Regis
 - The register's 2016 page is compared with the 2013 page that gives the 2006 text: they may differ only in the HCC7 notes, three units whose HTML is corrupted (Arts. 35, 75 and 129) and listed typo corrections.
 - HCC7/2016 is applied as written: Articles 78 and 89 take the text its point 8 b) sets out, and the phrase its point 3 strikes leaves Art. 85(4); Article 89 as built equals the 2024 edition word for word. The 2024 text is read from the edition's PDF text layer, with no OCR.
 - History is append-only: no merge commits, no commit dates going backwards, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Moldovan law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
