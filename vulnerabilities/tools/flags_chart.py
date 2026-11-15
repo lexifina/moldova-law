@@ -14,7 +14,7 @@ PAL = {
     "light": dict(bg="#ffffff", border="#dfe5e1", fg="#14201a", muted="#5f6e66", law="#1a7f4b", other="#9fcdb2", soft="#f4f6f5"),
     "dark": dict(bg="#0c120f", border="#26332c", fg="#e9f2ec", muted="#93a69b", law="#3fbf7f", other="#2a6b4a", soft="#141c18"),
 }
-WORDS_EN = {4: "four", 5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
+WORDS_EN = {3: "three", 4: "four", 5: "five", 6: "six", 7: "seven", 8: "eight", 9: "nine", 10: "ten"}
 SHORT_EN = {"Retroactive or pre-publication dates": "Retroactive dates"}
 CFG = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "config.json"), encoding="utf-8"))
 LANG, CH = CFG["lang"], CFG["chart"]   # chart: title ("{n} ... {k} ..."), words ({"8": "..."}), law, other, other_en, sep, tip, short
