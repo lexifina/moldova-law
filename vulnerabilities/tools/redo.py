@@ -1,6 +1,6 @@
 """Re-runs a finished country after patch_detectors.py: only the steps the fixes change, then rebuilds out/.
 
-    python -X utf8 redo.py <workspace dir D> [--fileact] [--workers N]
+    python -X utf8 redo.py <workspace dir D> [--fileact] [--workers N] [--keep-reviews]
 
 D is the run's folder, holding gl/vulnerabilities/scripts, build_vulns.py and config.json (--fileact: one file per act). Steps:
  1. patch_detectors.py on D/gl/vulnerabilities/scripts (S)
@@ -16,6 +16,7 @@ import glob, json, os, shutil, subprocess, sys, time
 D = os.path.abspath(sys.argv[1])
 FILEACT = "--fileact" in sys.argv
 W = sys.argv[sys.argv.index("--workers") + 1] if "--workers" in sys.argv else "3"
+KEEP = "--keep-reviews" in sys.argv  # a second pass: keep every review already made, review only new strong flags
 S = os.path.join(D, "gl", "vulnerabilities", "scripts")
 KIT = os.path.dirname(os.path.abspath(__file__))
 PY = "C:/Python314/python.exe"
@@ -52,8 +53,9 @@ for name in ("triage.jsonl", "late_extension_triage.jsonl", "late_extension_filt
     if os.path.exists(os.path.join(F, name)) and not os.path.exists(os.path.join(pre, name)):
         shutil.copy2(os.path.join(F, name), os.path.join(pre, name))
 rm("findings/run/ranked_lapsed_limit.parquet", "findings/run/ranked_stale_amount.parquet", "findings/run/ranked_dangling_ref.parquet",
-   "findings/run/late_extension.jsonl", "findings/run/dead_currency.jsonl", "findings/run/late_extension_triage.jsonl",
-   "findings/run/late_extension_filtered.json", "findings/runlaw")
+   "findings/run/late_extension.jsonl", "findings/run/dead_currency.jsonl")
+if not KEEP:
+    rm("findings/run/late_extension_triage.jsonl", "findings/run/late_extension_filtered.json", "findings/runlaw")
 # 3. detectors
 P = [PY, "-X", "utf8"]
 if FILEACT:
@@ -73,7 +75,7 @@ run(*P, "detectors/late_extension.py", "run")
 run(*P, "detectors/currency_scan.py", "run")
 # 4. model review of the categories whose flags changed
 T = os.path.join(F, "triage.jsonl")
-if os.path.exists(T):
+if os.path.exists(T) and not KEEP:
     keep = [l for l in open(T, encoding="utf-8") if json.loads(l)["detector"] not in ("lapsed_limit", "dangling_ref")]
     open(T, "w", encoding="utf-8", newline="\n").writelines(keep)
 # llm_env.sh may compute the key with a shell command, so source it in bash and read the environment back
@@ -92,7 +94,22 @@ os.makedirs(os.path.join(F, "..", "runlaw"), exist_ok=True)
 run(*P, "-c", f"import duckdb; duckdb.sql(\"copy (select * from 'findings/run/ranked_lapsed_limit.parquet' where not regexp_matches(path, '{rx}')) to 'findings/runlaw/ranked_lapsed_limit.parquet' (format parquet)\")")
 run(*P, "triage/triage.py", "runlaw", "--per", "40", "--workers", "12", "--dets", "lapsed_limit", env=E2)
 run(*P, os.path.join(D, "late_ext_select.py"), env=E2)
-run(*P, "triage/late_ext_triage.py", "run", env=E2)
+LT, LF = os.path.join(F, "late_extension_triage.jsonl"), os.path.join(F, "late_extension_filtered.json")
+rk = lambda r: (r["path"], r["old_until"], r["new_until"], r["law"], r["old_context"][:80], r["new_context"][:80])
+if KEEP and os.path.exists(LT):  # review only the selected rows that have no review yet, then merge
+    old = [json.loads(l) for l in open(LT, encoding="utf-8")]
+    have = {rk(o["row"]) for o in old}
+    sel = json.load(open(LF, encoding="utf-8"))
+    new = [r for r in sel if rk(r) not in have]
+    if new:
+        json.dump(new, open(LF, "w", encoding="utf-8"), ensure_ascii=False)
+        run(*P, "triage/late_ext_triage.py", "run", env=E2)
+        fresh = [json.loads(l) for l in open(LT, encoding="utf-8")]
+        json.dump(sel, open(LF, "w", encoding="utf-8"), ensure_ascii=False)
+        open(LT, "w", encoding="utf-8", newline=chr(10)).writelines(json.dumps(x, ensure_ascii=False) + chr(10) for x in old + fresh)
+    LOG.write(f"late extension: {len(new)} new of {len(sel)} selected reviewed" + chr(10))
+else:
+    run(*P, "triage/late_ext_triage.py", "run", env=E2)
 run(*P, os.path.join(D, "late_ext_rebut.py"), env=E2)
 # 5. rebuild
 b = os.path.join(D, "build_czechia_vulns.py" if FILEACT else "build_vulns.py")

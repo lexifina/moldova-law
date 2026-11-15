@@ -18,7 +18,9 @@
    - file names "clanak-N" (Croatia), "clan-N" (Montenegro, Serbia) and "ugovor-/naredba-" prefixed ones give the article;
    - an article heading after a chapter heading at the top of a file is the file's own heading.
 3. Currencies (detectors/currency_scan.py): the Belgian franc (francs, frank, BEF); "DM" only in capitals and as a word
-   (not "dm" decimetres or letters inside identifiers); "franco"/"inti"/"lire"/"marco" only as whole words.
+   or right after a decimal amount (not "dm" decimetres or letters inside identifiers); "franco"/"inti"/"lire"/"marco" only as
+   whole words; Albanian "lireta".
+4. Albanian dates: "deri më datën 31.12.2010" and "deri në fund të vitit 2010".
 """
 import re, sys
 from pathlib import Path
@@ -33,6 +35,9 @@ def patch(rel, pairs):
     for name, a, b in pairs:
         if b in s:
             skipped.append(f"{rel}: {name}")
+            continue
+        if s.count(a) == 0:  # superseded by a later round already applied (e.g. the end-of-year forms)
+            skipped.append(f"{rel}: {name} (superseded)")
             continue
         if s.count(a) != 1:
             raise SystemExit(f"{rel}: {name}: anchor found {s.count(a)} times")
@@ -85,6 +90,49 @@ patch("detectors/text_detectors.py", [
     ("deadline words in the score",
      "'(not later than|no later than|spätestens|a más tardar|au plus tard|senast|uiterlijk|report|submit|bericht|informe)') then 0 else 0.3 end)",
      "'(not later than|no later than|spätestens|a más tardar|au plus tard|senast|uiterlijk|najkasnije|nejpozději|najneskôr|en geç|το αργότερο|cel mai t.rziu|cel t.rziu|най-късно|не по-късно|report|submit|bericht|informe)') then 0 else 0.3 end)"),
+])
+
+# second round (found by the Albania update): "deri më datën 31.12.2010", "deri në fund të vitit 2010"
+patch("ingest/textscan.py", [
+    ("Albanian 'datën' before the date",
+     'FILL = r"(?:the|le|el|o|il|den|dem|και|',
+     'FILL = r"(?:the|le|el|o|il|den|dem|datën|datës|datë|date|και|'),
+    ("Albanian end of a year",
+     r'sf[âa]r[sș]itul\s+anului\s+)(?P<y6>',
+     r'sf[âa]r[sș]itul\s+anului\s+|fund(?:in)?\s+t[ëe]\s+vitit\s+)(?P<y6>'),
+])
+
+# third round (found by the Bulgaria update): "не по-късно от 31.12.2010", "изтича на ...", Roman-numeral months
+# ("31.XII.2001"), Romanian "cel târziu la", Albanian "jo më vonë se"
+patch("ingest/textscan.py", [
+    ("more 'until' phrases",
+     r'zakljucno sa|zakljucno s|ως")',
+     r'zakljucno sa|zakljucno s|ως|не по-късно от|изтича на|cel t[âî]rziu la|cel mai t[âî]rziu la|jo më vonë se")'),
+    ("Roman-numeral months",
+     r'r"|(?P<d3>\d{1,2})\s?[./]\s?(?P<m3>\d{1,2})\s?[./]\s?(?P<y3>\d{4})"',
+     r'r"|(?P<d8>\d{1,2})\.\s?(?P<m8>XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I)\.\s?(?P<y8>\d{4})"' + "\n        " +
+     r'r"|(?P<d3>\d{1,2})\s?[./]\s?(?P<m3>\d{1,2})\s?[./]\s?(?P<y3>\d{4})"'),
+    ("Roman numerals table",
+     'FILL = r"(?:the|',
+     'ROMAN = {r: i for i, r in enumerate("I II III IV V VI VII VIII IX X XI XII".split(), 1)}\nFILL = r"(?:the|'),
+    ("parse Roman-numeral months",
+     '            elif g.get("y5"):',
+     '            elif g.get("y8"):\n                y, mo, d = int(g["y8"]), ROMAN[g["m8"].upper()], int(g["d8"])\n            elif g.get("y5"):'),
+    ("Albanian deadline word",
+     r'не по-късно от|не позднее|viimeistään|legkésőbb")',
+     r'не по-късно от|не позднее|viimeistään|legkésőbb|jo më vonë se")'),
+])
+patch("detectors/text_detectors.py", [
+    ("Albanian deadline in the ranking", "|не по-късно)') as deadline,", "|не по-късно|jo më vonë)') as deadline,"),
+    ("Albanian deadline in the score", "|не по-късно|report|submit", "|не по-късно|jo më vonë|report|submit"),
+])
+
+# fourth round (found by the Türkiye update): "31.12.2020 günü sonuna kadar", "31/12/2020 günü saat 17.00'ye kadar"
+patch("ingest/textscan.py", [
+    ("Turkish end of the day or a time before 'kadar'",
+     r'''rf"(?:tarihine|tarihi|gününe|günü)?\s*(?:kadar|dek|değin)\b")''',
+     r'''rf"(?:\s*(?:tarihi|günü)?\s*(?:sonuna|saat\s*\d{{1,2}}[:.]\d{{2}}(?:['’]?\w{{0,4}})?))?"''' + "\n                        " +
+     r'''rf"\s*(?:tarihine|tarihi|gününe|günü)?\s*(?:kadar|dek|değin)\b")'''),
 ])
 
 # ---------------------------------------------------------------- 2. references
@@ -145,6 +193,16 @@ patch("detectors/currency_scan.py", [
      'CUR = (r"(australes?|pesos? (moneda nacional|ley 18\\.188)|pesetas?|escudos?|francos?\\b|francs? (français|fran.ais)|"\n'
      '       r"francs? belges?|frank(en)?\\b|BEF\\b|francs?\\b(?!\\s+(suisses?|CFA|congolais|guinéens|rwandais|burundais|comoriens|djiboutiens|pacifique))|"\n'
      '       r"lire\\b|liras?\\b|marcos?\\b|deutsche mark|reichsmark|(?-i:\\bDM\\b)|sucres?\\b|cruzeiros?|cruzados?|intis?\\b|"'),
+])
+# second round: "DM" right after a decimal amount ("160,000.00DM", not "N520DM" or "...G2DM" in identifiers); Albanian "lireta"
+patch("detectors/currency_scan.py", [
+    ("DM after a decimal amount, lireta",
+     r'r"lire\b|liras?\b|marcos?\b|deutsche mark|reichsmark|(?-i:\bDM\b)|',
+     r'r"lire\b|lireta\b|liras?\b|marcos?\b|deutsche mark|reichsmark|(?-i:\bDM\b)|(?-i:(?<=[.,][0-9][0-9])DM\b)|'),
+])
+# fourth round: Turkish lira with its endings ("liradan", "lirası", "liraya"), lost when "liras?" became a whole word
+patch("detectors/currency_scan.py", [
+    ("lira with Turkish endings", r'lireta\b|liras?\b|', r'lireta\b|lira\w{0,6}|'),
 ])
 print("applied:", len(done)); [print("  +", d) for d in done]
 print("already there:", len(skipped))

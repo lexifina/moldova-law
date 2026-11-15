@@ -18,7 +18,7 @@ clone of global-law at `sources/global-law.git`, and a `pins.json` that names on
 | `flags_chart.py` | Draws the chart at the top of the READMEs, in Romanian and English, light and dark |
 | `config.json` | The repository, the Romanian category names, the top-level folders that are not law, and the chart's labels |
 | `patch_detectors.py` | Fixes blind spots found in runs on several country repositories in the copy of global-law's scripts (`python -X utf8 patch_detectors.py <scripts dir>`; a fix already in place is skipped) |
-| `redo.py` | Runs `patch_detectors.py`, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder>`; `EMBED_FONTS` names the script that embeds the chart's fonts) |
+| `redo.py` | Runs `patch_detectors.py`, then again only the scans and detectors the fixes change, the model review of lapsed time limits, references to deleted provisions and empty periods, and the build (`python -X utf8 redo.py <run folder>`; with `--keep-reviews` it keeps every review already made and reviews only new strong flags; `EMBED_FONTS` names the script that embeds the chart's fonts) |
 
 The model review needs `LLM_BASE_URL`, `LLM_API_KEY`, `LLM_MODEL` and `LLM_AUTH` set for an OpenAI-compatible Responses API.
 It was run as `bash run_triage.sh '^(caselaw|decision|data|tools)/'`.
@@ -37,5 +37,8 @@ Changes made for this repository:
   time limits now read the older spelling "pînă la" / "pînă pe", "până la data de" and "până la sfârșitul anului"
   (85 flags became 207), and "inti" counts as a currency only as a whole word, which removed the 3 matches inside
   "intimatul" (dead currencies went from 3 to 0).
+- It was run once more with `redo.py --keep-reviews` after later fixes (Roman-numeral months, "cel târziu la", Albanian,
+  Bulgarian and Turkish phrases). They changed no flag here; 4 lapsed time limits that had become among the strongest
+  were reviewed (none survived), and every earlier review was kept.
 - `flags_chart.py` and `config.json` name a count of three categories in words ("three", "trei"), and the Romanian chart
   title reads "{n} de semnalări", right for this count (Romanian puts "de" after numbers from 20 up).
