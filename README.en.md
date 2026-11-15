@@ -83,6 +83,10 @@ See [`LICENSE`](LICENSE). Laws and court decisions are not objects of copyright 
 
 No AI model wrote, translated or corrected legal text, and none runs when the history is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+[visualisations/](visualisations/README.en.md): charts on Moldovan law, drawn from this repository. For now the folder is a placeholder; there are no charts yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):

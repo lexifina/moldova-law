@@ -85,6 +85,10 @@ Niciun model AI nu a scris, tradus sau corectat text juridic și niciunul nu rul
 
 Aceasta este o traducere a versiunii în engleză ([README.en.md](README.en.md)); dacă diferă, prevalează versiunea în engleză.
 
+## Vizualizări
+
+[visualisations/](visualisations/): grafice despre dreptul Republicii Moldova, desenate din acest depozit. Deocamdată dosarul doar le păstrează locul; nu există încă grafice.
+
 ## Mai multe
 
 Din depozitul [lexifina/global-law](https://github.com/lexifina/global-law) (pagini în engleză):
