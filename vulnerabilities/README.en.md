@@ -9,7 +9,7 @@
 
 The vulnerability detectors from [lexifina/global-law](https://github.com/lexifina/global-law/tree/main/vulnerabilities) look for mechanical mistakes in legislation: a rule applying "until" a date that has passed, a time limit extended only after it had run out, two amendments to the same provision on the same day, a rule in force before it was published. global-law's published list (9 November 2026) did not include Moldova, so this is a run over this repository only, as it stood at commit [`b962276`](https://github.com/lexifina/moldova-law/commit/b9622766cdf1fa1863595ba9ccb48b928c59e9e3) on 15 November 2026, with the National Bank's regulations, the Competition Council's decisions and the case law it now holds besides the Constitution.
 
-**In short:** the detectors raised 222 flags, only two of them in law texts. A language model reviewed 51 of the strongest, arguing each one for and against; none survived. Checked by hand in this repository, the two in law texts are a spent transitional rule of the Constitution (Article IV, which exempted persons who had committed serious offences from Article 25(4), on the length of arrest, only until 1 January 1995) and the date of Constitutional Court judgment HCC7/2016, which took effect on the day it was adopted, two weeks before it was published, as Article 140 of the Constitution provides. The other 49 are in decisions of the Competition Council, where the dates are facts of the case. No drafting mistake in Moldovan law was found: the law this repository holds is the Constitution in three versions and four regulations of the National Bank, which leaves the detectors little to compare. Later, this will be formalised in Lean, similar to our work on [the US tax code](https://lexifina.com/blog/formalizing-the-us-tax-code) and [US case law](https://lexifina.com/blog/formalizing-all-us-case-law-in-lean).
+**In short:** the detectors raised 222 flags, only two of them in law texts. A language model reviewed 52 of the strongest, arguing each one for and against; none survived. Checked by hand in this repository, the two in law texts are a spent transitional rule of the Constitution (Article IV, which exempted persons who had committed serious offences from Article 25(4), on the length of arrest, only until 1 January 1995) and the date of Constitutional Court judgment HCC7/2016, which took effect on the day it was adopted, two weeks before it was published, as Article 140 of the Constitution provides. The other 49 are in decisions of the Competition Council, where the dates are facts of the case. No drafting mistake in Moldovan law was found: the law this repository holds is the Constitution in three versions and four regulations of the National Bank, which leaves the detectors little to compare. Later, this will be formalised in Lean, similar to our work on [the US tax code](https://lexifina.com/blog/formalizing-the-us-tax-code) and [US case law](https://lexifina.com/blog/formalizing-all-us-case-law-in-lean).
 
 A flag is a prompt to look, not legal advice, and nothing here has been tested in court.
 
@@ -17,13 +17,13 @@ A flag is a prompt to look, not legal advice, and nothing here has been tested i
 
 | Category | What it looks for | Flags | In law texts | Reviewed | Survived review |
 | --- | --- | ---: | ---: | ---: | ---: |
-| Lapsed time limits | Text still applying a rule "until" a date that has passed | 207 | 1 | 50 | 0 |
+| Lapsed time limits | Text still applying a rule "until" a date that has passed | 207 | 1 | 51 | 0 |
 | Retroactive or pre-publication dates | A rule in force before it was made or published | 1 | 1 | 1 | 0 |
 | Duplicate numbering | Two units with the same number in one act | 14 | 0 | 0 | 0 |
 
 "In law texts" counts the Constitution and the regulations of the National Bank of Moldova. The other flags are in decisions of the Competition Council and of the Supreme Court of Justice, which this repository also holds and which count here as not law: a Competition Council decision settles one case. The search for repeal gaps, same-day conflicts, empty periods, stale amounts, references to deleted provisions, dead fines and publisher notes found nothing: the Constitution has three versions here and each regulation one, so there are few changes to compare and no deleted provision to cite. Nor did the search for dead currencies, now that it takes "inti" only as a whole word and no longer finds it inside "intimatul". The search for lapsed time limits reads "până la" or "până pe", also in the older spelling "pînă" and with "data de" between, followed by a date, and "până la sfârșitul anului" followed by a year; it still misses 23 phrases with a past date in this repository: 13 "până în anul" with a year, 4 "până la finele anului", 3 "până la data" without "de" and 3 "până în" or "până în data de" before a date, 22 in Competition Council decisions and one in an opinion of the Constitutional Court, none in the law texts.
 
-*Edge cases: the 51 reviewed flags, each checked by hand and grouped by what it turned out to be, and what the other flags are, in [EDGE-CASES.en.md](EDGE-CASES.en.md).*
+*Edge cases: the 52 reviewed flags, each checked by hand and grouped by what it turned out to be, and what the other flags are, in [EDGE-CASES.en.md](EDGE-CASES.en.md).*
 
 ## Problems found in this repository
 
@@ -36,7 +36,7 @@ A flag is a prompt to look, not legal advice, and nothing here has been tested i
 | File | What it holds |
 | --- | --- |
 | [data/flags.csv](data/flags.csv) | Every flag, one row per text and issue |
-| [data/reviewed.csv](data/reviewed.csv) | The 51 flags the model reviewed, with its verdict and reason |
+| [data/reviewed.csv](data/reviewed.csv) | The 52 flags the model reviewed, with its verdict and reason |
 | [data/by_category.csv](data/by_category.csv) | The counts in the table above |
 | [tools/](tools/) | The scripts that made this run |
 
