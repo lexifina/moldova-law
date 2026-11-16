@@ -11,7 +11,7 @@ Dreptul Republicii Moldova ca istorie git: un fișier pentru fiecare articol, un
 
 Face parte din [lexifina/global-law](https://github.com/lexifina/global-law), o singură istorie git pentru dreptul tuturor țărilor: acesta este dreptul național al Republicii Moldova, pe care global-law îl citește la `moldova/national/acts/`.
 
-**Ce conține acum:** Constituția din 29 iulie 1994, în 3 versiuni (14 iulie 2006, 4 martie 2016 și 20 octombrie 2024), cu 180 de dispoziții în cea mai recentă. Niciun alt act nu se află încă aici: nici legi sau coduri, nici acte locale, hotărâri judecătorești sau proiecte de lege. [`constitutia/README.md`](constitutia/README.md) enumeră fiecare dispoziție și de câte ori s-a modificat.
+**Ce conține acum:** Constituția din 29 iulie 1994, în 3 versiuni (14 iulie 2006, 4 martie 2016 și 20 octombrie 2024), cu 180 de dispoziții în cea mai recentă. Pe lângă ea: două legi privind Avocatul Poporului (Legea nr. 52/2014 și Legea nr. 164/2015, doar textul actual, în `law/`), patru regulamente ale Băncii Naționale (`norm/bnm/`), un tratat (`treaty/`), decizii ale Consiliului Concurenței (`decision/`) și hotărâri judecătorești (`caselaw/`). Niciun cod nu se află încă aici, nici acte locale sau proiecte de lege. [`constitutia/README.md`](constitutia/README.md) enumeră fiecare dispoziție și de câte ori s-a modificat.
 
 Constituția se află în `constitutia/`, cu un fișier pentru fiecare articol (`constitutia/art-078.md` este articolul 78, alegerea Președintelui); preambulul, titlurile, capitolele și secțiunile au fișiere proprii, iar articolele tranzitorii I-VIII sunt `tranz-01.md`-`tranz-08.md`.
 
@@ -68,7 +68,7 @@ Prima versiune este „cea mai veche versiune disponibilă”, atribuită Regist
 - **Textul adoptat în 1994 și fiecare modificare din anii 1994-2006 la data ei.** Registrul arăta doar textul consolidat, cu note care numesc legile de modificare, dar fără formulările anterioare.
 - **Fiecare modificare din anii 2016-2024 la data ei și orice modificare ulterioară ediției din 2024.** Pentru acestea este nevoie de registrul actual, legis.md, pe care această construcție nu l-a putut citi.
 - **Ce a tipărit pagina registrului din 2016 pentru art. 78, 85 și 89.** Aceasta a păstrat formulările din 2000, cu note; această istorie aplică hotărârea de la data intrării ei în vigoare.
-- **Orice altă lege.** Legile și codurile (Codul muncii, Codul penal și celelalte), actele locale, hotărârile judecătorești și proiectele de lege nu sunt încă construite.
+- **Orice altă lege.** Codurile (Codul muncii, Codul penal și celelalte), celelalte legi, actele locale și proiectele de lege nu sunt încă construite.
 
 ## Surse
 

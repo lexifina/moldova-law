@@ -11,7 +11,7 @@ The law of Moldova as a git history: one file per article, one commit per versio
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Moldova's national law, which global-law reads at `moldova/national/acts/`.
 
-**What is in it now:** the Constitution of 29 July 1994, in 3 versions (14 July 2006, 4 March 2016 and 20 October 2024), with 180 provisions in the latest. No other act is here yet: no laws or codes, local acts, court decisions or bills. [`constitutia/README.md`](constitutia/README.md) lists every provision and how often it changed.
+**What is in it now:** the Constitution of 29 July 1994, in 3 versions (14 July 2006, 4 March 2016 and 20 October 2024), with 180 provisions in the latest. Beside it: two laws on the People's Advocate (Law 52/2014 and Law 164/2015, current text only, in `law/`), four regulations of the National Bank (`norm/bnm/`), one treaty (`treaty/`), decisions of the Competition Council (`decision/`) and court decisions (`caselaw/`). No code is here yet, and no local acts or bills. [`constitutia/README.md`](constitutia/README.md) lists every provision and how often it changed.
 
 The Constitution is in `constitutia/`, one file per article (`constitutia/art-078.md` is Article 78, the election of the President); the preamble, titles, chapters and sections have their own files, and the transitional Articles I to VIII are `tranz-01.md` to `tranz-08.md`.
 
@@ -68,7 +68,7 @@ The first version is the "oldest version available", credited to the State Regis
 - **The text as adopted in 1994, and each amendment from 1994 to 2006 on its own day.** The register showed only the consolidated text, with notes naming the amending laws but not the earlier words.
 - **Each amendment from 2016 to 2024 on its own day, and any change after the 2024 edition.** These need the current register, legis.md, which this build could not read.
 - **What the 2016 register page printed for Arts. 78, 85 and 89.** It kept the words of 2000, with notes; this history applies the judgment from the day it took effect.
-- **Any other law.** Laws and codes (the Labour Code, the Criminal Code and the rest), local acts, court decisions and bills are not built yet.
+- **Any other law.** Codes (the Labour Code, the Criminal Code and the rest), other laws, local acts and bills are not built yet.
 
 ## Sources
 
