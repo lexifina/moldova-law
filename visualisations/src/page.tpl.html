@@ -1,0 +1,1281 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dreptul Republicii Moldova în 20 de grafice</title>
+<meta name="description" content="Douăzeci de grafice despre dreptul Republicii Moldova din depozitul moldova-law / Twenty charts on Moldovan law from the moldova-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --del-bg: #fbe4e2; --ins-bg: #dcf2e8; --map-land: #ecebe6; --map-other: #f3f2ee;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+    --del-bg: #3b2121; --ins-bg: #16342a; --map-land: #2a2a27; --map-other: #1f1f1d;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  --del-bg: #3b2121; --ins-bg: #16342a; --map-land: #2a2a27; --map-other: #1f1f1d;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 var(--sans); }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(28px, 5vw, 44px)/1.2 var(--serif); margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 780px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.15 var(--sans); font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); line-height: 1.5; display: block; margin-top: 2px; }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; line-height: 1.5; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.3 var(--serif); margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 780px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.45 var(--serif); margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 840px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; line-height: 1.5; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text); border-radius: 50%; }
+.legend i.hollow { background: var(--surface) !important; border: 2px solid; border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, var(--muted-mark) 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.legend i.outline { background: transparent !important; border: 2px solid var(--text); border-radius: 3px; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px var(--sans); font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.6; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.5; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.tip .q { margin-top: 4px; color: var(--text-2); }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.4 var(--sans); }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.4 var(--sans); overflow-wrap: anywhere; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.sub { margin: 18px 0 4px; font: 600 13px/1.4 var(--sans); }
+.diff { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; margin: 4px 0 6px; }
+.card { background: var(--surface-2); border-radius: 12px; padding: 12px 14px 10px; min-width: 0; }
+.card h4 { margin: 0; font: 600 13px/1.4 var(--sans); }
+.card .meta { font-size: 12px; color: var(--text-3); margin: 1px 0 8px; }
+.card p { margin: 0 0 7px; font-size: 13px; line-height: 1.6; overflow-wrap: anywhere; }
+.card p.same { color: var(--text-3); }
+.card del { text-decoration: line-through; text-decoration-thickness: 1px; color: var(--s8); background: var(--del-bg); border-radius: 3px; padding: 0 2px; }
+.card ins { text-decoration: none; color: var(--text); background: var(--ins-bg); border-bottom: 2px solid var(--s3); border-radius: 3px 3px 0 0; padding: 0 2px; }
+.card .later { font-size: 12px; color: var(--text-2); border-top: 1px solid var(--line); padding-top: 7px; margin-top: 8px; }
+.waf h4 { margin: 0; font: 600 13px/1.4 var(--sans); }
+.waf p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; line-height: 1.6; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 15px; }
+  .multi { grid-template-columns: minmax(0, 1fr); gap: 14px; }
+  .diff { grid-template-columns: minmax(0, 1fr); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Limba / Language"><button data-lang="ro">RO</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Tema / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" id="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+const LANGS = ['ro', 'en'];
+let LANG = 'ro';
+try { const q = new URLSearchParams(location.search).get('lang'); if (LANGS.includes(q)) LANG = q; else { const s = localStorage.getItem('md-viz-lang'); if (LANGS.includes(s)) LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const tt = localStorage.getItem('md-viz-theme'); if (tt === 'light' || tt === 'dark') THEME = tt; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const GL = '<a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>';
+const S = {
+ro: {
+  title: 'Dreptul Republicii Moldova în 20 de grafice',
+  profile_h: 'Profilul datelor: ce s-a folosit și cât de complet este',
+  tbl: 'Tabel cu date', src: 'Sursa în depozit', n: 'Înregistrări', cover: 'Acoperire', caveat: 'Limite',
+  ds: 'Set de date', foot: 'Realizat din depozitul lexifina/moldova-law ({built}). Cifrele le calculează visualisations/src/prep.py din istoria git, din fișierele record.json și text.md și din versiunile Constituției; build.py compune pagina. Graficele descriu ce înregistrează sursele, nu de ce.',
+  year: 'Anul', total: 'Total', share: 'Ponderea', count: 'Numărul', partial: 'an incomplet',
+  gl: 'Grafice despre dreptul tuturor țărilor, din întregul global-law: ' + GL + '. Aici sunt doar graficele despre Republica Moldova.',
+},
+en: {
+  title: 'Moldovan law in 20 charts',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/moldova-law repository ({built}). The numbers are computed by visualisations/src/prep.py from the git history, the record.json and text.md files and the versions of the Constitution; build.py assembles the page. The charts describe what the sources record, not why.',
+  year: 'Year', total: 'Total', share: 'Share', count: 'Count', partial: 'partial year',
+  gl: 'Charts on every country’s law, from the whole of global-law: ' + GL + '. These are the charts on Moldova alone.',
+}};
+const t = k => S[LANG][k];
+const L = (ro, en) => LANG === 'ro' ? ro : en;
+const LA = a => Array.isArray(a) ? L(a[0], a[1]) : a;
+const grp = s => s.replace(/\B(?=(\d{3})+(?!\d))/g, LANG === 'ro' ? '.' : ',');
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d); const [a, b] = s.split('.'); return (+v < 0 && +s !== 0 ? '−' : '') + grp(a) + (b ? (LANG === 'ro' ? ',' : '.') + b : ''); };
+const fmt = n => (n == null ? '–' : Number.isInteger(+n) ? (+n < 0 ? '−' : '') + grp(String(Math.abs(Math.round(+n)))) : dec(+n, 1));
+const pv = (v, d = 0) => dec(v, d) + (LANG === 'ro' ? ' %' : '%');
+const pct = (a, b, d = 0) => b ? pv(100 * a / b, d) : '–';
+// Romanian counts: 1 decizie, 2–19 decizii, 20 de decizii (and 101 decizii, 120 de decizii)
+const deRo = n => { const r = Math.abs(n) % 100; return (r >= 20 || (r === 0 && n !== 0)) ? 'de ' : ''; };
+const nn = (n, ro, en) => LANG === 'ro' ? (n === 1 ? `${fmt(n)} ${ro[0]}` : `${fmt(n)} ${deRo(n)}${ro[1]}`) : `${fmt(n)} ${n === 1 ? en[0] : en[1]}`;
+const days = n => nn(n, ['zi', 'zile'], ['day', 'days']);
+const MRO = ['ianuarie', 'februarie', 'martie', 'aprilie', 'mai', 'iunie', 'iulie', 'august', 'septembrie', 'octombrie', 'noiembrie', 'decembrie'];
+const MEN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MON = { ro: ['ian.', 'feb.', 'mar.', 'apr.', 'mai', 'iun.', 'iul.', 'aug.', 'sept.', 'oct.', 'nov.', 'dec.'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const DOW = { ro: ['luni', 'marți', 'miercuri', 'joi', 'vineri', 'sâmbătă', 'duminică'], en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'] };
+const DOW2 = { ro: ['Lu', 'Ma', 'Mi', 'Jo', 'Vi', 'Sâ', 'Du'], en: ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su'] };
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'ro' ? `${d} ${MRO[m - 1]} ${y}` : `${d} ${MEN[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'ro' ? `${d} ${MON.ro[m - 1]} ${y}` : `${d} ${MON.en[m - 1]} ${y}`; };
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const PD = s => d3.timeParse('%Y-%m-%d')(s);
+const Cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+const median = a => { const s = [...a].sort((x, y) => x - y), n = s.length; return n ? (n % 2 ? s[(n - 1) / 2] : (s[n / 2 - 1] + s[n / 2]) / 2) : null; };
+const sup = s => s.replace(/\^(\d)/g, (m, d) => '¹²³⁴⁵⁶⁷⁸⁹'[+d - 1] || m);   // Art. 59^1 -> Art. 59¹
+const andList = a => a.length < 2 ? a.join('') : a.slice(0, -1).join(', ') + L(' și ', ' and ') + a[a.length - 1];
+
+// ------------------------------------------------------------------ names
+const TITLE = { P: ['Preambulul', 'Preamble'], I: ['Principii generale', 'General principles'], II: ['Drepturile, libertățile și îndatoririle fundamentale', 'Fundamental rights, freedoms and duties'],
+  III: ['Autoritățile publice', 'Public authorities'], IV: ['Economia națională și finanțele publice', 'National economy and public finance'], V: ['Curtea Constituțională', 'The Constitutional Court'],
+  V1: ['Integrarea în Uniunea Europeană', 'Integration into the European Union'], VI: ['Revizuirea Constituției', 'Revising the Constitution'], VII: ['Dispoziții finale și tranzitorii', 'Final and transitional provisions'] };
+const TORDER = ['P', 'I', 'II', 'III', 'IV', 'V', 'V1', 'VI', 'VII'];
+const tNum = k => k === 'P' ? L('Preambul', 'Preamble') : L('Titlul ', 'Title ') + (k === 'V1' ? 'V¹' : k);
+const tName = (k, short) => k === 'P' ? L('Preambulul', 'Preamble') : short ? tNum(k) : `${tNum(k)} · ${LA(TITLE[k])}`;
+const DB = { col_civil: ['Colegiul civil, comercial și de contencios administrativ', 'Civil, commercial and administrative college', 'Colegiul civil', 'Civil college'],
+  plen_penal: ['Plenul Colegiului penal', 'Plenum of the criminal college', 'Plenul penal', 'Criminal plenum'],
+  col_penal: ['Colegiul penal', 'Criminal college', 'Colegiul penal', 'Criminal college'],
+  cont_csm: ['Contestațiile hotărârilor CSM', 'Appeals against Superior Council of Magistracy decisions', 'Contestații CSM', 'CSM appeals'],
+  case_lawc: ['Jurisprudența relevantă, cauze civile', 'Selected case law, civil', 'Jurispr. civilă', 'Civil case law'],
+  case_lawp: ['Jurisprudența relevantă, cauze penale', 'Selected case law, criminal', 'Jurispr. penală', 'Criminal case law'],
+  hot_expl: ['Hotărârile explicative ale Plenului', 'Explanatory decisions of the Plenum', 'Hot. explicative', 'Explanatory'],
+  avize_csj: ['Avizele consultative', 'Advisory opinions', 'Avize', 'Opinions'],
+  plen_csj: ['Plenul Curții Supreme de Justiție', 'Plenum of the Supreme Court', 'Plenul CSJ', 'Plenum'],
+  rec_csj: ['Opiniile consultative (recomandări)', 'Recommendations', 'Recomandări', 'Recommendations'],
+  interes_lege: ['Recursurile în interesul legii', 'Appeals in the interest of the law', 'Interesul legii', 'Interest of law'] };
+const dbName = (k, short) => { const v = DB[k]; return short ? L(v[2], v[3]) : L(v[0], v[1]); };
+const COURT = c => { if (LANG === 'ro') return c; const m = c.match(/^Judecătoria (.+)$/); if (m) return `${m[1]} District Court`;
+  return { 'Curtea de Apel Centru': 'Central Court of Appeal', 'Curtea de Apel Nord': 'Northern Court of Appeal', 'Curtea de Apel Sud': 'Southern Court of Appeal' }[c] || c; };
+const TOWN = { 'Judecătoria Chișinău': [28.8638, 47.0105, 'Chișinău'], 'Judecătoria Bălți': [27.9289, 47.7617, 'Bălți'], 'Judecătoria Hîncești': [28.5906, 46.8306, 'Hîncești'],
+  'Judecătoria Drochia': [27.8128, 48.0353, 'Drochia'], 'Judecătoria Orhei': [28.8247, 47.3842, 'Orhei'], 'Judecătoria Căușeni': [29.4114, 46.6442, 'Căușeni'],
+  'Judecătoria Soroca': [28.2975, 48.1558, 'Soroca'], 'Judecătoria Comrat': [28.6572, 46.3003, 'Comrat'], 'Judecătoria Criuleni': [29.1592, 47.2136, 'Criuleni'],
+  'Judecătoria Strășeni': [28.6103, 47.1414, 'Strășeni'], 'Judecătoria Cimișlia': [28.7833, 46.5200, 'Cimișlia'], 'Judecătoria Ungheni': [27.8006, 47.2108, 'Ungheni'],
+  'Judecătoria Cahul': [28.1944, 45.9075, 'Cahul'], 'Judecătoria Edineț': [27.3036, 48.1681, 'Edineț'] };
+const TY = { civ: ['civile', 'civil'], con: ['contravenționale', 'contravention'], pen: ['penale', 'criminal'] };
+const TYC = { civ: ['Civile', 'Civil'], con: ['Contravenționale', 'Contravention'], pen: ['Penale', 'Criminal'] };
+// short subjects of the explanatory decisions amended (key: number|date of the decision amended)
+const EXPL = {
+  '22|2005-12-12': ['cauze penale în apel', 'criminal appeals'], '25|2004-06-28': ['cheltuieli de judecată în cauze civile', 'legal costs in civil cases'],
+  '38|2004-11-22': ['dizolvarea agenților economici', 'dissolution of businesses'], '32|2003-10-24': ['asigurarea acțiunii în cauze civile', 'securing a claim in civil cases'],
+  '10|1993-11-15': ['desfacerea căsătoriei', 'divorce'], '18|2004-05-31': ['ordonanțe judecătorești', 'summary court orders'],
+  '23|2004-06-28': ['sustragerea bunurilor (cauze penale)', 'theft of property (criminal cases)'], '11|2012-12-24': ['omorul (art. 145–148 CP)', 'homicide (Criminal Code arts 145–148)'],
+  '39|2004-11-22': ['cauze penale privind minorii', 'criminal cases involving minors'], '35|2003-10-24': ['reabilitarea victimelor represiunilor politice', 'rehabilitation of victims of political repression'],
+  '2|2015-03-30': ['litigii cu convenție de arbitraj', 'disputes under an arbitration agreement'], '3|2016-04-25': ['cauze civile cu element de extraneitate', 'civil cases with a foreign element'],
+  '4|2008-07-07': ['fapte cu valoare juridică, persoane dispărute', 'facts of legal significance, missing persons'], '5|2005-02-04': ['litigii de credit bancar', 'bank credit disputes'],
+  '8|2012-12-24': ['prejudicii cauzate persoanelor deținute', 'damage to detained persons'], '9|2013-12-09': ['recunoașterea hotărârilor străine', 'recognition of foreign judgments'],
+  '5|2015-12-21': ['atestarea provenienței copilului', 'establishing a child’s parentage'], '6|2014-11-17': ['decăderea din drepturile părintești', 'loss of parental rights'],
+  '2|2009-03-30': ['donație și întreținere pe viață', 'gifts and lifelong maintenance'], '4|2013-04-15': ['pensia de întreținere', 'maintenance payments'],
+  '7|2012-12-24': ['libertatea de exprimare', 'freedom of expression'], '2|2006-03-27': ['proprietatea privată asupra imobilelor', 'private ownership of real estate'],
+  '2|2012-05-28': ['suspendarea licențelor', 'suspension of licences'], '8|2014-12-22': ['legislația funciară', 'land law'],
+  '12|2009-11-27': ['răspunderea cărăușului', 'carrier liability'], '11|2005-10-03': ['prejudiciul în raporturile de muncă', 'damage between employer and employee'],
+  '9|2014-12-22': ['contractul individual de muncă', 'employment contracts'], '1|2008-07-07': ['nulitatea actului juridic civil', 'nullity of civil-law acts'],
+  '1|2016-04-25': ['dreptul de autor', 'copyright'], '5|2012-12-24': ['regimul juridic al adopției', 'adoption'],
+  '1|2011-12-26': ['libertatea de întrunire și de asociere', 'freedom of assembly and association'], '3|2010-12-24': ['legislația ecologică', 'environmental law'],
+  '8|2010-12-24': ['contractele de împrumut', 'loan contracts'] };
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c); s.append('span').text(it.l); });
+  return lg;
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+function subTable(el, heading, head, rows, numeric) {
+  const nd = el.select('details.tbl:last-of-type .scroll');
+  nd.append('h4').style('margin', '14px 0 6px').style('font', '600 13px/1.4 var(--sans)').text(heading);
+  const tb = nd.append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => numeric && numeric[i] ? 'n' : null).text(x => x);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => numeric && numeric[i] ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+}
+const PLH = { '<an>': ['<an>', '<year>'], '<bază>': ['<bază>', '<database>'], '<unitate>': ['<unitate>', '<unit>'], '<oraș>': ['<oraș>', '<town>'],
+  '<regiune>': ['<regiune>', '<region>'], '<cod>': ['<cod>', '<code>'], '<nr>': ['<nr>', '<number>'] };
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  const tr = s => Object.entries(PLH).reduce((a, [x, y]) => a.split(x).join(LA(y)), s);
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(tr(s))}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+// a bar growing leftwards from x1 to x0 (rounded at the left end)
+function barPathL(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x1},${y}H${x0 + r}Q${x0},${y} ${x0},${y + r}V${y + h - r}Q${x0},${y + h} ${x0 + r},${y + h}H${x1}Z`;
+}
+let HATCH = 0;
+function hatch(svg) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 6).attr('height', 6).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 6).attr('height', 6).attr('fill', css('--surface-2'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 6).attr('stroke', css('--muted-mark')).attr('stroke-width', 1.4);
+  return `url(#${id})`;
+}
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+// the widest of these strings in a chart's label style, in pixels (measured as drawn: the page draws again once the web fonts have loaded)
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34;
+  const labs = rows.map(r => opt.label(r, nw)), rights = rows.map(r => opt.right(r, nw));
+  const m = { t: 4, r: Math.ceil(textW(el, rights) + 18), b: 22, l: Math.ceil(textW(el, labs) + 18) };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > (opt.minIn || 34)) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(rights[i]);
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + (opt.tipExtra ? opt.tipExtra(d) : trow(null, t('total'), fmt(tot))));
+  });
+  return { svg, g, iw };
+}
+// horizontal bars split into segments, label on the left (above the bar on narrow screens), total on the right
+function splitBars(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), up = nw && opt.above !== false, rh0 = opt.rowH || 26, rowH = up ? rh0 + 13 : rh0;
+  const tot = r => sum(keys, k => r[k] || 0);
+  const labs = rows.map(r => opt.label(r, nw)), rights = rows.map(r => opt.right ? opt.right(r, nw) : fmt(tot(r)));
+  const m = { t: 2, r: Math.ceil(textW(el, rights, 'lbl') + 10), b: 4, l: up ? 0 : Math.ceil(textW(el, labs) + 14) };
+  const svg = svgIn(el, w, m.t + m.b + rowH * rows.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot) || 1]).range([0, iw]);
+  rows.forEach((r, i) => {
+    const cy = i * rowH + (up ? 13 : 0), bh = Math.min(15, rh0 - 9);
+    if (up) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy - 1).text(labs[i]);
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rh0 / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+    let acc = 0; const segs = keys.map((k, j) => ({ k, j, v: r[k] || 0 })).filter(s => s.v);
+    segs.forEach((s, q) => {
+      const x0 = x(acc), x1 = x(acc + s.v); acc += s.v;
+      const lastSeg = q === segs.length - 1;
+      g.append('path').attr('d', lastSeg ? barPath(x0, cy + (rh0 - bh) / 2, x1, bh, 3) : `M${x0},${cy + (rh0 - bh) / 2}h${Math.max(0, x1 - x0 - 1)}v${bh}h${-Math.max(0, x1 - x0 - 1)}Z`).attr('fill', colors[s.j]);
+    });
+    g.append('text').attr('class', 'lbl').attr('x', x(tot(r)) + 6).attr('y', cy + rh0 / 2 + 4).text(rights[i]);
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy - (up ? 13 : 0)).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot(d))}`) : '').join('') + trow(null, t('total'), fmt(tot(d))));
+  });
+  return { svg, g, x, iw };
+}
+// a label too wide for the plot, broken into two lines at the space nearest its middle (narrow screens)
+function wrap2(el, s, room, cls = 'lbl strong') {
+  if (textW(el, [s], cls) <= room) return [s];
+  const sp = [...s.matchAll(/ /g)].map(m => m.index); if (!sp.length) return [s];
+  const mid = s.length / 2, k = sp.reduce((a, b) => Math.abs(b - mid) < Math.abs(a - mid) ? b : a);
+  return [s.slice(0, k), s.slice(k + 1)];
+}
+// a list of horizontal bars, label on the left (on narrow screens above the bar, broken into two lines if needed), value on the right
+function barList(el, rows, o) {
+  const w = W(el), nw = narrow(w) || o.above, labs = rows.map(r => o.label(r, nw)), rights = rows.map(r => o.right ? o.right(r, nw) : fmt(o.value(r)));
+  const rw = Math.ceil(textW(el, rights, 'lbl') + 10);
+  const lw = nw ? 0 : Math.min(o.cap || 480, Math.ceil(textW(el, labs) + 14));
+  const lines = labs.map(s => nw ? wrap2(el, s, w - 4) : [s]), rowHs = lines.map(ls => nw ? 20 + 13 * ls.length : 22), tops = rowHs.reduce((a, h) => a.concat(a[a.length - 1] + h), [0]);
+  const svg = svgIn(el, w, 4 + tops[tops.length - 1]), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+  const x = d3.scaleLinear().domain([0, o.max || d3.max(rows, o.value) || 1]).range([0, Math.max(40, w - lw - rw)]);
+  rows.forEach((r, i) => {
+    const cy = tops[i], v = o.value(r), by = nw ? cy + 13 * lines[i].length + 3 : cy + 5;
+    if (nw) lines[i].forEach((ln, k) => g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy + 11 + 13 * k).style('fill', o.labelFill ? o.labelFill(r) : null).text(ln));
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').style('fill', o.labelFill ? o.labelFill(r) : null).text(labs[i]);
+    if (v) g.append('path').attr('d', barPath(0, by, Math.max(2, x(v)), 12, 3)).attr('fill', o.color(r));
+    g.append('text').attr('class', 'lbl').attr('x', (v ? Math.max(2, x(v)) + 6 : 0)).attr('y', by + 10).text(rights[i]);
+    if (o.tip) bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', cy).attr('height', rowHs[i]).datum(r), o.tip);
+  });
+  return { svg, g, x };
+}
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, ro, en, dro, den) => CH.push({ part: true, id, ro, en, dro, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. Constituția', 'I. The Constitution',
+  'Constituția din 29 iulie 1994 în cele trei versiuni din depozit (constitutia/): textul consolidat al Registrului de stat din 14 iulie 2006, textul stabilit de Hotărârea Curții Constituționale nr. 7 din 4 martie 2016 și ediția Moldpres din 20 octombrie 2024. Fiecare articol, titlu, capitol și secțiune are fișierul lui.',
+  'The Constitution of 29 July 1994 in the repository’s three versions (constitutia/): the State Register’s consolidated text of 14 July 2006, the text set by Constitutional Court judgment No. 7 of 4 March 2016, and the Moldpres edition of 20 October 2024. Every article, title, chapter and section has its own file.');
+
+// 1. every provision, coloured by what the 2024 edition changed
+const CK = ['same', 'spelling', 'editorial', 'language', 'disability', 'substantive', 'new'];
+const CKN = { same: ['neschimbată', 'unchanged'], spelling: ['doar â și sunt', 'only â and sunt'], editorial: ['alte corecturi de scriere', 'other spelling fixes'],
+  language: ['«limba română»', '“Romanian language”'], disability: ['«cu dizabilități»', '“with disabilities”'], substantive: ['text nou de fond', 'new wording in substance'], new: ['dispoziție nouă', 'new provision'] };
+const ckCol = k => ({ same: css('--grid'), spelling: d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'))(0.3), editorial: d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'))(0.55),
+  language: css('--s2'), disability: css('--s5'), substantive: css('--s7'), new: css('--s3') }[k]);
+chart('c01', el => {
+  const c = D.c01, K = c.counts, only = (K.spelling || 0) + (K.editorial || 0), sub = (K.substantive || 0) + (K.new || 0);
+  return {
+    title: L(`Ediția din 2024 a Constituției: ${nn(c.changed, ['dispoziție schimbată', 'dispoziții schimbate'], [])}, ${fmt(only)} dintre ele doar prin scriere`,
+      `The 2024 edition of the Constitution: ${c.changed} provisions changed, ${only} of them only in spelling`),
+    dek: L(`Fiecare pătrat este o dispoziție a Constituției, pe rânduri după titlul din care face parte; titlurile, capitolele și secțiunile sunt pătratele înguste de la începutul rândului. Culoarea arată ce s-a schimbat între textul din 2016 și ediția din 2024: ${nn(K.spelling, ['dispoziție', 'dispoziții'], [])} diferă doar prin â în loc de î și sunt în loc de sînt, alte ${fmt(K.editorial)} prin corecturi de scriere și de tipar (nicio, niciun, cratime, ghilimele), ${fmt(K.language)} prin numele limbii, ${fmt(K.disability)} prin «persoane cu dizabilități», ${fmt(K.substantive)} au text nou de fond, iar ${fmt(K.new)} sunt noi. Cercul marchează articolele schimbate în 2016 de Hotărârea Curții Constituționale nr. 7.`,
+      `Each square is one provision of the Constitution, in rows by the title it belongs to; titles, chapters and sections are the narrow squares at the start of each row. The colour shows what changed between the 2016 text and the 2024 edition: ${fmt(K.spelling)} provisions differ only in â for î and sunt for sînt, ${fmt(K.editorial)} more in other spelling and typesetting fixes (nicio, niciun, hyphens, quotation marks), ${fmt(K.language)} in the name of the language, ${fmt(K.disability)} in “persons with disabilities”, ${fmt(K.substantive)} have new wording in substance and ${fmt(K.new)} are new. The ring marks the articles changed in 2016 by Constitutional Court judgment No. 7.`),
+    draw(el) {
+      legend(el, CK.map(k => ({ c: ckCol(k), l: `${LA(CKN[k])} (${fmt(K[k] || 0)})` })).concat([{ c: css('--text'), l: L('schimbată în 2016 (HCC nr. 7)', 'changed in 2016 (judgment No. 7)'), shape: 'ring' }]));
+      const w = W(el), nw = narrow(w), rows = TORDER.map(tk => ({ t: tk, u: c.grid.filter(g => g.t === tk) }));
+      const labs = rows.map(r => tName(r.t, false));
+      const counts = rows.map(r => `${fmt(r.u.filter(u => u.c24 !== 'same').length)}/${fmt(r.u.length)}`);
+      const lw = nw ? 0 : Math.min(300, Math.ceil(textW(el, labs) + 16)), rw = Math.ceil(textW(el, counts.concat([L('schimbate', 'changed')]), 'lbl') + 12);
+      const cs = nw ? 12 : 14, gap = 2, hw = Math.round(cs * 0.45), avail = w - lw - rw;
+      let y = 0; const cells = [];
+      rows.forEach(r => {
+        if (nw) y += 16;
+        let x = 0, line = 0;
+        r.u.forEach(u => { const cw = u.k === 'head' ? hw : cs; if (x + cw > avail) { x = 0; line++; } cells.push({ u, x, y: y + line * (cs + gap), cw }); x += cw + gap; });
+        r.y = y; r.h = (line + 1) * (cs + gap) - gap;
+        y += r.h + (nw ? 12 : 9);
+      });
+      const svg = svgIn(el, w, y + 16), g = svg.append('g').attr('transform', `translate(${lw},16)`);
+      g.append('text').attr('class', 'lbl mut').attr('x', avail + rw).attr('y', -5).attr('text-anchor', 'end').text(L('schimbate', 'changed'));
+      rows.forEach((r, i) => {
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', r.y - 4).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', r.y + cs / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        g.append('text').attr('class', 'lbl mut').attr('x', avail + rw).attr('y', r.y + cs / 2 + 4).attr('text-anchor', 'end').text(counts[i]);
+      });
+      bindTip(g.append('g').selectAll('rect').data(cells).join('rect').attr('x', d => d.x).attr('y', d => d.y).attr('width', d => d.cw).attr('height', cs).attr('rx', 3)
+        .attr('fill', d => ckCol(d.u.c24)),
+        d => `<b>${esc(sup(d.u.l))}${d.u.cap ? ' · ' + esc(d.u.cap) : ''}</b>` + trow(ckCol(d.u.c24), L('În 2024', 'In 2024'), LA(CKN[d.u.c24])) +
+          (d.u.c16 && d.u.c16 !== 'same' ? trow(null, L('În 2016', 'In 2016'), L('schimbată de HCC nr. 7', 'changed by judgment No. 7')) : '') +
+          (d.u.rem || d.u.add ? trow(null, L('Cuvinte scoase / adăugate', 'Words removed / added'), `${fmt(d.u.rem)} / ${fmt(d.u.add)}`) : '') + trow(null, L('Cuvinte în 2024', 'Words in 2024'), fmt(d.u.w)));
+      cells.filter(d => d.u.c16 && d.u.c16 !== 'same').forEach(d => g.append('circle').attr('cx', d.x + d.cw / 2).attr('cy', d.y + cs / 2).attr('r', cs / 2 + 2.5)
+        .attr('fill', 'none').attr('stroke', css('--text')).attr('stroke-width', 1.6).style('pointer-events', 'none'));
+      note(el, ['constitutia/<unitate>.md', 'git log -- constitutia'], nn(c.grid.length, ['dispoziție', 'dispoziții'], ['provision', 'provisions']) + L(` (${c.units_v[c.versions[1]]} în 2016, ${c.units_v[c.versions[2]]} în 2024)`, ` (${c.units_v[c.versions[1]]} in 2016, ${c.units_v[c.versions[2]]} in 2024)`),
+        L('schimbările sunt clasificate de prep.py comparând cuvânt cu cuvânt textul din 2016 cu cel din 2024, după ce î din interiorul cuvintelor devine â și sînt devine sunt; o dispoziție are clasa cea mai puternică dintre schimbările ei. Ediția din 2024 nu spune ce lege a schimbat fiecare articol; titlul fiecărui articol a fost verificat după rubrica lui.',
+          'the changes are classified by prep.py, comparing the 2016 and 2024 texts word by word after î inside words becomes â and sînt becomes sunt; a provision takes the strongest class among its changes. The 2024 edition does not say which law changed each article; the title of each article was checked against its caption.'));
+      table(el, [L('Titlul', 'Title'), ...CK.map(k => LA(CKN[k])), t('total')], rows.map(r => [tName(r.t, false), ...CK.map(k => r.u.filter(u => u.c24 === k).length), r.u.length]));
+    }
+  };
+});
+
+// 2. the President: Articles 78 and 89 before and after judgment No. 7 of 2016
+chart('c02', el => {
+  const c = D.c02, a78 = c.arts['art-078'], a89 = c.arts['art-089'], a85 = c.arts['art-085'];
+  const segsOf = d => d.flatMap(p => p.segs);
+  const cnt = (d, k) => sum(segsOf(d).filter(s => s[0] === k), s => (s[1].match(/[\wăâîșț]+/gi) || []).length);
+  const changed = d => segsOf(d).filter(s => s[0] !== '=');
+  return {
+    title: L('Cine alege Președintele: Parlamentul, cu trei cincimi din deputați, până la 4 martie 2016; de atunci, cetățenii prin vot universal',
+      'Who elects the President: Parliament, by three fifths of the deputies, until 4 March 2016; since then, the citizens by universal vote'),
+    dek: L(`Articolele 78 (alegerea Președintelui) și 89 (demiterea, devenită suspendarea din funcție) cuvânt cu cuvânt, așa cum le are depozitul înainte și după Hotărârea Curții Constituționale nr. 7 din 4 martie 2016, care a controlat Legea nr. 1115-XIV din 5 iulie 2000: tăiat este textul scos, subliniat cel pus în loc. Hotărârea a mai scos din art. 85 alin. (4) trimiterea la art. 78 alin. (5). În 2024, «limba de stat» din art. 78 alin. (2) a devenit «limba română».`,
+      `Articles 78 (electing the President) and 89 (removal, which became suspension from office) word by word, as the repository has them before and after Constitutional Court judgment No. 7 of 4 March 2016, which reviewed Law No. 1115-XIV of 5 July 2000: struck-through words left the text, underlined words replaced them. The judgment also struck the reference to Art. 78(5) from Art. 85(4). In 2024, the “state language” of Art. 78(2) became “Romanian language”.`),
+    draw(el) {
+      legend(el, [{ c: css('--del-bg'), l: L('text scos în 2016', 'text removed in 2016'), shape: 'outline' }, { c: css('--ins-bg'), l: L('text pus în loc în 2016', 'text put in its place in 2016') }]);
+      el.select('.legend i.outline').style('border-color', css('--s8')).style('background', css('--del-bg'));
+      el.select('.legend span:nth-child(2) i').style('border-bottom', `2px solid ${css('--s3')}`);
+      const box = el.append('div').attr('class', 'diff');
+      const card = (art, head, extra) => {
+        const d = box.append('div').attr('class', 'card');
+        d.append('h4').text(head);
+        const rem = cnt(art.d16, '-'), add = cnt(art.d16, '+');
+        d.append('div').attr('class', 'meta').text(L(`2006 → 2016 · ${nn(rem, ['cuvânt scos', 'cuvinte scoase'], [])}, ${nn(add, ['cuvânt adăugat', 'cuvinte adăugate'], [])}`, `2006 → 2016 · ${nn(rem, [], ['word removed', 'words removed'])}, ${nn(add, [], ['word added', 'words added'])}`));
+        // one paragraph per alineat: its number, then the words kept, struck out or put in
+        art.d16.forEach(p => {
+          const pp = d.append('p').attr('class', p.segs.every(s => s[0] === '=') ? 'same' : null);
+          if (p.p) (p.gone ? pp.append('del') : p.new ? pp.append('ins') : pp.append('span')).text(p.p);
+          p.segs.forEach(([k, s]) => { pp.append('span').text(' '); (k === '-' ? pp.append('del') : k === '+' ? pp.append('ins') : pp.append('span')).text(s); });
+        });
+        if (extra) d.append('div').attr('class', 'later').html(extra);
+      };
+      const l24 = changed(a78.d24);
+      const was = l24.filter(s => s[0] === '-').map(s => s[1]).join(' '), now = l24.filter(s => s[0] === '+').map(s => s[1]).join(' ');
+      card(a78, L('Art. 78 · Alegerea Președintelui', 'Art. 78 · Electing the President'),
+        L(`<b>2024:</b> la alin. (2), «posedă limba ${esc(was.replace(/\.$/, ''))}» devine «posedă limba ${esc(now.replace(/\.$/, '').replace(/^romînă/, 'română'))}».`,
+          `<b>2024:</b> in paragraph (2), “speaks the ${was.includes('stat') ? 'state language' : esc(was)}” becomes “speaks the Romanian language”.`));
+      card(a89, L(`Art. 89 · ${a89.cap[c.v[0]]} → ${a89.cap[c.v[1]]}`, 'Art. 89 · Removal → Suspension from office'),
+        L(`<b>Art. 85 alin. (4), tot în 2016:</b> ${changed(a85.d16).filter(s => s[0] === '-').map(s => `<del>${esc(s[1])}</del>`).join(' ')}`,
+          `<b>Art. 85(4), also in 2016:</b> the words ${changed(a85.d16).filter(s => s[0] === '-').map(s => `<del>${esc(s[1])}</del>`).join(' ')} (“except in the case of Article 78(5)”) were struck out.`));
+      note(el, ['constitutia/art-078.md', 'constitutia/art-085.md', 'constitutia/art-089.md'], L('3 articole în 3 versiuni', '3 articles in 3 versions'),
+        L(`diferența este calculată cuvânt cu cuvânt de prep.py între versiunile din ${dateTxt(c.v[0])} și ${dateTxt(c.v[1])}; commitul din 2016 are ca autor «${c.hcc7_law}». Depozitul aplică hotărârea de la data adoptării ei; textul în vigoare între 2000 și 2006 nu este în depozit.`,
+          `the difference is computed word by word by prep.py between the versions of ${dateTxt(c.v[0])} and ${dateTxt(c.v[1])}; the 2016 commit is credited to “${c.hcc7_law}”. The repository applies the judgment from the day it was adopted; the text in force between 2000 and 2006 is not in the repository.`));
+      table(el, [L('Articolul', 'Article'), ...c.v.map(v => L('Cuvinte ', 'Words ') + v.slice(0, 4))], ['art-078', 'art-085', 'art-089'].map(k => [k.replace('art-0', 'Art. '), ...c.v.map(v => c.arts[k].w[v])]));
+    }
+  };
+});
+
+// 3. words that came and went
+const PH = {
+  moldoveneasca: ['«limba moldovenească»', '“Moldovan language”'], romana: ['«limba română»', '“Romanian language”'], de_stat: ['«limba de stat»', '“state language”'],
+  ales_parlament: ['«ales de Parlament»', '“elected by Parliament”'], vot_universal: ['«vot universal»', '“universal vote”'],
+  ue: ['«Uniunea Europeană»', '“European Union”'], avocat: ['«Avocatul Poporului»', '“People’s Advocate” (Ombudsman)'],
+  csp: ['«Consiliul Superior al Procurorilor»', '“Superior Council of Prosecutors”'], csm: ['«Consiliul Superior al Magistraturii»', '“Superior Council of Magistracy”'],
+  sint: ['«sînt», «sîntem», «sînteți»', '“sînt” (are), old spelling'], sunt: ['«sunt», «suntem», «sunteți»', '“sunt” (are), new spelling'],
+  nici_o: ['«nici o», «nici un»', '“nici o”, “nici un” (no, none)'], nicio: ['«nicio», «niciun»', '“nicio”, “niciun”'],
+  i_mid: ['cuvinte cu î în interior', 'words with î inside'], a_hat: ['cuvinte cu â', 'words with â'] };
+const PG = { lang: ['Limba', 'Language'], pres: ['Președintele', 'The President'], eu: ['Europa', 'Europe'], inst: ['Instituții', 'Institutions'], spell: ['Scrierea', 'Spelling'] };
+chart('c03', el => {
+  const c = D.c03, R = Object.fromEntries(c.rows.map(r => [r.k, r.n]));
+  return {
+    title: L(`Cuvinte care au intrat și au ieșit: «limba moldovenească», de ${R.moldoveneasca[1]} ori până în 2024, apoi niciodată; «Uniunea Europeană», de ${R.ue[2]} ori în 2024`,
+      `Words in and out: “Moldovan language” ${R.moldoveneasca[1]} times until 2024, then never; “European Union” ${R.ue[2]} times in 2024`),
+    dek: L('De câte ori apare fiecare expresie în fiecare versiune a Constituției, cu toate formele ei (limba și limbii, Uniunea și Uniunii). Ediția din 2024 spune «limba română» (art. 13), aduce Uniunea Europeană în preambul și în titlul V¹, Avocatul Poporului și Consiliul Superior al Procurorilor și se scrie cu â și sunt. Culoarea unei celule este numărul ei față de cel mai mare din rând.',
+      'How often each phrase occurs in each version of the Constitution, in all its forms (limba and limbii, Uniunea and Uniunii). The 2024 edition says “Romanian language” (Art. 13), brings the European Union into the preamble and Title V¹, adds the People’s Advocate and the Superior Council of Prosecutors, and is spelled with â and sunt. A cell’s colour is its count against the largest in its row.'),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp();
+      const groups = [...new Set(c.rows.map(r => r.g))];
+      const labs = c.rows.map(r => LA(PH[r.k]));
+      const lw = nw ? 0 : Math.ceil(textW(el, labs) + 18), cw = nw ? Math.min(78, (w - 70) / 3) : 92, ch = 24, gap = 6;
+      const vx = i => lw + i * (cw + gap), dx = vx(3) + 6;
+      let y = 22; const pos = [];
+      groups.forEach(gk => { y += 18; c.rows.filter(r => r.g === gk).forEach(r => { if (nw) y += 14; pos.push({ r, y }); y += ch + 4; }); y += 4; });
+      const svg = svgIn(el, w, y + 2), g = svg.append('g');
+      c.v.forEach((v, i) => g.append('text').attr('class', 'lbl strong').attr('x', vx(i) + cw / 2).attr('y', 12).attr('text-anchor', 'middle').text(v.slice(0, 4)));
+      g.append('text').attr('class', 'lbl strong').attr('x', dx).attr('y', 12).text(L('2016 → 2024', '2016 → 2024'));
+      let gy = 22;
+      groups.forEach(gk => {
+        const first = pos.find(p => p.r.g === gk);
+        g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', first.y - (nw ? 20 : 6)).style('font-weight', 600).text(LA(PG[gk]).toUpperCase());
+      });
+      pos.forEach(({ r, y: yy }) => {
+        const mx = Math.max(1, d3.max(r.n));
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', yy - 4).text(LA(PH[r.k]));
+        else g.append('text').attr('class', 'lbl strong').attr('x', lw - 12).attr('y', yy + ch / 2 + 4).attr('text-anchor', 'end').text(LA(PH[r.k]));
+        r.n.forEach((v, i) => {
+          const col = v ? ramp(0.18 + 0.82 * v / mx) : css('--surface-2');
+          g.append('rect').attr('x', vx(i)).attr('y', yy).attr('width', cw).attr('height', ch).attr('rx', 6).attr('fill', col);
+          g.append('text').attr('class', 'lbl').attr('x', vx(i) + cw / 2).attr('y', yy + ch / 2 + 4).attr('text-anchor', 'middle').style('fill', v ? inkOn(col) : css('--text-3')).style('font-weight', 500).text(fmt(v));
+        });
+        const dd = r.n[2] - r.n[1];
+        g.append('text').attr('class', 'lbl strong').attr('x', dx).attr('y', yy + ch / 2 + 4).style('fill', dd > 0 ? css('--s3') : dd < 0 ? css('--s8') : css('--text-3')).text(dd > 0 ? '+' + fmt(dd) : dd < 0 ? fmt(dd) : '=');
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', 0).attr('width', w).attr('y', yy - (nw ? 14 : 0)).attr('height', ch + (nw ? 14 : 0)).datum(r),
+          d => `<b>${esc(LA(PH[d.k]))}</b>` + c.v.map((v, i) => trow(null, dateTxt(v), fmt(d.n[i]))).join(''));
+      });
+      note(el, ['constitutia/<unitate>.md'], L('3 versiuni', '3 versions'),
+        L('expresiile sunt căutate de prep.py în textul tuturor dispozițiilor fiecărei versiuni, fără să țină cont de majuscule (în afară de î și â); «limba de stat» rămâne în rubrica și în primul alineat al art. 13: «Limba de stat a Republicii Moldova este limba română».',
+          'prep.py searches all provisions of each version for the phrases, ignoring case (except for î and â); “state language” remains in the caption and the first paragraph of Art. 13: “The state language of the Republic of Moldova is the Romanian language”.'));
+      table(el, [L('Expresia', 'Phrase'), ...c.v.map(v => v.slice(0, 4))], c.rows.map(r => [LA(PH[r.k]), ...r.n]));
+    }
+  };
+});
+
+// 4. where the text was rewritten
+chart('c04', el => {
+  const c = D.c04, [v0, v1, v2] = Object.keys(c.total), R = c.rows, t3 = R.find(r => r.t === 'III');
+  const addAll = sum(R, r => r.add), remAll = sum(R, r => r.rem);
+  return {
+    title: L(`Unde a fost rescrisă Constituția în 2024: titlul III, cu ${nn(t3.add, ['cuvânt nou', 'cuvinte noi'], [])} și ${nn(t3.rem, ['cuvânt scos', 'cuvinte scoase'], [])}`,
+      `Where the Constitution was rewritten in 2024: Title III, with ${fmt(t3.add)} words added and ${fmt(t3.rem)} removed`),
+    dek: L(`Cuvintele scoase (stânga) și adăugate (dreapta) între textul din 2016 și ediția din 2024, pe titluri, fără schimbările de scriere și de tipar. În titlul III s-au rescris articolele despre judecători, Consiliul Superior al Magistraturii și procuratură (art. 116 și 121–125¹); titlul II a primit capitolul despre Avocatul Poporului, iar titlul V¹ integrarea în Uniunea Europeană. În total, Constituția a crescut de la ${fmt(c.total[v1])} la ${fmt(c.total[v2])} de cuvinte.`,
+      `Words removed (left) and added (right) between the 2016 text and the 2024 edition, by title, leaving out spelling and typesetting changes. In Title III the articles on judges, the Superior Council of Magistracy and the prosecution service were rewritten (Arts 116 and 121–125¹); Title II gained the chapter on the People’s Advocate, and Title V¹ integration into the European Union. In all, the Constitution grew from ${fmt(c.total[v1])} to ${fmt(c.total[v2])} words.`),
+    draw(el) {
+      const cr = css('--s8'), ca = css('--s1');
+      legend(el, [{ c: cr, l: L(`cuvinte scoase (${fmt(remAll)})`, `words removed (${fmt(remAll)})`) }, { c: ca, l: L(`cuvinte adăugate (${fmt(addAll)})`, `words added (${fmt(addAll)})`) }]);
+      const w = W(el), nw = narrow(w), rowH = 30;
+      const labs = R.map(r => tName(r.t, nw)), rights = R.map(r => `${fmt(r['w' + v1.slice(0, 4)])} → ${fmt(r['w' + v2.slice(0, 4)])}`);
+      const lw = Math.ceil(textW(el, labs) + 14), rw = nw ? 0 : Math.ceil(textW(el, rights, 'lbl') + 14);   // on a phone the word counts stay in the tooltip and the table
+      const svg = svgIn(el, w, rowH * R.length + 26), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+      // one scale for both sides: a word removed is as long as a word added
+      const iw = w - lw - rw, mr = d3.max(R, r => r.rem) || 0, ma = d3.max(R, r => r.add) || 1, k = (iw - 88) / (mr + ma), mid = 44 + mr * k;
+      const xr = v => v * k, xl = v => v * k;
+      g.append('text').attr('class', 'lbl mut').attr('x', mid - 4).attr('y', -6).attr('text-anchor', 'end').text(L('← scoase', '← removed'));
+      g.append('text').attr('class', 'lbl mut').attr('x', mid + 4).attr('y', -6).text(L('adăugate →', 'added →'));
+      if (!nw) g.append('text').attr('class', 'lbl mut').attr('x', iw + rw - 2).attr('y', -6).attr('text-anchor', 'end').text(L(`cuvinte ${v1.slice(0, 4)} → ${v2.slice(0, 4)}`, `words ${v1.slice(0, 4)} → ${v2.slice(0, 4)}`));
+      g.append('line').attr('x1', mid).attr('x2', mid).attr('y1', 0).attr('y2', rowH * R.length).attr('stroke', css('--text-3'));
+      R.forEach((r, i) => {
+        const y0 = i * rowH + 8, bh = rowH - 16;
+        g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        if (r.rem) { g.append('path').attr('d', barPathL(mid - xl(r.rem), y0, mid - 1, bh, 3)).attr('fill', cr); g.append('text').attr('class', 'lbl').attr('x', mid - xl(r.rem) - 5).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text('−' + fmt(r.rem)); }
+        if (r.add) { g.append('path').attr('d', barPath(mid + 1, y0, mid + 1 + xr(r.add), bh, 3)).attr('fill', ca); g.append('text').attr('class', 'lbl').attr('x', mid + xr(r.add) + 6).attr('y', y0 + bh / 2 + 4).text('+' + fmt(r.add)); }
+        if (!r.rem && !r.add) g.append('text').attr('class', 'lbl mut').attr('x', mid + 6).attr('y', y0 + bh / 2 + 4).text(r.lang ? L('scriere și numele limbii', 'spelling and the language’s name') : L('doar scriere', 'spelling only'));
+        if (!nw) g.append('text').attr('class', 'lbl').attr('x', iw + rw - 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(rights[i]);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${esc(tName(d.t, false))}</b>` + trow(cr, L('Cuvinte scoase', 'Words removed'), fmt(d.rem)) + trow(ca, L('Cuvinte adăugate', 'Words added'), fmt(d.add)) +
+            trow(null, L(`Cuvinte în ${v1.slice(0, 4)}`, `Words in ${v1.slice(0, 4)}`), fmt(d['w' + v1.slice(0, 4)])) + trow(null, L(`Cuvinte în ${v2.slice(0, 4)}`, `Words in ${v2.slice(0, 4)}`), fmt(d['w' + v2.slice(0, 4)])) +
+            (d.units.length ? `<div class="q">${esc(sup(d.units.join(', ')))}</div>` : ''));
+      });
+      note(el, ['constitutia/<unitate>.md'], L(`${nn(c.total[v1], ['cuvânt', 'cuvinte'], [])} în 2016, ${fmt(c.total[v2])} în 2024`, `${fmt(c.total[v1])} words in 2016, ${fmt(c.total[v2])} in 2024`),
+        L(`un cuvânt este un șir de litere sau cifre; nu se numără schimbările de scriere (â, sunt, nicio), de tipar și de nume ale limbii sau al persoanelor cu dizabilități din graficul 1. Textul din 2006 avea ${fmt(c.total[v0])} de cuvinte.`,
+          `a word is a run of letters or digits; the spelling (â, sunt, nicio), typesetting, language-name and disability-wording changes of chart 1 are not counted. The 2006 text had ${fmt(c.total[v0])} words.`));
+      table(el, [L('Titlul', 'Title'), L('Scoase', 'Removed'), L('Adăugate', 'Added'), v0.slice(0, 4), v1.slice(0, 4), v2.slice(0, 4)], R.map(r => [tName(r.t, false), r.rem, r.add, r['w' + v0.slice(0, 4)], r['w' + v1.slice(0, 4)], r['w' + v2.slice(0, 4)]]));
+    }
+  };
+});
+
+// 5. from adoption to the Monitorul Oficial
+const actName = a => LANG === 'ro' ? a.name : a.kind === 'court' ? a.name.replace('HCC nr.', 'Constitutional Court judgment No.') : a.name.replace('Legea nr.', 'Law No.');
+chart('c05', el => {
+  const c = D.c05, A = c.acts, lo = A.reduce((a, b) => a.days <= b.days ? a : b), hi = A.reduce((a, b) => a.days >= b.days ? a : b);
+  return {
+    title: L(`De la adoptare la Monitorul Oficial: ${nn(A.length, ['act de modificare a Constituției', 'acte de modificare a Constituției'], [])}, publicate la o mediană de ${dec(c.median, 1)} zile`,
+      `From adoption to the Monitorul Oficial: ${A.length} acts amending the Constitution, published after a median of ${dec(c.median, 1)} days`),
+    dek: L(`Pentru fiecare lege de modificare a Constituției pe care o numesc sursele depozitului, și pentru cele două hotărâri ale Curții Constituționale dintre ele: zilele dintre adoptare și numărul Monitorului Oficial care le-a publicat. Cel mai repede a apărut ${actName(lo)}, în ${days(lo.days)}; cel mai târziu, ${actName(hi)}, în ${days(hi.days)}. Legea nr. 244/2024 poartă data referendumului din 20 octombrie 2024.`,
+      `For each law amending the Constitution that the repository’s sources name, and the two Constitutional Court judgments among them: the days between adoption and the issue of the Monitorul Oficial that published it. The fastest was ${actName(lo)}, in ${days(lo.days)}; the slowest ${actName(hi)}, in ${days(hi.days)}. Law No. 244/2024 bears the date of the referendum of 20 October 2024.`),
+    draw(el) {
+      const cl = css('--s1'), cc = css('--s4');
+      legend(el, [{ c: cl, l: L('lege', 'law') }, { c: cc, l: L('hotărâre a Curții Constituționale', 'Constitutional Court judgment') }, { c: css('--text-3'), l: L(`mediana: ${dec(c.median, 1)} zile`, `median: ${dec(c.median, 1)} days`), shape: 'dash' }]);
+      const b = barList(el, A, { label: (a, nw) => nw ? `${actName(a)} · ${dateShort(a.enacted)}` : actName(a), value: a => a.days, color: a => a.kind === 'court' ? cc : cl,
+        right: a => days(a.days), max: Math.ceil(hi.days / 5) * 5 + 2, cap: 260,
+        tip: a => `<b>${esc(actName(a))}</b>` + trow(null, L('Adoptat', 'Adopted'), dateTxt(a.enacted)) + trow(null, L('Monitorul Oficial', 'Monitorul Oficial'), `${L('nr.', 'No.')} ${esc(a.mo)} · ${dateTxt(a.published)}`) + trow(null, L('Zile', 'Days'), fmt(a.days)) });
+      const yMax = +b.svg.attr('height');
+      b.g.append('line').attr('x1', b.x(c.median)).attr('x2', b.x(c.median)).attr('y1', 0).attr('y2', yMax - 6).attr('stroke', css('--text-3')).attr('stroke-dasharray', '3 3').style('pointer-events', 'none');
+      b.g.selectAll('text').raise().style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round');   // the line passes behind the labels
+      b.g.selectAll('rect.hit').raise();
+      note(el, ['data/laws.csv (enacted, published)', 'git log -1 ' + A.find(a => a.src.startsWith('git')).src.match(/\(([0-9a-f]+)\)/)[1]], nn(A.length, ['act', 'acte'], ['act', 'acts']),
+        L('legile din 1996–2006 și HCC nr. 7/2016 sunt în data/laws.csv; actele din 2016–2024 sunt cele pe care ediția Moldpres din 2024 le enumeră în mesajul commitului ei, cu data și numărul Monitorului. HCC nr. 7/2016 a intrat în vigoare la adoptare, înainte de publicare. Cele două rectificări din 1994 nu sunt acte de modificare și nu apar.',
+          'the laws of 1996–2006 and judgment No. 7/2016 are in data/laws.csv; the acts of 2016–2024 are those the 2024 Moldpres edition lists, as given in its commit message with the date and issue of the Monitorul. Judgment No. 7/2016 took effect on adoption, before publication. The two corrections of 1994 are not amending acts and are left out.'));
+      table(el, [L('Actul', 'Act'), L('Adoptat', 'Adopted'), L('Publicat', 'Published'), L('Monitorul Oficial nr.', 'Monitorul Oficial No.'), L('Zile', 'Days')], A.map(a => [actName(a), a.enacted, a.published, a.mo, a.days]));
+    }
+  };
+});
+
+part('p2', 'II. Curtea Supremă de Justiție', 'II. The Supreme Court of Justice',
+  'Deciziile din baza de date jurisprudenta.csj.md, așa cum le are depozitul (caselaw/curtea-suprema-de-justitie/): pentru fiecare, numărul dosarului, data, colegiul și numărul de pagini; pentru o parte dintre ele și textul. Deciziile despre persoane fizice au numai metadate. Acoperirea este inegală: Colegiul civil apare doar din aprilie 2013 până în februarie 2014.',
+  'The decisions of the jurisprudenta.csj.md database as the repository holds them (caselaw/curtea-suprema-de-justitie/): for each one the case number, the date, the bench and the number of pages; for some of them the text as well. Decisions about individuals have metadata only. Coverage is uneven: the civil college appears only from April 2013 to February 2014.');
+
+// 6. what the repository holds, by database and year
+chart('c06', el => {
+  const c = D.c06, civ = c.dbs.find(d => d.db === 'col_civil'), pen = c.dbs.find(d => d.db === 'plen_penal');
+  return {
+    title: L(`${nn(c.n, ['decizie a Curții Supreme de Justiție', 'decizii ale Curții Supreme de Justiție'], [])}: ${pct(civ.n, c.n)} sunt ale Colegiului civil, ${pct(civ.y['2013'], civ.n)} dintre acestea din 2013`,
+      `${fmt(c.n)} decisions of the Supreme Court of Justice: ${pct(civ.n, c.n)} from the civil college, ${pct(civ.y['2013'], civ.n)} of those from 2013`),
+    dek: L(`Fiecare rând este o bază de date a Curții, fiecare coloană un an; numărul din celulă arată câte decizii din acel an are depozitul. Colegiul civil (${fmt(civ.n)}) și Plenul Colegiului penal (${fmt(pen.n)}, singurul cu decizii în fiecare an din 2013 până în 2017) dau ${pct(civ.n + pen.n, c.n)} din total. Bara din dreapta este totalul fiecărei baze.`,
+      `Each row is one of the Court’s databases and each column a year; the number in a cell is how many decisions of that year the repository holds. The civil college (${fmt(civ.n)}) and the plenum of the criminal college (${fmt(pen.n)}, the only one with decisions in every year from 2013 to 2017) make up ${pct(civ.n + pen.n, c.n)} of the total. The bar on the right is each database’s total.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), Y = c.years.filter(y => c.dbs.some(d => d.y[y])), rows = [...c.dbs].sort((a, b) => b.n - a.n);
+      const labs = rows.map(r => dbName(r.db, nw)), lw = Math.ceil(textW(el, labs) + 12), tw = nw ? 44 : 110;
+      const cw = Math.max(14, (w - lw - tw - 8) / Y.length), ch = nw ? 22 : 26, gap = 2;
+      const mx = d3.max(rows, r => d3.max(Object.values(r.y))), col = v => seqRamp()(0.12 + 0.88 * Math.log1p(v) / Math.log1p(mx));
+      const svg = svgIn(el, w, 20 + rows.length * (ch + gap)), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+      Y.forEach((y, j) => g.append('text').attr('class', 'lbl mut').attr('x', j * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(nw ? `’${String(y).slice(2)}` : y));
+      const xt = d3.scaleLinear().domain([0, d3.max(rows, r => r.n)]).range([0, tw - (nw ? 0 : 42)]), x0 = Y.length * cw + 8;
+      rows.forEach((r, i) => {
+        const yy = i * (ch + gap);
+        g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', yy + ch / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        Y.forEach((y, j) => {
+          const v = r.y[y] || 0;
+          g.append('rect').attr('x', j * cw + 1).attr('y', yy).attr('width', cw - 2).attr('height', ch).attr('rx', 5).attr('fill', v ? col(v) : css('--surface-2'));
+          if (v && textW(el, [fmt(v)], 'lbl') + 6 < cw) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', yy + ch / 2 + 4).attr('text-anchor', 'middle').style('fill', inkOn(col(v))).style('pointer-events', 'none').text(fmt(v));
+        });
+        if (!nw) {
+          g.append('path').attr('d', barPath(x0, yy + ch / 2 - 5, x0 + Math.max(2, xt(r.n)), 10, 3)).attr('fill', css('--s1'));
+          g.append('text').attr('class', 'lbl').attr('x', x0 + Math.max(2, xt(r.n)) + 5).attr('y', yy + ch / 2 + 4).text(fmt(r.n));
+        } else g.append('text').attr('class', 'lbl strong').attr('x', x0).attr('y', yy + ch / 2 + 4).text(fmt(r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', yy).attr('height', ch).datum(r),
+          d => `<b>${esc(dbName(d.db, false))}</b>` + Y.filter(y => d.y[y]).map(y => trow(null, y, fmt(d.y[y]))).join('') + trow(null, t('total'), fmt(d.n)) +
+            trow(null, L('Prima / ultima', 'First / last'), `${dateShort(d.first)} – ${dateShort(d.last)}`));
+      });
+      note(el, ['caselaw/curtea-suprema-de-justitie/<an>/<bază>-<id>/record.json'], nn(c.n, ['decizie', 'decizii'], ['decision', 'decisions']) + L(` (${fmt(c.records)} de înregistrări)`, ` (${fmt(c.records)} records)`),
+        L(`${fmt(c.repeats)} înregistrări repetă un PDF deja numărat (același source_sha256) și nu sunt numărate a doua oară. Anii fără decizii în depozit nu au coloană. Colegiul civil are id-urile 1–${fmt(civ.ids[1])} ale bazei de date, din care depozitul are ${fmt(civ.records)}.`,
+          `${fmt(c.repeats)} records repeat a PDF already counted (same source_sha256) and are not counted twice. Years with no decisions in the repository have no column. The civil college has ids 1–${fmt(civ.ids[1])} of the database, of which the repository holds ${fmt(civ.records)}.`));
+      table(el, [L('Baza de date', 'Database'), ...Y.map(String), t('total')], rows.map(r => [dbName(r.db, false), ...Y.map(y => r.y[y] || 0), r.n]));
+    }
+  };
+});
+
+// 7. the day of the week
+chart('c07', el => {
+  const c = D.c07, R = c.rows, civ = R.find(r => r.db === 'col_civil'), pen = R.find(r => r.db === 'plen_penal');
+  const plenMon = R.filter(r => ['hot_expl', 'avize_csj', 'plen_csj'].includes(r.db)), pm = sum(plenMon, r => r.wd[0]), pn = sum(plenMon, r => r.n);
+  return {
+    title: L(`Fiecare complet are ziua lui: ${pct(civ.wd[2], civ.n)} din deciziile Colegiului civil poartă data de miercuri, ${pct(pen.wd[3], pen.n)} din ale Plenului penal, de joi`,
+      `Each bench has its day: ${pct(civ.wd[2], civ.n)} of the civil college’s decisions are dated Wednesday, ${pct(pen.wd[3], pen.n)} of the criminal plenum’s Thursday`),
+    dek: L(`Ziua săptămânii din data fiecărei decizii, pe baze de date. Hotărârile explicative, avizele consultative și hotărârile Plenului Curții poartă în ${pct(pm, pn)} din cazuri data de luni. În dreapta: în câte zile diferite s-au dat deciziile și cele mai multe decizii purtând aceeași dată.`,
+      `The day of the week of each decision’s date, by database. The explanatory decisions, advisory opinions and decisions of the full Plenum are dated Monday in ${pct(pm, pn)} of cases. On the right: on how many different days the decisions were given, and the most decisions bearing a single date.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), ramp = seqRamp(), rows = [...R].sort((a, b) => b.n - a.n);
+      const labs = rows.map(r => dbName(r.db, nw)), rights = rows.map(r => nw ? `${fmt(r.days)} · ${fmt(r.max)}` : L(`${nn(r.days, ['zi', 'zile'], [])} · max. ${fmt(r.max)}`, `${nn(r.days, [], ['day', 'days'])} · max ${fmt(r.max)}`));
+      const lw = Math.ceil(textW(el, labs) + 12), rw = Math.ceil(textW(el, rights, 'lbl') + 14);
+      const cw = Math.min(64, (w - lw - rw) / 7), ch = nw ? 22 : 26, gap = 2;
+      const svg = svgIn(el, w, 22 + rows.length * (ch + gap)), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+      DOW2[LANG].forEach((d, j) => g.append('text').attr('class', 'lbl mut').attr('x', j * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(nw ? d : Cap(DOW[LANG][j])));
+      g.append('text').attr('class', 'lbl mut').attr('x', 7 * cw + 10).attr('y', -6).text(nw ? L('zile · max.', 'days · max') : L('zile cu decizii · cele mai multe într-o zi', 'days with decisions · most in one day'));
+      rows.forEach((r, i) => {
+        const yy = i * (ch + gap);
+        g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', yy + ch / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        r.wd.forEach((v, j) => {
+          const s = v / r.n, colr = v ? ramp(0.1 + 0.9 * s) : css('--surface-2');
+          g.append('rect').attr('x', j * cw + 1).attr('y', yy).attr('width', cw - 2).attr('height', ch).attr('rx', 5).attr('fill', colr);
+          if (v && cw > 30) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', yy + ch / 2 + 4).attr('text-anchor', 'middle').style('fill', inkOn(colr)).style('pointer-events', 'none').text(s >= 0.995 ? pv(100) : s < 0.005 ? '<1' : dec(100 * s, 0));
+        });
+        g.append('text').attr('class', 'lbl').attr('x', 7 * cw + 10).attr('y', yy + ch / 2 + 4).text(rights[i]);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', yy).attr('height', ch).datum(r),
+          d => `<b>${esc(dbName(d.db, false))}</b>` + d.wd.map((v, j) => v ? trow(null, Cap(DOW[LANG][j]), `${fmt(v)} · ${pct(v, d.n)}`) : '').join('') +
+            trow(null, L('Zile cu decizii', 'Days with decisions'), fmt(d.days)) + trow(null, L('Cele mai multe într-o zi', 'Most in one day'), `${fmt(d.max)} (${dateShort(d.maxday)})`));
+      });
+      note(el, ['caselaw/curtea-suprema-de-justitie/…/record.json (decision_date)'], nn(sum(R, r => r.n), ['decizie', 'decizii'], ['decision', 'decisions']),
+        L('data este cea din antetul PDF-ului oficial (decision_date); numerele din celule sunt procente din deciziile rândului. Ziua din dată nu spune când a fost publicată decizia.',
+          'the date is the one in the heading of the official PDF (decision_date); the numbers in the cells are percentages of the row’s decisions. The date does not say when a decision was published.'));
+      table(el, [L('Baza de date', 'Database'), ...DOW[LANG].map(Cap), L('Zile', 'Days'), L('Max. într-o zi', 'Max in a day')], rows.map(r => [dbName(r.db, false), ...r.wd, r.days, r.max]));
+    }
+  };
+});
+
+// 8. the civil college, day by day
+chart('c08', el => {
+  const c = D.c08, ds = Object.keys(c.days).sort(), tot = sum(Object.values(c.days)), wed = sum(ds.filter(d => PD(d).getDay() === 3), d => c.days[d]);
+  const [mxd, mxn] = c.max, aug = c.months['2013-08'] || 0, sept = c.months['2013-09'] || 0, may = c.months['2013-05'] || 0;
+  return {
+    title: L(`Colegiul civil zi de zi: aproape numai miercurea, cu până la ${nn(mxn, ['decizie', 'decizii'], [])} într-o zi (${dateTxt(mxd)})`,
+      `The civil college day by day: almost only on Wednesdays, with up to ${fmt(mxn)} decisions in a day (${dateTxt(mxd)})`),
+    dek: L(`Fiecare pătrățel este o zi, fiecare coloană o săptămână; culoarea arată câte decizii ale Colegiului civil, comercial și de contencios administrativ poartă acea dată. ${pct(wed, tot)} dintre ele cad miercurea. În august 2013 colegiul a dat ${nn(aug, ['decizie', 'decizii'], [])}, în mai ${fmt(may)}, în septembrie ${fmt(sept)}. Între sfârșitul lui octombrie 2013 și mijlocul lui ianuarie 2014 depozitul nu are aproape nicio decizie a colegiului (hașurat): îi lipsesc id-urile ${fmt(c.holes[0].from_id)}–${fmt(c.holes[c.holes.length - 1].to_id)} ale bazei de date.`,
+      `Each small square is a day and each column a week; the colour shows how many decisions of the civil, commercial and administrative college bear that date. ${pct(wed, tot)} of them fall on a Wednesday. In August 2013 the college gave ${fmt(aug)} decisions, in May ${fmt(may)} and in September ${fmt(sept)}. Between late October 2013 and mid-January 2014 the repository has almost no decisions of the college (hatched): it lacks ids ${fmt(c.holes[0].from_id)}–${fmt(c.holes[c.holes.length - 1].to_id)} of the database.`),
+    draw(el) {
+      const ramp = seqRamp(), BIN = [1, 10, 50, 100, 150], bcol = i => ramp(0.2 + 0.2 * i);
+      const binOf = v => v >= 150 ? 4 : v >= 100 ? 3 : v >= 50 ? 2 : v >= 10 ? 1 : 0;
+      const BN = [L('1–9 decizii', '1–9 decisions'), '10–49', '50–99', '100–149', L('150 sau mai multe', '150 or more')];
+      legend(el, BN.map((l, i) => ({ c: bcol(i), l })).concat([{ c: css('--surface-2'), l: L('nicio decizie', 'no decision') }, { c: '', l: L('id-uri lipsă din depozit', 'ids missing from the repository'), shape: 'hatch' }]));
+      const w = W(el), nw = narrow(w);
+      const start = d3.timeMonday.floor(PD('2013-04-22')), end = d3.timeMonday.ceil(PD('2014-02-09'));
+      const weeks = d3.timeMonday.range(start, end), gapA = PD(c.gap[0]), gapB = PD(c.gap[1]);
+      const halves = nw ? [weeks.slice(0, Math.ceil(weeks.length / 2)), weeks.slice(Math.ceil(weeks.length / 2))] : [weeks];
+      const lw = Math.ceil(textW(el, DOW2[LANG], 'lbl') + 8);
+      const cs = Math.min(18, Math.floor((w - lw) / d3.max(halves, h => h.length)) - 2), step = cs + 2, ph = 7 * step + 22;
+      const svg = svgIn(el, w, halves.length * (ph + 8)), pat = hatch(svg);
+      halves.forEach((wk, hi) => {
+        const g = svg.append('g').attr('transform', `translate(${lw},${hi * (ph + 8) + 18})`);
+        [0, 2, 4].forEach(d => g.append('text').attr('class', 'lbl mut').attr('x', -6).attr('y', d * step + cs / 2 + 4).attr('text-anchor', 'end').text(DOW2[LANG][d]));
+        let labEnd = -1e9;
+        wk.forEach((mon, j) => {
+          // a month's name over the first week that begins in it (with the year in January and at the start), if it has room
+          const first = j === 0 || mon.getMonth() !== d3.timeDay.offset(mon, -7).getMonth();
+          if (first) { const lab = MON[LANG][mon.getMonth()] + (mon.getMonth() === 0 || j === 0 ? ' ' + mon.getFullYear() : ''), tw = textW(el, [lab], 'lbl');
+            if (j * step > labEnd + 6 && j * step + tw <= wk.length * step) { g.append('text').attr('class', 'lbl mut').attr('x', j * step).attr('y', -6).text(lab); labEnd = j * step + tw; } }
+          for (let d = 0; d < 7; d++) {
+            const day = d3.timeDay.offset(mon, d), key = d3.timeFormat('%Y-%m-%d')(day), v = c.days[key] || 0;
+            const inGap = day > gapA && day < gapB;
+            const r = g.append('rect').attr('x', j * step).attr('y', d * step).attr('width', cs).attr('height', cs).attr('rx', 3).attr('fill', v ? bcol(binOf(v)) : inGap ? pat : css('--surface-2'));
+            if (v) bindTip(r.datum({ key, v }), q => `<b>${Cap(DOW[LANG][(PD(q.key).getDay() + 6) % 7])}, ${dateTxt(q.key)}</b>` + trow(null, L('Decizii', 'Decisions'), fmt(q.v)));
+          }
+        });
+      });
+      note(el, ['caselaw/curtea-suprema-de-justitie/<an>/col-civil-<id>/record.json'], nn(tot, ['decizie', 'decizii'], ['decision', 'decisions']) + L(` din ${fmt(ds.length)} de zile`, ` on ${fmt(ds.length)} days`),
+        L(`id-urile bazei de date cresc odată cu data; golul este acolo unde lipsesc peste 100 de id-uri consecutive (ultima zi dinaintea lui: ${dateTxt(c.gap[0])}, prima de după: ${dateTxt(c.gap[1])}). Pe 27 noiembrie 2013 depozitul are totuși câteva decizii. ${nn(c.outside.length, ['decizie', 'decizii'], [])} din alți ani (${c.outside.map(o => o[0].slice(0, 4)).join(', ')}) nu sunt în calendar.`,
+          `the database’s ids grow with the date; the gap is where over 100 consecutive ids are missing (the last day before it: ${dateTxt(c.gap[0])}, the first after it: ${dateTxt(c.gap[1])}). The repository does have a few decisions of 27 November 2013. ${fmt(c.outside.length)} decisions from other years (${c.outside.map(o => o[0].slice(0, 4)).join(', ')}) are not in the calendar.`));
+      table(el, [L('Luna', 'Month'), L('Decizii', 'Decisions'), L('Zile cu decizii', 'Days with decisions')], Object.keys(c.months).map(m => [`${MON[LANG][+m.slice(5) - 1]} ${m.slice(0, 4)}`, c.months[m], ds.filter(d => d.startsWith(m)).length]));
+    }
+  };
+});
+
+// 9. what the civil college hears, from the case numbers
+const FAM = { ra: ['Recursuri împotriva hotărârilor și deciziilor (ra)', 'Appeals against judgments and decisions (ra)', 'Recursuri vs. hotărâri și decizii', 'Appeals vs judgments, decisions'],
+  r: ['Recursuri împotriva încheierilor (r, rc)', 'Appeals against interlocutory rulings (r, rc)', 'Recursuri vs. încheieri', 'Appeals vs rulings'],
+  rh: ['Cereri de revizuire (rh, rhc)', 'Requests for revision (rh, rhc)', 'Revizuiri', 'Revisions'], ri: ['Insolvabilitate (ri)', 'Insolvency (ri)', 'Insolvabilitate', 'Insolvency'],
+  other: ['Alte coduri sau fără număr', 'Other codes or no number', 'Altele', 'Other'] };
+chart('c09', el => {
+  const c = D.c09, n = c.n, F = ['ra', 'r', 'rh', 'ri', 'other'];
+  const rows = F.map(f => { const o = { f }; ['2', '3', '-'].forEach(b => { o[b] = sum(c.rows.filter(r => r.f === f && r.br === b), r => r.n); }); o.tot = o['2'] + o['3'] + o['-']; return o; });
+  const ra = rows[0], adm = sum(rows, r => r['3']), ev = c.evid.find(e => e.br === '3' && e.f === 'ra');
+  return {
+    title: L(`Ce judecă Colegiul civil: ${pct(ra.tot, n)} din dosare sunt recursuri împotriva hotărârilor și deciziilor`, `What the civil college hears: ${pct(ra.tot, n)} of its cases are appeals against judgments and decisions`),
+    dek: L(`Numărul dosarului spune ce fel de cauză este: cifra din față arată materia (2 pentru civil și comercial, 3 pentru contencios administrativ: ${pct(ev.admin, ev.n)} din textele publicate ale dosarelor 3ra privesc un act administrativ), iar literele, procedura (ra: recurs împotriva unei hotărâri sau decizii; r: recurs împotriva unei încheieri; rh: cerere de revizuire; ri: insolvabilitate). Contenciosul administrativ are ${pct(adm, n)} din dosare.`,
+      `The case number says what kind of case it is: the first digit gives the field (2 for civil and commercial, 3 for administrative litigation: ${pct(ev.admin, ev.n)} of the published texts of 3ra cases concern an administrative act), and the letters the procedure (ra: appeal against a judgment or decision; r: appeal against an interlocutory ruling; rh: request for revision; ri: insolvency). Administrative litigation is ${pct(adm, n)} of the cases.`),
+    draw(el) {
+      const cols = [css('--s1'), css('--s4'), css('--muted-mark')], names = [L('civil și comercial (cifra 2)', 'civil and commercial (digit 2)'), L('contencios administrativ (cifra 3)', 'administrative litigation (digit 3)'), L('fără cifră', 'no digit')];
+      legend(el, cols.map((cc, i) => ({ c: cc, l: names[i] })));
+      splitBars(el, rows, ['2', '3', '-'], cols, names, { label: (r, nw) => L(...(nw ? FAM[r.f].slice(2) : FAM[r.f].slice(0, 2))), right: r => `${fmt(r.tot)} · ${pct(r.tot, n)}`, rowH: 30 });
+      // the share of each family's published texts that says what the letters mean (the table under the chart has every code)
+      const evs = (f, k) => { const es = c.evid.filter(e => e.f === f && e.br); return pct(sum(es, e => e[k] || 0), sum(es, e => e.n)); };
+      note(el, ['caselaw/curtea-suprema-de-justitie/<an>/col-civil-<id>/record.json (number)', '…/text.md'], nn(n, ['decizie', 'decizii'], ['decision', 'decisions']),
+        L(`sensul literelor este verificat pe textele publicate: ${evs('r', 'incheiere')} din textele dosarelor «r» și «rc» atacă o încheiere, ${evs('ra', 'decizie')} din cele «ra» o hotărâre sau o decizie; ${evs('rh', 'revizuire')} din cele «rh» sunt revizuiri, iar ${evs('ri', 'insolv')} din cele «ri» privesc insolvabilitatea (tabelul de mai jos). «Alte coduri» sunt ds, cc, ac și numerele fără litere.`,
+          `the meaning of the letters is checked against the published texts: ${evs('r', 'incheiere')} of the texts of «r» and «rc» cases challenge an interlocutory ruling and ${evs('ra', 'decizie')} of «ra» texts a judgment or decision; ${evs('rh', 'revizuire')} of «rh» texts are revisions and ${evs('ri', 'insolv')} of «ri» texts concern insolvency (table below). “Other codes” are ds, cc, ac and numbers without letters.`));
+      table(el, [L('Procedura', 'Procedure'), names[0], names[1], names[2], t('total')], rows.map(r => [L(...FAM[r.f].slice(0, 2)), r['2'], r['3'], r['-'], r.tot]));
+      const EV = ['decizie', 'incheiere', 'revizuire', 'insolv', 'admin'], EVN = { decizie: [L('«împotriva hotărârii/deciziei»', '“against the judgment/decision”')], incheiere: [L('«împotriva încheierii»', '“against the ruling”')], revizuire: [L('«revizuire»', '“revision”')], insolv: [L('«insolvabil»', '“insolvency”')], admin: [L('act administrativ', 'administrative act')] };
+      subTable(el, L('Textele publicate: ce spun ele, pe coduri', 'The published texts: what they say, by code'), [L('Codul', 'Code'), L('Texte', 'Texts'), ...EV.map(k => EVN[k][0])],
+        c.evid.filter(e => e.br && e.f !== 'other' && e.n >= 5).sort((a, b) => b.n - a.n).map(e => [`${e.br}${e.f}`, e.n, ...EV.map(k => pct(e[k] || 0, e.n))]), [0, 1, 1, 1, 1, 1, 1]);
+    }
+  };
+});
+
+// 10. length in pages
+const PB = [['1–2 pagini', '1–2 pages'], ['3–4', '3–4'], ['5–7', '5–7'], ['8–12', '8–12'], ['13 sau mai multe', '13 or more']];
+chart('c10', el => {
+  const c = D.c10, rows = [...c.rows].sort((a, b) => b.med - a.med || b.n - a.n), pp = c.rows.find(r => r.db === 'plen_penal'), il = c.rows.find(r => r.db === 'interes_lege');
+  return {
+    title: L(`Cât de lungă este o decizie a CSJ: ${nn(c.all_med, ['pagină', 'pagini'], [])} în mediană; un recurs în interesul legii, ${fmt(il.med)}`,
+      `How long a Supreme Court decision is: a median of ${fmt(c.all_med)} pages; an appeal in the interest of the law, ${fmt(il.med)}`),
+    dek: L(`Numărul de pagini al PDF-ului oficial al fiecărei decizii, pe baze de date, în cinci clase; în dreapta, mediana. Deciziile Plenului Colegiului penal sunt cele mai lungi dintre cele obișnuite: ${pct(pp.b[4], pp.n)} au 13 pagini sau mai multe. Contestațiile hotărârilor CSM și recomandările se încheie de regulă în una-două pagini.`,
+      `The number of pages of each decision’s official PDF, by database, in five classes; the median on the right. The criminal plenum’s decisions are the longest of the ordinary ones: ${pct(pp.b[4], pp.n)} run to 13 pages or more. Appeals against Superior Council of Magistracy decisions and recommendations usually end within one or two pages.`),
+    draw(el) {
+      const ramp = seqRamp(), colors = [0.2, 0.4, 0.6, 0.8, 1].map(ramp), keys = ['b0', 'b1', 'b2', 'b3', 'b4'];
+      legend(el, PB.map((l, i) => ({ c: colors[i], l: LA(l) })));
+      const R = rows.map(r => ({ ...r, b0: r.b[0], b1: r.b[1], b2: r.b[2], b3: r.b[3], b4: r.b[4] }));
+      bands(el, R, keys, colors, PB.map(LA), { label: (r, nw) => dbName(r.db, nw), right: r => L(`${dec(r.med, r.med % 1 ? 1 : 0)} p.`, `${dec(r.med, r.med % 1 ? 1 : 0)} pp`), rowH: 32,
+        tipExtra: d => trow(null, L('Mediana', 'Median'), L(`${dec(d.med, 1)} pagini`, `${dec(d.med, 1)} pages`)) + trow(null, L('Cuvinte (mediana)', 'Words (median)'), fmt(Math.round(d.words))) + trow(null, L('Cea mai lungă', 'Longest'), L(`${d.max} pagini`, `${d.max} pages`)) + trow(null, t('total'), fmt(d.n)) });
+      note(el, ['caselaw/curtea-suprema-de-justitie/…/record.json (pdf_pages, text_check)'], nn(sum(c.rows, r => r.n), ['decizie', 'decizii'], ['decision', 'decisions']),
+        L(`pagina este pagina PDF-ului oficial; în mediană o decizie are ${fmt(Math.round(c.all_words))} de cuvinte (numărate de PyMuPDF în stratul de text al PDF-ului).`, `a page is a page of the official PDF; the median decision has ${fmt(Math.round(c.all_words))} words (counted by PyMuPDF in the PDF’s text layer).`));
+      table(el, [L('Baza de date', 'Database'), ...PB.map(LA), L('Mediana (pagini)', 'Median (pages)'), L('Cuvinte (mediana)', 'Words (median)'), t('total')], rows.map(r => [dbName(r.db, false), ...r.b, r.med, Math.round(r.words), r.n]));
+    }
+  };
+});
+
+// 11. the outcome of each published decision
+const OC = { admitted: ['recurs admis (hotărârea casată)', 'appeal allowed (decision quashed)'], rejected: ['recurs respins (hotărârea menținută)', 'appeal dismissed (decision upheld)'],
+  inadmissible: ['recurs inadmisibil', 'appeal inadmissible'], other: ['altele: retrageri, corecturi, competență', 'other: withdrawals, corrections, jurisdiction'] };
+const ocCol = k => ({ admitted: css('--s1'), rejected: css('--s4'), inadmissible: css('--s7'), other: css('--muted-mark') }[k]);
+const WG = [['3ra', ['Contencios administrativ: recursuri (3ra)', 'Administrative: appeals (3ra)']], ['2ra', ['Civil și comercial: recursuri (2ra, 2rac)', 'Civil and commercial: appeals (2ra, 2rac)']],
+  ['2r', ['Recursuri împotriva încheierilor (2r, 2rc)', 'Appeals against rulings (2r, 2rc)']], ['3r', ['Contencios: încheieri (3r)', 'Administrative: rulings (3r)']],
+  ['rh', ['Cereri de revizuire (2rh, 3rh)', 'Requests for revision (2rh, 3rh)']], ['x', ['Insolvabilitate și alte coduri', 'Insolvency and other codes']]];
+const wgOf = o => o.f === 'ra' && o.br === '3' ? '3ra' : o.f === 'ra' && o.br === '2' ? '2ra' : o.f === 'r' && o.br === '2' ? '2r' : o.f === 'r' && o.br === '3' ? '3r' : o.f === 'rh' ? 'rh' : 'x';
+chart('c11', el => {
+  const c = D.c11, R = c.rows, n = R.length, cnt = k => R.filter(o => o.o === k).length;
+  const rev = R.filter(o => wgOf(o) === 'rh'), revIn = rev.filter(o => o.o === 'inadmissible').length, ra2 = R.filter(o => wgOf(o) === '2ra'), ra2In = ra2.filter(o => o.o === 'inadmissible').length;
+  const rr = gs => { const rs = R.filter(o => gs.includes(wgOf(o))); return rs.filter(o => o.o === 'rejected').length / rs.length; }, incR = rr(['2r', '3r']), incMost = incR >= rr(['3ra']) && incR >= rr(['2ra']);
+  return {
+    title: L(`Deciziile cu text ale Colegiului civil: ${pct(cnt('admitted'), n)} admit recursul, ${pct(cnt('rejected'), n)} îl resping, ${pct(cnt('inadmissible'), n)} îl declară inadmisibil`,
+      `The civil college’s decisions with text: ${pct(cnt('admitted'), n)} allow the appeal, ${pct(cnt('rejected'), n)} dismiss it, ${pct(cnt('inadmissible'), n)} declare it inadmissible`),
+    dek: L(`Fiecare pătrat este una dintre cele ${fmt(n)} decizii ale Colegiului civil al căror text este în depozit: cauze fără persoane fizice, între firme, bănci și autorități. Culoarea vine din dispozitivul deciziei («Se admite recursul…», «Se respinge recursul…», «…se consideră inadmisibil»). ${rev.length === revIn ? `Toate cele ${fmt(rev.length)} cereri de revizuire au fost declarate inadmisibile` : `${fmt(revIn)} din ${fmt(rev.length)} cereri de revizuire au fost declarate inadmisibile`}, ca și ${pct(ra2In, ra2.length)} din recursurile civile și comerciale; ${incMost ? 'cel mai des respinse sunt recursurile împotriva încheierilor' : 'recursurile împotriva încheierilor sunt respinse în'} (${pv(100 * incR)}).`,
+      `Each square is one of the ${fmt(n)} decisions of the civil college whose text is in the repository: cases with no individuals, between companies, banks and public authorities. The colour comes from the operative part (“Se admite recursul…”, the appeal is allowed; “Se respinge recursul…”, dismissed; “…se consideră inadmisibil”, inadmissible). ${rev.length === revIn ? `All ${rev.length} requests for revision were declared inadmissible` : `${revIn} of ${rev.length} requests for revision were declared inadmissible`}, as were ${pct(ra2In, ra2.length)} of civil and commercial appeals; ${incMost ? 'appeals against interlocutory rulings are dismissed most often' : 'appeals against interlocutory rulings are dismissed in'} (${pv(100 * incR)}).`),
+    draw(el) {
+      legend(el, Object.keys(OC).map(k => ({ c: ocCol(k), l: `${LA(OC[k])} (${fmt(cnt(k))})` })));
+      const box = el.append('div').attr('class', 'multi waf');
+      const panes = WG.map(() => box.append('div'));
+      WG.forEach(([gk, nm], pi) => {
+        const p = panes[pi], rs = R.filter(o => wgOf(o) === gk).sort((a, b) => Object.keys(OC).indexOf(a.o) - Object.keys(OC).indexOf(b.o));
+        p.append('h4').text(LA(nm));
+        p.append('p').text(L(`${nn(rs.length, ['decizie', 'decizii'], [])} · admise ${pct(rs.filter(o => o.o === 'admitted').length, rs.length)}`, `${nn(rs.length, [], ['decision', 'decisions'])} · ${pct(rs.filter(o => o.o === 'admitted').length, rs.length)} allowed`));
+        const w = W(p), cs = 11, gap = 2, per = Math.max(10, Math.floor((w + gap) / (cs + gap))), lines = Math.ceil(rs.length / per);
+        const svg = svgIn(p, w, lines * (cs + gap));
+        bindTip(svg.selectAll('rect').data(rs).join('rect').attr('x', (d, i) => (i % per) * (cs + gap)).attr('y', (d, i) => Math.floor(i / per) * (cs + gap)).attr('width', cs).attr('height', cs).attr('rx', 2.5).attr('fill', d => ocCol(d.o)),
+          d => `<b>${esc(d.num || L('fără număr', 'no number'))} · ${dateTxt(d.date)}</b>` + trow(ocCol(d.o), L('Dispozitiv', 'Outcome'), esc(LA(OC[d.o]))) + `<div class="q">${esc(d.op.slice(0, 110))}…</div>`);
+      });
+      note(el, ['caselaw/curtea-suprema-de-justitie/<an>/col-civil-<id>/text.md'], nn(n, ['decizie', 'decizii'], ['decision', 'decisions']),
+        L('dispozitivul este textul de după «d e c i d e:» sau «d i s p u n e:» de la sfârșitul deciziei (sau, dacă lipsește, ultima frază «Se admite / Se respinge»); retragerile recursului sunt la «altele». Textele sunt doar ale cauzelor fără persoane fizice, deci nu reprezintă toate deciziile colegiului.',
+          'the operative part is the text after “d e c i d e:” or “d i s p u n e:” at the end of the decision (or, failing that, the last “Se admite / Se respinge” sentence); withdrawn appeals are under “other”. The texts are only those of cases without individuals, so they do not represent all the college’s decisions.'));
+      table(el, [L('Grupa', 'Group'), ...Object.keys(OC).map(k => LA(OC[k])), t('total')], WG.map(([gk, nm]) => { const rs = R.filter(o => wgOf(o) === gk); return [LA(nm), ...Object.keys(OC).map(k => rs.filter(o => o.o === k).length), rs.length]; }));
+    }
+  };
+});
+
+// 12. what the decisions cite
+const CI = { cpc: ['Codul de procedură civilă', 'Code of Civil Procedure'], echr: ['Convenția sau Curtea Europeană a Drepturilor Omului', 'European Convention or Court of Human Rights'],
+  insolv: ['Legea insolvabilității', 'Insolvency Act'], lca: ['Legea contenciosului administrativ', 'Administrative Litigation Act'], cc: ['Codul civil', 'Civil Code'],
+  cf: ['Codul fiscal', 'Tax Code'], cv: ['Codul vamal', 'Customs Code'], const: ['Constituția', 'The Constitution'], cex: ['Codul de executare', 'Enforcement Code'], cm: ['Codul muncii', 'Labour Code'] };
+chart('c12', el => {
+  const c = D.c12, rows = [...c.rows].sort((a, b) => b.n - a.n), get = k => c.rows.find(r => r.k === k).n;
+  return {
+    title: L(`Ce citează Colegiul civil: Codul de procedură civilă în ${pct(get('cpc'), c.n)} din decizii, Convenția Europeană a Drepturilor Omului în ${pct(get('echr'), c.n)}`,
+      `What the civil college cites: the Code of Civil Procedure in ${pct(get('cpc'), c.n)} of decisions, the European Convention on Human Rights in ${pct(get('echr'), c.n)}`),
+    dek: L(`Partea din cele ${fmt(c.n)} decizii cu text care numesc fiecare lege sau cod; o decizie se numără o singură dată, oricâte trimiteri ar face. Convenția Europeană sau Curtea Europeană a Drepturilor Omului apare în ${nn(get('echr'), ['decizie', 'decizii'], [])}, mai des decât Codul civil (${fmt(get('cc'))}).`,
+      `The share of the ${fmt(c.n)} decisions with text that name each law or code; a decision counts once, however many references it makes. The European Convention or Court of Human Rights appears in ${fmt(get('echr'))} decisions, more often than the Civil Code (${fmt(get('cc'))}).`),
+    draw(el) {
+      barList(el, rows, { label: r => LA(CI[r.k]), value: r => r.n, max: c.n, color: r => r.k === 'echr' ? css('--s2') : css('--s1'), right: r => `${pct(r.n, c.n)} · ${fmt(r.n)}`,
+        tip: r => `<b>${esc(LA(CI[r.k]))}</b>` + trow(null, L('Decizii care o citează', 'Decisions citing it'), `${fmt(r.n)} ${L('din', 'of')} ${fmt(c.n)}`) + trow(null, t('share'), pct(r.n, c.n)) });
+      note(el, ['caselaw/curtea-suprema-de-justitie/<an>/col-civil-<id>/text.md'], nn(c.n, ['decizie', 'decizii'], ['decision', 'decisions']),
+        L('o lege este citată dacă textul îi conține numele sau prescurtarea uzuală (CPC, CF, «art. … CC»), după regulile din prep.py; Convenția se recunoaște după «Convenția Europeană», «CEDO» sau «Curtea Europeană a Drepturilor Omului».',
+          'a law is cited if the text contains its name or usual abbreviation (CPC, CF, “art. … CC”), by the rules in prep.py; the Convention is recognised by “Convenția Europeană”, “CEDO” or “Curtea Europeană a Drepturilor Omului”.'));
+      table(el, [L('Legea', 'Law'), L('Decizii', 'Decisions'), t('share')], rows.map(r => [LA(CI[r.k]), r.n, pct(r.n, c.n)]));
+    }
+  };
+});
+
+// 13. the Plenum amends its own guidance
+chart('c13', el => {
+  const c = D.c13, H = c.rows, am = H.filter(h => h.kind === 'amend' && h.od), y17 = am.filter(h => h.date.startsWith('2017')), oldest17 = y17.reduce((a, b) => a.od < b.od ? a : b);
+  const nNew = H.filter(h => h.kind === 'new').length, nRep = H.filter(h => h.kind === 'repeal').length, oldest = am.reduce((a, b) => a.od < b.od ? a : b);
+  return {
+    title: L(`Plenul CSJ își actualizează hotărârile explicative: ${nn(y17.length, ['hotărâre modificată', 'hotărâri modificate'], [])} în octombrie și decembrie 2017, cea mai veche din ${oldest17.od.slice(0, 4)}`,
+      `The Plenum updates its explanatory decisions: ${y17.length} amended in October and December 2017, the oldest from ${oldest17.od.slice(0, 4)}`),
+    dek: L(`Hotărârile explicative ale Plenului Curții Supreme de Justiție privesc aplicarea legii de către instanțe. Fiecare rând este o hotărâre explicativă modificată: cercul gol este data ei, cel plin data hotărârii care a modificat-o, majoritatea cu formula «ținând cont de modificările operate în» lege. Din cele ${fmt(H.length)} de hotărâri explicative din depozit, ${fmt(am.length)} modifică una mai veche (cea mai veche, din ${dateTxt(oldest.od)}: ${LA(EXPL[oldest.on + '|' + oldest.od] || ['', ''])}), ${fmt(nNew)} sunt noi, iar ${fmt(nRep)} abrogă hotărâri.`,
+      `The explanatory decisions of the Plenum of the Supreme Court of Justice concern how the courts apply the law. Each row is an explanatory decision that was amended: the hollow circle is its date, the filled one the date of the decision that amended it, most of them “taking account of the changes made to” the law. Of the ${H.length} explanatory decisions in the repository, ${am.length} amend an earlier one (the oldest of ${dateTxt(oldest.od)}: ${LA(EXPL[oldest.on + '|' + oldest.od] || ['', ''])}), ${nNew} are new and ${nRep} repeal decisions.`),
+    draw(el) {
+      const ca = css('--s1'), co = css('--s7');
+      legend(el, [{ c: co, l: L('data hotărârii modificate', 'date of the decision amended'), shape: 'hollow' }, { c: ca, l: L('data modificării', 'date of the amendment'), shape: 'dot' }]);
+      el.select('.legend i.hollow').style('border-color', co);
+      const rows = [...am].sort((a, b) => a.date.localeCompare(b.date) || a.od.localeCompare(b.od));
+      const w = W(el), nw = narrow(w), lab = h => LA(EXPL[h.on + '|' + h.od] || [h.subj, h.subj]);
+      const labs = rows.map(lab), lw = nw ? 0 : Math.ceil(textW(el, labs) + 14), rowH = nw ? 30 : 19, rw = Math.ceil(textW(el, [L('24 de ani', '24 years')], 'lbl') + 10);
+      const svg = svgIn(el, w, rows.length * rowH + 30), g = svg.append('g').attr('transform', `translate(${lw},6)`);
+      const iw = w - lw - rw - 8, x = d3.scaleTime().domain([new Date(1993, 0, 1), new Date(2018, 6, 1)]).range([6, iw]);
+      [1995, 2000, 2005, 2010, 2015].forEach(yv => { g.append('line').attr('x1', x(new Date(yv, 0, 1))).attr('x2', x(new Date(yv, 0, 1))).attr('y1', 0).attr('y2', rows.length * rowH).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl mut').attr('x', x(new Date(yv, 0, 1))).attr('y', rows.length * rowH + 16).attr('text-anchor', 'middle').text(yv); });
+      rows.forEach((h, i) => {
+        const cy = i * rowH + rowH - (nw ? 8 : rowH / 2), x0 = x(PD(h.od)), x1 = x(PD(h.date)), yrs = Math.round((PD(h.date) - PD(h.od)) / 31557600000);
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy - 9).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', cy + 4).attr('text-anchor', 'end').text(labs[i]);
+        g.append('line').attr('x1', x0).attr('x2', x1).attr('y1', cy).attr('y2', cy).attr('stroke', css('--muted-mark')).attr('stroke-width', 2);
+        g.append('circle').attr('cx', x0).attr('cy', cy).attr('r', 4).attr('fill', css('--surface')).attr('stroke', co).attr('stroke-width', 2);
+        g.append('circle').attr('cx', x1).attr('cy', cy).attr('r', 4.5).attr('fill', ca);
+        g.append('text').attr('class', 'lbl').attr('x', iw + 8).attr('y', cy + 4).text(L(nn(yrs, ['an', 'ani'], []), nn(yrs, [], ['year', 'years'])));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(h),
+          d => `<b>${esc(lab(d))}</b>` + trow(co, L('Hotărârea modificată', 'Decision amended'), `${L('nr.', 'No.')} ${esc(d.on)} · ${dateTxt(d.od)}`) + trow(ca, L('Modificată la', 'Amended on'), dateTxt(d.date)) + (d.subj ? `<div class="q">${esc(d.subj.slice(0, 160))}</div>` : ''));
+      });
+      note(el, ['caselaw/curtea-suprema-de-justitie/<an>/hot-expl-<id>/text.md'], nn(am.length, ['modificare', 'modificări'], ['amendment', 'amendments']) + L(` din ${fmt(H.length)} de hotărâri explicative`, ` among ${H.length} explanatory decisions`),
+        L('numărul și data hotărârii modificate sunt citite din titlul fiecărei hotărâri («De modificare și completare a Hotărârii Plenului … nr. … din …»); subiectele scurte sunt rezumate din acel titlu. O hotărâre poate fi modificată de mai multe ori (dizolvarea agenților economici: 2012 și 2017).',
+          'the number and date of the decision amended are read from the title of each decision (“De modificare și completare a Hotărârii Plenului … nr. … din …”); the short subjects summarise that title. A decision can be amended more than once (dissolution of businesses: 2012 and 2017).'));
+      table(el, [L('Subiectul', 'Subject'), L('Hotărârea modificată', 'Decision amended'), L('Modificată la', 'Amended on')], rows.map(h => [lab(h), `${L('nr.', 'No.')} ${h.on} · ${h.od}`, h.date]));
+    }
+  };
+});
+
+part('p3', 'III. Instanțele de judecată, 12–13 noiembrie 2026', 'III. The courts, 12–13 November 2026',
+  'Hotărârile publicate pe portalul instanțelor (instante.justice.md) pentru 12 și 13 noiembrie 2026 (caselaw/judecatoria-*/ și caselaw/curtea-de-apel-*/): instanța, tipul cauzei, obiectul din titlu și numărul dosarului, care se termină cu data înregistrării. Textul hotărârilor și datele părților nu sunt în depozit. Graficele descriu aceste două zile, nu un an întreg.',
+  'The judgments published on the courts’ portal (instante.justice.md) for 12 and 13 November 2026 (caselaw/judecatoria-*/ and caselaw/curtea-de-apel-*/): the court, the type of case, the subject from the title and the case number, which ends with the date of filing. The judgments’ text and the parties’ details are not in the repository. The charts describe these two days, not a whole year.');
+
+// 14. where the judgments came from
+let TOPO = null;
+const topo = () => TOPO || (TOPO = fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-50m.json').then(r => r.json()));
+chart('c14', el => {
+  const c = D.c14, C = c.courts.map(r => ({ ...r, n: r.civ + r.pen + r.con })), top = C[0], app = C.filter(r => r.lvl === 'apel');
+  return {
+    title: L(`${nn(c.n, ['hotărâre', 'hotărâri'], [])} în două zile, de la ${fmt(C.length)} instanțe: ${fmt(top.n)} de la ${top.c}`,
+      `${fmt(c.n)} judgments in two days, from ${C.length} courts: ${fmt(top.n)} from the ${COURT(top.c)}`),
+    dek: L(`Hotărârile pronunțate pe 12 și 13 noiembrie 2026 pe care le are depozitul, după instanța care le-a dat. Cercurile sunt judecătoriile, așezate în orașul al cărui nume îl poartă, cu aria proporțională cu numărul de hotărâri; lista arată toate instanțele, cu cele trei curți de apel (${nn(sum(app, r => r.n), ['hotărâre', 'hotărâri'], [])}), pe tipuri de cauze.`,
+      `The judgments delivered on 12 and 13 November 2026 that the repository holds, by the court that gave them. The circles are the district courts, placed in the town whose name they bear, with an area in proportion to the number of judgments; the list shows every court, including the three courts of appeal (${fmt(sum(app, r => r.n))} judgments), by type of case.`),
+    draw(el) {
+      const cols = [css('--s1'), css('--s4'), css('--s8')], keys = ['civ', 'con', 'pen'], names = keys.map(k => LA(TYC[k]));
+      legend(el, cols.map((cc, i) => ({ c: cc, l: names[i] })));
+      const box = el.append('div').attr('class', 'mini'), pm = box.append('div'), pl = box.append('div');
+      const w = W(pm), h = Math.round(w * 1.12), svg = svgIn(pm, w, h).style('overflow', 'hidden');   // the neighbours are cut at the frame
+      const msg = svg.append('text').attr('class', 'lbl mut').attr('x', w / 2).attr('y', h / 2).attr('text-anchor', 'middle').text(L('se încarcă harta…', 'loading the map…'));
+      topo().then(tp => {
+        const all = topojson.feature(tp, tp.objects.countries).features, md = all.find(f => f.id === '498');
+        const proj = d3.geoMercator().fitExtent([[10, 10], [w - 10, h - 10]], md), path = d3.geoPath(proj);
+        msg.remove();
+        const g = svg.append('g');
+        g.append('g').selectAll('path').data(all.filter(f => ['642', '804'].includes(f.id))).join('path').attr('d', path).attr('fill', css('--map-other')).attr('stroke', css('--line'));
+        g.append('path').attr('d', path(md)).attr('fill', css('--map-land')).attr('stroke', css('--text-3')).attr('stroke-width', 1);
+        const rr = d3.scaleSqrt().domain([0, top.n]).range([0, Math.min(34, w / 10)]);
+        const pts = C.filter(r => TOWN[r.c]).map(r => { const [x, y] = proj([TOWN[r.c][0], TOWN[r.c][1]]); return { r, x, y, rad: Math.max(3, rr(r.n)) }; }).sort((a, b) => b.rad - a.rad);
+        bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => p.x).attr('cy', p => p.y).attr('r', p => p.rad).attr('fill', css('--text-2')).attr('fill-opacity', .55).attr('stroke', css('--surface')).attr('stroke-width', 1.2),
+          p => `<b>${esc(COURT(p.r.c))}</b>` + keys.map((k, i) => p.r[k] ? trow(cols[i], names[i], fmt(p.r[k])) : '').join('') + trow(null, t('total'), fmt(p.r.n)));
+        // town labels: right of the circle, else left, else above; skipped if they would overlap
+        const placed = [];
+        pts.slice().sort((a, b) => b.r.n - a.r.n).forEach(p => {
+          const txt = `${TOWN[p.r.c][2]} ${fmt(p.r.n)}`, tw = textW(pm, [txt], 'lbl'), cand = [[p.x + p.rad + 4, p.y + 4, 'start'], [p.x - p.rad - 4, p.y + 4, 'end'], [p.x, p.y - p.rad - 5, 'middle'], [p.x, p.y + p.rad + 13, 'middle']];
+          for (const [lx, ly, an] of cand) {
+            const x0 = an === 'start' ? lx : an === 'end' ? lx - tw : lx - tw / 2, box_ = [x0 - 1, ly - 10, x0 + tw + 1, ly + 3];
+            if (box_[0] < 0 || box_[2] > w || box_[1] < 0 || box_[3] > h) continue;
+            if (placed.some(b => !(box_[2] < b[0] || box_[0] > b[2] || box_[3] < b[1] || box_[1] > b[3]))) continue;
+            if (pts.some(q => q !== p && q.x + q.rad > box_[0] && q.x - q.rad < box_[2] && q.y + q.rad > box_[1] && q.y - q.rad < box_[3])) continue;
+            placed.push(box_); halo(g, lx, ly, txt, an, 'lbl strong'); break;
+          }
+        });
+      }).catch(() => msg.text(L('harta nu s-a putut încărca', 'the map could not be loaded')));
+      const sorted = [...C].sort((a, b) => (a.lvl === 'apel') - (b.lvl === 'apel') || b.n - a.n);
+      splitBars(pl, sorted, keys, cols, names, { label: r => COURT(r.c), above: false, rowH: 23 });
+      note(el, ['caselaw/judecatoria-<oraș>/2026/<id>/record.json', 'caselaw/curtea-de-apel-<regiune>/2026/<id>/record.json'], nn(c.n, ['hotărâre', 'hotărâri'], ['judgment', 'judgments']),
+        L(`${Object.entries(c.days).sort().map(([d, n]) => `${dateTxt(d)}: ${fmt(n)}`).join('; ')}. Harta: world-atlas 50m; poziția este a orașului din numele judecătoriei, nu a unui sediu anume.`,
+          `${Object.entries(c.days).sort().map(([d, n]) => `${dateTxt(d)}: ${fmt(n)}`).join('; ')}. Map: world-atlas 50m; the position is that of the town in the court’s name, not of a particular courthouse.`));
+      table(el, [L('Instanța', 'Court'), ...names, t('total')], sorted.map(r => [COURT(r.c), r.civ, r.con, r.pen, r.n]));
+    }
+  };
+});
+
+// 15. from filing to judgment
+const AB = [['până la 30 de zile', 'up to 30 days'], ['1–3 luni', '1–3 months'], ['3–6 luni', '3–6 months'], ['6–12 luni', '6–12 months'], ['peste un an', 'over a year']];
+chart('c15', el => {
+  const c = D.c15, fc = c.rows.find(r => r.lvl === 'fond' && r.ty === 'civ'), fp = c.rows.find(r => r.lvl === 'fond' && r.ty === 'pen');
+  return {
+    title: L(`De la înregistrare la hotărâre, la judecătorii: mediana de ${days(Math.round(fc.med))} în cauzele civile, ${fmt(Math.round(fp.med))} în cele penale`,
+      `From filing to judgment at the district courts: a median of ${days(Math.round(fc.med))} in civil cases, ${fmt(Math.round(fp.med))} in criminal cases`),
+    dek: L(`Numărul fiecărui dosar se termină cu data la care a fost înregistrat la instanța care a dat hotărârea (de exemplu …-18082026, 18 august 2026). Zilele de la acea dată până la pronunțare, pe tipuri de cauze, la judecătorii și la curțile de apel, în cinci clase; în dreapta, mediana. La curțile de apel, cauzele contravenționale au stat cel mai mult: mediana de ${days(Math.round(c.rows.find(r => r.lvl === 'apel' && r.ty === 'con').med))}.`,
+      `Each case number ends with the date it was filed at the court that gave the judgment (for example …-18082026, 18 August 2026). The days from that date to the judgment, by type of case, at the district courts and the courts of appeal, in five classes; the median on the right. At the courts of appeal, contravention cases took longest: a median of ${days(Math.round(c.rows.find(r => r.lvl === 'apel' && r.ty === 'con').med))}.`),
+    draw(el) {
+      const ramp = seqRamp(), colors = [0.2, 0.4, 0.6, 0.8, 1].map(ramp), keys = ['b0', 'b1', 'b2', 'b3', 'b4'];
+      legend(el, AB.map((l, i) => ({ c: colors[i], l: LA(l) })));
+      const lvl = k => k === 'fond' ? L('Judecătorii', 'District courts') : L('Curți de apel', 'Courts of appeal');
+      const R = c.rows.map(r => ({ ...r, b0: r.b[0], b1: r.b[1], b2: r.b[2], b3: r.b[3], b4: r.b[4] }));
+      bands(el, R, keys, colors, AB.map(LA), { label: (r, nw) => `${lvl(r.lvl)} · ${LA(TY[r.ty])}`, right: r => days(Math.round(r.med)), rowH: 34,
+        tipExtra: d => trow(null, L('Mediana', 'Median'), days(Math.round(d.med))) + trow(null, L('Cel mai vechi dosar', 'Oldest case'), days(d.max)) + trow(null, t('total'), fmt(d.n)) });
+      note(el, ['caselaw/…/2026/<id>/record.json (number, decision_date)'], nn(c.n, ['hotărâre', 'hotărâri'], ['judgment', 'judgments']),
+        L(`${nn(c.unparsed, ['număr are', 'numere au'], [])} altă formă și nu este numărat. Data din număr este a înregistrării la instanța respectivă: pentru un apel sau un recurs, timpul petrecut înainte, la prima instanță, nu se vede.`,
+          `${fmt(c.unparsed)} number has another form and is not counted. The date in the number is that of filing at that court: for an appeal, the time spent before, at the first court, does not show.`));
+      table(el, [L('Instanțe · cauze', 'Courts · cases'), L('Hotărâri', 'Judgments'), ...AB.map(LA), L('Mediana (zile)', 'Median (days)'), L('Max. (zile)', 'Max (days)')], c.rows.map(r => [`${lvl(r.lvl)} · ${LA(TY[r.ty])}`, r.n, ...r.b, r.med, r.max]));
+    }
+  };
+});
+
+// 16. what was decided
+const SB = { civ: { debt: ['încasarea datoriei', 'debt recovery'], family: ['familie: divorț, întreținere, copii', 'family: divorce, maintenance, children'], admin: ['acte administrative', 'administrative acts'],
+    contract: ['contracte, bănci, leasing', 'contracts, banks, leasing'], damage: ['prejudicii', 'damages'], insolv: ['insolvabilitate, răspundere subsidiară', 'insolvency, subsidiary liability'] },
+  con: { electoral: ['coruperea electorală (art. 47¹)', 'electoral corruption (Art. 47¹)'], traffic: ['circulația rutieră', 'road traffic'], family_v: ['violența în familie', 'domestic violence'],
+    order: ['samavolnicie, nesubordonare', 'arbitrariness, disobedience'], child: ['obligații față de copii', 'duties towards children'] },
+  pen: { drunk: ['conducere în stare de ebrietate (art. 264¹)', 'drink-driving (Art. 264¹)'], family_v: ['violența în familie', 'domestic violence'], corrupt: ['corupere, trafic de influență', 'bribery, influence peddling'],
+    property: ['furt, jaf, escrocherie', 'theft, robbery, fraud'], injury: ['vătămarea integrității corporale', 'bodily harm'] } };
+const SBX = { other: ['alte obiecte', 'other subjects'], none: ['titlul nu spune obiectul', 'no subject in the title'] };
+chart('c16', el => {
+  const c = D.c16, cs = c.civ, withSubj = cs.n - (cs.c.none || 0);
+  return {
+    title: L(`Ce s-a judecat: încasarea unei datorii în ${pct(cs.c.debt, cs.n)} din cauzele civile, coruperea electorală în ${fmt(c.con.c.electoral)} din ${fmt(c.con.n)} de cauze contravenționale`,
+      `What was decided: debt recovery in ${pct(cs.c.debt, cs.n)} of civil cases, electoral corruption in ${c.con.c.electoral} of ${c.con.n} contravention cases`),
+    dek: L(`Obiectul fiecărei cauze, citit din titlul hotărârii (partea de după «–»), pe tipuri de cauze; printre cauzele civile al căror titlu spune obiectul, încasarea unei datorii este ${pct(cs.c.debt, withSubj)}. Coruperea electorală este contravenția de la art. 47¹ din Codul contravențional, iar conducerea în stare de ebrietate cu grad avansat, infracțiunea de la art. 264¹ din Codul penal, cum le numesc titlurile. Barele gri sunt obiectele pe care nicio regulă nu le recunoaște și titlurile fără obiect.`,
+      `The subject of each case, read from the judgment’s title (the part after “–”), by type of case; among civil cases whose title states the subject, debt recovery is ${pct(cs.c.debt, withSubj)}. Electoral corruption is the contravention of Art. 47¹ of the Contravention Code, and driving with a high level of alcohol the offence of Art. 264¹ of the Criminal Code, as the titles name them. Grey bars are subjects no rule recognises and titles with no subject.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'multi'), cols = { civ: css('--s1'), con: css('--s4'), pen: css('--s8') };
+      const panes = ['civ', 'con', 'pen'].map(() => box.append('div'));
+      ['civ', 'con', 'pen'].forEach((ty, pi) => {
+        const p = panes[pi], d = c[ty], ks = Object.keys(SB[ty]).sort((a, b) => (d.c[b] || 0) - (d.c[a] || 0));
+        const rows = [...ks, 'other', 'none'].map(k => ({ k, n: d.c[k] || 0 }));
+        p.append('h4').text(L(`Cauze ${LA(TY[ty])}`, `${LA(TYC[ty])} cases`));
+        p.append('p').text(nn(d.n, ['hotărâre', 'hotărâri'], ['judgment', 'judgments']));
+        barList(p, rows, { above: true, label: r => Cap(LA(SB[ty][r.k] || SBX[r.k])), value: r => r.n, max: d3.max(rows, r => r.n), color: r => SBX[r.k] ? css('--muted-mark') : cols[ty],
+          right: r => `${fmt(r.n)} · ${pct(r.n, d.n)}`, tip: r => `<b>${esc(Cap(LA(SB[ty][r.k] || SBX[r.k])))}</b>` + trow(null, L('Hotărâri', 'Judgments'), fmt(r.n)) + trow(null, t('share'), pct(r.n, d.n)) });
+      });
+      note(el, ['caselaw/…/2026/<id>/record.json (title, case_type)'], nn(sum(['civ', 'con', 'pen'], k => c[k].n), ['hotărâre', 'hotărâri'], ['judgment', 'judgments']),
+        L('regulile caută cuvinte întregi (de exemplu «încasarea datoriei», «47¹», «ebrietate») și iau prima care se potrivește; numele părților din titluri nu sunt folosite.', 'the rules look for whole words (for example “încasarea datoriei”, “47¹”, “ebrietate”) and take the first that matches; the parties’ names in the titles are not used.'));
+      table(el, [L('Tipul', 'Type'), L('Obiectul', 'Subject'), L('Hotărâri', 'Judgments')], ['civ', 'con', 'pen'].flatMap(ty => [...Object.keys(SB[ty]), 'other', 'none'].map(k => [LA(TYC[ty]), LA(SB[ty][k] || SBX[k]), c[ty].c[k] || 0])));
+    }
+  };
+});
+
+part('p4', 'IV. Consiliul Concurenței', 'IV. The Competition Council',
+  'Deciziile Plenului Consiliului Concurenței (decision/competition-council/), din 2011 până în 2026, cu text pentru majoritatea; celelalte au doar metadate, fiindcă numesc persoane fizice. Depozitul nu are decizii din anii 2019–2024.',
+  'The decisions of the Plenum of the Competition Council (decision/competition-council/), from 2011 to 2026, most with their text; the rest have metadata only, because they name individuals. The repository has no decisions from 2019–2024.');
+
+// 17. the Council's decisions by field and year
+const DOM = { aid: ['ajutor de stat', 'state aid'], merger: ['concentrări economice', 'mergers'], cartel: ['acorduri anticoncurențiale', 'anticompetitive agreements'],
+  dominance: ['abuz de poziție dominantă', 'abuse of dominance'], authority: ['acțiuni ale autorităților publice', 'acts of public authorities'], unfair: ['concurență neloială', 'unfair competition'] };
+const DK = Object.keys(DOM), domCol = () => [css('--s3'), css('--s1'), css('--s8'), css('--s7'), css('--s4'), css('--s5')];
+chart('c17', el => {
+  const c = D.c17, R = c.rows, n = R.length, cnt = k => R.filter(r => r.dom === k).length;
+  return {
+    title: L(`Consiliul Concurenței: ajutorul de stat, ${pct(cnt('aid'), n)} din decizii; concentrările economice, ${pct(cnt('merger'), n)}`,
+      `The Competition Council: state aid is ${pct(cnt('aid'), n)} of its decisions, mergers ${pct(cnt('merger'), n)}`),
+    dek: L(`Deciziile Plenului din depozit pe ani, după domeniu: ajutor de stat (Legea nr. 139/2012), concentrări economice, acorduri anticoncurențiale, abuz de poziție dominantă, acțiuni ale autorităților publice și concurență neloială. Domeniul este citit din dispozitivul deciziei (articolul de lege încălcat sau autorizarea dată); pentru deciziile fără text, din codul din numărul lor. Anii 2019–2024 lipsesc din depozit.`,
+      `The Plenum’s decisions in the repository by year and field: state aid (Law No. 139/2012), mergers, anticompetitive agreements, abuse of dominance, acts of public authorities and unfair competition. The field is read from the operative part (the article of law breached or the clearance given); for decisions without text, from the code in their number. 2019–2024 are missing from the repository.`),
+    draw(el) {
+      const cols = domCol(), Y = d3.range(2011, 2027).map(String);
+      legend(el, DK.map((k, i) => ({ c: cols[i], l: `${LA(DOM[k])} (${fmt(cnt(k))})` })).concat([{ c: '', l: L('nu sunt în depozit', 'not in the repository'), shape: 'hatch' }]));
+      const rows = Y.map(y => { const o = { y }; DK.forEach(k => { o[k] = R.filter(r => r.y === y && r.dom === k).length; }); return o; });
+      const w = W(el), nw = narrow(w), h = 280, m = { t: 14, r: 8, b: 26, l: 34 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(Y).range([0, iw]).padding(0.22), mx = d3.max(rows, r => sum(DK, k => r[k]));
+      const y = d3.scaleLinear().domain([0, mx]).nice().range([ih, 0]), pat = hatch(svg);
+      yAxis(g, y, iw, 4);
+      const ga = x('2019') - x.step() * x.paddingInner() / 2, gb = x('2024') + x.bandwidth() + x.step() * x.paddingInner() / 2;
+      g.append('rect').attr('x', ga).attr('width', gb - ga).attr('y', 0).attr('height', ih).attr('fill', pat).attr('opacity', .6);
+      halo(g, (ga + gb) / 2, ih / 2, nw ? '2019–2024' : L('2019–2024: nu sunt în depozit', '2019–2024: not in the repository'), 'middle', 'lbl mut');
+      rows.forEach(r => {
+        let acc = 0; const segs = DK.map((k, i) => ({ i, v: r[k] })).filter(s => s.v), bw = x.bandwidth(), x0 = x(r.y), op = r.y === '2026' ? .6 : 1;
+        segs.forEach((s, j) => { const y0 = y(acc), y1 = y(acc + s.v); acc += s.v; const topSeg = j === segs.length - 1;
+          g.append('path').attr('d', topSeg ? colPath(x0, y0 - (j ? 1 : 0), bw, y1) : `M${x0},${y0 - (j ? 1 : 0)}V${y1 + 1}H${x0 + bw}V${y0 - (j ? 1 : 0)}Z`).attr('fill', cols[s.i]).attr('opacity', op); });
+        if (acc) g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(acc) - 5).attr('text-anchor', 'middle').text(fmt(acc));
+        g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(nw ? `’${r.y.slice(2)}` : r.y);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${d.y}${d.y === '2026' ? ' (' + t('partial') + ')' : ''}</b>` + DK.map((k, i) => d[k] ? trow(cols[i], LA(DOM[k]), fmt(d[k])) : '').join('') + trow(null, t('total'), fmt(sum(DK, k => d[k]))));
+      });
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      note(el, ['decision/competition-council/<an>/<cod>-<nr>/record.json', '…/text.md'], nn(n, ['decizie', 'decizii'], ['decision', 'decisions']) + L(`, ${fmt(R.filter(r => r.text).length)} cu text`, `, ${R.filter(r => r.text).length} with text`),
+        L('2026 este un an incomplet (ultima decizie: octombrie 2026), desenat mai deschis. Codurile din numere (ASR, ASS, ASO, EMAS: ajutor de stat; CEP, DCE: concentrări; DA: acorduri; APD: poziție dominantă; AAP, APR: autorități; CN, CNP: concurență neloială) sunt deduse din deciziile cu text.',
+          '2026 is a partial year (the last decision: October 2026), drawn lighter. The codes in the numbers (ASR, ASS, ASO, EMAS: state aid; CEP, DCE: mergers; DA: agreements; APD: dominance; AAP, APR: authorities; CN, CNP: unfair competition) are inferred from the decisions with text.'));
+      table(el, [t('year'), ...DK.map(k => LA(DOM[k])), t('total')], rows.filter(r => sum(DK, k => r[k])).map(r => [r.y, ...DK.map(k => r[k]), sum(DK, k => r[k])]));
+    }
+  };
+});
+
+// 18. what the Council decided
+const OUT = { violation: ['încălcare constatată', 'breach found'], procedural: ['încălcare de procedură', 'procedural breach'], closed: ['investigație încetată', 'investigation closed'],
+  commitments: ['angajamente acceptate', 'commitments accepted'], complaint: ['plângere respinsă', 'complaint rejected'], cleared: ['autorizare', 'cleared'],
+  noaid: ['nu este ajutor de stat', 'not state aid'], other: ['altele', 'other'], notext: ['fără text în depozit', 'no text in the repository'] };
+const OK = Object.keys(OUT), outCol = svg => [css('--s8'), css('--s5'), css('--muted-mark'), css('--s4'), css('--s7'), css('--s3'), css('--s1'), css('--text-3'), svg ? hatch(svg) : css('--surface-2')];
+chart('c18', el => {
+  const c = D.c17, R = c.rows, inv = R.filter(r => !['aid', 'merger'].includes(r.dom)), v = inv.filter(r => r.out === 'violation').length, cl = inv.filter(r => r.out === 'closed').length, invT = inv.filter(r => r.text).length;
+  return {
+    title: L(`Investigațiile Consiliului: încălcare constatată în ${fmt(v)} din ${fmt(invT)} de decizii cu text, investigație încetată în ${fmt(cl)}`,
+      `The Council’s investigations: a breach found in ${v} of ${invT} decisions with text, the investigation closed in ${cl}`),
+    dek: L('Ce spune dispozitivul fiecărei decizii, pe domenii: încălcare constatată, încălcare de procedură (refuzul inspecției, informații neprezentate), investigație încetată fără probe suficiente, angajamente acceptate, plângere respinsă; pentru ajutorul de stat și concentrări, autorizarea sau constatarea că măsura nu este ajutor de stat. Deciziile fără text sunt hașurate.',
+      'What the operative part of each decision says, by field: breach found, procedural breach (refusing an inspection, withholding information), investigation closed without sufficient evidence, commitments accepted, complaint rejected; for state aid and mergers, clearance or a finding that the measure is not state aid. Decisions without text are hatched.'),
+    draw(el) {
+      const probe = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), cols = outCol(probe);
+      legend(el, OK.map((k, i) => ({ c: cols[i], l: LA(OUT[k]), shape: k === 'notext' ? 'hatch' : '' })));
+      const rows = DK.map(k => { const o = { k }; OK.forEach(q => { o[q] = R.filter(r => r.dom === k && r.out === q).length; }); return o; });
+      const sb = splitBars(el, rows, OK, cols, OK.map(k => LA(OUT[k])), { label: r => Cap(LA(DOM[r.k])), rowH: 30 });
+      sb.svg.node().prepend(probe.select('defs').node()); probe.remove();
+      note(el, ['decision/competition-council/<an>/<cod>-<nr>/text.md'], nn(R.length, ['decizie', 'decizii'], ['decision', 'decisions']),
+        L('dispozitivul este textul de după «decide:» (prima formulă «1. A constata…», «1. A înceta…», «1. A autoriza…»), clasificat după regulile din prep.py; o decizie care constată o încălcare și autorizează totuși concentrarea apare la «încălcare constatată».',
+          'the operative part is the text after “decide:” (the first “1. A constata…”, “1. A înceta…”, “1. A autoriza…”), classified by the rules in prep.py; a decision that finds a breach yet clears the merger is counted as “breach found”.'));
+      table(el, [L('Domeniul', 'Field'), ...OK.map(k => LA(OUT[k])), t('total')], rows.map(r => [Cap(LA(DOM[r.k])), ...OK.map(q => r[q]), sum(OK, q => r[q])]));
+    }
+  };
+});
+
+// 19. state aid: who notifies it, and in what form
+const MS = { assets: ['bunuri transmise în gestiune', 'property handed over for management'], grant: ['subvenții, alocații, finanțări', 'grants, allocations, funding'], tax: ['scutiri de taxe sau dividende', 'tax or dividend exemptions'],
+  loan: ['împrumuturi și garanții', 'loans and guarantees'], scheme: ['modificări ale unor scheme', 'changes to existing schemes'], other: ['alte forme', 'other forms'] };
+const LV = { local: ['primărie sau consiliu local', 'town hall or local council'], central: ['autoritate centrală', 'central authority'], unknown: ['nespecificat', 'not stated'] };
+chart('c19', el => {
+  const c = D.c19, R = c.rows, early = R.filter(r => r.y < '2020'), late = R.filter(r => r.y >= '2020'), ea = early.filter(r => r.lvl === 'local' && r.m === 'assets');
+  return {
+    title: L(`Ajutorul de stat: în 2015–2018, ${fmt(ea.length)} din ${fmt(early.length)} de decizii priveau bunuri date de primării întreprinderilor locale de apă și canalizare`,
+      `State aid: in 2015–2018, ${ea.length} of ${early.length} decisions concerned property handed by town halls to local water and sewerage companies`),
+    dek: L(`Deciziile cu text privind ajutorul de stat, după cine a notificat măsura (o primărie sau un consiliu local ori o autoritate centrală) și forma sprijinului. În 2015–2018 domină bunurile publice date în gestiune întreprinderilor municipale care furnizează apă și canalizare; în 2025–2026, subvențiile și schemele ministerelor și agențiilor (${fmt(late.filter(r => r.lvl === 'central').length)} din ${nn(late.length, ['decizie', 'decizii'], [])}).`,
+      `The decisions with text on state aid, by who notified the measure (a town hall or local council, or a central authority) and the form of support. In 2015–2018 public property handed over to municipal water and sewerage companies dominates; in 2025–2026, grants and schemes of ministries and agencies (${late.filter(r => r.lvl === 'central').length} of ${late.length} decisions).`),
+    draw(el) {
+      const cols = [css('--s3'), css('--s1'), css('--muted-mark')], keys = ['local', 'central', 'unknown'], names = keys.map(k => LA(LV[k]));
+      legend(el, cols.map((cc, i) => ({ c: cc, l: names[i] })));
+      const box = el.append('div').attr('class', 'mini'), panes = [box.append('div'), box.append('div')], mx = d3.max([early, late], set => d3.max(Object.keys(MS), m => set.filter(r => r.m === m).length));
+      [[early, '2015–2018'], [late, '2025–2026']].forEach(([set, lab], pi) => {
+        const p = panes[pi];
+        p.append('h4').text(lab);
+        p.append('p').text(nn(set.length, ['decizie', 'decizii'], ['decision', 'decisions']));
+        const rows = Object.keys(MS).map(m => { const o = { m }; keys.forEach(k => { o[k] = set.filter(r => r.m === m && r.lvl === k).length; }); return o; });
+        splitBars(p, rows, keys, cols, names, { label: r => Cap(LA(MS[r.m])), max: mx, rowH: 26 });
+      });
+      note(el, ['decision/competition-council/<an>/<cod>-<nr>/text.md'], nn(R.length, ['decizie', 'decizii'], ['decision', 'decisions']),
+        L(`autorul notificării este citit din formula «măsura notificată de către …» a dispozitivului; forma sprijinului, din cuvintele lui (bunuri, subvenții, scutiri, împrumuturi). Toate cele ${fmt(ea.length)} decizii din 2015–2018 cu bunuri date de primării pomenesc apa și canalizarea.`,
+          `the notifying authority is read from the operative part’s “măsura notificată de către …” (the measure notified by …); the form of support from its words (property, grants, exemptions, loans). All ${ea.length} decisions of 2015–2018 on property handed over by town halls mention water and sewerage.`));
+      table(el, [L('Perioada', 'Period'), L('Forma', 'Form'), ...names, t('total')], [[early, '2015–2018'], [late, '2025–2026']].flatMap(([set, lab]) => Object.keys(MS).map(m => [lab, LA(MS[m]), ...keys.map(k => set.filter(r => r.m === m && r.lvl === k).length), set.filter(r => r.m === m).length])));
+    }
+  };
+});
+
+part('p5', 'V. Depozitul', 'V. The repository',
+  'Toate sursele din depozit, pe aceeași axă a timpului.', 'Every source in the repository, on one time axis.');
+
+// 20. what the repository covers over time
+const LANE = { const: ['Constituția (versiuni)', 'Constitution (versions)'], csj: ['Curtea Supremă de Justiție', 'Supreme Court of Justice'], cc: ['Curtea Constituțională', 'Constitutional Court'],
+  low: ['Judecătorii și curți de apel', 'District courts and courts of appeal'], comp: ['Consiliul Concurenței', 'Competition Council'], law: ['Legi (text consolidat)', 'Laws (consolidated text)'],
+  bnm: ['Regulamente ale BNM', 'National Bank regulations'], treaty: ['Tratate', 'Treaties'] };
+const LANESRC = { const: 'constitutia/', csj: 'caselaw/curtea-suprema-de-justitie/', cc: 'caselaw/curtea-constitutionala/', low: 'caselaw/judecatoria-*/, curtea-de-apel-*/', comp: 'decision/competition-council/', law: 'law/', bnm: 'norm/bnm/', treaty: 'treaty/' };
+chart('c20', el => {
+  const c = D.c20, N = c.n, total = sum(Object.values(N)), csj13 = (c.lanes.csj['2013'] || 0) + (c.lanes.csj['2014'] || 0);
+  return {
+    title: L(`Ce acoperă depozitul în timp: ${pct(N.csj, total)} din înregistrări sunt decizii ale CSJ din 2003–2017, cele mai multe din 2013–2014`,
+      `What the repository covers over time: ${pct(N.csj, total)} of its records are Supreme Court decisions of 2003–2017, most from 2013–2014`),
+    dek: L(`Fiecare rând este o sursă din depozit, cu numărul înregistrărilor ei pe ani (fiecare rând cu scara lui); în dreapta, totalul. Constituția are trei versiuni; legile, regulamentele Băncii Naționale și tratatul sunt câteva acte în text consolidat, datate după ultima lor modificare. Deciziile CSJ din 2013–2014 sunt ${fmt(csj13)} din ${fmt(total)} de înregistrări.`,
+      `Each row is one source in the repository, with its number of records by year (each row on its own scale); the total on the right. The Constitution has three versions; the laws, the National Bank’s regulations and the treaty are a few acts in consolidated text, dated by their latest amendment. Supreme Court decisions of 2013–2014 are ${fmt(csj13)} of ${fmt(total)} records.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), K = Object.keys(LANE), Y = d3.range(2002, 2027);
+      const labs = K.map(k => LA(LANE[k])), lw = nw ? 0 : Math.ceil(textW(el, labs) + 14), rw = Math.ceil(textW(el, ['6.329'], 'lbl strong') + 12);
+      const laneH = nw ? 44 : 34, svg = svgIn(el, w, K.length * laneH + 22), g = svg.append('g').attr('transform', `translate(${lw},2)`);
+      const iw = w - lw - rw, x = d3.scaleBand().domain(Y).range([0, iw]).padding(0.18), cols = S8();
+      const lc = { const: cols[6], csj: cols[0], cc: cols[4], low: cols[3], comp: cols[2], law: cols[1], bnm: cols[5], treaty: cols[7] };
+      K.forEach((k, i) => {
+        const y0 = i * laneH + (nw ? 14 : 4), hh = laneH - (nw ? 18 : 10), v = c.lanes[k], mx = d3.max(Object.values(v)) || 1;
+        if (i) g.append('line').attr('x1', -lw).attr('x2', iw + rw).attr('y1', i * laneH).attr('y2', i * laneH).attr('stroke', css('--grid'));
+        if (nw) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', y0 - 3).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + hh / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        Y.forEach(yv => {
+          const n = v[String(yv)] || 0; if (!n) return;
+          const bh = Math.max(3, hh * Math.sqrt(n / mx));
+          bindTip(g.append('path').attr('d', colPath(x(yv), y0 + hh, x.bandwidth(), y0 + hh - bh, 2)).attr('fill', lc[k]).attr('opacity', yv === 2026 && k !== 'low' ? .6 : 1).datum({ k, yv, n }),
+            d => `<b>${esc(LA(LANE[d.k]))} · ${d.yv}</b>` + trow(lc[d.k], L('Înregistrări', 'Records'), fmt(d.n)));
+        });
+        g.append('text').attr('class', 'lbl strong').attr('x', iw + rw - 2).attr('y', y0 + hh / 2 + 4).attr('text-anchor', 'end').text(fmt(N[k]));
+      });
+      const ty = K.length * laneH + 16;
+      Y.forEach(yv => { if (yv % (nw ? 6 : 2) === 0) g.append('text').attr('class', 'lbl mut').attr('x', x(yv) + x.bandwidth() / 2).attr('y', ty).attr('text-anchor', 'middle').text(nw ? `’${String(yv).slice(2)}` : yv); });
+      note(el, ['constitutia/', 'caselaw/', 'decision/', 'law/', 'norm/', 'treaty/'], nn(total, ['înregistrare', 'înregistrări'], ['record', 'records']),
+        L('înălțimea unei coloane este rădăcina pătrată a numărului ei față de cel mai mare din rând, ca anii mici să se vadă. Data este a deciziei, a versiunii sau a ultimei modificări. Cele 3 versiuni ale Constituției cuprind efectul a 16 acte de modificare din 1996–2024 (graficul 5).',
+          'a column’s height is the square root of its count against the largest in its row, so that small years show. The date is that of the decision, the version or the latest amendment. The Constitution’s 3 versions carry the effect of 16 amending acts of 1996–2024 (chart 5).'));
+      table(el, [L('Sursa', 'Source'), L('Calea', 'Path'), L('Primul', 'First'), L('Ultimul', 'Last'), t('total')], K.map(k => [LA(LANE[k]), LANESRC[k], c.span[k] ? c.span[k][0] : '', c.span[k] ? c.span[k][1] : '', N[k]]));
+    }
+  };
+});
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Istoria git (toate commiturile)', 'Git history (every commit)'), 'git log origin/main', fmt(P.commits), L(`ultima înregistrare: ${dateTxt(P.last_record)}`, `latest record: ${dateTxt(P.last_record)}`), L('commiturile sunt datate în ziua deciziei sau a intrării în vigoare (In-force)', 'commits are dated on the day of the decision or of entry into force (In-force)')],
+    [L('Constituția', 'The Constitution'), 'constitutia/', `${fmt(P.const_units)} · ${P.const_versions.length} ${L('versiuni', 'versions')}`, P.const_versions.map(v => v.slice(0, 4)).join(', '), L('fără textul din 1994 și fără fiecare modificare la data ei', 'no 1994 text and not every amendment on its own day')],
+    [L('Curtea Supremă de Justiție', 'Supreme Court of Justice'), 'caselaw/curtea-suprema-de-justitie/', `${fmt(P.csj)} (${fmt(P.csj_text)} ${L('cu text', 'with text')})`, '2003–2017', L('parțial: Colegiul civil doar aprilie 2013 – februarie 2014', 'partial: the civil college only April 2013 – February 2014')],
+    [L('Instanțe (judecătorii, curți de apel)', 'Courts (district, appeal)'), 'caselaw/judecatoria-*/, curtea-de-apel-*/', fmt(P.low), L('12–13 noiembrie 2026', '12–13 November 2026'), L('doar metadate; două zile', 'metadata only; two days')],
+    [L('Consiliul Concurenței', 'Competition Council'), 'decision/competition-council/', `${fmt(P.comp)} (${fmt(P.comp_text)} ${L('cu text', 'with text')})`, '2011–2018, 2025–2026', L('lipsesc 2019–2024', '2019–2024 missing')],
+    [L('Curtea Constituțională', 'Constitutional Court'), 'caselaw/curtea-constitutionala/', fmt(P.cc), '2002–2026', L('patru avize la proiecte de modificare a Constituției (2002, 2023, 2024) și o hotărâre din 2026', 'four opinions on draft amendments of the Constitution (2002, 2023, 2024) and a judgment of 2026')],
+    [L('Legi, regulamente BNM, tratate', 'Laws, National Bank regulations, treaties'), 'law/, norm/bnm/, treaty/', fmt(P.laws + P.bnm + P.treaty), '2013–2024', L('câteva acte, în textul consolidat publicat', 'a few acts, in the published consolidated text')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(v)}</code>` : esc(v));
+}
+// a label drawn outside its chart is a layout bug: report it (the review script reads the console)
+function checkLeftLabels(fig) {
+  const fr = fig.node().getBoundingClientRect();
+  fig.selectAll('svg text').each(function () {
+    const r = this.getBoundingClientRect();
+    if (r.width && (r.left < fr.left - 0.5 || r.right > fr.right + 0.5)) console.warn('label outside its chart', fig.attr('id'), this.textContent);
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG;
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  d3.select('#lede').text(L(`Douăzeci de grafice desenate numai din datele acestui depozit: Constituția din 29 iulie 1994 în cele trei versiuni pe care le are (2006, 2016 și 2024), ${nn(PF.csj, ['decizie', 'decizii'], [])} ale Curții Supreme de Justiție din anii 2003–2017, ${nn(PF.low, ['hotărâre', 'hotărâri'], [])} pronunțate de instanțe pe 12 și 13 noiembrie 2026, ${nn(PF.comp, ['decizie', 'decizii'], [])} ale Consiliului Concurenței și celelalte acte pe care le cuprinde acum.`,
+    `Twenty charts drawn only from the data in this repository: the Constitution of 29 July 1994 in the three versions it holds (2006, 2016 and 2024), ${fmt(PF.csj)} decisions of the Supreme Court of Justice from 2003–2017, ${fmt(PF.low)} judgments delivered by the courts on 12 and 13 November 2026, ${fmt(PF.comp)} decisions of the Competition Council, and the other acts it now holds.`));
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const tv = [PF.commits, PF.const_units, PF.csj, PF.low, PF.comp, PF.cc + PF.laws + PF.bnm + PF.treaty];
+  const tl = L(['commituri în istorie', 'dispoziții ale Constituției, în 3 versiuni', 'decizii ale Curții Supreme de Justiție, 2003–2017', 'hotărâri ale instanțelor, 12–13 noiembrie 2026', 'decizii ale Consiliului Concurenței, 2011–2026', 'alte acte: Curtea Constituțională, legi, BNM, un tratat'],
+    ['commits in the history', 'provisions of the Constitution, in 3 versions', 'decisions of the Supreme Court of Justice, 2003–2017', 'court judgments, 12–13 November 2026', 'decisions of the Competition Council, 2011–2026', 'other acts: Constitutional Court, laws, National Bank, a treaty']);
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html((v, i) => `<b>${fmt(v)}</b><span>${tl[i]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.ro, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dro, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.ro, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    checkLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.toc || spec.title.split(/:\s/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built) + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('md-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('md-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+// labels are measured as they are drawn: draw again when the web fonts have loaded, so the measures are the fonts' own
+let ft;
+const redraw = () => { clearTimeout(ft); ft = setTimeout(() => { const y = scrollY; render(); scrollTo(0, y); }, 120); };
+const T0 = Date.now();
+if (document.fonts) { if (document.fonts.status !== 'loaded') document.fonts.ready.then(redraw); document.fonts.addEventListener('loadingdone', () => { if (Date.now() - T0 < 15000) redraw(); }); }
+</script>
+</body>
+</html>

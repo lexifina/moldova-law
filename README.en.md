@@ -85,7 +85,13 @@ No AI model wrote, translated or corrected legal text, and none runs when the hi
 
 ## Visualisations
 
-[visualisations/](visualisations/README.en.md): charts on Moldovan law, drawn from this repository. For now the folder is a placeholder; there are no charts yet.
+[visualisations/](visualisations/README.en.md): Moldovan law in 20 charts, drawn from this repository.
+
+Including:
+
+- The Constitution: what the 2024 edition changed, who elects the President, the name of the state language and how amending acts reach the Monitorul Oficial
+- The Supreme Court of Justice: each bench's sitting day, what the civil college hears and decides, the Plenum's explanatory decisions
+- The courts and the Competition Council: two days of judgments on a map, how long a case takes, state aid and investigations
 
 ## More
 

@@ -87,7 +87,13 @@ Aceasta este o traducere a versiunii în engleză ([README.en.md](README.en.md))
 
 ## Vizualizări
 
-[visualisations/](visualisations/): grafice despre dreptul Republicii Moldova, desenate din acest depozit. Deocamdată dosarul doar le păstrează locul; nu există încă grafice.
+[visualisations/](visualisations/): Dreptul Republicii Moldova în 20 de grafice, desenate din acest depozit.
+
+Printre ele:
+
+- Constituția: ce a schimbat ediția din 2024, cine alege Președintele, numele limbii de stat și drumul actelor de modificare până la Monitorul Oficial
+- Curtea Supremă de Justiție: ziua de ședință a fiecărui complet, ce judecă și ce decide Colegiul civil, hotărârile explicative ale Plenului
+- Instanțele și Consiliul Concurenței: hotărârile a două zile din 2026 pe hartă, cât durează un dosar, ajutorul de stat și investigațiile
 
 ## Mai multe
 
